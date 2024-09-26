@@ -14,9 +14,7 @@ exl-id: 063a829a-219b-4d7a-b2f5-034630557dbe
 
 Explore how AI Assistant transforms customer interactions and enhances productivity in Adobe Experience Cloud Applications and Adobe Campaign. 
 
-[![ExL LIVE September 26 2024](/help/experience-league-live/episodes/assets/WebBanner-09-26-2024.png)](https://www.youtube.com/watch?v=J48CNmcV7wc)
-
-**[Register now](https://engage.adobe.com/ExpLeagueLive-240926.html){target="_blank"}**
+[![ExL LIVE September 26 2024](/help/experience-league-live/episodes/assets/WebBanner-09-26-2024.png)](https://video.tv.adobe.com/v/3434781)
 
 **Show Details**:
 
