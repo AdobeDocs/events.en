@@ -17,7 +17,7 @@ duration: 89
 
 <img alt="Digital Experiences" src="./assets/ADX_Gems.png"/>
 
-##  Upcoming AEM GEMs webinars will be announced soon
+## Upcoming AEM GEMs webinars will be announced soon
 
 Please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/) to get notified.
 
