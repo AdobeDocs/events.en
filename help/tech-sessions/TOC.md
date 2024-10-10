@@ -10,6 +10,8 @@ user-guide-description: Experience Cloud Tech Sessions is a proactive approach t
 + 2024 {#2024}
   + Real-Time Content Data Platform {#rtcdp-office-hours-2024}
     + [Real-Time Content Data Platform Timings](2024/rtcdp-timings.md)
+  + Adobe Experience Manager {#aem-office-hours-2024}
+    + [Tracking Visitors](2024/tracking-visitors.md)
   + Adobe Marketo {#adobe-marketo-office-hours-2024}
     + [Champion Tech Sessions - May](2024/champion-office-hours.md)
 + 2023 {#2023}
