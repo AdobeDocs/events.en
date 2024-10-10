@@ -49,9 +49,9 @@ If interested to join, please register [**here**](https://adobe.ly/4g6TYck).
 
 ## Previous AEM GEMs webinar
 
-Our latest AEM GEMs webinar on **Unlocking the Power of AEM Sites - Master the Content Management APIs** has been conducted on *October 9th, 2024*. 
+Our latest AEM GEMs webinar on **Unlocking the Power of AEM Sites - Master the Content Management APIs** has been conducted on *October 9th, 2024*.
 The **recording** can be viewed here:
-[Unlocking the Power of AEM Sites - Master the Content Management APIs](gems2024/aem-sites-and-apis.md)
+[Unlocking the Power of AEM Sites - Master the Content Management APIs](gems2024/content-management-apis.md)
 
 >[!NOTE]
 >
