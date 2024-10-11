@@ -8,7 +8,7 @@ breadcrumb-title: AEM GEMs events
 
 + [Overview](overview.md)
 + 2024 {#gems2024}
-  + [Unlocking the Power of AEM Sites: Master the Content Management APIs](gems2024/aem-sites-and-apis.md)
+  + [Unlocking the Power of AEM Sites - Master the Content Management APIs](gems2024/content-management-apis.md)
   + [What's new in Rapid Development Environments for AEM?](gems2024/rapid-development-environment-news.md)
   + [Integrating AEM Assets with Edge Delivery Services](gems2024/edge-delivery-for-aem-assets.md)
   + [Integrating Private GitHub Repositories in AEM Cloud Manager](gems2024/private-github-for-aem-cloud-manager.md)

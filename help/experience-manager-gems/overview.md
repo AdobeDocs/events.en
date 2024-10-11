@@ -17,12 +17,16 @@ duration: 89
 
 <img alt="Digital Experiences" src="./assets/ADX_Gems.png"/>
 
-## Upcoming AEM GEMs webinar - AEM Sites: Master the Content Management APIs
+## Upcoming AEM GEMs webinars will be announced soon
+
+Please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/) to get notified.
+
+<!--  ## Upcoming AEM GEMs webinar - AEM Sites: Master the Content Management APIs
 
 This webinar will be conducted on Wednesday, October 9th - 5pm CEST / 8am PDT / 8.30pm IST. Note, that only registration is required for this webinar. 
 If interested to join, please register [**here**](https://adobe.ly/4g6TYck).
 
-<!--  Remove the comment marks, and put the upcoming event in the below table
+
 
 <table style="max-width: 1214px;">
 <tr>
@@ -45,9 +49,9 @@ If interested to join, please register [**here**](https://adobe.ly/4g6TYck).
 
 ## Previous AEM GEMs webinar
 
-Our latest AEM GEMs webinar on **What's new in Rapid Development Environments for AEM?** has been conducted on *September 4th, 2024*. 
+Our latest AEM GEMs webinar on **Unlocking the Power of AEM Sites - Master the Content Management APIs** has been conducted on *October 9th, 2024*.
 The **recording** can be viewed here:
-[What's new in Rapid Development Environments for AEM?](gems2024/rapid-development-environment-news.md)
+[Unlocking the Power of AEM Sites - Master the Content Management APIs](gems2024/content-management-apis.md)
 
 >[!NOTE]
 >
