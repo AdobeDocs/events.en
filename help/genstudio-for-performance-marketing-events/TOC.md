@@ -7,4 +7,4 @@ user-guide-description: "Collection of event recordings for [!DNL GenStudio for 
 # [!DNL GenStudio for Performance Marketing Events] {#genstudio-for-performance-marketing-events}
 
 + [GenStudio for Performance Marketing Events](overview.md)
-+ [First event](./first-event.md)
++ [Scaled Content Creation with Generative AI](./adobe-marketing-gen-ai.md)
