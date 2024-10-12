@@ -23,7 +23,7 @@ user-guide-description: A collection of event recordings forcused on using Adobe
   + [Experience League LIVE](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
   + [Experience Manager GEMS](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
   + [Experience Manager Release Overview](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html)
-  + [GenStudio for Performance Marketing Events](https://experienceleague.adobe.com/docs/events/gen-studio-for-performance-marketing-events/overview.html) 
+  + [GenStudio for Performance Marketing Events](https://experienceleague.adobe.com/docs/events/genstudio-for-performance-marketing-events/overview.html) 
   + [Learn from your Peers](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
   + [Marketo and Mochas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
   + [Experience Cloud Tech Sessions](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
@@ -77,7 +77,7 @@ user-guide-description: A collection of event recordings forcused on using Adobe
     + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
     + [Experience Cloud Tech Sessions](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
   + Adobe GenStudio for Performance Marketing {#agspm}
-    + [Adobe GenStudio for Performance Marketing](https://experienceleague.adobe.com/docs/events/gen-studio-for-performance-marketing-events/overview.html)
+    + [Adobe GenStudio for Performance Marketing](https://experienceleague.adobe.com/docs/events/genstudio-for-performance-marketing-events/overview.html)
   + Adobe Marketo {#am}
     + [Deep Dives](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
     + [Learn from your Peers](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)

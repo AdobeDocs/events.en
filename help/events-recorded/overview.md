@@ -357,12 +357,12 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/gen-studio-for-performance-marketing-events/overview.html" title="GenStudio for Performance Marketing Events">GenStudio for Performance Marketing Events</a>
+              <a href="https://experienceleague.adobe.com/docs/events/genstudio-for-performance-marketing-events/overview.html" title="GenStudio for Performance Marketing Events">GenStudio for Performance Marketing Events</a>
           </p>
           <p class="is-size-6">
          Discover upcoming and past webinars and events designed to help you master GenStudio for Performance Marketing.</p>
       </div>
-      <a href="https://experienceleague.adobe.com/docs/events/gen-studio-for-performance-marketing-events/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+      <a href="https://experienceleague.adobe.com/docs/events/genstudio-for-performance-marketing-events/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
       </a>
     </div>
