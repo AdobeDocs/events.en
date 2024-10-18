@@ -27,7 +27,7 @@ During this AEM GEMs webinar, we will show how you can use AEM Assets in your si
 ## Webinar Recording
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433046/)
->
+
 >[!NOTE]
 >
 >* For session specific community interactions on Experience League please visit the respective [Contextual Thread](https://adobe.ly/3LSCVfX). 
