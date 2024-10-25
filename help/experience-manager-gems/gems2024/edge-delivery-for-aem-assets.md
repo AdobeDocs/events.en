@@ -18,7 +18,7 @@ This webinar has been completed - please view the recording below.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433046/?quality=12&learn=on)
 
-** Presenters **
+**Presenters**
 
 * Satya Deep Maheshwari, Principal Scientist, Adobe
 * Ashutosh Shroti, Sr. Computer Scientist, Adobe
