@@ -20,14 +20,14 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 <table>
 <tr>
   
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-40-2024-10-24.md">
-      <img alt="Experience League LIVE Oct 24" src="episodes/assets/ep41-web-banner.png">
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-30-24.md">
+      <img alt="Experience League LIVE Oct 24" src="episodes/assets/30Oct24-webbanner.png">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-40-2024-10-24.md"><strong>Learn about how Federated Audience Composition provides a comprehensive approach to audience curation and activation with Real-Time CDP and Journey Optimizer. </strong></a>
-      <br/><em>with Alyssa Espiritu, Abhijit Ghosh, and Arthur Lacroix</em>
-      <br/><em>October 24, 2024 at 8:30 PT</em>
-      <br/><br/><a href="https://engage.adobe.com/ExpLeagueLive-241024.html">Register for this event</a>
+      <a href="episodes/exl-live-episode-40-2024-10-24.md"><strong>Learn about Content Cards, a new versatile messaging channel for Adobe Journey Optimizer designed to enhance user engagement and boost conversations across mobile and web applications. </strong></a>
+      <br/><em>with Don Huyhn and Pravin Kumar</em>
+      <br/><em>October 30, 2024 at 8:30 PT</em>
+      <br/><br/><a href="https://engage.adobe.com/ExpLeagueLive-241030.html?s_rtid=7015Y0000048hxzQAA&s_iid=&sfid=&acctid=&ecp=">Register for this event</a>
     </div>
   </td>
 </tr>
