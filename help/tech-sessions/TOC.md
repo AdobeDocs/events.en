@@ -9,6 +9,7 @@ user-guide-description: Experience Cloud Tech Sessions is a proactive approach t
 + [Experience Cloud Tech Sessions](overview.md)
 + 2024 {#2024}
   + Real-Time Content Data Platform {#rtcdp-office-hours-2024}
+    + [AI Assistant](2024/ai-assistant.md)
     + [Real-Time Content Data Platform Timings](2024/rtcdp-timings.md)
   + Adobe Experience Manager {#aem-office-hours-2024}
     + [Tracking Visitors](2024/tracking-visitors.md)

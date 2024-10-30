@@ -10,6 +10,9 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
 + 2024 {#2024}
   + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
   + [Adobe Workfront - Lean Teams](2024/workfront-lean-teams.md)
+  + [Adobe Workfront Mastery](2024/workfront-mastery.md)
+  + [AEM Authoring key concepts](2024/aem-authoring-concepts.md)
+  + [AEM Sites Efficiencies](2024/aem-sites-efficiencies.md)
   + [AEP App Services Integrations for Customer Use Cases](2024/aep-apps-services-integrations.md)
   + [AEP Use Case Planning](2024/aep-use-case-planning.md)
   + [AI-Empowered Copywriting](2024/ai-copywriting.md)
