@@ -17,6 +17,7 @@ doc-type: live event
 + 2024 {#2024}
   + [Maturity Part 1 - Laying the Foundation](2024/maturity-part1-foundation.md)
   + [Maturity Part 2 - Optimizing Your Marketo Usage](2024/optimize-marketo-usage.md)
+  + [Maturity Part 3 - Driving Growth with Reporting](2024/drive-growth-with-reporting.md)
   + [Lead Nurture Success](2024/lead-nurture-success.md)
   + [New Discover Dashboards](2024/new-discover-dashboard.md)
   + [Attribution Dashboards Recording](2024/attribution-dashboard-recording.md)
