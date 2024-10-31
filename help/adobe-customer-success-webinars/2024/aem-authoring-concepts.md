@@ -22,3 +22,38 @@ Discover how AEM offers a robust and flexible authoring environment that support
 * Collaborative capabilities
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435747/?learn=on)
+
+## Key takeaways
+
+### AEM Authoring Basics
+
+The session provided an introduction to the basics of Adobe Experience Manager (AEM) authoring, including key concepts and capabilities.
+
+### AEM Authoring Model
+
+Understanding the dual environment model of AEM, which includes the author environment (for creating, editing, and reviewing content) and the publish environment (where content is made live and accessible to end users).
+
+### Content Creation Challenges
+
+Recognition of the challenges in scaling content generation, such as the growing demand for content, the need for omnichannel content delivery, and the importance of driving ROI on content. ​
+
+### Authoring Capabilities
+
+Overview of different authoring tools within AEM,
+
+* **Page Editor** Traditional WYSIWYG editor for creating and editing web pages. ​
+* **Content Fragment Editor** For creating headless content that can be reused across different channels. ​
+* **Universal Editor** A modern UI for content creation that supports both AEM content and properly instrumented external content. ​
+* **Document-Based Authoring** Allows content creation using familiar tools like Microsoft Word or Google Docs, integrated with AEM workflows. ​
+
+### Collaborative Features
+
+AEM's collaborative capabilities include simultaneous reviews, inline reviews, project and workflow management, and task delegation to streamline content creation and review processes.
+
+### Translation Capabilities
+
+AEM supports multilingual content management through translation workflows, language copies, localization tools, and the multi-site manager for managing multiple sites and languages.
+
+### Edge Delivery Services
+
+Mention of edge delivery services as part of AEM Cloud, which enhances the content creation and publication process.
