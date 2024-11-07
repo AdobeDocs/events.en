@@ -10,13 +10,11 @@ event-guests: Sandra Hausmann, Don Huynh, Pravin Prakash Kumar
 ---
 # Unveiling Content Cards for Adobe Journey Optimizer
 
-**Revolutionize your engagement strategy with seamless, non-intrusive persistent messaging**
+Learn how to revolutionize your engagement strategy with seamless, non-intrusive persistent messaging using Content Cards in Adobe Journey Optimizer.
 
-In this session Don Huynh and Pravin Prakash Kumar introduce Content Cards, a new versatile messaging channel for Adobe Journey Optimizer designed to enhance user engagement and boost conversations across mobile and web applications. Unlike traditional push and in-app notifications, Content Cards deliver key updates, promotions, and messages seamlessly within your app or website, ensuring a non-intrusive user experience. 
+>[!VIDEO](https://video.tv.adobe.com/v/3436281/?quality=12&learn=on)
 
+**Show Details**: 
 
-![experience league live](/help/experience-league-live/assets/WebBanner-Nov-6-2024.jpg)
-
-[Register for this event](https://engage.adobe.com/ExpLeagueLive-241030.html?s_rtid=7015Y0000048hxzQAA&s_iid=&sfid=&acctid=&ecp=) 
-
+In this session Don Huynh and Pravin Prakash Kumar introduce and demo Content Cards, a versatile messaging channel for Adobe Journey Optimizer designed to enhance user engagement and boost conversations across mobile and web applications. Unlike traditional push and in-app notifications, Content Cards deliver key updates, promotions, and messages seamlessly within your app or website, ensuring a non-intrusive user experience. 
    
