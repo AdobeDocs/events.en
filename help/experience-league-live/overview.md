@@ -20,14 +20,14 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 <table>
 <tr>
   
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-30-24.md">
-      <img alt="Experience League LIVE Oct 24" src="assets/WebBanner-Nov-6-2024.jpg">
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-11-13-24.md">
+      <img alt="Experience League LIVE Oct 24" src="episodes/assets/WebBanner_nov13_2024.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-10-30-24.md"><strong>Learn about Content Cards, a new versatile messaging channel for Adobe Journey Optimizer designed to enhance user engagement and boost conversations across mobile and web applications. </strong></a>
-      <br/><em>with Don Huyhn and Pravin Kumar</em>
-      <br/><em>November 6, 2024 at 8:30 PT</em>
-      <br/><br/><a href="https://engage.adobe.com/ExpLeagueLive-241030.html?s_rtid=7015Y0000048hxzQAA&s_iid=&sfid=&acctid=&ecp=">Register for this event</a>
+      <a href="episodes/exl-live-episode-11-13-24.md"><strong>Join us for an exciting live session where Adobe product and engineering experts will give you an exciting sneak peek at our latest groundbreaking innovation - AI Assistant for Audiences, coming soon to Adobe Real-Time CDP to supercharge audience insights and actions. </strong></a>
+      <br/><em>with Shivakumar Vaithyanathan, Ali Nazer, and Horia Galatanu</em>
+      <br/><em>November 13, 2024 at 9:00 PT</em>
+      <br/><br/><a href="https://engage.adobe.com/ExpLeagueLive-241113.html">Register for this event</a>
     </div>
   </td>
 </tr>
