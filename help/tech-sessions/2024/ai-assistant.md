@@ -7,8 +7,8 @@ doc-type: Event
 duration: 2813
 last-substantial-update: 2024-10-30
 jira: KT-16367
+exl-id: 29400794-7b24-41e8-a3b5-e15337ecb62f
 ---
-
 # Jumpstart Your Productivity with AI Assistant in Adobe Experience Platform
 
 An insightful webinar, where you'll learn how to set up, get started, and explore use cases with AI Assistant to boost productivity in Real-Time CDP, Journey Optimizer, and Customer Journey Analytics.

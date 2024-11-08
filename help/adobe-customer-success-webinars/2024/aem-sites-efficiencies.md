@@ -9,8 +9,8 @@ doc-type: Event
 duration: 3452
 last-substantial-update: 2024-10-30
 jira: KT-16353
+exl-id: 55f7c1d8-7c2c-4392-894a-2aa9b3cc0e4a
 ---
-
 # AEM Sites Efficiencies: Performance optimization, Configuration, and Troubleshooting
 
 In this webinar, we’ll dive into the essentials of troubleshooting Adobe Experience Manager (AEM) Sites. Whether you're facing performance issues or dealing with complex configurations, this session will provide practical skills to maintain and optimize your AEM environment. We’ll prioritize live demos over slides, offering hands-on experience in tackling real-world challenges.​

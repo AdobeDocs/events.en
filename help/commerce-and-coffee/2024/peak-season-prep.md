@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3436
 last-substantial-update: 2024-09-24
 jira: KT-16235
+exl-id: 8dc72811-74db-485a-ac25-e2647d0848f7
 ---
-
 # Commerce & Coffee: Peak Season Preparation
 
 Join Sr. Commerce Strategy Consultant, Corey Gelato, for a session on everything you need to know to properly prepare your site for a peak season at any time of year. Corey will guide you through effective strategies to not only remain competitive but ahead of the competition. Learn how to optimize website performance, manage inventory, and proactively ramp up customer support. Corey will also cover best practices for planning effective marketing campaigns that drive conversions, fulfilling orders, and analyzing your campaigns with analytics and reporting post-peak season.

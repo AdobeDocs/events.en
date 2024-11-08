@@ -9,8 +9,8 @@ doc-type: Event
 duration: 3248
 last-substantial-update: 2024-10-30
 jira: KT-16416
+exl-id: 5966c14a-7adb-48d8-bf20-9fb4a350745f
 ---
-
 # AEM Basics Introduction to AEM Authoring key concepts and capabilities
 
 Discover how AEM offers a robust and flexible authoring environment that supports various content creation methodologies, from traditional web pages to headless CMS setups.

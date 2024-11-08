@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2477
 last-substantial-update: 2024-09-18
 jira: KT-16216
+exl-id: 81ef0921-cc8b-4355-adf4-df1772e388ae
 ---
-
 # Master complex customer journeys with Multi-Stream Engagement Programs
 
 Explore how to systematically engage and nurture customer relationships with multi-touch, multi-stream Engagement Programs at every step of their journey. Engagement programs give you the power to listen to the needs and behavior of your customers and provide them with the relevant journey and necessary content.

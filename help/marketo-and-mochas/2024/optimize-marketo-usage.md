@@ -1,6 +1,6 @@
 ---
 title: Marketo & Mochas - Maturity Part 2 - Optimizing Your Marketo Usage
-description:  insights on optimizing your Marketo usage at Part 2 of our 3-part series on Marketo Maturity. This session will begin with best practices for data management, focusing on tools like a data dictionary and System Smart Lists to enhance data normalization and record management. We'll then provide an overview of integration best practices, emphasizing both native CRM integrations and third-party plugins. Our business advisors will also share tips for program optimization to improve personalization and expand your target audiences.
+description: insights on optimizing your Marketo usage at Part 2 of our 3-part series on Marketo Maturity. This session will begin with best practices for data management, focusing on tools like a data dictionary and System Smart Lists to enhance data normalization and record management. We'll then provide an overview of integration best practices, emphasizing both native CRM integrations and third-party plugins. Our business advisors will also share tips for program optimization to improve personalization and expand your target audiences.
 solution: Marketo
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3562
 last-substantial-update: 2024-09-24
 jira: KT-16234
+exl-id: 06e58ede-e2bd-4b48-b335-f91a818246cd
 ---
-
 # Marketo & Mochas: Maturity Part 2 - Optimizing Your Marketo Usage
 
 Join Adobe's Business Advisors, Cynthia Chang and Carly Gaver, as they share insights on optimizing your Marketo usage at Part 2 of our 3-part series on Marketo Maturity. This session will begin with best practices for data management, focusing on tools like a data dictionary and System Smart Lists to enhance data normalization and record management. We'll then provide an overview of integration best practices, emphasizing both native CRM integrations and third-party plugins. Our business advisors will also share tips for program optimization to improve personalization and expand your target audiences.

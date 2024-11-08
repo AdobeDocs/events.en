@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3690
 last-substantial-update: 2024-10-10
 jira: KT-16271
+exl-id: 2314e9b0-c60b-4d74-9c41-0bbe404564a5
 ---
-
 # Tracking Visitors in the Ever-Changing Landscape of Cookies, Browsers, and Libraries
 
 Join us for an informative webinar featuring Garrett Hartley, Senior Technical Support Engineer from Adobe’s Customer Experience team. In this session, Garrett will share best practices for tracking visitors in today’s evolving landscape of cookies, browsers, and libraries.
@@ -26,4 +26,3 @@ The key takeaways from the session,
 * **Web SDK Migration** Migrating to the Adobe Experience Platform (AEP) Web SDK is necessary to stay current. Although it's not a trivial task, it is essential for maintaining a modern implementation. ​
 
 * **Augmenting Data** Consider augmenting your online data with offline channels through stitching options to reduce dependency on cookies and improve visitor tracking. ​
-

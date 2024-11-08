@@ -11,8 +11,8 @@ doc-type: Technical Video
 duration: 3325
 last-substantial-update: 2024-10-10
 jira: KT-16327
+exl-id: 9137dbbd-4e23-4a59-9f9c-d2702b56d70d
 ---
-
 # AEM GEMs - Unlocking the Power of AEM Sites: Master the Content Management APIs
 
 Ways of using AEM Sites are evolving rapidly, adding API-first patterns to traditional user interactions. Whether you're looking to streamline your operations or enhance your automation, staying ahead of such trends is crucial. Join us for an in-depth session where we explore related cutting-edge updates in AEM Sites and how they can empower your content management strategy.

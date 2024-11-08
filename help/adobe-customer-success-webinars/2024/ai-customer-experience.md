@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2453
 last-substantial-update: 2024-10-02
 jira: KT-16269
+exl-id: fe4c4ebb-9f3c-4dc3-8bc7-529296346404
 ---
-
 # RTCDP Insights: Harnessing AI for Customer Experience
 
 Explore how Adobe Real-Time Customer Data Platform (RTCDP) addresses challenges by leveraging artificial intelligence (AI) to provide market analysts with enhanced capabilities, build predictive propensity models, and optimize customer experiences through accelerated insights.

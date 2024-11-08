@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2132
 last-substantial-update: 2024-10-30
 jira: KT-16415
+exl-id: d14b344c-5b41-4e9c-bae1-02db12771b48
 ---
-
 # Workfront Mastery: Strategies for Success
 
 Empower your team with strategies for leveraging Adobe Workfront to its fullest potential. In this session, our experts will guide you through best practices that deliver value, simplify governance and drive adoption.
