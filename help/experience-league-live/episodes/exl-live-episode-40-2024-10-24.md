@@ -13,7 +13,7 @@ exl-id: bfaacf49-a7a1-48a4-b3e4-52b9346b9f1b
 
 Learn about how Federated Audience Composition provides a comprehensive approach to audience curation and activation with Real-Time CDP and Journey Optimizer. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3436457/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3436457?quality=12&learn=on)
 
 **To continue the discussion, please visit our [discussion on the Experience League Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-harmonize-audiences-in-experience/m-p/718976#M636){target="_blank"}.**
 
