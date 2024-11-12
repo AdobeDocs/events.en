@@ -22,10 +22,10 @@ An insightful webinar, where you'll learn how to set up, get started, and explor
 
 ## Webinar Agenda
 
-Overview of AI and AI assistant.
-Example prompts and a demo by Rachel.
-Discussion on trust and data usage.
-Accessing the AI assistant.
+* Overview of AI and AI assistant.
+* Example prompts and a demo.
+* Discussion on trust and data usage.
+* Accessing the AI assistant.
 
 ## Key Points
 
