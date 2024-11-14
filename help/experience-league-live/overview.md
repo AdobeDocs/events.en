@@ -20,15 +20,10 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 <table>
 <tr>
   
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-11-13-24.md">
-      <img alt="Experience League LIVE Oct 24" src="episodes/assets/WebBanner_nov13_2024.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-11-13-24.md"><strong>Join us for an exciting live session where Adobe product and engineering experts will give you an exciting sneak peek at our latest groundbreaking innovation - AI Assistant for Audiences, coming soon to Adobe Real-Time CDP to supercharge audience insights and actions. </strong></a>
-      <br/><em>with Shivakumar Vaithyanathan, Ali Nazer, and Horia Galatanu</em>
-      <br/><em>November 13, 2024 at 9:00 PT</em>
-      <br/><br/><a href="https://engage.adobe.com/ExpLeagueLive-241113.html">Register for this event</a>
-    </div>
+  <td style="vertical-align: top;">
+    Please return to this page soon for more upcoming episodes of Experience League LIVE!
+    </br>
+    Choose previous episodes from the TOC on the left side of this page.
   </td>
 </tr>
 </table> 

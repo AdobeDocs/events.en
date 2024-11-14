@@ -13,6 +13,6 @@ exl-id: 9740700f-ebc7-488a-acf3-d28eeebefe3d
 
 Join us for an exciting live session where Adobe product and engineering experts will give you an exciting sneak peek at our latest groundbreaking innovation: AI Assistant for Audiences, coming soon to Adobe Real-Time CDP to supercharge audience insights and actions. Using natural language, marketers can leverage AI Assistant for Audiences as the new addition to their team to estimate audience size, understand reasons for fluctuations, and define powerful goal-oriented audiences, unlocking more use cases and reaching audiences that matter. 
 
-[![ExL LIVE Nov 13 2024](assets/WebBanner_nov13_2024.jpg)](https://engage.adobe.com/ExpLeagueLive-241113.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3438012/?quality=12&learn=on)
 
-[**Register for this event**](https://engage.adobe.com/ExpLeagueLive-241113.html)
+[**Continue the discussion on the Experience League Community**](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/adobe-experience-league-live-introducing-ai-assistant-for/td-p/716720)
