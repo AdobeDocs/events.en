@@ -1,6 +1,6 @@
 ---
 title: Data Stream Prioritization
-description: Learn how manage data stream prioritization for campaign orchestration to supercharge your organization's ability to execute Data-Driven Personalization- Govern campaign orchestration with customer data- Understanding the importance of & best practices of data stream prioritization- Optimize marketing campaigns in real time
+description: Learn how manage data stream prioritization for campaign orchestration to supercharge your organization's ability to execute Data-Driven Personalization.
 solution: Experience Platform
 feature-set: Experience Platform
 feature: Personalization

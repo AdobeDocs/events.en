@@ -1,6 +1,6 @@
 ---
 title: Insights into Edge Network & Mobile Personalization with Adobe Solutions
-description: Understand how the Edge architecture works and how to debug implementations using AssuranceTechnical guidance on how to setup and configure the Mobile SDKHow to deliver personalized experiences with Target and AJO
+description: Understand how to enhance mobile strategies, improve user engagement, and deliver personalized experiences effectively using Adobe Solutions.
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event

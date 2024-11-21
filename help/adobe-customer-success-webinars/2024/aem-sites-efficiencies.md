@@ -1,6 +1,6 @@
 ---
 title: AEM Sites Efficiencies - Performance optimization, Configuration, and Troubleshooting
-description: essentials of troubleshooting Adobe Experience Manager (AEM) Sites. Whether you're facing performance issues or dealing with complex configurations, this session will provide practical skills to maintain and optimize your AEM environment. We’ll prioritize live demos over slides, offering hands-on experience in tackling real-world challenges.​Key Discussion Points:- Virtual host configuration & domain mapping- Performance Issues- Authorization, Identification, User Permissions
+description: This session covers essential troubleshooting skills for Adobe Experience Manager (AEM) Sites, focusing on practical, hands-on solutions for performance issues, complex configurations, and user permissions.
 solution: Experience Manager
 version: Cloud Service
 role: Admin, Developer, Leader, User

@@ -1,6 +1,6 @@
 ---
 title: Fundamentals of Workfront System and Group Admin Guardianship
-description: Learn to adequately determine your Workfront instance’s proper ratio of System Administrators to Group administrators and why letting go of a few keys to the kingdom doesn’t have to be as risky or scary as one might initially perceive. This recording will overview best practices regarding admin staffing, distributing administrative workload, maintaining data integrity and scalability in their enterprise instances while also sharing some of the effort.
+description: Discover best practices for determining the right balance of Workfront System and Group Administrators, distributing workloads, and maintaining data integrity to scale your enterprise efficiently and securely.
 solution: Workfront
 role: Admin, Developer, Leader, User
 level: Intermediate
