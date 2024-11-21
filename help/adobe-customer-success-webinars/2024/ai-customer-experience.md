@@ -1,6 +1,6 @@
 ---
 title: RTCDP Insights - Harnessing AI for Customer Experience
-description: Explore how Adobe Real-Time Customer Data Platform (RTCDP) addresses challenges by leveraging artificial intelligence (AI) to provide market analysts with enhanced capabilities, build predictive propensity models, and optimize customer experiences through accelerated insights.Key Discussion Points:- Challenge, Solution, and Benefits of Customer AI- High-Level Architecture- Customer AI Models
+description: Discover how Adobe Real-Time Customer Data Platform (RTCDP) leverages AI to enhance market analysts' capabilities, build predictive propensity models, and optimize customer experiences through accelerated insights, covering key topics like Customer AI challenges, solutions, benefits, high-level architecture, and AI models.
 solution: Real-Time Customer Data Platform
 role: Admin, Developer, Leader, User
 level: Intermediate

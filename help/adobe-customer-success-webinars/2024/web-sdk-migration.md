@@ -1,6 +1,6 @@
 ---
 title: Web SDK Migration Essentials
-description: Understand the differences in App Measurement/AT.js vs. Web SDK, how to migrate, considerations in timing the migration, options for migrating and expected data differences.Key Discussion Points - What is Web SDK? Migration Steps and Considerations Timing the Migrations Common Missteps and Pitfalls to Avoid
+description: Understand the differences in App Measurement/AT.js vs. Web SDK, how to migrate, considerations in timing the migration, options for migrating and expected data differences.
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event

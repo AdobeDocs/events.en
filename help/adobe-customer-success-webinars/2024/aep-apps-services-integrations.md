@@ -1,6 +1,6 @@
 ---
 title: Learn about AEP App Services Integrations for Customer Use Cases
-description: In this session, we'll walk you through the following:1. Introduction to AEP Blueprints (AEP Overview Architecture, AJO Architecture)2. Four integration use cases (AJO, Marketo and Target related)3. Introduction to AEP and AJO API Triggered Campaigns use case architecture
+description: This session covers an introduction to AEP Blueprints, four integration use cases involving AJO, Marketo, and Target, and the architecture of AEP and AJO API Triggered Campaigns.
 solution: Experience Platform
 role: Admin, Developer, Leader, User
 level: Intermediate

@@ -1,6 +1,6 @@
 ---
 title: Workfront Mastery - Strategies for Success
-description: Empower your team with strategies for leveraging Adobe Workfront to its fullest potential. In this session, our experts will guide you through best practices that deliver value, simplify governance and drive adoption.Key Discussion Points:Delivering value to the business - Considerations for aligning work to strategic objectivesKeys to Workfront Governance - Learn how to deliver incremental value while maturing adoptionMaximizing adoption through the optimization of the end user experience - Discover how Workfront delivers a simplified end user experience
+description: Empower your team with strategies for leveraging Adobe Workfront to its fullest potential. In this session, our experts will guide you through best practices that deliver value, simplify governance and drive adoption.
 solution: Workfront
 role: Admin, Developer, Leader, User
 level: Intermediate

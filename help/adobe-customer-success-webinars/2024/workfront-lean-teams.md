@@ -1,6 +1,6 @@
 ---
 title: Maximizing Efficiency with Adobe Workfront - Lean Teams Webinar
-description: Insightful strategies and practical approaches for organizations aiming to streamline their operations and enhance productivity through lean methodologies. Hosted by industry experts, the webinar dives into the core principles of lean thinking and its application within Adobe Workfront.Key Discussion Points - Understanding Lean Principal ​Using Workfront to Support Lean Project ManagementContinuous Learning and Adaptation
+description: Explore strategies and practical approaches for boosting productivity and streamlining operations using lean methodologies with Adobe Workfront, presented by industry experts.
 solution: Workfront
 role: Admin, Developer, Leader, User
 level: Intermediate
