@@ -1,6 +1,6 @@
 ---
 title: Commerce & Coffee - Organic Growth
-description: In this session we review some of Adobe's top strategies to help grow an eCommerce site organically. When generating Organic Growth, looking at your business's digital ecosystem as a whole is imperative. We dissect 7 ways to grow an eCommerce business organically from SEO and social media to link building and on-site optimization. Corey runs a live demonstration of Adobe Commerce features including URL rewrites, sitemap generation, canonical meta tags, meta data and more. As always we conclude the session with a live Q&A.
+description: Discover 7 strategies for driving organic eCommerce growth with Corey Gelato, including SEO, social media, and on-site optimization, plus Adobe Commerce tools like URL rewrites, sitemap generation, and metadata management.
 solution: Commerce
 topic: Commerce
 role: Admin, Leader, User

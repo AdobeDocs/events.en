@@ -17,6 +17,7 @@ doc-type: live event
 + Deep Dives in Marketo {#deep-dives-marketo}
   + [Admin Console Migration](admin-console.md)
   + [APIs](api.md)
+  + [Automating & Streamlining Campaign Operations Using the Marketo API](campaign-operations.md)
   + [Certification](certification.md)
   + [Email Nurture](email-nurture.md)
   + [Executable Campaigns](executable-campaigns.md)

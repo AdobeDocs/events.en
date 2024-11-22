@@ -1,6 +1,6 @@
 ---
 title: A Focused Approach on Communication, Requirements, and Testing in Agile SDLC
-description: Dive into streamlining e-commerce through Agile Software Development Life Cycle (SDLC) practices.  Learn Requirement Analysis and Planning, Strategies for managing bug and feature backlogs, project planning for large-scale initiatives,Tips for testing procedures applicable across various phases, ensuring the development of robust and reliable e-commerce websites, Tips for fostering effective communication. Emphasizing transparency and accountability as key drivers for successful project execution.You can access the slides here.
+description: Streamline e-commerce development with Agile SDLC practices, covering requirement analysis, backlog management, project planning, testing strategies, and fostering transparent, accountable communication for successful execution.
 solution: Commerce
 feature-set: Commerce
 feature: Best Practices

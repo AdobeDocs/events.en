@@ -1,6 +1,6 @@
 ---
 title: Unlocking Global Marketing with Marketo Engage - Adobe Champion Deep Dive - August 2024
-description: Your organization is ready to leverage Marketo Engage to support multiple languages, countries, business units and/or products and you want to start this transformation on the right track. Join for us the August Deep Dive for a comprehensive guide on the intricacies of launching, maintaining, and reporting on global marketing initiatives. We'll cover how to structure your data and instance using workspaces and partitions, how to comply with varied legal requirements across the globe, and how to support your campaigns with segmentations, snippets, dynamic content, and more.
+description: Join the August Deep Dive to unlock global marketing with Marketo Engage, covering data structuring, legal compliance, campaign support with segmentations, snippets, dynamic content, and more, with insights on optimizing workspaces and partitions for multiple brands and instances.
 solution: Marketo
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced

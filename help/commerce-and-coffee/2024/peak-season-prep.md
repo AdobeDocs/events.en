@@ -1,6 +1,6 @@
 ---
 title: Commerce & Coffee - Peak Season Preparation
-description: everything you need to know to properly prepare your site for a peak season at any time of year. effective strategies to not only remain competitive but ahead of the competition. Learn how to optimize website performance, manage inventory, and proactively ramp up customer support. Corey will also cover best practices for planning effective marketing campaigns that drive conversions, fulfilling orders, and analyzing your campaigns with analytics and reporting post-peak season.
+description: Corey Gelato's session provides strategies for eCommerce businesses to excel during peak seasons by optimizing website performance, managing inventory, enhancing customer engagement with AI tools, and leveraging post-season analytics to improve retention and loyalty.
 solution: Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced

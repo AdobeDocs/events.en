@@ -1,6 +1,6 @@
 ---
 title: Preparing for Marketo Engage on Adobe Identity
-description: An exclusive training on the upcoming Adobe Admin Console Migration. This meeting will be in a “Train the Trainer” style format so that you can take what you learn and educate your chapters on this upcoming change.
+description: Join this training session to prepare for migrating Marketo Engage subscriptions to Adobe Identity, focusing on user migration, key actions, and essential resources for administrators, with guidance on navigating the migration console and understanding changes at each milestone.
 solution: Marketo
 feature: Administration
 role: Admin, Developer, Leader, User

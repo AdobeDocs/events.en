@@ -1,6 +1,6 @@
 ---
 title: Commerce & Coffee - Mastering Ecommerce Essentials
-description: In this session, Senior Commerce Strategy Consultant, Corey Gelato, explores the essential elements of e-commerce success on Adobe Commerce. Discover how to effortlessly create tailored promotions and leverage loyalty programs for customers to drive conversions while personalizing customer experiences. We'll be providing an overview of how to optimize your Payments and Shipping with native support of payment methods and shipping carriers. Corey will also share a live demonstration of category merchandising techniques ranging from manual organization to more automated smart product assignments as well as content and customer management best practices.
+description: Corey Gelato's session covers eCommerce essentials on Adobe Commerce, highlighting strategies for personalized merchandising, loyalty programs, optimized payments and shipping, and effective marketing campaigns to drive customer engagement, retention, and conversions.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
