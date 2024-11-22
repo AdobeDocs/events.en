@@ -8,7 +8,7 @@ duration: 15
 
 Welcome to the Marketo and Mochas recordings. Using these resources combined with the Adobe Marketo [documentation](https://experienceleague.adobe.com/docs/marketo-engage.html) and [tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html), you will gain a better understanding how to use Adobe Marketo to support your business. 
 
-##2024 Recordings
+## 2024 Recordings
 
 <!-- CARDS
 
@@ -211,7 +211,7 @@ Welcome to the Marketo and Mochas recordings. Using these resources combined wit
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-##2023 Recordings
+## 2023 Recordings
 
 <!-- CARDS
 

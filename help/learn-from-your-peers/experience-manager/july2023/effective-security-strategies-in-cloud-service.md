@@ -19,10 +19,10 @@ duration: 3580
 
 Companies have increasingly shifted towards Cloud-based solutions, it's important to ensure that your digital experiences are secure and protected. Join Adobe Experience Manager Customer Champion, Rami El Gamal, as he discusses different aspects of security in AEM Cloud Service, including:
 
- * Creating users using IMS and assigning different roles and responsibilities
- * Setting up Cloud Manager Access for deployments and repository access
- * Adobe Experience Manager Access using IMS and AEM groups
- * Using Cloud Manager to secure AEM environments.
+* Creating users using IMS and assigning different roles and responsibilities
+* Setting up Cloud Manager Access for deployments and repository access
+* Adobe Experience Manager Access using IMS and AEM groups
+* Using Cloud Manager to secure AEM environments.
 
 You can access the presentation slides [here](../../assets/experience-manager/july2023/effective-security-strategies-in-cloud-service/AEM-CloudManager-Security_Webinar_July_18.pdf).
 

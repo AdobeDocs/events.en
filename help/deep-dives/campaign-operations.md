@@ -13,12 +13,12 @@ jira: KT-16520
 
 As a Marketo user one of our primary roles is to support the marketing campaigns that our marketing team runs. This means that there is a lot of repetitive work that we have to do when it comes to creating:
 
-- Email newsletters
-- Attribution tracking programs
-- Content performance tracking programs
-- Merging duplicates
-- Updating program period costs
-- Cloning programs
+* Email newsletters
+* Attribution tracking programs
+* Content performance tracking programs
+* Merging duplicates
+* Updating program period costs
+* Cloning programs
 
 In this deep dive, we are going to show you how to get started with the Marketo API and then show you how powerful it can be for automating structured workflows so that you can spend more time doing strategic work that can move the needle rather than getting repetitive strain energy from click marathons.
 
