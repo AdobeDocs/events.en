@@ -18,8 +18,8 @@ Harness all the automation capabilities with Microsoft’s low-code/no-code solu
 
 ## More details on Power Automate
 
- * The purpose of Power Automate is to provide a low-code/no-code solution that allows non-developers to create complex workflows or flows in Microsoft terms.
- * It enables users to automate tasks and processes by leveraging prebuilt connectors to work with hundreds of other systems and applications. Power Automate allows users to read and write data, start processes, and perform actions using these connectors, all through a graphical drag and drop configuration. The data is automatically exposed and available for use in subsequent triggers and actions.
- * ​Additionally, Power Automate allows users to create and use automated workflows within Adobe Acrobat Sign without the need to involve IT staff.
- * These automated workflows can increase efficiency, productivity, and reduce errors.
- * Power Automate also allows non-administrators to create workflows, providing a platform for users to automate tasks and processes by creating flows that connect different applications and services. It offers a wide range of triggers and actions that can be used to build customized workflows based on specific business needs.
+* The purpose of Power Automate is to provide a low-code/no-code solution that allows non-developers to create complexworkflows or flows in Microsoft terms.
+* It enables users to automate tasks and processes by leveraging prebuilt connectors to work with hundreds of othersystems and applications. Power Automate allows users to read and write data, start processes, and perform actions usingthese connectors, all through a graphical drag and drop configuration. The data is automatically exposed and available foruse in subsequent triggers and actions.
+* ​Additionally, Power Automate allows users to create and use automated workflows within Adobe Acrobat Sign without theneed to involve IT staff.
+* These automated workflows can increase efficiency, productivity, and reduce errors.
+* Power Automate also allows non-administrators to create workflows, providing a platform for users to automate tasks andprocesses by creating flows that connect different applications and services. It offers a wide range of triggers andactions that can be used to build customized workflows based on specific business needs.

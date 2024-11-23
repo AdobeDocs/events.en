@@ -1,6 +1,6 @@
 ---
 title: APIs
-description: learn how to harness Adobe Marketo's API, learn how to form baseline connections, utilize mountain moving extensions, and make your first API calls. Learn about webhooks vs. API, so you know what tool is best applied in your solution. Learn security best practices including minifying your permission sets. Integrate with the cloud, leverage storage, harness the power of the bulk API for import/export tasks.
+description: Join us to unlock the full potential of Adobe Marketo's API, from making your first API calls to leveraging bulk API for import/export tasks, exploring webhooks vs. API, and learning best practices for data security and cloud integration, with endless possibilities to revolutionize your marketing strategies.
 solution: Marketo Engage
 role: Admin, Architect, Developer, User
 level: Intermediate

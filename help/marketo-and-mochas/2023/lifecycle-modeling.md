@@ -1,6 +1,6 @@
 ---
 title: Customer Journey Management - Lifecycle Modeling
-description: Covers setting up your lifecycle correctly from the start, properly segmenting people in the buying journey, in-product demonstration of the lifecycle modeler and various reporting and analytics available to help analyze the effectiveness of your customer segments.
+description: Explore how transparency builds marketing credibility with Cynthia Chang and James Leedom as they share strategies for lifecycle setup, journey segmentation, and demonstrate Marketo Engage's lifecycle modeler, reporting, and analytics tools.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

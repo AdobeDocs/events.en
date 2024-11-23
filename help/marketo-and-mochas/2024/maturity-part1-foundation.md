@@ -1,6 +1,6 @@
 ---
 title: Marketo & Mochas - Maturity Part 1 - Laying the Foundation
-description: Join Adobe's Business Advisors, Cynthia Chang and Carly Gaver, as they share invaluable insights on the Marketo Maturity Curve to guide your organization's expansion of Marketo usage.
+description: Join Adobe's Business Advisors, Cynthia Chang and Carly Gaver, as they explore the Marketo Maturity Curve, offering insights on optimizing tech setups, implementing best practices, and maintaining effective documentation and platform governance, with a live demonstration of the program templates library.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

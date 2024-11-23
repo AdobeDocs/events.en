@@ -1,6 +1,6 @@
 ---
 title: Executable Campaigns - Learn how executables can drive efficiency & impact
-description: The session is tailored for Marketo admins and campaign operations professionals and focuses on understanding and deploying executable campaigns to add value to campaigns and programs, create efficiencies, and drive growth.
+description: Join Chris Willis, Courtny Edwards-Jones, and Jane Musatova in this Adobe Champion Deep Dive to learn how executable campaigns in Marketo can streamline processes, ensure data accuracy, and automate complex workflows, with practical examples and a focus on minimizing errors and backlogs.
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event

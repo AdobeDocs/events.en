@@ -1,6 +1,6 @@
 ---
 title: Marketo & Mochas - Maturity Part 2 - Optimizing Your Marketo Usage
-description: insights on optimizing your Marketo usage at Part 2 of our 3-part series on Marketo Maturity. This session will begin with best practices for data management, focusing on tools like a data dictionary and System Smart Lists to enhance data normalization and record management. We'll then provide an overview of integration best practices, emphasizing both native CRM integrations and third-party plugins. Our business advisors will also share tips for program optimization to improve personalization and expand your target audiences.
+description: Join Adobe's Business Advisors, Cynthia Chang and Carly Gaver, for Part 2 of the Marketo Maturity series, focusing on data management, CRM integrations, and campaign optimization to enhance your Marketo usage, with live Q&A.
 solution: Marketo
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced

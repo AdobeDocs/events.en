@@ -1,6 +1,6 @@
 ---
 title: Peak Season Preparation
-description: Corey Gelato takes a deep dive into peak season best practices and strategies, learn to successfully and effectively promote your goods and/or services on your site(s) and stay competitive during a peak season any time of year. Following a demonstration of features including content staging & preview, promotions, catalog and cart price rules and more, Corey answers questions during a live Q&A session.
+description: Join Corey Gelato to explore peak season strategies, including promotions, content staging, and price rules, with live demonstrations and expert tips to help your eCommerce site stay competitive year-round.
 solution: Commerce
 feature-set: Commerce
 feature: Promotions/Events, Catalog Management, Catalog Service, Checkout, Best Practices, Price Rules

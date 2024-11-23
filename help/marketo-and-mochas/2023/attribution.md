@@ -1,6 +1,6 @@
 ---
 title: Marketo and Mochas - Marketo Measure Attribution
-description: This session of Marketo & Mochas features Marketing Automation Business Advisors, Elizabeth Lundberg and Kate Colbert. In this session Liz and Kate dive into Attribution within Marketo Measure (fka Bizible). They discuss what attribution is and why it's useful, the different attribution stock models in Marketo Measure as well as best practices for choosing the right one(s) for your business. The presentation is accompanied by Q&A where Liz and Kate answer questions live from registrants and attendees.
+description: Join Elizabeth Lundberg and Kate Colbert in this Marketo & Mochas session to explore attribution in Marketo Measure, including stock models, best practices for selecting the right one, and live Q&A to enhance your marketing insights.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

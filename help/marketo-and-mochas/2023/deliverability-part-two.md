@@ -1,6 +1,6 @@
 ---
 title: Marketo and Mochas - Deliverability (Part 2)
-description: This session of Marketo & Mochas features Marketo Deliverability Manager, Sean Wirt as he reviews best practices of Deliverability, highlighting deliverability into Gmail, Apple Mail Privacy, and a recap of Shared vs Dedicated IPs. Sean runs through a lengthy in product demonstration of the Deliverability tool in [!DNL Marketo Engage] as well as how to import a seed lists, create smart lists, reports and more. The event concludes with an extended Q&A session where Sean answers questions from registrants and attendees.
+description: Explore email deliverability best practices with Marketo Deliverability Manager Sean Wirt, including Gmail strategies, Apple Mail Privacy, shared vs. dedicated IPs, and a detailed demo of Marketo Engage's Deliverability tool, seed lists, smart lists, and reports.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

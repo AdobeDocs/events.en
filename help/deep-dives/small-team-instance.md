@@ -16,4 +16,4 @@ Please join current Adobe [!DNL Marketo Engage] Champions, Darshil Shah, Jenny R
 
 >[!VIDEO](https://video.tv.adobe.com/v/3417670/?quality=12&learn=on)
 
-Click **[here](assets/small-team-instance.pdf){target="_blank"}** for the session slides.
+Download a **[pdf version](assets/small-team-instance.pdf){target="_blank"}** of session slides.

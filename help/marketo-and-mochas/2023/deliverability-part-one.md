@@ -1,6 +1,6 @@
 ---
 title: Marketo and Mochas - Deliverability (Part 1)
-description: This session of Marketo & Mochas features Marketo Deliverability Manager, Sean Wirt and Sr. Marketing Automation Business Advisor, Cynthia Chang. In this session, Sean dives into the best practices of Deliverability, highlighting the components of reputation, data quality factors, types of engagement and the pros and cons of Shared vs. Dedicated IPs. Cynthia then demonstrates how to import the Deliverability Program in [!DNL Marketo Engage]. The event concludes with a live Q&A where Sean answers questions from registrants and attendees.
+description: Join Marketo & Mochas to explore email deliverability best practices with Sean Wirt and Cynthia Chang, covering reputation management, data quality, shared vs. dedicated IPs, and a demo of the Deliverability Program in Marketo Engage.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

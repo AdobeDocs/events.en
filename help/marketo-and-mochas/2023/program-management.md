@@ -1,6 +1,6 @@
 ---
 title: Marketo and Mochas - Program Management Best Practices
-description: Programs are one of the most important elements in Marketo. Whether you're setting up folders, working on naming conventions, searching for members, checking program status's or just interested in managing best practices.  Latest updates to the Program Library templates & creative assets, along with sharing program management best practices and a demonstration.
+description: Explore the essential elements of Marketo Programs, including folder setup, naming conventions, member searches, and program status checks, with the latest updates to Program Library templates, creative assets, and best practices demonstrations.
 solution: Marketo Engage
 feature-set: Marketo Engage
 feature: Programs, Templates

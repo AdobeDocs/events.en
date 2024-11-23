@@ -1,6 +1,6 @@
 ---
 title: New Discover Dashboards
-description: Learn about the 9 new Discover Dashboards now available to all Marketo Measure instances. These newly released dashboards offer dynamic perspectives and enhanced insights across crucial metrics such as Revenue, Attributed Revenue, ROI, Engagement, Lead Velocity, Opportunity Velocity, and Web Traffic.
+description: Join Adobe's Senior Business Advisor, Kate Colbert, and Technical Advisor, James Leedom, as they explore the 9 new Discover Dashboards in Marketo Measure, offering dynamic insights into metrics like Revenue, ROI, Engagement, and Lead Velocity, with a live demonstration and Q&A session.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

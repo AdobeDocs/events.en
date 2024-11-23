@@ -1,6 +1,6 @@
 ---
 title: Marketo Measure & Mochas Activities and Custom Models
-description: Learn strategies for maximizing Adobe Marketo Measure with Custom Attribution Models and Activities Attribution. Join Adobe experts Kate Colbert and James Leedom as they demonstrate how to adjust attribution weighting, create touchpoints from CRM activities, and align Sales and Marketing data. Discover real-life examples and get your questions answered in a live Q&A session.
+description: Join Adobe Business Advisor Kate Colbert and Customer Technical Advisor James Leedom as they explore strategies for leveraging Custom Attribution Models and Activities Attribution in Adobe Marketo Measure, demonstrating real-life examples and concluding with a live Q&A session.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

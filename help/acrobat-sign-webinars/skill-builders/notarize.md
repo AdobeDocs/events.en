@@ -18,7 +18,7 @@ Notarize integration-the faster and easier way to notarize your documents.
 
 ## Key topics covered
 
- * Weston Romero, Technical Product Evangelist at Adobe, shares his experience in working with customers to digitally transform their document and signature workflows.
- * Key updates introduced in the Adobe Sign September 2021 release; including the Adobe Sign Sandbox, new trust service providers from the Cloud Signature Consortium, and Adobe terms of use acceptance for unknown signers.
- * An overview and demonstration of other noteworthy features released throughout the year. These features include users in multiple groups, Liquid Mode for mobile adaptive signing experiences, and Adobe Sign for Microsoft Teams approvals.
- * Summary of the Adobe Sign and Notarize Partnership including a demonstration of what users can expect from the partnership, which offers a faster and easier way to notarize documents directly from Adobe Sign.
+* Weston Romero, Technical Product Evangelist at Adobe, shares his experience in working with customers to digitallytransform their document and signature workflows.
+* Key updates introduced in the Adobe Sign September 2021 release; including the Adobe Sign Sandbox, new trust serviceproviders from the Cloud Signature Consortium, and Adobe terms of use acceptance for unknown signers.
+* An overview and demonstration of other noteworthy features released throughout the year. These features include users inmultiple groups, Liquid Mode for mobile adaptive signing experiences, and Adobe Sign for Microsoft Teams approvals.
+* Summary of the Adobe Sign and Notarize Partnership including a demonstration of what users can expect from thepartnership, which offers a faster and easier way to notarize documents directly from Adobe Sign.
