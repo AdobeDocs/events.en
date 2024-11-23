@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3153
 last-substantial-update: 2024-11-22
 jira: KT-16471
+exl-id: 0e765a3e-9ff8-4a4a-8987-e56631adfc58
 ---
-
 # Ask Me Anything
 
 Corey and Agbi answered questions live as well as from registrations, sharing their best practices and demonstrating features in Adobe Commerce to help customers succeed any time of year.

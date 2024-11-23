@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3438
 last-substantial-update: 2024-11-22
 jira: KT-16502
+exl-id: a842ed22-c6db-4de3-af02-c7363207d00c
 ---
-
 # Ask Me Anything
 
 The transcript details a final interactive webinar session of the year hosted by Adobe, featuring presenters Kate Kolbert and James Letham. The session, designed to be interactive, addressed various questions from participants about optimizing webinar registrations, setting up and updating programs for the new year, utilizing underused Marketo features, and best practices for email marketing and database management. Key topics included the importance of domain warm-up, managing duplicates, user permissions, and improving Marketo-Salesforce sync. The session emphasized the value of proactive data management and leveraging Marketo's features to enhance marketing efforts.

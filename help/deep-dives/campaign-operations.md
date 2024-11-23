@@ -7,8 +7,8 @@ doc-type: Event
 duration: 4370
 last-substantial-update: 2024-11-22
 jira: KT-16520
+exl-id: ff95d1d0-3150-451d-bf45-17e3248689e5
 ---
-
 # Adobe Marketo Engage Champion Deep Dive - Automating & Streamlining Campaign Operations Using the Marketo API
 
 As a Marketo user one of our primary roles is to support the marketing campaigns that our marketing team runs. This means that there is a lot of repetitive work that we have to do when it comes to creating:

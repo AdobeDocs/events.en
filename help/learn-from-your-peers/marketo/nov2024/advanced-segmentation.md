@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2493
 last-substantial-update: 2024-11-22
 jira: KT-16525
+exl-id: ee335fea-f158-4b95-930e-273f023cdf04
 ---
-
 # Advanced Segmentation Audits: Ensuring Precision and Performance in Marketo Engage
 
 Join Adobe Marketo Engage Champion Darshil Shah to learn how to keep your segmentation aligned with customer behaviors, data updates, and business changes.
