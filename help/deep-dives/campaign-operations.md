@@ -1,5 +1,5 @@
 ---
-title: Adobe Marketo Engage Champion Deep Dive - Automating & Streamlining Campaign Operations Using the Marketo API
+title: Automating & Streamlining Campaign Operations Using the Marketo API
 description: Discover how to streamline your marketing operations with the Marketo API in this deep dive, where we'll demonstrate how to automate repetitive tasks like creating email newsletters, tracking programs, merging duplicates, updating program costs, and cloning programs, allowing you to focus on strategic initiatives.
 role: Admin, Developer, User
 level: Intermediate, Experienced
