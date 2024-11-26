@@ -7,6 +7,12 @@ user-guide-description: Collection of recordings from the Adobe Developer Live C
 # Adobe Developers Live Events {#adobe-developers-live-recordings}
 
 + [Overview](overview.md)
++ 2024 {#2024}
+  + November {#nov2024}
+    + [Bringing AI and Personalization to AEM EDS](2024/nov/ai-and-personalization.md)
+    + [Extension Manager for AEM Sites](2024/nov/extension-manager.md)
+    + [HTML with Web Components](2024/nov/html-and-web-components.md)
+    + [Orchestrating Commerce APIs for Headless Implementations](2024/nov/commerce-api-headless.md)
 + 2023 {#2023}
   + November {#nov2023}
     + [Opening Keynote](2023/november/keynote.md)
