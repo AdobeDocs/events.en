@@ -69,6 +69,6 @@ In this webinar you will learn about,
 * Join the discussion [thread](https://nation.marketo.com/t5/product-discussions/register-now-learn-from-your-peers-advanced-segmentation-audits/td-p/353460){target="_blank"} on Marketing Nation Community 
 * [Create a Segmentation](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation){target="_blank"}
 * [Edit a Segmentation](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/edit-a-segmentation){target="_blank"}
-* Marketo Engage Success Series - [segmentation](https://nation.marketo.com/t5/product-blogs/marketo-success-series-segmentation/ba-p/304969){target="_blank"}
+* Marketo Engage Success Series - [Segmentation](https://nation.marketo.com/t5/product-blogs/marketo-success-series-segmentation/ba-p/304969){target="_blank"}
 * [Segmentation Health Check Updates](https://nation.marketo.com/t5/product-blogs/segmentation-health-check-updates-tips-and-tricks-for-keeping/ba-p/241963 ){target="_blank"} - Tips and Tricks for keeping your Segmentation Updated 
 * [Email Performance Report](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report ){target="_blank"}
