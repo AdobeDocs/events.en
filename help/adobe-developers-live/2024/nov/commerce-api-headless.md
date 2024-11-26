@@ -9,8 +9,8 @@ doc-type: Event
 duration: 3304
 last-substantial-update: 2024-11-26
 jira: KT-16575
+exl-id: d12d16c9-3696-48ac-9768-e87aad5191be
 ---
-
 # Orchestrating Commerce APIs for Headless Implementations
 
 Learn how Revanth Kumar, Software Engineer at Adobe, uses API Mesh to stitch together APIs from multiple sources, extend, transform, and distribute them in a low-code environment. Deliver high-performing headless commerce experiences with ease.

@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2580
 last-substantial-update: 2024-11-26
 jira: KT-16579
+exl-id: 57651e92-35d0-4f5a-b4bb-157f62347527
 ---
-
 # Roll Your Own HTML with Web Components
 
 Join Raymond Camden, Sr. Developer Evangelist at Adobe, to learn Web Components basics, including custom elements, Shadow DOM, and HTML templates. Explore real-world examples like embedding PDFs and building sortable tables to enhance your applications with reusable, modern solutions.

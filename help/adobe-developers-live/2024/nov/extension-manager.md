@@ -9,8 +9,8 @@ doc-type: Event
 duration: 1661
 last-substantial-update: 2024-11-26
 jira: KT-16577
+exl-id: 9267d055-0749-4ae5-b5b5-f1af823a1e5d
 ---
-
 # Extension Manager for Adobe Experience Manager Sites
 
 Learn how to extend Adobe Experience Manager functionality for authors across headless editing surfaces and the Universal Editor with Iryna Lagno, Sr. Software Engineer at Adobe. Enable cross-organization UI extensions and even publish them for others to leverage through the Extension Manager.
