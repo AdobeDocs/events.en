@@ -10,8 +10,8 @@ doc-type: Event
 duration: 1690
 last-substantial-update: 2024-11-26
 jira: KT-16576
+exl-id: f588055b-05c7-44df-be67-799a0e3ee1ed
 ---
-
 # Assets Migration Blueprint
 
 Join Achim Koch, Principal Technical Architect at Adobe, to learn how to migrate a legacy DAM to Adobe Experience Manager Assets. Gain insights into stakeholder analysis, resource planning, data transformation, and best practices like using CSV files for data handling. Build a roadmap for your own Adobe Experience Manager migration projects.

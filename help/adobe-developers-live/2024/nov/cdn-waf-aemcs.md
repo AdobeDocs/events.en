@@ -9,8 +9,8 @@ doc-type: Event
 duration: 2211
 last-substantial-update: 2024-11-26
 jira: KT-16574
+exl-id: a9f38e79-c707-443d-8b2f-e534ce4dd43d
 ---
-
 # CDN & WAF Configuration in Adobe Experience Manager as a Cloud Service
 
 Unlock the full potential of Adobe Managed CDN with customizable CDN Rules, WAF protection, and the Config Pipeline. Marius Petria, Sr. Computer Scientist at Adobe, Quentin Vecchio, Software Development Engineer at Adobe, and Florian Froese, Software Development Engineer at Adobe, share strategies to enhance the performance and security of Adobe Experience Manager as a Cloud Service applications.

@@ -10,8 +10,8 @@ doc-type: Event
 duration: 1365
 last-substantial-update: 2024-11-26
 jira: KT-16573
+exl-id: d54c81b8-3b9c-4737-b52d-c957f486a40e
 ---
-
 # Energizing Adobe Commerce with Adobe Experience Manager Assets and GenAI
 
 Discover how Ankush Malhotra, Sr. Computer Scientist at Adobe, and Pablo Moreno, Sr. Software Engineer at Adobe, integrate Adobe Experience Manager Assets and GenAI with Adobe Express to enhance Adobe Commerce stores. Leverage on-brand approved image references, improve media content quality, and elevate e-commerce performance with this powerful combination.

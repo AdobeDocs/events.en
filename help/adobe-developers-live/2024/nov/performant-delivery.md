@@ -10,8 +10,8 @@ doc-type: Event
 duration: 1596
 last-substantial-update: 2024-11-26
 jira: KT-16572
+exl-id: a1920020-b9ce-43be-8f9e-e52aac68da7b
 ---
-
 # Best Practices for Performant Delivery
 
 Join Riya Midha, Sr. Product Manager at Adobe, to explore the best practices for setting up Adobe Experience Manager Assets Dynamic Media. Learn how to optimize asset delivery, enhance video streaming, configure viewers, and measure and improve performance.
