@@ -1,6 +1,7 @@
 ---
 title: Orchestrating Commerce APIs for Headless Implementations
 description: Learn how Revanth Kumar, Software Engineer at Adobe, uses API Mesh to integrate and manage multiple data sources for high-performing headless commerce experiences, with benefits like enhanced security, performance, and simplified development.
+solution: Commerce
 feature: APIs, Headless
 topic: Commerce, Development, Headless
 role: Developer

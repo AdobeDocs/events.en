@@ -9,14 +9,26 @@ user-guide-description: Collection of recordings from the Adobe Developer Live C
 + [Overview](overview.md)
 + 2024 {#2024}
   + November {#nov2024}
-    + [Assets Migration Blueprint](2024/nov/asset-migration-blueprint.md)
-    + [Best Practices for Performant Delivery](2024/nov/performant-delivery.md)
-    + [Bringing AI and Personalization to AEM EDS](2024/nov/ai-and-personalization.md)
-    + [CDN & WAF Configuration in AEM CS](2024/nov/cdn-waf-aemcs.md)
-    + [Commerce with AEM Assets and GenAI](2024/nov/commerce-aem-assets-gen-ai.md)
-    + [Extension Manager for AEM Sites](2024/nov/extension-manager.md)
-    + [HTML with Web Components](2024/nov/html-and-web-components.md)
-    + [Orchestrating Commerce APIs for Headless Implementations](2024/nov/commerce-api-headless.md)
+    + [AEM Cloud Service]
+      + [AEM APIs and Eventing](2024/nov/apis-eventing.md)
+      + [Bringing AI and Personalization to AEM EDS](2024/nov/ai-and-personalization.md)
+      + [CDN & WAF Configuration in AEM CS](2024/nov/cdn-waf-aemcs.md)
+      + [Rapid Development Environments](2024/nov/rapid-development-environments.md)
+    + [AEM Sites]
+      + [A Real-World Journey to Edge Delivery Services](2024/nov/journey-to-edge-delivery-services.md)
+      + [Edge Delivery Services -One Year In, Six Ways Better](2024/nov/edge-delivery-services.md)
+      + [Extension Manager for AEM Sites](2024/nov/extension-manager.md)
+      + [HTML with Web Components](2024/nov/html-and-web-components.md)
+      + [Tales from 200 Trenches](2024/nov/tales-200-trenches.md)
+      + [Universal Editor, AEM Authoring & Edge Delivery Services](2024/nov/universal-editor-eds.md)
+    + [AEM Assets]
+      + [Assets Migration Blueprint](2024/nov/asset-migration-blueprint.md)
+      + [Best Practices for Performant Delivery](2024/nov/performant-delivery.md)
+      + [Using Dynamic Media with Open API](2024/nov/dynamic-media-open-api.md)
+    + [Adobe Commerce]
+      + [Adobe Commerce with the Integration Starter Kit](2024/nov/back-office-integrations.md)
+      + [Commerce with AEM Assets and GenAI](2024/nov/commerce-aem-assets-gen-ai.md)
+      + [Orchestrating Commerce APIs for Headless Implementations](2024/nov/commerce-api-headless.md)
 + 2023 {#2023}
   + November {#nov2023}
     + [Opening Keynote](2023/november/keynote.md)
