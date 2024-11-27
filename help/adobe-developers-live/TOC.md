@@ -9,7 +9,11 @@ user-guide-description: Collection of recordings from the Adobe Developer Live C
 + [Overview](overview.md)
 + 2024 {#2024}
   + November {#nov2024}
+    + [Assets Migration Blueprint](2024/nov/asset-migration-blueprint.md)
+    + [Best Practices for Performant Delivery](2024/nov/performant-delivery.md)
     + [Bringing AI and Personalization to AEM EDS](2024/nov/ai-and-personalization.md)
+    + [CDN & WAF Configuration in AEM CS](2024/nov/cdn-waf-aemcs.md)
+    + [Commerce with AEM Assets and GenAI](2024/nov/commerce-aem-assets-gen-ai.md)
     + [Extension Manager for AEM Sites](2024/nov/extension-manager.md)
     + [HTML with Web Components](2024/nov/html-and-web-components.md)
     + [Orchestrating Commerce APIs for Headless Implementations](2024/nov/commerce-api-headless.md)
