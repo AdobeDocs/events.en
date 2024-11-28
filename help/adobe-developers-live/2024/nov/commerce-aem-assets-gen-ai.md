@@ -3,7 +3,7 @@ title: Energizing Adobe Commerce with Adobe Experience Manager Assets and GenAI
 description: Enhance Adobe Commerce stores by integrating Adobe Experience Manager Assets and GenAI with Adobe Express to leverage on-brand approved image references, improve media content quality, and elevate e-commerce performance.
 feature: Generative AI, Integrations
 topic: Artificial Intelligence, Commerce, Integrations
-solution: Experience Manager, Experience Manager Assets
+solution: Commerce, Experience Manager, Experience Manager Assets
 role: Developer
 level: Beginner, Intermediate
 doc-type: Event
