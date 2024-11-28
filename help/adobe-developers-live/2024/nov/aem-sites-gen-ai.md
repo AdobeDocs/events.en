@@ -2,7 +2,7 @@
 title: How Adobe Experience Manager Sites Leverages GenAI
 description: Enhance customer experiences and drive business outcomes with Adobe Experience Manager (AEM) Sites, leveraging JNI for intent-based experiences, smart content discovery, rapid activation, self-learning optimization, and privacy-first testing, with upcoming features for dynamic experimentation and brand scoring.
 solution: Experience Manager Sites, Experience Manager
-feature: Generative AI, Generative Variations
+feature: Generative AI, Generate Variations
 topic: Artificial Intelligence
 role: Developer, User
 level: Beginner, Intermediate

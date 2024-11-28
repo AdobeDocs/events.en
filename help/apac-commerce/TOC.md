@@ -23,9 +23,8 @@ user-guide-description: Adobe Commerce Events is a video library where experts a
   + [Commerce & Composability](2024/commerce-and-composability.md)
   + [Edge Delivery Services](2024/edge-delivery-services.md)
   + [GenAI and Personalised Commerce Experiences](2024/personalised-commerce-experiences.md)
-  + [Innovation Spotlight Webinar](2024/innovation-spotlight.md)
   + [How Visionary Thinking is Transforming Commerce](2024/visionary-thinking.md)
-  + [Generative AI and Personalised Commerce Experiences](2024/personalised-commerce-experiences.md)
+  + [Innovation Spotlight Webinar](2024/innovation-spotlight.md)
   + [Security in Adobe Commerce](2024/security-overview.md)
   + [7 ways to grow an eCommerce business organically](2024/grow-ecommerce-business.md)
 + 2023 {#2023}
