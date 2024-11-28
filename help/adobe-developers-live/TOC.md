@@ -9,25 +9,33 @@ user-guide-description: Collection of recordings from the Adobe Developer Live C
 + [Overview](overview.md)
 + 2024 {#2024}
   + November {#nov2024}
-    + [AEM Cloud Service]
+    + [Keynote](2024/nov/keynote.md)
+    + [AEM Cloud Service] {#aem-cloud-service}
       + [AEM APIs and Eventing](2024/nov/apis-eventing.md)
       + [Bringing AI and Personalization to AEM EDS](2024/nov/ai-and-personalization.md)
       + [CDN & WAF Configuration in AEM CS](2024/nov/cdn-waf-aemcs.md)
+      + [Magic Buttons and How to Build Them](2024/nov/magic-buttons.md)
       + [Rapid Development Environments](2024/nov/rapid-development-environments.md)
-    + [AEM Sites]
+    + [AEM Sites] {#aem-sites}
       + [A Real-World Journey to Edge Delivery Services](2024/nov/journey-to-edge-delivery-services.md)
       + [Edge Delivery Services -One Year In, Six Ways Better](2024/nov/edge-delivery-services.md)
       + [Extension Manager for AEM Sites](2024/nov/extension-manager.md)
+      + [How Adobe Experience Manager Sites Leverages GenAI](2024/nov/aem-sites-gen-ai.md)
       + [HTML with Web Components](2024/nov/html-and-web-components.md)
       + [Tales from 200 Trenches](2024/nov/tales-200-trenches.md)
       + [Universal Editor, AEM Authoring & Edge Delivery Services](2024/nov/universal-editor-eds.md)
-    + [AEM Assets]
+    + [AEM Assets] {#aem-assets}
       + [Assets Migration Blueprint](2024/nov/asset-migration-blueprint.md)
       + [Best Practices for Performant Delivery](2024/nov/performant-delivery.md)
       + [Using Dynamic Media with Open API](2024/nov/dynamic-media-open-api.md)
-    + [Adobe Commerce]
+    + [AEM Forms] {#aem-forms}
+      + [Forms on the Edge!](2024/nov/forms-on-the-edge.md)
+    + [Cloud Manager] {#cloud-manager}
+      + [Streamlining DevOps with Cloud Manager](2024/nov/dev-ops-cloud-manager.md)
+    + [Adobe Commerce] {#commerce}
       + [Adobe Commerce with the Integration Starter Kit](2024/nov/back-office-integrations.md)
       + [Commerce with AEM Assets and GenAI](2024/nov/commerce-aem-assets-gen-ai.md)
+      + [Edge Delivery Services and Adobe Commerce](2024/nov/commerce-storefront-eds.md)
       + [Orchestrating Commerce APIs for Headless Implementations](2024/nov/commerce-api-headless.md)
 + 2023 {#2023}
   + November {#nov2023}

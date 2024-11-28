@@ -19,6 +19,15 @@ Adobe product teams across Adobe Experience Cloud, Document Cloud and Creative C
 
 ## November 2024 Sessions
 
+### Keynote
+
+<!-- CARDS
+
+{cta = Watch}
+
+* 2024/nov/keynote.md
+-->
+
 ### Adobe Experience Manager Cloud Service
 
 <!-- CARDS
@@ -28,6 +37,7 @@ Adobe product teams across Adobe Experience Cloud, Document Cloud and Creative C
 * 2024/nov/ai-and-personalization.md
 * 2024/nov/apis-eventing.md
 * 2024/nov/cdn-waf-aemcs.md
+* 2024/nov/magic-buttons.md
 * 2024/nov/rapid-development-environments.md
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -135,6 +145,7 @@ Adobe product teams across Adobe Experience Cloud, Document Cloud and Creative C
 
 * 2024/nov/edge-delivery-services.md
 * 2024/nov/extension-manager.md
+* 2024/nov/aem-sites-gen-ai.md
 * 2024/nov/html-and-web-components.md
 * 2024/nov/journey-to-edge-delivery-services.md
 * 2024/nov/tales-200-trenches.md
@@ -367,6 +378,26 @@ Adobe product teams across Adobe Experience Cloud, Document Cloud and Creative C
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
+### Adobe Experience Manager Forms
+
+<!-- CARDS
+
+{cta = Watch}
+
+* 2024/nov/forms-on-the-edge.md
+-->
+
+### Adobe Experience Manager Cloud Manager
+
+<!-- CARDS
+
+{cta = Watch}
+
+* 2024/nov/dev-ops-cloud-manager.md
+
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+
 ### Adobe Commerce
 
 <!-- CARDS
@@ -375,6 +406,7 @@ Adobe product teams across Adobe Experience Cloud, Document Cloud and Creative C
 
 * 2024/nov/back-office-integrations.md
 * 2024/nov/commerce-aem-assets-gen-ai.md
+* 2024/nov/commerce-storefront-eds.md
 * 2024/nov/commerce-api-headless.md
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
