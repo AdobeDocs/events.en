@@ -1,6 +1,6 @@
 ---
 title: Developing Exceptional Commerce Storefront Experiences with Edge Delivery Services & Adobe Commerce
-description: What does it take to create exceptional commerce storefronts? Surya Lamech, Senior Product Marketing Manager, and Deck Reyes, Practice Lead for Adobe Experience Manager Expert Solutions, break down how content, assets, new Commerce “drop-ins,” and Edge Delivery Services elevate the commerce developer experience.→ Continue the conversation at: https://adobe.ly/3Ccxkja
+description: Integrating ads delivery services with Adobe Commerce enhances ecommerce storefronts by leveraging high-impact experiences, fast edge delivery, customizable Adobe Commerce drop-ins, and a unified technology stack for improved SEO, faster page loads, and seamless developer experiences.
 solution: Commerce, Experience Manager
 feature: Storefront, Edge Delivery Services
 topic: Commerce
