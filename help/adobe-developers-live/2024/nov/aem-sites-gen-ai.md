@@ -10,8 +10,8 @@ doc-type: Event
 duration: 1372
 last-substantial-update: 2024-11-27
 jira: KT-16545
+exl-id: e1c3f583-385e-4b87-8064-fbb166b8a7b1
 ---
-
 # How Adobe Experience Manager Sites Leverages GenAI
 
 See how Adobe Experience Manager Sites integrates AI with "Generate Variations" to enable brands to scale content like never before. Mihai Corlan, Director of Engineering, and Gagan Mand, Director of Product Strategy & Marketing, share inspiring customer success stories and Adobe’s vision for AI-driven enhancements.
@@ -34,4 +34,3 @@ Continue the conversation in the Adobe Developers Live Community [discussion](ht
 * **Early Access Program** There is an early access program for self-learning experimentation, allowing users to test multiple variations dynamically and adjust based on performance.
 * **Brand Scoring and Previewing** The tool provides brand scoring for generated content to ensure it aligns with brand guidelines and allows for easy previewing and editing of content variations.
 * **Future Enhancements** Upcoming features include reviewing and approval processes within the tool, with general availability expected by the next summit in March. ​
-

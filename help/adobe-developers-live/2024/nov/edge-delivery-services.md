@@ -9,8 +9,8 @@ doc-type: Event
 duration: 1227
 last-substantial-update: 2024-11-27
 jira: KT-16542
+exl-id: 275991ba-0784-481f-b4ba-7f7ea8bed679
 ---
-
 # Edge Delivery Services: One Year In, Six Ways Better
 
 Join Lars Trieloff, Principal at Adobe, as he reflects on the first year of Edge Delivery Services. Learn about the challenges overcome, lessons learned, and achievements realized during its evolution. Gain insights into the product’s journey and a preview of what’s coming next.

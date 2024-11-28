@@ -10,8 +10,8 @@ doc-type: Event
 duration: 1054
 last-substantial-update: 2024-11-27
 jira: KT-16540
+exl-id: d8670e07-8681-4ef0-a038-8304aee84101
 ---
-
 # Universal Editor, Adobe Experience Manager Authoring & Edge Delivery Services
 
 Join Lamont Crook, Principal Solutions Consultant at Adobe, to see how Universal Editor transforms content authoring with Adobe Experience Manager and Edge Delivery Services. Learn how to assemble content blocks and provide tools for authors to manage content more effectively.→ Continue the conversation at: https://adobe.ly/4hBDxp9
@@ -34,4 +34,3 @@ Continue the conversation in the Adobe Developers Live Community [discussion](ht
 * **Extensibility with App Builder** Extensions can be created using App Builder to add custom functionalities to the Universal Editor. ​
 * **Dynamic Media Assets** The process of adding dynamic media assets involves editing JSON files and deploying changes to a branch for testing.
 * **Simplified Customization** Customizing the Universal Editor is simpler compared to the OG editor, as it does not require running pipelines or extensive setup. ​
-

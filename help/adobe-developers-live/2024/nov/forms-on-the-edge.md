@@ -9,8 +9,8 @@ doc-type: Event
 duration: 1192
 last-substantial-update: 2024-11-27
 jira: KT-16546
+exl-id: 3bd8a5b0-c495-45f7-9cb2-4302c76247f5
 ---
-
 # Forms on the Edge!
 
 Explore how to create seamless enrollment experiences with Adobe Experience Manager Forms and Edge Delivery Services. Arun Taneja, Director of Product Management, explains how to overcome DIY challenges, scale effectively, integrate with data sources, and achieve perfect LightHouse scores.
@@ -33,4 +33,3 @@ Continue the conversation in the Adobe Developers Live Community [discussion](ht
 * **AI Assistance** The future of forms includes AI assistance for creating and customizing forms based on prompts, making the process more efficient. ​
 * **Conversational Form Filling** Forms can be filled as conversations through chatbots, making the user experience more engaging and intuitive. ​
 * **Developer and Business Velocity** The tools and approaches discussed aim to increase both developer and business velocity, enabling faster and more efficient form creation and optimization.
-

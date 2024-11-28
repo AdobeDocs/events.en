@@ -10,8 +10,8 @@ doc-type: Event
 duration: 1234
 last-substantial-update: 2024-11-27
 jira: KT-16544
+exl-id: 6447e5df-3a7d-46fc-af43-ba362c1cdd9f
 ---
-
 # Developing Exceptional Commerce Storefront Experiences with Edge Delivery Services & Adobe Commerce
 
 What does it take to create exceptional commerce storefronts? Surya Lamech, Senior Product Marketing Manager, and Deck Reyes, Practice Lead for Adobe Experience Manager Expert Solutions, break down how content, assets, new Commerce “drop-ins,” and Edge Delivery Services elevate the commerce developer experience.
@@ -32,4 +32,3 @@ Continue the conversation in the Adobe Developers Live Community [discussion](ht
 * **Integration Starter Kit** Adobe provides a starter kit to simplify and speed up the integration process with predefined data flows for common objects like products, customers, stock, orders, and shipments.
 * **Developer Experience** Adobe aims to unify the developer experience across Adobe Commerce and Adobe Experience Manager (AEM) using the same technology stack and skills.
 * **Resources** Adobe offers various learning materials, code samples, and tutorials to help developers build and maintain exceptional shopping experiences efficiently.
-

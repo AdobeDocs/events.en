@@ -10,8 +10,8 @@ doc-type: Event
 duration: 991
 last-substantial-update: 2024-11-27
 jira: KT-16550
+exl-id: 6d62d137-dcfe-4819-b04e-8ed41c271957
 ---
-
 # Scalable Web-Optimized Delivery and Content Transformation Using Dynamic Media with Open API via Asset Selector
 
 Explore how Adobe Experience Manager Assets as a Cloud Service and Dynamic Media improve content delivery. Karanjeet Singh, Engineering Manager, demonstrates smart cropping, preset authoring, and integration with Edge Delivery Services and third-party applications for streamlined workflows.

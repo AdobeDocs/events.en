@@ -9,8 +9,8 @@ doc-type: Event
 duration: 1321
 last-substantial-update: 2024-11-27
 jira: KT-16541
+exl-id: 1104048d-4074-49aa-a0bc-0065fa2df505
 ---
-
 # Tales from 200 Trenches
 
 With over 200 Edge Delivery Services projects completed, Kiran Murugulla, Senior Engineer at Adobe, and Varun Mitra, Architect for Adobe Experience Manager Cloud, share key lessons learned. Discover the secrets behind delivering fast, high-performing experiences with exceptional Core Web Vitals.
@@ -44,4 +44,3 @@ Continue the conversation in the Adobe Developers Live Community [discussion](ht
   * Focus on mobile-first development.
   * Ensure content structuring is intuitive for authors.
 * **Tools** Use tools like Google Sheets and DSA for tracking site performance scores over time.
-

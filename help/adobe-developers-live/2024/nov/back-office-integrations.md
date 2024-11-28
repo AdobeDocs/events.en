@@ -10,8 +10,8 @@ doc-type: Event
 duration: 2895
 last-substantial-update: 2024-11-27
 jira: KT-16571
+exl-id: e9bccdf5-5a97-42e8-99fe-3bffea3319b9
 ---
-
 # Accelerate Back-Office Integrations in Adobe Commerce with the Integration Starter Kit
 
 Integrations with ERPs, CRMs, and PIMs are critical for operational efficiency and seamless shopping experiences. Join Daniel Perez, Principal Product Manager at Adobe, and Angel Rojo, Sr. Software Engineer at Adobe, to learn how the Integration Starter Kit accelerates Adobe Commerce integrations while lowering maintenance costs.
@@ -33,4 +33,3 @@ Continue the conversation in the Adobe Developers Live Community [discussion](ht
 * **Tools and Frameworks**The integration starter kits provide a comprehensive toolset and framework to facilitate the integration process, including predefined data flows, system data flows, and extensibility mechanisms.
 * **Community and Support**The session highlighted the availability of public repositories, documentation, and a public Slack channel for support and collaboration among developers and partners.
 * **Real-world Applications**Examples of real-world applications and integrations were discussed, including a reference application available in Adobe Integrate, demonstrating the practical use of the integration starter kits in enterprise environments.
-

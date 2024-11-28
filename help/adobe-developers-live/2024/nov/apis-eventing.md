@@ -9,8 +9,8 @@ doc-type: Event
 duration: 1310
 last-substantial-update: 2024-11-27
 jira: KT-16549
+exl-id: 3cb11b21-d673-4373-82bb-72a6a1e73161
 ---
-
 # Modern Adobe Experience Manager APIs & Eventing
 
 Learn how Adobe Experience Manager’s cloud-native eventing system modernizes workflows by seamlessly integrating with external systems. Mathias Siegel, Principal Product Manager, and Ian Reasor, Sr. Computer Scientist at Adobe, share the latest APIs, events, and real-world use cases.
@@ -34,4 +34,3 @@ Continue the conversation in the Adobe Developers Live Community [discussion](ht
 * **Encouragement to Use New APIs** Users are encouraged to switch to these new APIs as they represent the future direction of AMS API development.
 * **Authentication and Access Tokens** The process for generating access tokens is being finalized and will be available in upcoming releases.
 * **Engagement and Support** The team is open to questions and engagement for early adopter opportunities and further discussions on API use cases.
-

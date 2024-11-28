@@ -10,8 +10,8 @@ doc-type: Event
 duration: 1034
 last-substantial-update: 2024-11-27
 jira: KT-16547
+exl-id: 906ad093-4705-47a4-af14-2a82f95a6c03
 ---
-
 # Streamlining DevOps with Cloud Manager
 
 Efficient DevOps practices are essential for delivering experiences at scale. Adrian Tanase, Software Development Engineer at Adobe, explores how Adobe Experience Manager Cloud Manager can streamline deployment workflows, enhance automation, and support continuous integration and delivery (CI/CD).

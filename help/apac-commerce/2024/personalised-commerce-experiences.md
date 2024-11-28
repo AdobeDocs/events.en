@@ -9,8 +9,8 @@ doc-type: Event
 duration: 4225
 last-substantial-update: 2024-11-28
 jira: KT-16586
+exl-id: a2b24f49-1e9c-4d45-860e-a6c0e086a4e3
 ---
-
 # Harness the Power of Generative AI and Enterprise DAM to drive Personalised Commerce Experiences
 
 Join me for this interactive session on how Generative AI services can be used to create and edit content to give scale and user friendly capabilities to your business teams, to drive content and product creation to meet the demands of a modern Commerce platform, regardless of how many storefronts you have to manage.

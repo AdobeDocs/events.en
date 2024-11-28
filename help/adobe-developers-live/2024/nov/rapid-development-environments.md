@@ -9,8 +9,8 @@ doc-type: Event
 duration: 2427
 last-substantial-update: 2024-11-27
 jira: KT-16570
+exl-id: 330d8be1-14a0-488a-aae0-ee90e1f7621e
 ---
-
 # Adobe Experience Manager Rapid Development Environments
 
 Explore best practices for Rapid Development Environments (RDEs) and the updated developer console. Natalia Angulo Herrera, Software Development Engineer at Adobe, and Remo Liechti, Software Development Engineer at Adobe, cover migration challenges, AIO CLI setup, deployment, testing, logging, and configuration management for a smoother Adobe Experience Manager workflow.

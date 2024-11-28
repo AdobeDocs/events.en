@@ -9,8 +9,8 @@ doc-type: Event
 duration: 3101
 last-substantial-update: 2024-11-27
 jira: KT-16543
+exl-id: aefe7bf2-921f-48e5-beec-ade33801a3c5
 ---
-
 # Keynote - Adobe Experience Manager Update
 
 Begin with an Executive Welcome from Loni Stark, Vice President of Strategy and Product at Adobe, setting the stage for the day. Then, join Cedric Huesler, Director of Product Management for Adobe Experience Manager, as he shares Adobe’s vision for digital experiences. Explore the latest innovations driving Adobe Experience Manager forward, their impact on web development, and a preview of what’s on the horizon.
@@ -35,4 +35,3 @@ Continue the conversation in the Adobe Developers Live Community [discussion](ht
 * **Generative UI and Personalization** Future web experiences will involve generative UI composition and personalized content delivery based on real-time data and user interactions. ​
 * **Search and Indexing** Adobe is implementing advanced search functionalities, including vector indexing, to improve content retrieval and user experience.
 * **Collaboration and Feedback** Adobe encourages community collaboration and feedback to continue innovating and improving their products and services.
-

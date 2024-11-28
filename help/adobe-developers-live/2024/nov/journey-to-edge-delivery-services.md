@@ -9,8 +9,8 @@ doc-type: Event
 duration: 820
 last-substantial-update: 2024-11-27
 jira: KT-16538
+exl-id: 8f972775-9641-475d-83dc-f8d7e7e19a89
 ---
-
 # A Real-World Journey to Edge Delivery Services
 
 Join Mark McConnell, Lead Software Developer at Adobe partner Ensemble, as he shares examples of bringing customers into the Edge Delivery Services ecosystem. Learn how this innovation complements Adobe Experience Manager investments for real-world success.
@@ -40,4 +40,3 @@ Continue the conversation in the Adobe Developers Live Community [discussion](ht
   * Updating sites to new AMP page and AMP live domains.
   * Exploring the use of Helix 5 and the universal editor for better content management.
 * **Success Factors** Collaboration between Ensemble, PGA Tour, Adobe, and the synergy between AEM sites and edge delivery services contributed to their success.
-

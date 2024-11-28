@@ -8,8 +8,8 @@ doc-type: Event
 duration: 1226
 last-substantial-update: 2024-11-27
 jira: KT-16548
+exl-id: 9dafd048-8b3a-444f-bf0e-d49f76ae7054
 ---
-
 # Magic Buttons and How to Build Them
 
 Discover how to extend Adobe Experience Manager’s UI to automate repetitive content tasks. Sarah Xu, Senior Product Manager at Adobe, showcases real-world examples of Content Fragment extensions and Universal Editor customizations that meet business needs.
