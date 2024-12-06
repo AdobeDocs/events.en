@@ -35,3 +35,4 @@ Continue the conversation in the Adobe Developers Live Community [discussion](ht
 * **Generative UI and Personalization** Future web experiences will involve generative UI composition and personalized content delivery based on real-time data and user interactions. ​
 * **Search and Indexing** Adobe is implementing advanced search functionalities, including vector indexing, to improve content retrieval and user experience.
 * **Collaboration and Feedback** Adobe encourages community collaboration and feedback to continue innovating and improving their products and services.
+
