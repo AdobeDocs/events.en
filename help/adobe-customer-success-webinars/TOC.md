@@ -26,6 +26,7 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
   + [Getting Started with Real-Time Customer Data Platform](2024/getting-started-rtcdp.md)
   + [Harnessing AI for Customer Experience](2024/ai-customer-experience.md)
   + [Lean Teams and Customer Journey Analytics](2024/lean-teams-cja.md)
+  + [Mastering the Adobe Admin Console](2024/adobe-admin-console.md)
   + [Mastering Cookies and Data Privacy](2024/mastering-cookies-data-privacy.md)
   + [Target Personalization](2024/target-personalization.md)
   + [Hyperpersonalization](2024/hyperpersonalization.md)
@@ -33,6 +34,9 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
   + [Real-Time Customer Data Platform and Marketo Integration](2024/aep-marketo-integration.md)
   + [Real-time Customer Data Platform Migration Readiness](2024/rtcdp-migration-readiness.md)
   + [Strategic Leadership](2024/strategic-leadership.md)
+  + [Streamline Authentication](2024/streamline-authentication.md)
+  + [Turning Data into Action](2024/turning-data-into-action.md)
+  + [Unlocking the Power of Edge Services](2024/edge-delivery-services.md)
   + [Use Case Mapping to Solution Capabilities](2024/use-case-mapping.md)
   + [Web SDK Migration Essentials](2024/web-sdk-migration.md)
 
