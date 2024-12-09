@@ -9,8 +9,8 @@ doc-type: Event
 duration: 3589
 last-substantial-update: 2024-12-06
 jira: KT-16631
+exl-id: 2057e491-9ec3-4bfe-b85a-6b74d70822bf
 ---
-
 # Optimizing Content Delivery: Unlocking the Power of Edge Services
 
 In this session, we will provide an overview of Edge Delivery Services (EDS) and its architecture. We’ll delve into how EDS integrates with document-based authoring and AEM-based authoring via the Universal Editor. A live demo will showcase EDS in action, followed by resources for further exploration and a Q&A session.

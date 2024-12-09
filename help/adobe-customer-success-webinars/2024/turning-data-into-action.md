@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3391
 last-substantial-update: 2024-12-06
 jira: KT-16628
+exl-id: eaa9642c-c460-410b-9af5-3ff42e50ef89
 ---
-
 # The Strategic Power of Measurement: Turning Data into Action
 
 Learn the essential elements of building a holistic measurement strategy and the key steps to overcome common challenges in measurement maturity. This webinar will equip you with actionable frameworks and tools to implement a successful measurement plan and activate your insights. 
@@ -46,4 +46,3 @@ Learn the essential elements of building a holistic measurement strategy and the
 * Curating resources for new users and non-analyst personas.
 * Holding regular quick tip sessions and knowledge-sharing sessions.
 * Using newsletters and internal communications to share insights and updates.
-

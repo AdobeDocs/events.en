@@ -4,6 +4,7 @@ description: Get a quick overview of the latest features on Adobe Experience Man
 user-guide-breadcrumb: AEM Release Events
 duration: 91
 hidefromtoc: true
+exl-id: eb9580ae-84c9-4c68-84c3-007e67b91a92
 ---
 # Adobe Experience Manager as a Cloud Service release updates
 

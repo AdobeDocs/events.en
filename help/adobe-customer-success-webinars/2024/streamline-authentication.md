@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3292
 last-substantial-update: 2024-12-06
 jira: KT-16629
+exl-id: 97e2a2de-1cb4-4f2f-8c9b-47ee40227625
 ---
-
 # Streamline Authentication: Migrating from Service Account (JWT) to OAuth Server-to-Server Credentials
 
 This webinar will guide attendees through migrating from the deprecated Service Account (JWT) credentials to the new OAuth Server-to-Server credentials. As the Service Account (JWT) credentials will cease to function after January 27, 2025, it's crucial for developers and organizations to understand the migration process to avoid potential service disruptions. The webinar will also highlight the benefits of OAuth Server-to-Server credentials and how to ensure a zero-downtime migration.

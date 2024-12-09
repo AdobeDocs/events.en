@@ -7,8 +7,8 @@ doc-type: Event
 duration: 2767
 last-substantial-update: 2024-12-06
 jira: KT-16630
+exl-id: 2a604f0f-d422-4a7d-8e72-bd38dfca7bf0
 ---
-
 # Mastering the Adobe Admin Console
 
 This webinar will provide a comprehensive overview of navigating the Adobe Admin Console for Adobe Experience Platform. We will examine the key functions of the Admin Console and its integration with other Adobe solutions. Additionally, we will discuss best practices for scaling Admin Console operations as your user base expands and provide an overview of the User Sync Tool.
