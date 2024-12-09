@@ -9,6 +9,7 @@ breadcrumb-title: AEM CS Release Updates
 
 + [Overview](overview.md)
 + 2024 {#2024}
+  + [2024.11.0](2024/2024-11-0.md)
   + [2024.10.0](2024/2024-10-0.md)
   + [2024.9.0](2024/2024-9-0.md)
   + [2024.8.0](2024/2024-8-0.md)
@@ -46,3 +47,5 @@ breadcrumb-title: AEM CS Release Updates
   + [2021.6.0](2021/2021-6-0.md)
   + [2021.5.0](2021/2021-5-0.md)
   + [2021.4.0](2021/2021-4-0.md)
+
++ [Overview new](overview-test.md)
