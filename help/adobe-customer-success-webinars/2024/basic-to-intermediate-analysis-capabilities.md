@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3783
 last-substantial-update: 2024-12-10
 jira: KT-16626
+exl-id: 9e6df60c-d4bc-4c32-b234-fafa1f0a73c0
 ---
-
 # Adobe Analytics & CJA: Quick Start for Basic to Intermediate Analysis Capabilities
 
 Learn how to quickly get started with Adobe Analytics and Customer Journey Analytics (CJA) to support your marketing activities with data-driven decisions: Learn how to set up your organization for robust analytical capabilities, understand when to best use which analytics solution, and map Analytics and CJA capabilities to analytics maturity levels for building key marketing reports.

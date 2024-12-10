@@ -9,8 +9,8 @@ doc-type: Event
 duration: 3186
 last-substantial-update: 2024-12-10
 jira: KT-16627
+exl-id: c1d89e23-1d6e-41a7-877c-1d016b4b39d0
 ---
-
 # Maximizing User Experiences with Adobe Target's AI-Driven Personalization
 
 The session on Adobe Target's AI-driven personalization, led by John Magnusson, highlighted features like Auto Allocate, Auto Target, Automated Personalization, and Recommendations, with implementation examples from Swisscom and Granger, emphasizing the Engage, Expand, and Embed framework, and encouraging attendees to apply these tools using a strategic approach.
@@ -36,4 +36,3 @@ The session on Adobe Target's AI-driven personalization, led by John Magnusson, 
 * **Q&A Highlights**
   * Adobe Target can be implemented in email channels and integrated with Marketo.
   * Target can create its own set of unified customer profiles and integrate with CDP or Adobe Audiences for more robust personalization.Call to Action** Attendees were encouraged to identify use cases for Adobe Target's personalization tools and apply them using the defined strategy, design, execution, analysis, and action cycle.
-

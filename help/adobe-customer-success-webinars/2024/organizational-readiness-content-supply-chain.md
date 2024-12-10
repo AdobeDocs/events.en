@@ -9,8 +9,8 @@ doc-type: Event
 duration: 3763
 last-substantial-update: 2024-12-10
 jira: KT-16625
+exl-id: 38df856e-3191-4f3d-9e7e-c4814d1c24d1
 ---
-
 # Unlocking the Power of Adobe GenStudio: Organizational Readiness to address Content Supply Chain challenges
 
 As organizations look to accelerate their content production and delivery processes, it’s crucial to adopt innovative tools like Adobe's GenAI capabilities to facilitate their end-to-end marketing processes so they can focus on their most impactful work generating revenue. This webinar will focus on equipping attendees understand how they can prepare their organizations to accelerate their content supply chain by highlighting the GenAI capabilities and opportunities for workflow optimization available across the Adobe stack with a focus on current status & availability of GenAI capabilities.
@@ -38,5 +38,3 @@ The session highlighted the importance of a connected content supply chain for e
 * Adobe Experience Manager (AEM)** Provides better content creation through intelligence, accelerated activation of on-brand content at scale, and optimized self-learning experiences.
 * Adobe Workfront** The AI assistant provides easier planning and execution of work.
 * Adobe Experience Platform (AEP)** The AI assistant democratizes access to enterprise data and metadata, deepens knowledge, improves product efficiency, increases productivity, and streamlines operational workflows.
-
-
