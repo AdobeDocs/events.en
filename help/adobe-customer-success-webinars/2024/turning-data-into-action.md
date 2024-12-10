@@ -23,7 +23,7 @@ Learn the essential elements of building a holistic measurement strategy and the
 * Involving stakeholders regularly to provide their inputs ensures familiarity with the data being captured.
 * Empowering stakeholders to feel confident in conducting reports and making decisions on their own reduces hesitation.
 
-**Trust
+**Trust**
 
 * Trust is built through proactive involvement, transparency, data governance, and quality control.
 * Stakeholder alignment and involvement in strategic planning are crucial.
