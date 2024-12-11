@@ -1,5 +1,5 @@
 ---
-title: Maximize Email Deliverability with Marketo: Best Practices for Reaching Your Audience
+title: Maximize Email Deliverability with Marketo - Best Practices for Reaching Your Audience
 description: Ensuring your emails reach the intended audience is crucial for driving engagement and achieving marketing goals.
 feature: Deliverability
 role: Admin, Developer, Leader, User
