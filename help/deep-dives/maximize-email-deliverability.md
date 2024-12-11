@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3641
 last-substantial-update: 2024-12-11
 jira: KT-16364
+exl-id: b8b6d108-bdf0-49e9-8bd5-a2a35b1ebc22
 ---
-
 # Maximize Email Deliverability with Marketo Engage: Best Practices for Reaching Your Audience
 
 Ensuring your emails reach the intended audience is crucial for driving engagement and achieving marketing goals. This webinar dives deep into the essentials of email deliverability. We cover key strategies, technical considerations, and common pitfalls to avoid.
