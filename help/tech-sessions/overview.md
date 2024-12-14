@@ -12,6 +12,7 @@ duration: 53
 Unlock the full potential of Adobe Experience Cloud with live and on-demand Tech Sessions. These webinars are thoughtfully designed to go beyond traditional support. Led by seasoned Adobe experts, the sessions provide valuable tips, tricks, and strategies to help you navigate technical solutions with confidence, avoiding common pitfalls. Adobe experts are technical support engineers who address top concerns and actively work on day-to-day cases. With both live and on-demand options, you have the flexibility to access the information whenever you need it, ensuring a seamless learning experience.
 
 ## 2024 Sessions
+
 <!-- CARDS
 {cta = Watch}
 
