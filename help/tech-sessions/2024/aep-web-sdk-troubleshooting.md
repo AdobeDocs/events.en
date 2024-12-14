@@ -9,8 +9,8 @@ doc-type: Event
 duration: 4188
 last-substantial-update: 2024-12-13
 jira: KT-16674
+exl-id: f74dec54-2473-4d81-a6e5-9f6cf13748ba
 ---
-
 # AEP Web SDK Troubleshooting, Assurance, and Tips and Tricks
 
 Join us for an insightful session with Garrett Hartley as we explore tips and tricks for troubleshooting common AEP Web SDK workflows. This session will guide you through key steps for validating your implementation and introduce effective troubleshooting methods to overcome common challenges.  
