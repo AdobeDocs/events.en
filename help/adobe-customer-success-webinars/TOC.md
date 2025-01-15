@@ -32,6 +32,7 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
   + [Lean Teams and Customer Journey Analytics](2024/lean-teams-cja.md)
   + [Mastering the Adobe Admin Console](2024/adobe-admin-console.md)
   + [Mastering Cookies and Data Privacy](2024/mastering-cookies-data-privacy.md)
+  + [Mastering Sequential Logic](2024/sequential-logic.md)
   + [Organizational Readiness for Content Supply Chain](2024/organizational-readiness-content-supply-chain.md)
   + [Real-Time Customer Data Platform and Marketo Integration](2024/aep-marketo-integration.md)
   + [Real-time Customer Data Platform Migration Readiness](2024/rtcdp-migration-readiness.md)

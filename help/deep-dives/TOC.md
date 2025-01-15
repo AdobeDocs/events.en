@@ -21,6 +21,7 @@ doc-type: live event
   + [Certification](certification.md)
   + [Email Nurture](email-nurture.md)
   + [Executable Campaigns](executable-campaigns.md)
+  + [IMS Migration Unpacked](ims-migration.md)
   + [Inheriting an Instance](inheriting-an-instance.md)
   + [Lead Lifecycles](lead-lifecycles.md)
   + [Leveraging PMCF Fields for Scalability](pmcf-fields.md)
