@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3539
 last-substantial-update: 2025-01-15
 jira: KT-16688
+exl-id: 3c1676c3-e6b5-4f4f-ba76-4c65cc6367cb
 ---
-
 # IMS Migration Unpacked: Simplifying the Transition for Marketo Users
 
 In this Adobe Champion Deep Dive we discuss the migration of Marketo users to the Adobe Identity Management System (IMS). This session will guide you through the migration process, from preparation to execution, focusing on the benefits, key steps, and how to ensure your team is ready. Adobe experts will provide insights into the changes you can expect and share practical tips for a smooth transition. 

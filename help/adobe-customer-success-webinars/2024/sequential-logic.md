@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3259
 last-substantial-update: 2025-01-15
 jira: KT-17125
+exl-id: db84e4aa-2585-4a08-8e85-bbf67419cc24
 ---
-
 # Mastering Sequential Logic in AA and CJA: Foundations
 
 Gain a foundational understanding of THEN and related sequential logic operators in Adobe Analytics and Customer Journey Analytics. Sequential logic enables high value analysis in Adobe Analytics and Customer Journey Analytics, but it is underutilized and often misunderstood. This webinar will establish the foundations of how these operators are evaluated in Analysis Workspace.
