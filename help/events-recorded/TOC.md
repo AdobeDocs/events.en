@@ -17,9 +17,12 @@ user-guide-description: A collection of event recordings forcused on using Adobe
   + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
   + [AEM Champion Office Hours](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
   + [APAC Commerce Events](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
+  + [Behind the Brew](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
   + [Commerce and Coffee](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
   + [Customer Data Management Voices](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html)
+  + [Data Drip](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
   + [Deep Dives](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
+  + [Espressos & Experience Manager](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
   + [Experience Cloud Tech Sessions](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
   + [Experience League LIVE](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
   + [Experience Manager GEMS](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
@@ -29,6 +32,7 @@ user-guide-description: A collection of event recordings forcused on using Adobe
   + [Marketo and Mochas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
   + [Skill Builder](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
   + [Skill Exchange](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
+  + [Wake up with Workfront](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
   + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
 + By solution {#solution}
   + Acrobat Sign {#as}
