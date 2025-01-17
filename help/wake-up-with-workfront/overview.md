@@ -2,6 +2,7 @@
 title: Wake Up with Workfront
 description: The Wake Up with Workfront series showcases project management and workflow best practices for all skill levels, featuring actionable strategies, live demonstrations of Workfront's key features, and a concluding Q&A session.
 duration: 15
+exl-id: f03214e9-1ab8-429d-bac5-f2fcef209bd1
 ---
 # Wake Up with Workfront Events
 

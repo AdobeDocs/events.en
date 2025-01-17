@@ -2,6 +2,7 @@
 title: Data Drip
 description: Join Adobe experts in the Data Drip series to explore the latest features and best practices in Adobe Analytics & Target, with live demonstrations ensuring customers maximize product potential and stay competitive.
 duration: 15
+exl-id: dd36b140-d53a-41fd-9c26-4d97ab7740a1
 ---
 # Data Drip Events
 
