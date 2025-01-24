@@ -2,6 +2,7 @@
 title: Marketo Champion Office Hours
 description: Join the Champion Office Hours MUG, facilitated by the Marketo Engage Champion Class, to get your toughest Marketo questions answered by product experts and connect with industry-leading marketers.
 duration: 72
+exl-id: 4e5db217-cd19-4b56-a393-a28fe34b4be4
 ---
 # Marketo Champion Office Hours
 
