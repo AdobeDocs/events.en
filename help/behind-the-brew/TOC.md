@@ -15,4 +15,9 @@ doc-type: live event
 
 + [Overview](overview.md)
 + Behind the Brew {#behind-the-brew}
++ 2025 {#2025}
+  + [Adobe Developer App Builder](2025/app-builder.md)
+  + [Adobe Commerce Intelligence (fka MBI)](2025/commerce-intelligence.md)
+  + [A Deep Dive into Live Search](2025/deep-dive-live-search.md)
+  + [Optimize Your Commerce Storefront](2025/commerce-storefront.md)
 

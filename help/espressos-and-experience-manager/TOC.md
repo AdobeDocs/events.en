@@ -13,6 +13,7 @@ doc-type: live event
 
 # Espressos & Experience Manager {#espressos-and-experience-manager-recordings}
 
-+ [Overview](overview.md)
-+ Espressos & Experience Manager {#espressos-and-experience-manager}
-
++ [Espressos & Experience Manager](overview.md)
++ 2025 {#2025}
+    + [Digital Agility with AEM](2025/digital-agility.md)
+    + [Why AEM is More Powerful in the Cloud](2025/digital-agility.md)

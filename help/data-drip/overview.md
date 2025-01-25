@@ -10,6 +10,59 @@ The Data Drip series features Adobe experts and welcomes existing Adobe Analytic
 
 <!-- CARDS
 
-* activity-log.md {cta  = Watch event}
+{cta  = Watch event}
+
+* 2025/adobe-analytics-basics-beyond.md
+* 2025/marketing-channel-attribution-modeling.md
 
 -->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Analytics Basics and Beyond">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/adobe-analytics-basics-beyond.md" title="Adobe Analytics Basics and Beyond" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443028/?format=jpeg&nocache=1737763602579" alt="Adobe Analytics Basics and Beyond"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/adobe-analytics-basics-beyond.md" target="_blank" rel="referrer" title="Adobe Analytics Basics and Beyond">Adobe Analytics Basics and Beyond</a>
+                    </p>
+                    <p class="is-size-6">Maximize Efficiency and Value with Adobe Analytics - Essential Best Practices and Reporting Features</p>
+                </div>
+                <a href="2025/adobe-analytics-basics-beyond.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch event</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Marketing Channels & Attribution Modeling">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/marketing-channel-attribution-modeling.md" title="Marketing Channels & Attribution Modeling" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443020/?format=jpeg&nocache=1737763602565" alt="Marketing Channels & Attribution Modeling"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/marketing-channel-attribution-modeling.md" target="_blank" rel="referrer" title="Marketing Channels & Attribution Modeling">Marketing Channels & Attribution Modeling</a>
+                    </p>
+                    <p class="is-size-6">Unlock the Power of Adobe Analytics Set Up Marketing Channels and Leverage Attribution Modeling with Expert Guidance</p>
+                </div>
+                <a href="2025/marketing-channel-attribution-modeling.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch event</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->

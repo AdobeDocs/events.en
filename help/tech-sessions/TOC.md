@@ -37,5 +37,3 @@ user-guide-description: Experience Cloud Tech Sessions is a proactive approach t
   + Workfront {#workfront-office-hours}
     + [Fix Duplicate Contacts](2023/workfront-fix-duplicate-contacts.md)
     + [Proof Approval Reports](2023/workfront-proof-approval-reports.md)
-
-    
