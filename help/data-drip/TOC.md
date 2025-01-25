@@ -13,6 +13,8 @@ doc-type: live event
 
 # Data Drip {#data-drip-recordings}
 
-+ [Overview](overview.md)
-+ Data Drip {#data-drip}
++ [Data Drip](overview.md)
++ 2025 {#2025}
+  + [Adobe Analytics Basics and Beyond](2025/adobe-analytics-basics-beyond.md)
+  + [Marketing Channels & Attribution Modeling](2025/marketing-channel-attribution-modeling.md)
 
