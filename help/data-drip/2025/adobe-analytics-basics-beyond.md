@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3437
 last-substantial-update: 2025-01-25
 jira: KT-17172
+exl-id: 348404c6-3886-4af0-ae16-82ff379d0181
 ---
-
 # Adobe Analytics Basics and Beyond
 
 In this webinar, Taylor Walker and Vishnu Pillai guide us through the essentials of Adobe Analytics, ensuring your company is equipped to maximize the value of the platform, prioritize efficiency, and comfortably orient new users. Taylor will begin with an overview of high level best practices, guidance on how to effectively organize your workspace, and an introduction to Adobe Analytics' built-in learning paths for beginners. Additionally, we explore the Reporting features, including how to navigate the reporting interface, export data, and connect Adobe Analytics with 3rd party data visualization tools. Vishnu will conduct a demonstration of a well-optimized Adobe Analytics workspace and provide a practical example of the data extraction process.

@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3655
 last-substantial-update: 2025-01-24
 jira: KT-17168
+exl-id: 36805420-e73f-47f7-b853-f7df9a358b3d
 ---
-
 # Optimize and Maintain Your Environment
 
 This session focused on unleashing efficiency through clean-up and tune-up strategies in Adobe Workfront. Discover actionable insights to optimize your work management experience and drive productivity. 
