@@ -18,6 +18,7 @@ exl-id: 9137dbbd-4e23-4a59-9f9c-d2702b56d70d
 Ways of using AEM Sites are evolving rapidly, adding API-first patterns to traditional user interactions. Whether you're looking to streamline your operations or enhance your automation, staying ahead of such trends is crucial. Join us for an in-depth session where we explore related cutting-edge updates in AEM Sites and how they can empower your content management strategy.
 
 In this session, you'll discover,
+
 * **Advanced OpenAPI Standards**  Explore the latest OpenAPI implementations for seamless CRUD operations on AEM structured content.
 * **Eventing and Webhooks** Learn how Adobe I/O’s eventing and webhook capabilities can automate processes based on content and state changes in AEM.
 * **New REST APIs for Translation Automation** Get to know the new REST APIs that simplify and streamline your content translation workflows in AEM.

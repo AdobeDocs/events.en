@@ -7,6 +7,9 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
 # Adobe Customer Success Webinars {#adobe-customer-success-webinar-recordings}
 
 + [Adobe Customer Success Webinars](overview.md)
++ 2025 {#2025}
+  + [Enhancing Loyalty Programs Through Personalization and Data](2025/enhance-loyalty-programs.md)
+  + [Mastering Sequential Logic](2025/mastering-sequential-logic.md)
 + 2024 {#2024}
   + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
   + [Adobe Target's AI-Driven Personalization](2024/ai-personalization.md)

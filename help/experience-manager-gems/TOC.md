@@ -7,6 +7,8 @@ breadcrumb-title: AEM GEMs events
 # Experience Manager GEMS events {#experience-manager-gems-recordings}
 
 + [Overview](overview.md)
++ 2025 {#gems2025}
+  + [Getting started with Adobe Managed CDN](gems2025/getting-started-adobe-managed-cdn.md)
 + 2024 {#gems2024}
   + [Unlocking the Power of AEM Sites - Master the Content Management APIs](gems2024/content-management-apis.md)
   + [What's new in Rapid Development Environments for AEM?](gems2024/rapid-development-environment-news.md)
