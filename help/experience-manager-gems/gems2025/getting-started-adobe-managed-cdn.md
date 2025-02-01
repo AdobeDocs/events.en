@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3438
 last-substantial-update: 2025-01-30
 jira: KT-17227
+exl-id: 4cd0332f-95bf-45f4-a765-aba020c0d7b0
 ---
-
 # AEM GEMs - Getting started with Adobe Managed CDN
 
 Learn about the Adobe Managed CDN in AEM Cloud Service and how it can be configured. Join us to explore the new CDN configuration capabilities that can be used to enhance both performance and security of your AEM as a Cloud Service applications. In this session you will discover,

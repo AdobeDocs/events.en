@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3331
 last-substantial-update: 2025-01-31
 jira: KT-17216
+exl-id: c0cc6c9d-863b-4651-8d0e-d05c7813c285
 ---
-
 # Mastering Sequential Logic in AA and CJA: A Visual Framework
 
 Acquire a visual framework to translate your sequential analysis scenarios into a plan and then build the right sequential segments (filters).

@@ -7,8 +7,8 @@ doc-type: Event
 duration: 2872
 last-substantial-update: 2025-01-31
 jira: KT-17217
+exl-id: e03bd4d1-c84e-4cf1-9021-76b420e8542a
 ---
-
 # Enhancing Loyalty Programs Through Personalization and Data with the Power of Adobe Solutions
 
 In this session, we’ll explore how Adobe solutions can support your customer journey for creating loyalty awareness, onboarding and retention. We’ll showcase the different types of loyalty programs across various industries. We will then highlight how Adobe’s solutions can enhance these programs for marketers using data & personalization tactics.
