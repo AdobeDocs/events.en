@@ -15,6 +15,7 @@ doc-type: live event
 
 + [Overview](overview.md)
 + Episodes {#episodes}
+  + [Ep. 44: Unlocking operational insights with AI Assistant in Adobe Experience Platform](episodes/exl-live-episode-02-27-25.md)
   + [Ep. 43: Introducing AI Assistant for Audiences for Marketers in Real-Time CDP](episodes/exl-live-episode-11-13-24.md)
   + [Ep. 42: Unveiling Content Cards for Adobe Journey Optimizer](episodes/exl-live-episode-10-30-24.md)
   + [Ep. 41: Harmonize Audiences using Federated Audience Composition in Experience Platform](episodes/exl-live-episode-40-2024-10-24.md)

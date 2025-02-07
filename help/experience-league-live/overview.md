@@ -19,11 +19,16 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 
 <table>
 <tr>
-  
-  <td style="vertical-align: top;">
-    Please return to this page soon for more upcoming episodes of Experience League LIVE!
-    </br>
-    Choose previous episodes from the TOC on the left side of this page.
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-27-25.md">
+      <img alt="Experience League LIVE Feb 27" src="episodes/assets/WebBanner-02-27-25.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-02-27-25.md">
+        <strong>Unlocking operational insights with AI Assistant in Adobe Experience Platform</strong>
+      </a>
+      <br/><em>with Rudi Shumpert, Namita Krishnan and Huong Vu</em>
+      <br/><em>February 27, 2025</em>
+    </div>
   </td>
 </tr>
 </table> 
