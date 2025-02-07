@@ -18,6 +18,6 @@ In this session, you’ll explore:
 * How teams across the organization, from marketing operations to data engineers and architects, can leverage operational insights through AI Assistant
 * The latest innovations and capabilities of AI Assistant that will drive productivity and redefine workflows in Adobe Experience Platform-based applications 
 
->[![ExL LIVE Feb 27 2025](assets/WebBanner-02-27-25.jpg)](https://www.youtube.com/live/fGgFwAOZle8)
+[![ExL LIVE Feb 27 2025](assets/WebBanner-02-27-25.jpg)](https://www.youtube.com/live/fGgFwAOZle8)
 
 **Click the image to set a Youtube reminder!**
