@@ -7,6 +7,7 @@ feature: AI Assistant
 event-cta-url-live: https://www.youtube.com/live/fGgFwAOZle8
 event-start-time: 2025-02-27 08:30-8
 event-guests: Daniel Wright, Rudi Shumpert, Namita Krishnan, Huong Vu
+exl-id: d04e52e5-b6d0-4f9a-b6e6-f78e8f8cb7d0
 ---
 # Unlocking operational insights with AI Assistant in Adobe Experience Platform
 
