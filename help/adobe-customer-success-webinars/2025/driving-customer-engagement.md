@@ -20,9 +20,9 @@ Explore an insightful session showcasing how AEM Forms transforms customer engag
 
 * **Challenges and Opportunities in the Payer Space** The healthcare industry faces challenges in managing the exponential growth of digital information and forms, leading to inefficiencies and high costs. There is a need to streamline processes, reduce costs, and improve customer engagement.
 
-* **Capabilities of Aim Forms** Aim forms drive operational efficiencies and exceptional user experiences by enabling organizations to author forms at scale, automate workflows, and deliver omnichannel experiences. This leads to higher conversion and enrollment rates, reduced form abandonment, and increased team productivity.
+* **Capabilities of AEM Forms** AEM forms drive operational efficiencies and exceptional user experiences by enabling organizations to author forms at scale, automate workflows, and deliver omnichannel experiences. This leads to higher conversion and enrollment rates, reduced form abandonment, and increased team productivity.
 
-* **End-to-End Solution** Aim forms provide an end-to-end solution that includes omnichannel forms, automated workflows, and interactive customer communications. The solution is integrated with Adobe Experience Cloud, enhancing the overall user experience and operational efficiency.
+* **End-to-End Solution** AEM Forms provide an end-to-end solution that includes omnichannel forms, automated workflows, and interactive customer communications. The solution is integrated with Adobe Experience Cloud, enhancing the overall user experience and operational efficiency.
 
 * **Innovations and Integrations** Recent innovations include delivery services for better performance, headless adaptive forms for omnichannel delivery, and new connectors for integration with systems like OneDrive, Power Automate, Salesforce, and Workfront. Early access features include Gen AI assistant, Marketo connector, and conversational forms.
 
