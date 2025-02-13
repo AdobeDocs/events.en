@@ -14,6 +14,8 @@ doc-type: live event
 # Marketo and Mochas {#marketo-and-mochas-recordings}
 
 + [Overview](overview.md)
++ 2025 {#2025}
+  + [5 Marketo Features to Know](2025/5-features-to-know.md)
 + 2024 {#2024}
   + [Ask Me Anything](2024/ask-me-anything.md)
   + [Maturity Part 1 - Laying the Foundation](2024/maturity-part1-foundation.md)
