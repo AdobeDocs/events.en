@@ -21,14 +21,14 @@ Watch our first Marketo & Mochas session of the year with our Marketo Engage exp
 ## Referenced links and downloads
 
 * **Handout**
-  * [5 Features to Know in 2025](help/marketo-and-mochas/assets/marketo-&-mochas-5-features-handout.pdf)
+  * [5 Features to Know in 2025](../assets/marketo-&-mochas-5-features-handout.pdf)
 
 * **Target Account Management**
   * [Overview](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/target-account-management/setup/target-account-management-overview)
   * [FAQ](https://nation.marketo.com/t5/knowledgebase/target-account-management-previously-abm-faq-product-facts-and/ta-p/301199)
   * [Tips & Tricks Video](https://nation.marketo.com/t5/product-blogs/marketo-engage-abm-tips-amp-tricks-with-corey-bayless/ba-p/304664)
 
-* **Predictive Audiences** 
+* **Predictive Audiences**
   * [Overview](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences)
   * [Use Cases](https://nation.marketo.com/t5/product-blogs/using-predictive-audiences-in-marketo-engage/ba-p/301937)
 
