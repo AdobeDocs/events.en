@@ -1,6 +1,6 @@
 ---
 title: From Vision to Value - AEP Use Case Planning
-description: Learn to deliver impactful customer experiences by defining a strategy with clear objectives and success factors that align with business outcomes and KPIs, inform a roadmap to attainable value realization, and effectively leverage Adobe solution capabilities.
+description: The AEP Use Case Planning session covers value mapping, strategy alignment, and maximizing business value through KPIs. It helps organizations align objectives with business outcomes and leverage Adobe solutions for impactful customer experiences.
 solution: Experience Platform
 role: Admin, Developer, Leader, User
 level: Intermediate

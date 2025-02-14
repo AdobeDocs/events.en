@@ -1,6 +1,6 @@
 ---
 title: AEM Sites Efficiencies - Performance optimization, Configuration, and Troubleshooting
-description: This session covers essential troubleshooting skills for Adobe Experience Manager (AEM) Sites, focusing on practical, hands-on solutions for performance issues, complex configurations, and user permissions.
+description: The webinar on AMP site efficiencies covered performance optimization, dispatcher configuration, rights management best practices, and strategies to address performance issues.
 solution: Experience Manager
 version: Cloud Service
 role: Admin, Developer, Leader, User

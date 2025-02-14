@@ -1,6 +1,6 @@
 ---
 title: Maximizing User Experiences with Adobe Target's AI-Driven Personalization
-description: The session on Adobe Target's AI-driven personalization, led by John Magnusson, highlighted features like Auto Allocate, Auto Target, Automated Personalization, and Recommendations, with implementation examples from Swisscom and Granger, emphasizing the Engage, Expand, and Embed framework, and encouraging attendees to apply these tools using a strategic approach.
+description: John Magnusson's session on Adobe Target's AI-driven personalization highlighted key features and examples, emphasizing the Engage, Expand, and Embed framework.
 solution: Target
 topic: Personalization, Artificial Intelligence
 role: Admin, Developer, Leader, User

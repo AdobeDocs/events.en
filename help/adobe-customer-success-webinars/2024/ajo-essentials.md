@@ -1,6 +1,6 @@
 ---
 title: Adobe Journey Optimizer Essentials - Creating Campaigns, Customer Journeys, and Landing Pages
-description: Learn the essentials of building Campaigns, mapping Customer Journeys, and creating Landing Pages for maximum impact. By the end of this session, beginners will possess the confidence to start leveraging Adobe Journey Optimizer to create impactful customer experiences that drive results.
+description: The Adobe Journey Optimizer Essentials session covered building campaigns, mapping customer journeys, and creating landing pages, emphasizing personalized customer experiences across various channels.
 solution: Journey Optimizer
 role: Admin, Developer, Leader, User
 level: Intermediate

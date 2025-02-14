@@ -1,6 +1,6 @@
 ---
 title: Fundamentals of Real-Time Customer Data Platform and Marketo Integration
-description: Delve into the powerful integration between Adobe AEP/ Real-Time Customer Data Platforms and Marketo. Discover how these two platforms work seamlessly together to enhance your communication efforts, streamline processes, and drive personalized customer experiences.
+description: The Fundamentals of Real-Time Customer Data Platform and Marketo Integration explore how Adobe AEP/RTCDP and Marketo work together to enhance communication, streamline processes, and deliver personalized customer experiences.
 solution: Marketo, Real-Time Customer Data Platform
 role: Admin, Developer, Leader, User
 level: Intermediate

@@ -1,6 +1,6 @@
 ---
 title: Adobe Analytics & CJA Quick Start for Basic to Intermediate Analysis Capabilities
-description: The session "Quickstart for Basic Intermediate Analysis Capabilities," led by Dr. Kirsten Schaffer, covered setting up robust analytical capabilities, governance, and analytics paths, comparing Adobe Analytics and Customer Journey Analytics, discussing types of analytics, and emphasizing the importance of a single source of truth for data reporting.
+description: The session covered setting up analytical capabilities, comparing Adobe Analytics and Customer Journey Analytics, and key features for marketing reports.
 solution: Customer Journey Analytics, Analytics
 role: Admin, Developer, Leader, User
 level: Intermediate

@@ -1,6 +1,6 @@
 ---
 title: Getting started with Edge Delivery Services for AEM Forms
-description: Learn how to create and publish AEM Forms using Edge Delivery Services and deliver them as exceptional experiences through the edge. We will cover two ways of authoring these forms - Using Document Based Authoring as well as AEM Based Authoring. You will learn about how to setup an AEM Forms Edge Delivery Services Project for customizing Forms Blocks and Components and for using Server Side Extensions. You will also learn how to leverage AEM Forms as a Cloud Service for backend processing of Forms after submission.
+description: Learn to create and publish AEM Forms using Edge Delivery Services, covering document-based and AEM-based authoring, project setup for customization, and leveraging AEM Forms as a Cloud Service for backend processing.
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services

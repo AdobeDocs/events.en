@@ -1,6 +1,6 @@
 ---
 title: What's new in Rapid Development Environments for AEM?
-description: RDEs allow developers to swiftly deploy and review changes, minimizing the amount of time needed to test features that are proven to work on a local development environment. In this session we'll show you how you can use RDEs to reduces the turn-around times during development and get near instant feedback for code changes. Additionally, we'll introduce you to the latest features like improved logging and frontend support. Join us to learn more about what you can do with RDEs and let us know what you would like to see added next!
+description: The session will demonstrate how RDEs enable swift deployment and review of changes, reducing development turnaround times and providing near-instant feedback. It will also introduce new features like improved logging and frontend support.
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services

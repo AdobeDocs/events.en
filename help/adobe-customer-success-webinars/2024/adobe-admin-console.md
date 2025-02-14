@@ -1,6 +1,6 @@
 ---
 title: Mastering the Adobe Admin Console
-description: The Adobe Admin Console is a centralized platform for managing Adobe Enterprise Solutions, offering user and license management, security and compliance features, support resources, admin roles, best practices for scaling, and integration with various systems for streamlined operations.
+description: The Adobe Admin Console is a centralized platform for managing Adobe Enterprise Solutions, offering user and product management, security and compliance features, support resources, and scalable best practices for organizations.
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event

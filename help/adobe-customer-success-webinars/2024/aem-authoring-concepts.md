@@ -1,6 +1,6 @@
 ---
 title: AEM Basics Introduction to AEM Authoring key concepts and capabilities
-description: Discover how AEM offers a robust and flexible authoring environment that supports various content creation methodologies, from traditional web pages to headless CMS setups.Key Discussion Points:Authoring including Universal editorContent FragmentCollaborative capabilities
+description: The AEM Authoring Basics session covered key concepts, the dual environment model, content creation challenges, authoring tools, collaborative and translation features, and edge delivery services.
 solution: Experience Manager
 version: Cloud Service
 role: Admin, Developer, Leader, User

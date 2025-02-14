@@ -40,7 +40,7 @@ The webinars are conducted regularly.  Important tips,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2025/getting-started-adobe-managed-cdn.md" title="AEM GEMs - Getting started with Adobe Managed CDN" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443168/?format=jpeg&nocache=1738357042293" alt="AEM GEMs - Getting started with Adobe Managed CDN"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443168/?format=jpeg&nocache=1739484199651" alt="AEM GEMs - Getting started with Adobe Managed CDN"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -64,14 +64,14 @@ The webinars are conducted regularly.  Important tips,
 ## 2024
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/aem-authoring-and-edge-delivery
-* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis
-* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-assets
-* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-forms
-* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events
-* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/private-github-for-aem-cloud-manager
-* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/rapid-development-environment-news
-* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/storefronts-on-edge-delivery-with-adobe-commerce
+* gems2024/aem-authoring-and-edge-delivery.md
+* gems2024/content-management-apis.md
+* gems2024/edge-delivery-for-aem-assets.md
+* gems2024/edge-delivery-for-aem-forms.md
+* gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md
+* gems2024/private-github-for-aem-cloud-manager.md
+* gems2024/rapid-development-environment-news.md
+* gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -79,8 +79,8 @@ The webinars are conducted regularly.  Important tips,
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/aem-authoring-and-edge-delivery" title="Getting started with AEM Authoring and Edge Delivery Services" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427919/?format=jpeg&nocache=1738357043803" alt="Getting started with AEM Authoring and Edge Delivery Services"
+                    <a href="gems2024/aem-authoring-and-edge-delivery.md" title="Getting started with AEM Authoring and Edge Delivery Services" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427919/?format=jpeg&nocache=1739484200021" alt="Getting started with AEM Authoring and Edge Delivery Services"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -88,12 +88,12 @@ The webinars are conducted regularly.  Important tips,
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/aem-authoring-and-edge-delivery" target="_blank" rel="referrer" title="Getting started with AEM Authoring and Edge Delivery Services">Getting started with AEM Authoring and Edge Delivery Services</a>
+                        <a href="gems2024/aem-authoring-and-edge-delivery.md" target="_blank" rel="referrer" title="Getting started with AEM Authoring and Edge Delivery Services">Getting started with AEM Authoring and Edge Delivery Services</a>
                     </p>
-                    <p class="is-size-6">This AEM GEMs webinar includes a presentation and demo to show you how AEM authoring works together with Edge Delivery Services. We will walk you through the process of creating a new Edge Delivery Services project that is enabled for AEM authoring with AEM Cloud Service as a content source, and we will show you how you can benefit from the lean and agile development experience that comes with Edge Delivery Services but preserve a WYSIWYG authoring experience for the practitioner.</p>
+                    <p class="is-size-6">The AEM GEMs webinar shows how AEM authoring integrates with Edge Delivery Services, creating a project with AEM Cloud Service and maintaining a WYSIWYG authoring interface.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/aem-authoring-and-edge-delivery" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                <a href="gems2024/aem-authoring-and-edge-delivery.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
                 </a>
             </div>
         </div>
@@ -102,8 +102,8 @@ The webinars are conducted regularly.  Important tips,
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis" title="AEM GEMs - Unlocking the Power of AEM Sites - Master the Content Management APIs" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435036/?format=jpeg&nocache=1738357043849" alt="AEM GEMs - Unlocking the Power of AEM Sites - Master the Content Management APIs"
+                    <a href="gems2024/content-management-apis.md" title="AEM GEMs - Unlocking the Power of AEM Sites - Master the Content Management APIs" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435036/?format=jpeg&nocache=1739484200038" alt="AEM GEMs - Unlocking the Power of AEM Sites - Master the Content Management APIs"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -111,12 +111,12 @@ The webinars are conducted regularly.  Important tips,
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis" target="_blank" rel="referrer" title="AEM GEMs - Unlocking the Power of AEM Sites - Master the Content Management APIs">AEM GEMs - Unlocking the Power of AEM Sites - Master the Content Management APIs</a>
+                        <a href="gems2024/content-management-apis.md" target="_blank" rel="referrer" title="AEM GEMs - Unlocking the Power of AEM Sites - Master the Content Management APIs">AEM GEMs - Unlocking the Power of AEM Sites - Master the Content Management APIs</a>
                     </p>
-                    <p class="is-size-6">The webinar on Adobe Experience Manager (AEM) content APIs introduced new, modernized APIs for enhanced content management and delivery. ​Key speakers, including Matthias, Catalina, Leonard, and Prashant, showcased the capabilities of these APIs, such as structured content management, optimized content delivery, and automated translation processes. ​Highlights included the new UI schema feature, improved reference handling, batch request capabilities, and a faster content delivery API. ​Attendees were encouraged to explore these APIs via Adobe's developer documentation and join the early adopter program for early access and direct engineering support.</p>
+                    <p class="is-size-6">The AEM GEMs session explores API-first patterns in AEM Sites, covering advanced OpenAPI standards, eventing and webhooks, and new REST APIs for translation automation, with insights from Adobe experts.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                <a href="gems2024/content-management-apis.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
                 </a>
             </div>
         </div>
@@ -125,8 +125,8 @@ The webinars are conducted regularly.  Important tips,
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-assets" title="Integrating AEM Assets with Edge Delivery Services" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433046/?format=jpeg&nocache=1738357043796" alt="Integrating AEM Assets with Edge Delivery Services"
+                    <a href="gems2024/edge-delivery-for-aem-assets.md" title="Integrating AEM Assets with Edge Delivery Services" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433046/?format=jpeg&nocache=1739484200051" alt="Integrating AEM Assets with Edge Delivery Services"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -134,12 +134,12 @@ The webinars are conducted regularly.  Important tips,
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-assets" target="_blank" rel="referrer" title="Integrating AEM Assets with Edge Delivery Services">Integrating AEM Assets with Edge Delivery Services</a>
+                        <a href="gems2024/edge-delivery-for-aem-assets.md" target="_blank" rel="referrer" title="Integrating AEM Assets with Edge Delivery Services">Integrating AEM Assets with Edge Delivery Services</a>
                     </p>
-                    <p class="is-size-6">During this AEM GEMs webinar, we will show how you can use AEM Assets in your site built on AEM Edge Delivery Services.  We will start with the integration steps, which will allow developers to integrate the AEM Assets repository into the site authoring flow. Then we will demonstrate how developers can customize the integration based on site-specific authoring requirements. We'll also show how the assets can be delivered using AEM Dynamic Media with Open API, allowing you to leverage Dynamic Media Open API features. Additionally, we will dive into practical use cases and best practices, providing a comprehensive understanding of how this integration helps in leveraging your asset management solution in your site authoring flows.</p>
+                    <p class="is-size-6">The AEM GEMs webinar will demonstrate integrating AEM Assets into sites built on AEM Edge Delivery Services, customizing the integration, delivering assets using AEM Dynamic Media with Open API, and exploring practical use cases and best practices.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-assets" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                <a href="gems2024/edge-delivery-for-aem-assets.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
                 </a>
             </div>
         </div>
@@ -148,8 +148,8 @@ The webinars are conducted regularly.  Important tips,
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-forms" title="Getting started with Edge Delivery Services for AEM Forms" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428434/?format=jpeg&nocache=1738357043810" alt="Getting started with Edge Delivery Services for AEM Forms"
+                    <a href="gems2024/edge-delivery-for-aem-forms.md" title="Getting started with Edge Delivery Services for AEM Forms" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428434/?format=jpeg&nocache=1739484200089" alt="Getting started with Edge Delivery Services for AEM Forms"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -157,12 +157,12 @@ The webinars are conducted regularly.  Important tips,
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-forms" target="_blank" rel="referrer" title="Getting started with Edge Delivery Services for AEM Forms">Getting started with Edge Delivery Services for AEM Forms</a>
+                        <a href="gems2024/edge-delivery-for-aem-forms.md" target="_blank" rel="referrer" title="Getting started with Edge Delivery Services for AEM Forms">Getting started with Edge Delivery Services for AEM Forms</a>
                     </p>
-                    <p class="is-size-6">Learn how to create and publish AEM Forms using Edge Delivery Services and deliver them as exceptional experiences through the edge. We will cover two ways of authoring these forms - Using Document Based Authoring as well as AEM Based Authoring. You will learn about how to setup an AEM Forms Edge Delivery Services Project for customizing Forms Blocks and Components and for using Server Side Extensions. You will also learn how to leverage AEM Forms as a Cloud Service for backend processing of Forms after submission.</p>
+                    <p class="is-size-6">Learn to create and publish AEM Forms using Edge Delivery Services, covering document-based and AEM-based authoring, project setup for customization, and leveraging AEM Forms as a Cloud Service for backend processing.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-forms" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                <a href="gems2024/edge-delivery-for-aem-forms.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
                 </a>
             </div>
         </div>
@@ -171,8 +171,8 @@ The webinars are conducted regularly.  Important tips,
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events" title="Improving the developer experience for AEM Assets with our new APIs and Events" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430198?format=jpeg&nocache=1738357043829" alt="Improving the developer experience for AEM Assets with our new APIs and Events"
+                    <a href="gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md" title="Improving the developer experience for AEM Assets with our new APIs and Events" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430198?format=jpeg&nocache=1739484200062" alt="Improving the developer experience for AEM Assets with our new APIs and Events"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -180,12 +180,12 @@ The webinars are conducted regularly.  Important tips,
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events" target="_blank" rel="referrer" title="Improving the developer experience for AEM Assets with our new APIs and Events">Improving the developer experience for AEM Assets with our new APIs and Events</a>
+                        <a href="gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md" target="_blank" rel="referrer" title="Improving the developer experience for AEM Assets with our new APIs and Events">Improving the developer experience for AEM Assets with our new APIs and Events</a>
                     </p>
-                    <p class="is-size-6">AEM developers will have the opportunity to explore the newly introduced Assets Open APIs and cloud-native I/O Events that we are offering. These advancements enable the creation of out-of-process AEM extensions. During this session, we will demonstrate how to effectively implement these tools. This demonstration will show developers how they can streamline their workflows, enhance their development speed, and reduce ongoing maintenance efforts. Additionally, we will dive into practical use cases and best practices, providing a comprehensive understanding of how these innovations can be leveraged to optimize development processes.</p>
+                    <p class="is-size-6">AEM developers can explore new Assets Open APIs and cloud-native I/O Events to create out-of-process AEM extensions, streamline workflows, enhance development speed, and reduce maintenance, with practical use cases and best practices demonstrated.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                <a href="gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
                 </a>
             </div>
         </div>
@@ -194,8 +194,8 @@ The webinars are conducted regularly.  Important tips,
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/private-github-for-aem-cloud-manager" title="Integrating Private GitHub Repositories in AEM Cloud Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432350?format=jpeg&nocache=1738357043823" alt="Integrating Private GitHub Repositories in AEM Cloud Manager"
+                    <a href="gems2024/private-github-for-aem-cloud-manager.md" title="Integrating Private GitHub Repositories in AEM Cloud Manager" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432350?format=jpeg&nocache=1739484200072" alt="Integrating Private GitHub Repositories in AEM Cloud Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -203,12 +203,12 @@ The webinars are conducted regularly.  Important tips,
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/private-github-for-aem-cloud-manager" target="_blank" rel="referrer" title="Integrating Private GitHub Repositories in AEM Cloud Manager">Integrating Private GitHub Repositories in AEM Cloud Manager</a>
+                        <a href="gems2024/private-github-for-aem-cloud-manager.md" target="_blank" rel="referrer" title="Integrating Private GitHub Repositories in AEM Cloud Manager">Integrating Private GitHub Repositories in AEM Cloud Manager</a>
                     </p>
-                    <p class="is-size-6">During this AEM GEMs webinar, we will show how you can get the most out of adding your own private GitHub repository in Cloud Manager. We will start with the repository onboarding, which will now allow you to directly link the GitHub repository to your Cloud Manager pipelines, eliminating the need to consistently sync your code with the Adobe repository. Then we want to showcase how this feature allows you to shift-left your testing process, bringing the Cloud Manager code quality checks at the pull request level before the code is merged. This way, as an AEM developer, you would be able to identify the issues that would have failed your Cloud Manager build sooner in your development cycle.</p>
+                    <p class="is-size-6">The AEM GEMs webinar will demonstrate how to add a private GitHub repository in Cloud Manager, link it directly to pipelines, and shift-left testing to identify issues at the pull request level before merging code.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/private-github-for-aem-cloud-manager" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                <a href="gems2024/private-github-for-aem-cloud-manager.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
                 </a>
             </div>
         </div>
@@ -217,8 +217,8 @@ The webinars are conducted regularly.  Important tips,
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/rapid-development-environment-news" title="What's new in Rapid Development Environments for AEM?" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433337/?format=jpeg&nocache=1738357043868" alt="What's new in Rapid Development Environments for AEM?"
+                    <a href="gems2024/rapid-development-environment-news.md" title="What's new in Rapid Development Environments for AEM?" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433337/?format=jpeg&nocache=1739484200081" alt="What's new in Rapid Development Environments for AEM?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -226,12 +226,12 @@ The webinars are conducted regularly.  Important tips,
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/rapid-development-environment-news" target="_blank" rel="referrer" title="What's new in Rapid Development Environments for AEM?">What's new in Rapid Development Environments for AEM?</a>
+                        <a href="gems2024/rapid-development-environment-news.md" target="_blank" rel="referrer" title="What's new in Rapid Development Environments for AEM?">What's new in Rapid Development Environments for AEM?</a>
                     </p>
-                    <p class="is-size-6">RDEs allow developers to swiftly deploy and review changes, minimizing the amount of time needed to test features that are proven to work on a local development environment. In this session we'll show you how you can use RDEs to reduces the turn-around times during development and get near instant feedback for code changes. Additionally, we'll introduce you to the latest features like improved logging and frontend support. Join us to learn more about what you can do with RDEs and let us know what you would like to see added next!</p>
+                    <p class="is-size-6">The session will demonstrate how RDEs enable swift deployment and review of changes, reducing development turnaround times and providing near-instant feedback. It will also introduce new features like improved logging and frontend support.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/rapid-development-environment-news" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                <a href="gems2024/rapid-development-environment-news.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
                 </a>
             </div>
         </div>
@@ -240,8 +240,8 @@ The webinars are conducted regularly.  Important tips,
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/storefronts-on-edge-delivery-with-adobe-commerce" title="Building Storefronts on Edge Delivery Services with Adobe Commerce" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427729?format=jpeg&nocache=1738357043816" alt="Building Storefronts on Edge Delivery Services with Adobe Commerce"
+                    <a href="gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md" title="Building Storefronts on Edge Delivery Services with Adobe Commerce" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427729?format=jpeg&nocache=1739484200100" alt="Building Storefronts on Edge Delivery Services with Adobe Commerce"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -249,12 +249,12 @@ The webinars are conducted regularly.  Important tips,
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/storefronts-on-edge-delivery-with-adobe-commerce" target="_blank" rel="referrer" title="Building Storefronts on Edge Delivery Services with Adobe Commerce">Building Storefronts on Edge Delivery Services with Adobe Commerce</a>
+                        <a href="gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md" target="_blank" rel="referrer" title="Building Storefronts on Edge Delivery Services with Adobe Commerce">Building Storefronts on Edge Delivery Services with Adobe Commerce</a>
                     </p>
-                    <p class="is-size-6">This AEM GEMs webinar will teach you how to build a high-performance storefront on Edge Delivery Services for Adobe Commerce. We will guide you through the setup process of your project with the Commerce boilerplate and how to connect it with the new Commerce SaaS services for fast and Sensei UI-enhanced product catalog integration. We introduce drop-in components, a set of customizable front-end components that accelerate storefront development. You will learn best practices on how to extend and style them. Finally, we will highlight new Edge Delivery authoring features to enrich your Commerce experiences with authored content.</p>
+                    <p class="is-size-6">The AEM GEMs webinar will teach you to build a high-performance storefront on Edge Delivery Services for Adobe Commerce, covering project setup, Commerce SaaS integration, customizable front-end components, and new authoring features to enhance Commerce experiences.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/storefronts-on-edge-delivery-with-adobe-commerce" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                <a href="gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
                 </a>
             </div>
         </div>

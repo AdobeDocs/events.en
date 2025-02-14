@@ -1,6 +1,6 @@
 ---
 title: Optimizing Content Delivery - Unlocking the Power of Edge Services
-description: ATM Edge Delivery Services (EDS) enhances ATM capabilities with composable services, fast development cycles, and high lighthouse scores, supporting document-based and WYSIWYG authoring, serverless architecture, quick site creation, and extensive customization options.
+description: The session on Edge Delivery Services (EDS) covered its architecture, integration with document-based and AEM-based authoring, quick site creation, customization options, and best practices for maintaining high performance.
 solution: Experience Manager, Experience Manager as a Cloud Service
 feature: Edge Delivery Services
 role: Admin, Developer, Leader, User
