@@ -1,6 +1,6 @@
 ---
 title: Integrating Private GitHub Repositories in AEM Cloud Manager
-description: During this AEM GEMs webinar, we will show how you can get the most out of adding your own private GitHub repository in Cloud Manager. We will start with the repository onboarding, which will now allow you to directly link the GitHub repository to your Cloud Manager pipelines, eliminating the need to consistently sync your code with the Adobe repository. Then we want to showcase how this feature allows you to shift-left your testing process, bringing the Cloud Manager code quality checks at the pull request level before the code is merged. This way, as an AEM developer, you would be able to identify the issues that would have failed your Cloud Manager build sooner in your development cycle.
+description: The AEM GEMs webinar will demonstrate how to add a private GitHub repository in Cloud Manager, link it directly to pipelines, and shift-left testing to identify issues at the pull request level before merging code.
 solution: Experience Manager
 version: Cloud Service
 feature: Developer Tools

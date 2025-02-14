@@ -1,6 +1,6 @@
 ---
 title: AEM GEMs - Unlocking the Power of AEM Sites - Master the Content Management APIs
-description: The webinar on Adobe Experience Manager (AEM) content APIs introduced new, modernized APIs for enhanced content management and delivery. ​Key speakers, including Matthias, Catalina, Leonard, and Prashant, showcased the capabilities of these APIs, such as structured content management, optimized content delivery, and automated translation processes. ​Highlights included the new UI schema feature, improved reference handling, batch request capabilities, and a faster content delivery API. ​Attendees were encouraged to explore these APIs via Adobe's developer documentation and join the early adopter program for early access and direct engineering support.
+description: The AEM GEMs session explores API-first patterns in AEM Sites, covering advanced OpenAPI standards, eventing and webhooks, and new REST APIs for translation automation, with insights from Adobe experts.
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
