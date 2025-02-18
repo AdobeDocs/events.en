@@ -8,6 +8,8 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
 
 + [Adobe Customer Success Webinars](overview.md)
 + 2025 {#2025}
+  + [Content Supply Chain Basics](2025/content-supply-chain-basics.md)
+  + [Crafting Strategies for Effective Measurement](2025/impactful-insights.md)
   + [Driving customer engagement](2025/driving-customer-engagement.md)
   + [Enhancing Loyalty Programs Through Personalization and Data](2025/enhance-loyalty-programs.md)
   + [Mastering Sequential Logic](2025/mastering-sequential-logic.md)
