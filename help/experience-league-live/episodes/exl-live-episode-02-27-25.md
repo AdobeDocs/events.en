@@ -21,4 +21,4 @@ In this session, you’ll explore:
 
 [![ExL LIVE Feb 27 2025](assets/WebBanner-Feb-27-2025.png)](https://engage.adobe.com/ExpLeagueLive-250227.html)
 
-**Click the image to set a Youtube reminder!**
+**Click the image to register for the event!**
