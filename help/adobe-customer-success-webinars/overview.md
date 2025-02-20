@@ -18,6 +18,8 @@ Adobe Customer Success-led webinars designed to empower you in optimizing your i
 
 * 2025/adobe-digital-insights.md
 * 2025/build-effective-web-pages.md
+* 2025/content-supply-chain-basics.md
+* 2025/impactful-insights.md
 * 2025/driving-customer-engagement.md
 * 2025/enhance-loyalty-programs.md
 * 2025/enhancing-personalization.md
@@ -1043,7 +1045,6 @@ Adobe Customer Success-led webinars designed to empower you in optimizing your i
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
 
 
 
