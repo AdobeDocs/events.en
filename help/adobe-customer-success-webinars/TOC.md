@@ -8,10 +8,14 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
 
 + [Adobe Customer Success Webinars](overview.md)
 + 2025 {#2025}
+  + [Adobe Digital Insights](2025/adobe-digital-insights.md)
+  + [Building Effective Web Pages](2025/build-effective-web-pages.md)
   + [Content Supply Chain Basics](2025/content-supply-chain-basics.md)
   + [Crafting Strategies for Effective Measurement](2025/impactful-insights.md)
   + [Driving customer engagement](2025/driving-customer-engagement.md)
   + [Enhancing Loyalty Programs Through Personalization and Data](2025/enhance-loyalty-programs.md)
+  + [Enhancing Personalization](2025/enhancing-personalization.md)
+  + [GenStudio for Performance Marketing Operating Model](2025/genstudio-for-performance-marketing-operating-model.md)
   + [Mastering Sequential Logic](2025/mastering-sequential-logic.md)
 + 2024 {#2024}
   + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
