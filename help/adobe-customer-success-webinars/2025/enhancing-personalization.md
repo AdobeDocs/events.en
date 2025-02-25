@@ -9,8 +9,8 @@ doc-type: Event
 duration: 2582
 last-substantial-update: 2025-02-20
 jira: KT-17377
+exl-id: 1f4ebfc8-0c01-4091-9f74-a8efec51611a
 ---
-
 # Enhancing Personalization: Integration Essentials for Adobe Target with CJA and AEM
 
 Learn how to enhance personalization strategy through the powerful integration of Adobe Target with CJA and AEM. We’ll explore best practices, key insights, and actionable strategies to help you optimize customer engagement and deliver personalized experiences across all channels.

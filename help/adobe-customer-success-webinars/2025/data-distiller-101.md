@@ -7,8 +7,8 @@ doc-type: Event
 duration: 2659
 last-substantial-update: 2025-02-21
 jira: KT-17375
+exl-id: 111724c4-a20b-4b18-b600-c285f54195a8
 ---
-
 # Data Distiller 101
 
 This Data distiller overview will demonstrate how to overcome common data distiller challenges as well as the key uses best practices for success.

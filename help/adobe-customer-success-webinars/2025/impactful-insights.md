@@ -7,8 +7,8 @@ doc-type: Event
 duration: 2814
 last-substantial-update: 2025-02-18
 jira: KT-17378
+exl-id: f40c7d75-1b2e-43d5-80dd-99f87c003cac
 ---
-
 # Impactful Insights: Crafting Strategies for Effective Measurement
 
 This insightful session focuses on strategies to develop and execute an effective measurement framework across teams. We’ll explore the key components of what an effective measurement strategy entails and guide you on how to build it. This webinar  provides practical approaches to implementing actionable insights that drive performance and improve decision-making in your projects.

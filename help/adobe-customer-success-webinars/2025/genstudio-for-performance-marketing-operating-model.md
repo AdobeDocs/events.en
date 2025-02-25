@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3579
 last-substantial-update: 2025-02-18
 jira: KT-17369
+exl-id: 2b5db111-2d36-4aea-9fa3-1aeb38ce0dc7
 ---
-
 # GenStudio for PEM: Operating Model & Governance Strategy
 
 This webinar is designed for customers implementing or considering Adobe GenStudio for Performance Marketing. Learn how to build a governance framework that orchestrates creative processes, enhances collaboration, and drives efficiency. Discover Adobe’s perspective on organizational readiness, explore best practices for operating models, and gain actionable insights into leveraging Agile Marketing principles to maximize your GenStudio investment.

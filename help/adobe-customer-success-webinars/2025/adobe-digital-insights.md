@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3049
 last-substantial-update: 2025-02-20
 jira: KT-17395
+exl-id: bf20e43a-efc6-4d54-af79-15f89d4fd02b
 ---
-
 # Adobe Digital Insights: Unwrapping 2024 holiday results and early 2025 trends
 
 Get ready to unwrap the 2024 holiday season with cutting-edge insights from Adobe’s industry experts. This webinar will provide a comprehensive recap of 2024 holiday shopping trends as well as a look ahead to the first half of 2025.  Use these insights to help you forecast and surpass customer expectations in the year ahead. 

@@ -10,8 +10,8 @@ doc-type: Event
 duration: 3010
 last-substantial-update: 2025-02-18
 jira: KT-17379
+exl-id: 8d56e56d-d732-495e-9af3-bd99a7d3bbe5
 ---
-
 # Content Supply Chain Basics: Integrating AEM, Analytics/CJA, and Adobe Target for New Users
 
 Up-Level Your Content Supply chain knowledge. By integrating AEM, Analytics/CJA, and Target businesses can enhance Personalization and Targeting by delivering Tailored Experiences through Behavioral Targeting.

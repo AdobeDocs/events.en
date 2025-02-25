@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3333
 last-substantial-update: 2025-02-21
 jira: KT-17371
+exl-id: c4cce472-9730-41d8-8292-663d5a2e03a5
 ---
-
 # Cultivating an Agile Marketing Organization
 
 As Marketers are under pressure to create assets and deliver campaigns more quickly, adopting Agile Marketing principles allow teams that are bogged down in traditional waterfall process to deliver more and avoid team burn out. In this webinar, we will examine the benefits of Agile and Hybrid methodologies, what practical steps to take and how it applies to personalization at scale.

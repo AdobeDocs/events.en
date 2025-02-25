@@ -9,8 +9,8 @@ doc-type: Event
 duration: 3625
 last-substantial-update: 2025-02-21
 jira: KT-17372
+exl-id: 70fe5bef-3be6-4209-aa14-402610894e49
 ---
-
 # AEM and Workfront integration using Native Connector
 
 This webinar features a detailed walkthrough of the AEM-Workfront integration using the Native Connector. This session will deliver from a highly technical perspective: a detailed understanding of how the Native Connector works, what are the prerequisites and benefits of the Native Connector.

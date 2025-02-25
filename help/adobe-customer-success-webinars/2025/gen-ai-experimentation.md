@@ -9,8 +9,8 @@ doc-type: Event
 duration: 2016
 last-substantial-update: 2025-02-21
 jira: KT-17374
+exl-id: f085fe77-4025-4121-bd2a-24ec1436be93
 ---
-
 # GenAI Experimentation in AJO and Its Relationship with Adobe Target
 
 This webinar provides a deeper understanding of how the AI Assistant Content Accelerator enhances content experimentation within Adobe Journey Optimizer and its relationship with Adobe Target. It explores how generative AI streamlines content creation, optimizes experiments, and drives more effective personalization strategies. Additionally, the session demonstrates how these capabilities work together to improve customer engagement and decision-making.

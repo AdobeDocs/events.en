@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3764
 last-substantial-update: 2025-02-21
 jira: KT-17373
+exl-id: 5606a250-ab06-417b-8abf-a30543cb5f16
 ---
-
 # Optimizing AEM Performance: Caching Strategies and Techniques
 
 In this session we explore various caching mechanisms—such as page, asset, and dispatcher caching—as well as how to implement caching at the CDN level to optimize content delivery and reduce load times. The discussion will cover best practices for each caching layer, troubleshooting common issues, and how to leverage CDN capabilities for maximum efficiency.

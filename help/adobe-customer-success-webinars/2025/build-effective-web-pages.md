@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3015
 last-substantial-update: 2025-02-20
 jira: KT-17376
+exl-id: c9375be0-285e-4132-a6d1-82a7fcc59d45
 ---
-
 # Building Effective Web Pages in AEM Sites
 
 Discover the essentials of AEM Sites in this beginner-friendly webinar designed for new authors. Learn how to create and manage pages, use basic components, and understand key content structuring principles to build engaging and user-friendly experiences. We’ll also provide an introduction to responsive design to ensure your content looks great.
