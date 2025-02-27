@@ -60,6 +60,9 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
   + March 2023 {#mar2023}
     + [How to Make Your [!DNL Adobe Marketo Engage] Content Scalable](marketo/mar2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
+  + 2025 {#2025}
+    + February {#february2025}
+      + [Articulating Impact - How to Measure and Share Workfront Value](workfront/2025/how-to-measure-and-share-workfront-value.md)
   + 2024 {#2024}
     + April {#april2024}
       + [Staffing your Workfront system admin practice](workfront/2024/04/staffing-your-workfront-system-admin-practice.md)
