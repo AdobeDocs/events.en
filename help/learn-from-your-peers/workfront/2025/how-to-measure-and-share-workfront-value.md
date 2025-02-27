@@ -8,6 +8,7 @@ doc-type: Event
 duration: 3534
 last-substantial-update: 2025-02-27
 jira: KT-17413
+exl-id: 9b7a9bc0-6444-40e5-9e3c-3926ac761e31
 ---
 # Articulating Impact - How to Measure and Share Workfront Value
 
