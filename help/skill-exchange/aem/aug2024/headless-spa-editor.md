@@ -9,6 +9,7 @@ duration: 2802
 last-substantial-update: 2024-08-29
 jira: KT-16095
 exl-id: 7c9fbc23-b458-4d9c-ab38-0c9b032eb704
+hidefromtoc: true
 ---
 # Unlock the Power of Modern SPAs in AEM: Master Headless and SPA Editor Approaches
 
