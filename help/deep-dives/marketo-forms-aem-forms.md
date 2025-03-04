@@ -7,8 +7,8 @@ doc-type: Event
 duration: 2753
 last-substantial-update: 2025-03-04
 jira: KT-17434
+exl-id: 44986108-d59e-4729-bfa5-4cb3adb3719e
 ---
-
 # Whose form is it anyway? Deep dive on Marketo forms compared to AEM Forms
 
 Discover the various ways and use cases for using Marketo forms vs. AEM forms.. In this session, Adobe experts will explore the different types of forms, key use cases, the pros and cons of each type and more! Learn how to leverage these different types of forms to best suit your business needs and use case.
