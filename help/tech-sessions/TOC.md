@@ -9,7 +9,7 @@ user-guide-description: Experience Cloud Tech Sessions is a proactive approach t
 + [Experience Cloud Tech Sessions](overview.md)
 + 2025 {#2025}
   + [Getting the Most out of Marketo Measure](2025/getting-most-marketo-measure.md)
-  + Marketo Migration to the Adobe Admin Console
+  + Marketo Migration to the Adobe Admin Console {#marketo-admin-console}
     + [Pre-migration](2025/marketo-pre-migration.md)
     + [Post-migration](2025/marketo-post-migration.md)
 + 2024 {#2024}
