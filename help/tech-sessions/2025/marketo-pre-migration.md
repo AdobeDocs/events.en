@@ -7,8 +7,8 @@ doc-type: Event
 duration: 2280
 last-substantial-update: 2025-03-14
 jira: KT-17483
+exl-id: 9c3da83f-9e02-4a2e-9784-10213facf056
 ---
-
 # Marketo Migration to the Adobe Admin Console - Pre-Migration
 
 Join Us for a Seamless Marketo Migration with Adobe Experts!

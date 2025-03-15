@@ -9,8 +9,8 @@ doc-type: Event
 duration: 3636
 last-substantial-update: 2025-03-14
 jira: KT-17514
+exl-id: aa349efe-d8ec-476b-9b1d-6e202193a229
 ---
-
 # Commerce & Coffee: The Rise of Self-Service in B2B
 
 Start the year strong with our resident Commerce experts, Corey Gelato and Agbi Bajrushi, as they explore the latest Adobe Commerce features designed to elevate your B2B success. Corey and Agbi will share their perspective on the B2B trends most relevant to you this year and their approach to leveraging Adobe Commerce to stay ahead of the competition. They will focus on highlighting key advancements in the B2B Module, including new Quoting templates, buyer-initiated pricing negotiations, and a more efficient approach to company structure.

@@ -9,8 +9,8 @@ doc-type: Event
 duration: 3417
 last-substantial-update: 2025-03-14
 jira: KT-17542
+exl-id: 5e3ab998-9bb0-4b6d-a1bd-ec9f24789464
 ---
-
 # Tech Sessions: Getting the Most out of Marketo Measure
 
 Join us for an exclusive Tech Sessions webinar featuring KC, a Technical Support Engineer at Adobe with over seven years of experience in Marketo Measure. This session is designed for experienced users looking to enhance their platform configuration and unlock the full potential of Marketo Measure.
