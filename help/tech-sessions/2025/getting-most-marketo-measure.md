@@ -1,6 +1,6 @@
 ---
 title: Getting the Most out of Marketo Measure
-description: Join our Tech Sessions webinar with KC, an Adobe Technical Support Engineer, to enhance your Marketo Measure skills. Learn best practices for touchpoint intake, customer settings, and data accuracy. Explore Marketing Channel priorities, Stage Mapping, and Segmentation techniques for precise reporting. Don't miss this chance to elevate your expertise!
+description: Optimize Marketo Measure with best practices for channel mapping, segmentation, custom stage mapping, and touchpoint suppression. Use specific rules, categorize data, and prioritize stages logically. Suppress unwanted touchpoints for cleaner data. Leverage tools like boomerang stages and submit support cases for complex configurations. Access the session recording on Adobe's Experience page.
 solution: Marketo Measure
 feature: Touchpoints, Channels, Segmentation
 role: Admin, Developer, Leader, User
@@ -20,3 +20,35 @@ We’ll explore best practices for touchpoint intake, customer settings optimiza
 Don’t miss this opportunity to learn from an expert and take your Marketo Measure expertise to the next level!
 
 >[!VIDEO](https://video.tv.adobe.com/v/3451661/?learn=on&enablevpops)
+
+## Key takaaways
+
+### Marketing Channel Best Practices
+
+* Normalize and simplify channel mapping for consistent data categorization.
+* Use specific rules at the top and generic rules at the bottom of the priority list.
+* Utilize special characters like semicolons and asterisks for concise rule creation.
+
+### Segmentation
+
+* Use segmentation to further categorize data for reporting in CRM and Discover.
+* Common use cases include region-based segmentation and account size categorization.
+* Segments can be applied to leads, contacts, and opportunities for tailored reporting.
+
+### Custom Stage Mapping
+
+* Define and organize lead, contact, and opportunity stages to track lifecycle milestones.
+* Use custom stages to allocate revenue credit and touchpoint positions.
+* Prioritize stages logically (specific to generic) and ensure proper classification (open, lost, converted).
+
+### Touchpoint Suppression
+
+* Suppress unwanted touchpoints to reduce noise and focus on actionable data.
+* Common suppression rules include internal user suppression and time-based suppression.
+* Suppression removes data from both CRM and Discover, while removal only blocks CRM data.
+
+### General Recommendations
+
+* Use best practices for clean and actionable data reporting.
+* Leverage tools like boomerang stages for tracking reentry into lifecycle stages.
+* Submit support cases for complex configurations or troubleshooting.
