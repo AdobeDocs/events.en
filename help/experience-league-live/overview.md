@@ -19,10 +19,18 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 
 <table>
 <tr>
-<td>
-  Come back to this page soon for more upcoming shows!
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-10-25.md">
+      <img alt="Experience League LIVE Apr 10" src="episodes/assets/WebBanner_Apr10_2025.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-04-10-25.md">
+        <strong>Don't Wait… Collaborate! Introducing Real-Time CDP Collaboration</strong>
+      </a>
+      <br/><em>with Nina Caruso, Clayton Smith, and Doug Moore</em>
+      <br/><em>April 10, 2025</em>
+    </div>
   </td>
-</tr>
+  </tr>
 </table> 
 
 </div>

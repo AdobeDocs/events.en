@@ -15,6 +15,7 @@ doc-type: live event
 
 + [Overview](overview.md)
 + Episodes {#episodes}
+  + [Ep. 45: Don't Wait… Collaborate! Introducing Real-Time CDP Collaboration](episodes/exl-live-episode-04-10-25.md)
   + [Ep. 44: Unlocking operational insights with AI Assistant in Adobe Experience Platform](episodes/exl-live-episode-02-27-25.md)
   + [Ep. 43: Introducing AI Assistant for Audiences for Marketers in Real-Time CDP](episodes/exl-live-episode-11-13-24.md)
   + [Ep. 42: Unveiling Content Cards for Adobe Journey Optimizer](episodes/exl-live-episode-10-30-24.md)
