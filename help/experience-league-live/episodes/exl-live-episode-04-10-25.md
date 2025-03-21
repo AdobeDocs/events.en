@@ -7,7 +7,7 @@ feature: Collaboration
 event-cta-url-live: https://www.youtube.com/live/OPRzvdLUu7E
 event-start-time: 2025-04-10 09:00-8
 event-guests: Doug Moore, Nina Caruso, Clayton Smith
-
+exl-id: 6376944b-eefd-4d9e-8db4-89d6d948889f
 ---
 # Don't Wait… Collaborate! Introducing Real-Time CDP Collaboration
 
