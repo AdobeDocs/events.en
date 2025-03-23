@@ -8,7 +8,7 @@ feature: Commerce Integration Framework
 topic: Development
 role: Developer
 level: Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 7188
 type: Event
 thumbnail: 331851.jpg

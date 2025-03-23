@@ -8,7 +8,7 @@ feature: CI-CD Pipeline
 topic: Development
 role: Developer
 level: Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 7409
 type: Event
 thumbnail: 332309.jpg

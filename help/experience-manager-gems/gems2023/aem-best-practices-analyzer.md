@@ -1,9 +1,9 @@
 ---
 title: AEM Best Practices Analyzer for on premise and AMS environments
 description: The Best Practices Analyzer is a tool that provides analysis and reporting capabilities regarding an AEM on premise and AMS instances. It generates an assessment of your current AEM implementation by indicating areas that are not following recommended best practices while also providing guidance on how to take action to remedy potential issues.
-solution: Experience Manager
+solution: Experience Manager, Experience Manager 6.5
 feature-set: Experience Manager
-version: 6.5
+version: Experience Manager 6.5
 feature: Integrations
 topic: Integrations
 role: User

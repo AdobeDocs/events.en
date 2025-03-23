@@ -6,7 +6,7 @@ feature: Dispatcher
 topic: Performance
 role: Developer, Architect
 level: Beginner, Intermediate, Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9178
 type: Event
 exl-id: 47e84e07-441f-4947-a9d9-80d055f32b2e

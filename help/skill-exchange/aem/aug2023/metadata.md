@@ -2,7 +2,7 @@
 title: Scale for AI Readiness
 description: This session will teach you to leverage key Excel formulas and generative AI capabilities to create the metadata you need to keep your DAM organized or prep for new AEM capabilities. Once we've created the values we need, we'll use a CSV to import/export metadata from the DAM and update the new metadata for all of the assets in a folder at-scale.
 solution: Experience Manager Assets
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature-set: Experience Manager, Experience Manager Assets
 feature: Asset Management, Metadata
 role: User

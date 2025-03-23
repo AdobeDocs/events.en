@@ -8,7 +8,7 @@ feature: SPA Editor
 topic: Development, Headless
 role: Developer
 level: Intermediate
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 7178
 type: Event
 thumbnail: 331743.jpg

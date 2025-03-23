@@ -5,7 +5,7 @@ solution: Commerce,Experience Manager
 feature: Developer Tools
 role: Developer, Architect
 level: Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9181
 type: Event
 exl-id: f5186897-3afd-4732-99f5-a69dad44b037

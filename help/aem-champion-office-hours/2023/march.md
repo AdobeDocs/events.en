@@ -4,7 +4,7 @@ description: Missing description
 solution: Experience Manager
 feature-set: Experience Manager
 feature: Cloud Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 role: User
 level: Intermediate
 doc-type: Value Video

@@ -7,7 +7,7 @@ feature: Migration
 topic: Development, Migration
 role: Developer
 level: Intermediate, Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 7405
 type: Event
 thumbnail: 332308.jpg

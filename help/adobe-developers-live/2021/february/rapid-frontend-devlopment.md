@@ -8,7 +8,7 @@ feature: Editable Templates
 topic: Development
 role: Developer
 level: Intermediate
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 7177
 type: Event
 thumbnail: 331737.jpg

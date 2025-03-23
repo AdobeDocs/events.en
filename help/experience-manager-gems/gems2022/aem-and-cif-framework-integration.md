@@ -3,7 +3,7 @@ title: Integrate AEM & CIF framework to build a rich and immersive e-commerce ex
 description: Understand how Adobe's CIF framework can be used to build a consistent and content-rich and immersive commerce experience.
 solution: Experience Manager
 feature-set: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Integrations
 topic: Integrations
 role: User

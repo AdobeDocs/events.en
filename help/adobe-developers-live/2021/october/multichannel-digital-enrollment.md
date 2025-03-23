@@ -4,7 +4,7 @@ description: Learn how to build modern secure, modern digital enrollment experie
 solution: Experience Manager,Experience Manager Forms
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9194
 type: Event
 exl-id: d1cd8681-ec55-4776-99bf-a41fbb755a9a

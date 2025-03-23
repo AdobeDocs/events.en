@@ -6,7 +6,7 @@ feature: GraphQL API, Deploying
 topic: Headless
 role: Developer, Architect
 level: Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9144
 type: Event
 exl-id: 8d2c72dc-086f-443d-98c3-2a2497482f21

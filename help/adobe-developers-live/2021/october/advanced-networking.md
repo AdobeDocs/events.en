@@ -5,7 +5,7 @@ solution: Experience Manager
 topic: Development
 role: Developer, Architect
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9192
 type: Event
 exl-id: 65e62c64-b8aa-491e-ab86-027cabf4bd2c

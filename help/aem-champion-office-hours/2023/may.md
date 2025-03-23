@@ -4,7 +4,7 @@ description: Join us for the May edition of Adobe's AEM Champion Office Hours as
 solution: Experience Manager
 feature-set: Experience Manager
 feature: Cloud Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 role: User
 level: Intermediate
 doc-type: Value Video

@@ -2,7 +2,7 @@
 title: Effective Security Strategies in Cloud Service
 description: Join Adobe Experience Manager Customer Champion, Rami El Gamal, as he discusses different aspects of security in AEM Cloud Service.
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature-set: Experience Manager, Experience Manager Assets, Experience Manager Sites
 feature: Cloud Manager, Security, Learn From Your Peers
 topic: Security

@@ -9,7 +9,7 @@ feature-set: Experience Manager Assets
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 7339
 exl-id: b988b7ca-316f-4a14-9ca1-a9dc6b24aa5d

@@ -2,7 +2,7 @@
 title: Building Storefronts on Edge Delivery Services with Adobe Commerce
 description: The AEM GEMs webinar will teach you to build a high-performance storefront on Edge Delivery Services for Adobe Commerce, covering project setup, Commerce SaaS integration, customizable front-end components, and new authoring features to enhance Commerce experiences.
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Edge Delivery Services
 topic: Commerce
 role: Developer

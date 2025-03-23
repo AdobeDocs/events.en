@@ -2,7 +2,7 @@
 title: AEM Basics Introduction to AEM Authoring key concepts and capabilities
 description: The AEM Authoring Basics session covered key concepts, the dual environment model, content creation challenges, authoring tools, collaborative and translation features, and edge delivery services.
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event

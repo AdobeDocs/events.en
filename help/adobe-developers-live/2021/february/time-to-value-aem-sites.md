@@ -8,7 +8,7 @@ feature: Developer Tools
 topic: Development
 role: Developer
 level: Intermediate
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 7170
 type: Event
 thumbnail: 331735.jpg

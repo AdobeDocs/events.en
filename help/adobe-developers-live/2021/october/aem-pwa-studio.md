@@ -6,7 +6,7 @@ feature: GraphQL API
 topic: Development
 role: Developer, Architect
 level: Beginner, Intermediate, Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9142
 type: Event
 exl-id: bc428c6e-703a-4826-b2ce-c7f79a772cb5

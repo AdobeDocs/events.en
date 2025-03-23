@@ -4,7 +4,7 @@ description: Demonstrate the features available in the Adobe Experience Manager 
 solution: Experience Manager
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9135
 type: Event
 exl-id: da237121-7d66-49fc-864f-6132e3936fed

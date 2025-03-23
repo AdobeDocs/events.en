@@ -3,7 +3,7 @@ title: Build websites faster with AEM Headless and App Builder
 description: Watch a presentation and demo about how to quickly bootstrap and deploy single-page app (SPA) using Adobe App Builder workflows ant tools.
 solution: Experience Manager
 feature-set: Experience Manager
-version: Cloud Service, 6.5
+version: Experience Manager as a Cloud Service, Experience Manager 6.5
 feature: App Builder
 topic: Headless
 role: Developer
@@ -17,7 +17,7 @@ duration: 3399
 
 This AEM GEMs webinar recording includes a presentation and demo on the following:
 
-Quickly bootstrap and deploy single-page apps (SPA) using Adobe App Builder workflows and tools, without traditional Experience Manager skills, like Java and Sling, being required. With Experience Manager Headless, marketers and developers can have expertise in their own domain. Developers control the overall application framework while marketers determine the content and how it’s displayed.
+Quickly bootstrap and deploy single-page apps (SPA) using Adobe App Builder workflows and tools, without traditional Experience Manager skills, like Java and Sling, being required. With Experience Manager Headless, marketers and developers can have expertise in their own domain. Developers control the overall application framework while marketers determine the content and how it's displayed.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341311/?quality=12&learn=on)
 

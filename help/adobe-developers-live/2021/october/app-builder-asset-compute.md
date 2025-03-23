@@ -6,7 +6,7 @@ feature: Asset Compute Microservices
 topic: Development
 role: Developer, Architect
 level: Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9217
 type: Event
 exl-id: b1c5f695-45f5-4009-8e5f-2c562cbea213

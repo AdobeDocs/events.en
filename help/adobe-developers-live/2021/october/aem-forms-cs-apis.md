@@ -4,7 +4,7 @@ description: Learn how to use Adobe Experience Manager Forms as a Cloud Service 
 solution: Experience Manager,Experience Manager Forms
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9189
 type: Event
 exl-id: a54293b2-a8d9-475a-b315-18c4088a2d85

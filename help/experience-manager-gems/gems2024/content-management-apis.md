@@ -2,7 +2,7 @@
 title: AEM GEMs - Unlocking the Power of AEM Sites - Master the Content Management APIs
 description: The AEM GEMs session explores API-first patterns in AEM Sites, covering advanced OpenAPI standards, eventing and webhooks, and new REST APIs for translation automation, with insights from Adobe experts.
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Edge Delivery Services
 topic: Development
 role: Developer

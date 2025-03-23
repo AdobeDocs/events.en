@@ -2,7 +2,7 @@
 title: What's new in Rapid Development Environments for AEM?
 description: The session will demonstrate how RDEs enable swift deployment and review of changes, reducing development turnaround times and providing near-instant feedback. It will also introduce new features like improved logging and frontend support.
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Edge Delivery Services
 topic: Development
 role: Developer

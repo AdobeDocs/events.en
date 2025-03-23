@@ -7,7 +7,7 @@ feature: Developer Tools
 topic: Development
 role: Developer, Architect
 level: Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 7404
 type: Event
 thumbnail: 332304.jpg

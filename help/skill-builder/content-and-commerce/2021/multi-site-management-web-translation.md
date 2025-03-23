@@ -9,7 +9,7 @@ feature: Multi Site Manager
 topic: Localization
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 8936
 exl-id: 8b54f2ed-621f-4cdb-a8d5-de58108059b3

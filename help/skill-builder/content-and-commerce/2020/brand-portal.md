@@ -9,7 +9,7 @@ feature: Brand Portal
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 7340
 exl-id: 89f30cda-c166-4c61-9840-f104b8e62ac4

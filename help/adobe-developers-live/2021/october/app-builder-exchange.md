@@ -6,7 +6,7 @@ feature: Developer Tools
 topic: Development
 role: Developer, Architect
 level: Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9214
 type: Event
 exl-id: bbdfd53c-8bb6-4353-8a72-b5c5ce513ffd

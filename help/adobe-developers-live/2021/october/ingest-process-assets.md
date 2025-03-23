@@ -5,7 +5,7 @@ solution: Experience Manager,Experience Manager Assets
 feature: Asset Ingestion
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9180
 type: Event
 exl-id: 7bf484d6-29fc-44b5-99c1-cc3e6055c72d

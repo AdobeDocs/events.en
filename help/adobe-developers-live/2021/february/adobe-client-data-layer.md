@@ -8,7 +8,7 @@ feature: Core Components, Adobe Client Data Layer
 topic: Development
 role: Developer
 level: Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 7162
 type: Event
 thumbnail: 331733.jpg

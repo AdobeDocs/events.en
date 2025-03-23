@@ -2,7 +2,7 @@
 title: Integrating AEM Assets with Edge Delivery Services
 description: The AEM GEMs webinar will demonstrate integrating AEM Assets into sites built on AEM Edge Delivery Services, customizing the integration, delivering assets using AEM Dynamic Media with Open API, and exploring practical use cases and best practices.
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Edge Delivery Services
 topic: Development
 role: Developer

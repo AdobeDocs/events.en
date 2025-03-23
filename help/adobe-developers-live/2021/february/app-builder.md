@@ -6,7 +6,7 @@ topic: Development
 role: Developer
 level: Intermediate, Experienced
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 7175
 type: Event
 thumbnail: 331741.jpg

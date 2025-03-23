@@ -7,7 +7,7 @@ feature: Content Fragments, APIs, GraphQL API
 topic: Development, Headless
 role: Developer
 level: Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 7171
 type: Event
 thumbnail: 331280.jpg

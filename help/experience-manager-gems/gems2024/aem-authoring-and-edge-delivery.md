@@ -2,7 +2,7 @@
 title: Getting started with AEM Authoring and Edge Delivery Services
 description: The AEM GEMs webinar shows how AEM authoring integrates with Edge Delivery Services, creating a project with AEM Cloud Service and maintaining a WYSIWYG authoring interface.
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Edge Delivery Services
 topic: Development
 role: Developer

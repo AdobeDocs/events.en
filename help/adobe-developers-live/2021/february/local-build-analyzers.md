@@ -8,7 +8,7 @@ feature: Core Components
 topic: Development
 role: Developer
 level: Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 7406
 type: Event
 thumbnail: 332307.jpg

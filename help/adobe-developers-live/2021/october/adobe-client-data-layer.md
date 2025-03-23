@@ -6,7 +6,7 @@ feature: Tags
 topic: Development
 role: Developer, Architect
 level: Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9134
 type: Event
 exl-id: a38f67cd-3eb5-4590-a9be-484d0074508f

@@ -1,7 +1,7 @@
 ---
 title: announcements
 description: This page will be displayed if upcoming sessions are not defined yet.
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Release Information
 topic: Administration
 role: User

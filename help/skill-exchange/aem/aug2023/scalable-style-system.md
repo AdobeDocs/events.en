@@ -2,7 +2,7 @@
 title: Unlocking the Power of Style - Building an Effective & Scalable Style System
 description: Creation of a new style system to repurpose components for multiple tenants/business units based on their branding guidelines.
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature-set: Experience Manager Sites
 feature: Style System
 role: Developer, User

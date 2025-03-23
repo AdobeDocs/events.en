@@ -9,7 +9,7 @@ feature: Authoring
 topic: Collaboration
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 7342
 exl-id: 9655db30-bb17-4f0e-abd2-3267821c6b7e

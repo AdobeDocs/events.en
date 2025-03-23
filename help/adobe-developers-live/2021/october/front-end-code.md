@@ -6,7 +6,7 @@ feature: Developer Tools, Deploying
 topic: Development
 role: Developer, Architect
 level: Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9191
 type: Event
 exl-id: 20d765c3-6e5a-40f8-8422-d73900da858d

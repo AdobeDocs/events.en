@@ -2,7 +2,7 @@
 title: Getting started with Edge Delivery Services for AEM Forms
 description: Learn to create and publish AEM Forms using Edge Delivery Services, covering document-based and AEM-based authoring, project setup for customization, and leveraging AEM Forms as a Cloud Service for backend processing.
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Edge Delivery Services
 topic: Development
 role: Developer

@@ -4,7 +4,7 @@ description: Join us for the April edition of Adobe's AEM Champion Office Hours,
 solution: Experience Manager
 feature-set: Experience Manager
 feature: Cloud Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 doc-type: Event
 last-substantial-update: 2023-06-30
 jira: KT-13182

@@ -7,7 +7,7 @@ feature: APIs
 topic: Development, Headless
 role: Developer
 level: Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 7167
 type: Event
 thumbnail: 331768.jpg

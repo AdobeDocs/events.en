@@ -8,7 +8,7 @@ feature: Asset Compute Microservices
 topic: Development
 role: Developer
 level: Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 7186
 type: Event
 thumbnail: 331849.jpg

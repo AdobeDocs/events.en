@@ -3,7 +3,7 @@ title: AEM as a Cloud Service - 2021 review and 2022 outlook
 description: Watch an AEM GEMs webinar fir a review of AEM as a Cloud Service in 2021. Also get an overview for what's in store for 2022.
 solution: Experience Manager
 feature-set: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Release Information
 topic: Content Management
 role: User

@@ -2,7 +2,7 @@
 title: Getting Started with AEM Assets
 description: Use Renditions and create custom Renditions  Crop, edit and annotate digital assets, collaborate with others when creating or editing digital assets
 solution: Experience Manager Assets
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature-set: Experience Manager, Experience Manager Assets
 feature: Asset Management, Renditions, Assets Essentials, Collaboration
 role: User

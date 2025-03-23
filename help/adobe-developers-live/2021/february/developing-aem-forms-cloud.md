@@ -7,7 +7,7 @@ sub-product: forms
 topic: Development
 role: Developer
 level: Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 7402
 type: Event
 thumbnail: 332306.jpg

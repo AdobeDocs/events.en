@@ -2,7 +2,7 @@
 title: Improving the developer experience for AEM Assets with our new APIs and Events
 description: AEM developers can explore new Assets Open APIs and cloud-native I/O Events to create out-of-process AEM extensions, streamline workflows, enhance development speed, and reduce maintenance, with practical use cases and best practices demonstrated.
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Developer Tools
 topic: Development
 role: Developer

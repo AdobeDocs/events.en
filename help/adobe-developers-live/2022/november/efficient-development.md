@@ -7,7 +7,7 @@ sub-product: sites
 topic: Development, Headless
 role: Developer
 level: Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 doc-type: Event
 last-substantial-update: 2022-11-15
 kt: 11485

@@ -5,7 +5,7 @@ solution: Workfront, Experience Manager,Experience Manager Assets
 topic: Integrations
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9135
 type: Event
 exl-id: 5edbac18-6e5f-4717-a7cb-5ec2ad4b3f29

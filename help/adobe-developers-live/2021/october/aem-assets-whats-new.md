@@ -4,7 +4,7 @@ description: We've added a lot of features to Adobe Experience Manager Assets as
 solution: Experience Manager,Experience Manager Assets
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9152
 type: Event
 exl-id: ce592a15-3ed9-4bff-bc3c-b655037e22b9
