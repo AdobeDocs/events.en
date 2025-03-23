@@ -1,8 +1,8 @@
 ---
 title: Adobe Campaign integrations with a marketing ecosystem
 description: Cross-channel marketing solutions like Adobe Campaign should not sit in isolation from other technologies or teams.
-version: Classic v7
-solution: Campaign
+version: Campaign Classic v7
+solution: Campaign, Campaign Classic v7
 kt: 10508
 thumbnail: 343525.jpeg
 exl-id: 5a8473ac-01e6-42e4-95c6-2825378b7a1c

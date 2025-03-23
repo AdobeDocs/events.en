@@ -1,8 +1,8 @@
 ---
 title: Adobe Campaign Standard Customer Spotlight - Microsoft
 description: The session is for Adobe Campaign Standard customers. You will hear from the marketing team at Microsoft to share how they use Adobe Campaign Standard.
-version: Standard
-solution: Campaign
+version: Campaign Standard
+solution: Campaign, Campaign Standard
 kt: 10503
 thumbnail: 343522.jpeg
 exl-id: 06995c19-c3db-4646-8ef1-52cc350d2350
