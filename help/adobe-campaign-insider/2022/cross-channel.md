@@ -1,8 +1,8 @@
 ---
 title: Level up Your Cross-channel Marketing with Adobe [!DNL Campaign Classic]
 description: Deep-dive webinar focusing on workflows, automation, personalization, and measurement for Adobe [!DNL Campaign Classic] customers.
-version: Classic v7
-solution: Campaign
+version: Campaign Classic v7
+solution: Campaign, Campaign Classic v7
 kt: 10506
 thumbnail: 343524.jpeg
 exl-id: bf0a7290-d5fb-4c6c-88f0-2ceecbf794e3

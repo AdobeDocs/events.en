@@ -1,8 +1,8 @@
 ---
 title: Deliverability best practices and strategies that drive results
 description: Countless hours go into the planning and production of your email campaigns. If the emails bounce or ultimately land in your subscribers' spam folder, they wil… (Descriptions should be between 60 and 160 characters)
-version: Classic v7
-solution: Campaign
+version: Campaign Classic v7
+solution: Campaign, Campaign Classic v7
 role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
 level: Beginner, Intermediate, Experienced
 kt: 10507

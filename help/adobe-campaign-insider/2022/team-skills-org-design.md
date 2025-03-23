@@ -1,8 +1,8 @@
 ---
 title: Team, skills, and organizational design required to support cross-channel marketing with Adobe Campaign
 description: In today's cross-channel and digital world, consumers are empowered to engage wherever, whenever and however they want.
-version: v8, Classic v7, Standard
-solution: Campaign
+version: Campaign v8, Campaign Classic v7, Campaign Standard
+solution: Campaign, Campaign v8, Campaign Classic v7, Campaign Standard
 role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
 level: Beginner, Intermediate, Experienced
 kt: 10509
