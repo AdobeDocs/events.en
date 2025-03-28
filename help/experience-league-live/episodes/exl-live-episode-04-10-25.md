@@ -20,6 +20,6 @@ Join this session to:
 * Learn about what use cases we will solve off the bat and what's to come
 * Hear directly from product experts! 
 
-[![ExL LIVE Apr 10 2025](assets/WebBanner_Apr10_2025.jpg)](https://www.youtube.com/live/OPRzvdLUu7E)
+[![ExL LIVE Apr 10 2025](assets/WebBanner_Apr10_2025.jpg)](https://engage.adobe.com/ExpLeagueLive-250410.html)
 
-Click the image above to set a YouTube reminder.
+[**REGISTER NOW!**](https://engage.adobe.com/ExpLeagueLive-250410.html)
