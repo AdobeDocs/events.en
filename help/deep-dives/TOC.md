@@ -19,6 +19,7 @@ doc-type: live event
   + [APIs](api.md)
   + [Automating & Streamlining Campaign Operations Using the Marketo API](campaign-operations.md)
   + [Certification](certification.md)
+  + [Discover the New Email Designer in Marketo Engage](email-designer.md)
   + [Email Nurture](email-nurture.md)
   + [Executable Campaigns](executable-campaigns.md)
   + [IMS Migration Unpacked](ims-migration.md)

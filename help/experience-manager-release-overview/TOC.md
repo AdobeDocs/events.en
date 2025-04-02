@@ -8,6 +8,9 @@ breadcrumb-title: AEM CS Release Updates
 # Adobe Experience Manager as a Cloud Service release updates {#aemcs-release-update-recordings}
 
 + [Overview](overview.md)
+
++ 2025 {#2025}
+  + [2025.11.0](2025/2025-1-0.md)
 + 2024 {#2024}
   + [2024.11.0](2024/2024-11-0.md)
   + [2024.10.0](2024/2024-10-0.md)
