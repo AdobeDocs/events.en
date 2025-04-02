@@ -1,6 +1,6 @@
 ---
 title: Discover the New Email Designer in Marketo Engage
-description: "Explore Marketo Engage’s new email designer with Adobe experts. Learn features, best practices, tips, migration strategies, and more to enhance your email marketing."
+description: Explore Marketo Engage’s new email designer with Adobe experts. Learn features, best practices, tips, migration strategies, and more to enhance your email marketing.
 feature: Email Editor
 role: Admin, Developer, User
 level: Beginner, Intermediate, Experienced
@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3725
 last-substantial-update: 2025-04-02
 jira: KT-17621
+exl-id: 8924f69c-0158-4962-b4a5-5d26f7b3c5f5
 ---
-
 # Discover the New Email Designer in Marketo Engage
 
 Discover the power and ease of Marketo Engage’s new email designer. In this session, Adobe experts will explore the features of the new Marketo Engage email designer, best practices, and tips and tricks. Learn how to leverage this new tool to easily create and customize beautiful emails.
