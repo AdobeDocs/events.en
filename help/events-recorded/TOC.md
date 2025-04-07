@@ -112,3 +112,5 @@ user-guide-description: A collection of event recordings forcused on using Adobe
     + [Skill Exchange](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
     + [Wake up with Workfront](https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html)
     + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
+  + Hidden {#hidden}
+    + [Adobe Pass REST API v2](../single-events/adobe-pass-rest-api-v2.md) 
