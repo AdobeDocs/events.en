@@ -8,8 +8,8 @@ duration: 3230
 last-substantial-update: 2025-04-07
 jira: KT-17685
 hidefromtoc: true
+exl-id: 745411bb-48d7-4410-a236-d02c2927ac1b
 ---
-
 # Adobe Pass - new REST API v2
 
 This session focuses on introducing Adobe's new REST API v2 and guiding users through its migration process.
@@ -50,4 +50,3 @@ This session focuses on introducing Adobe's new REST API v2 and guiding users th
   * REST API v2 requires re-authentication as it is not backward-compatible with v1.
   * Pre-authorization is for UI purposes, while authorization is needed for media tokens.
   * SSO is supported via a new Adobe service token.
-
