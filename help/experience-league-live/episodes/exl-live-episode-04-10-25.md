@@ -11,15 +11,19 @@ exl-id: 6376944b-eefd-4d9e-8db4-89d6d948889f
 ---
 # Don't Wait… Collaborate! Introducing Real-Time CDP Collaboration
 
-Now available for US customers, Real-Time CDP Collaboration provides purpose-built user-friendly, privacy-centric data collaboration for brands and publishers. It help you, our customers, discover, activate and measure audiences to maximize ad revenue and power paid media efforts at the pace of paid marketing. Want to know the best part? If you are a customer of Real-Time CDP, you ALREADY HAVE ACCESS to this amazing new capability. Have we grabbed your attention? Do you want to learn more? If so…
+Originally airing on April 10, 2025, our experts discussed how Real-Time CDP Collaboration provides user-friendly and privacy-centric data collaboration for brands and publishers. Available for US customers, you can discover, activate and measure audiences to maximize ad revenue and power paid media efforts at the pace of paid marketing. 
 
-Join this session to:
+In this session, we explored:
 
-* Hear about why we built this in the first place, and hear about how we think this helps you to solve for consumer privacy and audience reach challenges with simplicity and interoperability
-* See Real-Time CDP Collaboration in action, with product demos
-* Learn about what use cases we will solve off the bat and what's to come
-* Hear directly from product experts! 
+* Why we built this product and how it helps solve consumer privacy and audience reach challenges with simplicity and interoperability
+* Real-Time CDP Collaboration in action, with product demos
+* Use cases supported now and what's to come
 
-[![ExL LIVE Apr 10 2025](assets/WebBanner_Apr10_2025.jpg)](https://engage.adobe.com/ExpLeagueLive-250410.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3457557/?quality=12&learn=on)
+<!-- 
+**Continue the discussion on the Experience League [Community Post.](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-unlocking-operational-insights-with/td-p/738208){target="_blank"}** 
+-->
 
-[**REGISTER NOW!**](https://engage.adobe.com/ExpLeagueLive-250410.html)
+## Additional Resources
+
+[Real-Time CDP Collaboration videos](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/real-time-cdp-collaboration-overview)
