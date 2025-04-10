@@ -23,6 +23,7 @@ In this session, we explored:
 <!-- 
 **Continue the discussion on the Experience League [Community Post.](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-unlocking-operational-insights-with/td-p/738208){target="_blank"}** 
 -->
+
 ## Additional Resources
 
 [Real-Time CDP Collaboration videos](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/real-time-cdp-collaboration-overview)
