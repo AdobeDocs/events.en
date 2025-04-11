@@ -15,7 +15,7 @@ Originally airing on April 10, 2025, our experts discussed how Real-Time CDP Col
 
 In this session, we explored:
 
-* Why we built this product and how it helps solve consumer privacy and audience reach challenges with simplicity and interoperability
+* Why we built the product and how it helps solve consumer privacy and audience reach challenges with simplicity and interoperability
 * Real-Time CDP Collaboration in action, with product demos
 * Use cases supported now and what's to come
 
