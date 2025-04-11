@@ -17,8 +17,9 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 
 ## Upcoming Experience League LIVE events
 
-<div>Check back soon for information about the next scheduled show.</div>
-<tr>
+Check back soon for information about the next scheduled show.
+
+</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
