@@ -20,9 +20,6 @@ In this session, we explored:
 * Use cases supported now and what's to come
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457557/?quality=12&learn=on)
-<!-- 
-**Continue the discussion on the Experience League [Community Post.](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-unlocking-operational-insights-with/td-p/738208){target="_blank"}** 
--->
 
 ## Additional Resources
 
