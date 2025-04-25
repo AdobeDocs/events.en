@@ -40,7 +40,6 @@ user-guide-description: Adobe Commerce Events is a video library where experts a
    + [Site Wide Analysis Tool](2022/analysis-tool.md)
    + [Transforming data into value with MBI](2022/mbi.md)
    + [Upgrading to 2.4.4](2022/upgrade.md)
-+ [Release Roadmap Highlights](release-highlights.md)
   
 <!--+ Commerce Events {#commerce-events}
   + [Overview](commerce-events/overview.md)
