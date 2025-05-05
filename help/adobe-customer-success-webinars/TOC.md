@@ -22,6 +22,7 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
   + [GenStudio for Performance Marketing Operating Model](2025/genstudio-for-performance-marketing-operating-model.md)
   + [Mastering Sequential Logic](2025/mastering-sequential-logic.md)
   + [Optimizing AEM Performance](2025/optimize-aem-performance.md)
+  + [Smarter Marketing Starts Here - Integrating Google & Adobe](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
 + 2024 {#2024}
   + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
   + [Adobe Target's AI-Driven Personalization](2024/ai-personalization.md)
