@@ -9,8 +9,8 @@ doc-type: Value Video
 duration: 3373
 last-substantial-update: 2025-05-05
 jira: KT-18029
+exl-id: 49aa946f-cfc0-49dc-93f5-907ec48048c1
 ---
-
 # Smarter Marketing Starts Here: Integrating Google & Adobe
 
 Are you striving for a complete understanding of your customer's journey, from initial touchpoint to final conversion and beyond? In today's complex digital landscape, fragmented data can hinder your ability to make informed marketing decisions and drive impactful results. To gain a holistic view, consider the power of complimentary solutions that bridge data silos and provide deeper insights. 
