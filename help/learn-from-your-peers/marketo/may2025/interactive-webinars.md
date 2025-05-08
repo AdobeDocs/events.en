@@ -17,7 +17,7 @@ Adobe Marketo Engage Champion Maria Cruz has leveraged Interactive Webinars at M
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458099/?learn=on&enablevpops)
 
-# Key takeaways
+## Key takeaways
 
 * **Interactive Webinars Offer Actionable Insights** Interactive webinars not only enhance engagement but also provide valuable data that can be used for segmentation, lead scoring, and personalized follow-ups.
 
