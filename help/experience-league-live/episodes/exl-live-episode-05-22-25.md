@@ -7,7 +7,7 @@ feature: Content Analytics
 event-cta-url-live: https://www.youtube.com/live/0ApnRRtZxeY
 event-start-time: 2025-05-22 09:00-8
 event-guests: Doug Moore, Shay O'Reilly, Jennifer Werkmeister
-
+exl-id: a0a3c7dd-e060-4be8-ac9a-02a3bcf12614
 ---
 # Content Analytics - Optimize performance with AI insights
 
@@ -24,4 +24,4 @@ In this session you will learn how to: 
 
 [![ExL LIVE May 22 2025](assets/May-22-2025-WebBanner.jpg)](https://www.youtube.com/live/0ApnRRtZxeY)
 
-**Click the image to set a reminder in YouTube** 
+**Click the image to set a reminder in YouTube**
