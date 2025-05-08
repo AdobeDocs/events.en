@@ -30,5 +30,6 @@ doc-type: live event
   + [Maximize email deliverability](maximize-email-deliverability.md)
   + [Maximize your instance with a small team](small-team-instance.md)
   + [Notating Complex Processes in the Activity Log](activity-log.md)
+  + [Salesforce background synch upgrade & Usage Monitoring](salesforce-background-sync.md)
   + [Unlocking Global Marketing](global-marketing.md)
   + [Using Webhooks to Transfer Data](webhooks.md)

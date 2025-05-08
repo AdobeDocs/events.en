@@ -9,7 +9,10 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
 + [Adobe Customer Success Webinars](overview.md)
 + 2025 {#2025}
   + [Adobe Digital Insights](2025/adobe-digital-insights.md)
+  + [AEM with GenAI](2025/aem-genai.md)
   + [AEM and Workfront integration](2025/aem-workfront-integration.md)
+  + [AI and Adobe Target](2025/ai-adobe-target.md)
+  + [Best Practices and Insights for Modeling XDM Schemas](2025/model-xdm-schemas.md)
   + [Building Effective Web Pages](2025/build-effective-web-pages.md)
   + [Content Supply Chain Basics](2025/content-supply-chain-basics.md)
   + [Crafting Strategies for Effective Measurement](2025/impactful-insights.md)
@@ -20,8 +23,11 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
   + [Enhancing Personalization](2025/enhancing-personalization.md)
   + [GenAI Experimentation](2025/gen-ai-experimentation.md)
   + [GenStudio for Performance Marketing Operating Model](2025/genstudio-for-performance-marketing-operating-model.md)
-  + [Mastering Sequential Logic](2025/mastering-sequential-logic.md)
+  + [Mastering Sequential Logic - Visual Framework](2025/mastering-sequential-logic.md)
+  + [Mastering Sequential Logic - Start Stops](2025/sequential-logic-start-stop.md)
   + [Optimizing AEM Performance](2025/optimize-aem-performance.md)
+  + [Winning Executive Sponsorship for AEP Projects](2025/exec-sponsorship-aep-projects.md)
+  + [Workfront Fusion Basics & Best Practices](2025/adobe-workfront-fusion-best-practices.md)
 + 2024 {#2024}
   + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
   + [Adobe Target's AI-Driven Personalization](2024/ai-personalization.md)
