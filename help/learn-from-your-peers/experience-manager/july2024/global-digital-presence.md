@@ -17,7 +17,7 @@ Join us for this can’t-miss webinar where two of our most expert AEM Sites use
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457918/?learn=on&enablevpops)
 
-# Key takeaways
+## Key takeaways
 
 * **Component Customizations and Administration** These allow for regional nuances and requirements, enabling customization specific to regions or globally, which is helpful for accommodating diverse needs in one place.
 
