@@ -9,8 +9,8 @@ doc-type: Event
 duration: 3397
 last-substantial-update: 2025-05-08
 jira: KT-18020
+exl-id: 18a91af4-5c21-4f69-ac04-5d8189528fce
 ---
-
 # Adobe Workfront Fusion Basics & Best Practices
 
 In this session, get introduced to the basics of Adobe Workfront Fusion, learning how to optimize workflows, automate processes, and explore system integrations. Discover Adobe’s best practices to maximize platform efficiency and boost your productivity.
@@ -34,4 +34,3 @@ In this session, get introduced to the basics of Adobe Workfront Fusion, learnin
 * **Best Practices** Use service accounts for Fusion connections instead of personal accounts, maintain proper naming conventions, and periodically clean up unused scenarios, connections, and webhooks to avoid clutter.
 
 * **Templates and Learning** Fusion templates are a great starting point for new users to learn how to build scenarios effectively. They provide predefined workflows that can be customized to meet specific needs.
-

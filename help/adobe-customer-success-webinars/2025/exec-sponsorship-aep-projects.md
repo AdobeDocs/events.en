@@ -1,7 +1,6 @@
 ---
 title: Winning Executive Sponsorship for Adobe Experience Platform Projects
 description: Learn how to turn passion projects into impactful initiatives by aligning vision with business goals, gaining executive buy-in, and using AEP/RT-CDP to drive value.
-
 solution: Experience Platform
 role: Developer
 level: Intermediate
@@ -9,8 +8,8 @@ doc-type: Event
 duration: 3308
 last-substantial-update: 2025-05-08
 jira: KT-18018
+exl-id: 2ac66f9c-5a75-437f-8dc5-623b67efbfea
 ---
-
 # Winning Executive Sponsorship for Adobe Experience Platform (AEP) Projects
 
 Learn how to unlock the potential of passion projects and learn how to navigate the path from concept to execution, aligning personal interests with organizational objectives and securing the necessary support to bring your vision to life.

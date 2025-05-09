@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3370
 last-substantial-update: 2025-05-08
 jira: KT-18017
+exl-id: 62ccb61c-2de9-4a8c-bf0e-c646c7ede698
 ---
-
 # Mastering Sequential Logic in Adobe Analytics and Customer Journey Analytics: Starts and Stops
 
 In this session, we’ll explore how to configure sequences with the THEN operator in Adobe Analytics (AA) and Customer Journey Analytics (CJA). Learn to retrieve precise subsets of activity by combining ONLY AFTER/ONLY BEFORE SEQUENCE with EXCLUDE checkpoints.

@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3488
 last-substantial-update: 2025-05-08
 jira: KT-18019
+exl-id: 3327dc51-b5e4-49bd-884a-4defea8664eb
 ---
-
 # Best Practices and Insights for Modeling XDM Schemas
 
 In this session, learn essential best practices and shortcuts for creating scalable, high-quality Adobe Experience Data Models (XDM) that align with Adobe Experience Platform standards. Gain insights into effectively mapping customer experience and use case data to XDM for seamless integration across Adobe and external tools. 

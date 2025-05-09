@@ -10,8 +10,8 @@ doc-type: Event
 duration: 3615
 last-substantial-update: 2025-05-08
 jira: KT-18021
+exl-id: e86b8c31-c8d2-4d97-a326-ac909c0d75f2
 ---
-
 # AEM with GenAI: Transforming your Content Creation & Delivery at Scale
 
 In this session, discover how GenAI is transforming content creation and automation within AEM to streamline workflows, boost content velocity, and scale your delivery of impactful experiences. Learn how to revolutionize your content strategy and stay ahead of the curve with the latest GenAI-driven innovations in AEM. 

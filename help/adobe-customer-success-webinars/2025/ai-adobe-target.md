@@ -10,8 +10,8 @@ doc-type: Event
 duration: 2798
 last-substantial-update: 2025-05-08
 jira: KT-18033
+exl-id: 7d097151-8334-4e94-b4ae-b8bfed902e41
 ---
-
 # Unlocking the Power of AI: Advanced Experimentation with Adobe Target
 
 In this session, learn best practices for advanced A/B testing and AI-driven personalization with Adobe Target and discover how to deliver dynamic content across platforms using AI-powered decisioning. Explore how to integrate Adobe Target, CJA, and RTCDP to build a comprehensive experimentation strategy and analyze experiments across channels. 

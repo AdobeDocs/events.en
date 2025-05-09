@@ -10,8 +10,8 @@ doc-type: Event
 duration: 4200
 last-substantial-update: 2025-05-07
 jira: KT-17903
+exl-id: 7c3542c0-74fe-4f9d-8edb-d4bc442deff3
 ---
-
 # Tech Sessions: Dispatcher Configurations in Adobe Experience Manager as a Cloud Service
 
 **Adobe Experience Manager (AEM) as a Cloud Service** offers scalability, flexibility, and improved performance for modern digital experience platforms. At the heart of this architecture lies the **AEM Dispatcher**—a vital component responsible for caching, security, and request management. When properly configured, the Dispatcher accelerates content delivery, safeguards backend systems, and boosts overall site performance.
