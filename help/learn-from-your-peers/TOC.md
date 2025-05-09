@@ -30,6 +30,8 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
   + February {#feb2024}
     + [Communication, Requirements, and Testing in Agile SDLC](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
+  + July {#jul2024}
+    + [Unlocking Success at Scale](experience-manager/july2024/global-digital-presence.md)
   + November {#nov2023}
     + [Developer Excellence with AEM Core Components](experience-manager/nov2023/core-components.md)
   + September {#sept2023}
@@ -39,6 +41,8 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
   + May {#may2023} 
     + [Mastering Content & Experience Fragments](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
+  + May 2025 {#may2025}
+    + [Discover the Impact of Interactive Webinars](marketo/may2025/interactive-webinars.md)
   + November 2024 {#nov2024}
     + [Advanced Segmentation Audits](marketo/nov2024/advanced-segmentation.md)
   + September 2024 {#sept2024}
