@@ -28,6 +28,7 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
   + [Optimizing AEM Performance](2025/optimize-aem-performance.md)
   + [Winning Executive Sponsorship for AEP Projects](2025/exec-sponsorship-aep-projects.md)
   + [Workfront Fusion Basics & Best Practices](2025/adobe-workfront-fusion-best-practices.md)
+  + [Smarter Marketing Starts Here - Integrating Google & Adobe](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
 + 2024 {#2024}
   + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
   + [Adobe Target's AI-Driven Personalization](2024/ai-personalization.md)

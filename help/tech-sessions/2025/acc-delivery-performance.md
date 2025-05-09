@@ -11,8 +11,8 @@ doc-type: Event
 duration: 2257
 last-substantial-update: 2025-04-25
 jira: KT-17869
+exl-id: a7e1e198-b63b-4a2a-9ffc-7f72bf4c61c1
 ---
-
 # Tech Sessions: Adobe Campaign Classic Delivery Performance - Troubleshooting
 
 In this session, we will explore common challenges faced when delivering optimal performance with Adobe Campaign Classic (ACC) and provide actionable strategies for troubleshooting and resolving issues. Participants will get to learn how to identify performance bottlenecks, address delivery preparation/configuration inconsistencies and implement best practices to ensure smooth communications. From optimizing deliveries to overcoming technical difficulties, this webinar will equip attendees with the knowledge and tools needed to enhance the efficiency of their ACC campaigns, drive better results, and deliver high-quality customer experiences.

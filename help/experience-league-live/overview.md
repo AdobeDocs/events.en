@@ -17,8 +17,22 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 
 ## Upcoming Experience League LIVE events
 
-Check back soon for information about the next scheduled show.
-
+<table>
+    <tr>
+        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-05-22-25.md">
+              <img alt="Experience League LIVE May 22" src="episodes/assets/May-22-2025-WebBanner.jpg">
+            </a>
+            <div>
+              <a href="episodes/exl-live-episode-05-22-25.md">
+                <strong>Content Analytics: Optimize performance with AI insights</strong>
+              </a>
+              <br/><em>with Shay O'Reilly, Jennifer Werkmeister, and Doug Moore</em>
+              <br/><em>May 22, 2025</em>
+            </div>
+        </td>
+    </tr>
+</table>    
+  
 </div>
 
 
