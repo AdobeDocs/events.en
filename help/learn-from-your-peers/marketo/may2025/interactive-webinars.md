@@ -28,3 +28,10 @@ Adobe Marketo Engage Champion Maria Cruz has leveraged Interactive Webinars at M
 * **Automated Processes Save Time** Transitioning to interactive webinars allows for automation of processes like lead routing, sales alerts, and follow-ups, reducing manual effort and speeding up workflows.
 
 * **Build Repeatable Playbooks** Creating a repeatable playbook based on insights and learnings from webinars can help scale efforts confidently and improve future webinar strategies.
+
+## Additional Resources
+
+* Join the [discussion thread](https://nation.marketo.com/t5/product-blogs/on-demand-learn-from-your-peers-revolutionizing-your-webinar/ba-p/356260) on Marketing Nation Community, where Q&As are posted.
+* [Learn more about GenAI features in Interactive Webinars](https://nation.marketo.com/t5/latest-product-innovations/discover-how-genai-can-elevate-your-upcoming-webinars/ba-p/355055)
+* [Explore Interactive Webinars fundamentals](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
+* [Learn to Use Interactive Webinars Pods (Polls, Q&A, CTAs)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)
