@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2971
 last-substantial-update: 2025-05-08
 jira: KT-18065
+exl-id: d8814206-7a6d-42a5-845f-232839f9a05c
 ---
-
 # Personalizing digital communications in Financial Services with AEM Forms
 
 Discover how AEM Forms can help financial services organizations deliver personalized, interactive communications at scale that drive customer engagement and streamline digital processes. Learn how to modernize your communication strategy while improving efficiency and compliance.
