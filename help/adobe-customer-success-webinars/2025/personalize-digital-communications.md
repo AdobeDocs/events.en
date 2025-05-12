@@ -26,7 +26,7 @@ Discover how AEM Forms can help financial services organizations deliver persona
   * In-person processing is 42 times more costly than digital.
   * Onboarding a customer in person costs $55 more than online.
 
-* **AEM Forms Capabilities** AEM Forms is an end-to-end solution that drives operational efficiencies and exceptional user experiences. Key features include omnichannel forms, automated workflows, personalized customer communications, and integration with Adobe Experience Cloud and AEM Sights. These capabilities help organizations reduce form abandonment by 63%, increase self-service by 113%, and improve form completion speed by 58%.
+* **AEM Forms Capabilities** AEM Forms is an end-to-end solution that drives operational efficiencies and exceptional user experiences. Key features include omnichannel forms, automated workflows, personalized customer communications, and integration with the Adobe Experience Cloud ecosystem. These capabilities help organizations reduce form abandonment by 63%, increase self-service by 113%, and improve form completion speed by 58%.
 
 * **Innovations in Form Design** The introduction of a cloud-based designer simplifies form creation with drag-and-drop functionality, fragments for reusable content, and integration with data models. This modernized tool reduces dependency on IT and enables faster updates, addressing the eight-week turnaround time for form changes in some organizations.
 
