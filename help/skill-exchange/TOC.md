@@ -180,6 +180,7 @@ event-series: The Skill Exchange
     + [Future of Adobe Workfront Proof](workfront/apr2022/workfront-proof.md)
     + [Grow Track Experience Makers Spotlight](workfront/apr2022/grow-track-spotlight.md)
     + [Learn Track Experience Makers Spotlight](workfront/apr2022/learn-track-spotlight.md)
+    + [Mastering Projects Dates & Timelines](workfront/apr2022/projects-dates-timelines.md)
     + [Understanding Objects in Workfront](workfront/apr2022/understanding-objects.md)
 + Digital Bites {#digital-bites}
   + [Unlock Operational Efficiency with a best-in-class Operational Model](digital-bites/operational-model.md)
