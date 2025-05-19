@@ -15,7 +15,7 @@ doc-type: live event
 
 + [Overview](overview.md)
 + Episodes {#episodes}
-  +[Ep. 47: Agile Workflows for Personalized Content at Scale](episodes/exl-live-episode-47-2025-06-05.md)
+  + [Ep. 47: Agile Workflows for Personalized Content at Scale](episodes/exl-live-episode-47-2025-06-05.md)
   + [Ep. 46: Content Analytics: Optimize performance with AI insights](episodes/exl-live-episode-05-22-25.md)
   + [Ep. 45: Don't Wait… Collaborate! Introducing Real-Time CDP Collaboration](episodes/exl-live-episode-04-10-25.md)
   + [Ep. 44: Unlocking operational insights with AI Assistant in Adobe Experience Platform](episodes/exl-live-episode-02-27-25.md)
