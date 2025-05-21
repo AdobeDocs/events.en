@@ -8,7 +8,8 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
 
 + [Adobe Customer Success Webinars](overview.md)
 + 2025 {#2025}
-  + [Adobe Digital Insights](2025/adobe-digital-insights.md)
+  + [State of Digital and GenAI Adoption](2025/state-of-digital-and-genai-adoption-webinar.md)
+  + [2024 holiday results and 2025 trends](2025/adobe-digital-insights.md)
   + [AEM with GenAI](2025/aem-genai.md)
   + [AEM and Workfront integration](2025/aem-workfront-integration.md)
   + [AI and Adobe Target](2025/ai-adobe-target.md)
