@@ -31,6 +31,19 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
             </div>
         </td>
     </tr>
+    <tr>
+        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-47-2025-06-05.md">
+              <img alt="Experience League LIVE May 22" src="assets/WebBannerExLLive-June05-2025.png">
+            </a>
+            <div>
+              <a href="episodes/exl-live-episode-47-2025-06-05.md">
+                <strong>Agile Workflows for Personalized Content at Scale</strong>
+              </a>
+              <br/><em>with Amarnath Vannarath, Chris Ivory, and Rohan Bhatt</em>
+              <br/><em>June 05, 2025</em>
+            </div>
+        </td>
+    </tr>
 </table>    
   
 </div>
