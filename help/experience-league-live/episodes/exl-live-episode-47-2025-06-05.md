@@ -3,7 +3,7 @@ title: Agile Workflows for Personalized Content at Scale
 description: Create, Collaborate, and Activate with Adobe Journey Optimizer, Adobe Express, and Adobe GenStudio for Performance Marketing.
 kt: KT-18093
 solution: Journey Optimizer
-feature: Integrations, Email Design, Personalization 
+feature: Integrations, Email Design, Personalization
 event-cta-url-live: https://youtube.com/live/tyXesNYv-eM
 event-start-time: 2025-06-05 08:30-7
 event-guests: Sandra Hausmann, Chris Ivory, Amarnath Vannarath, Rohan Bhatt
