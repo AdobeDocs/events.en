@@ -20,20 +20,18 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 <table>
     <tr>
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-05-22-25.md">
-              <img alt="Experience League LIVE May 22" src="episodes/assets/May-22-2025-WebBanner.jpg">
+              <img alt="Experience League LIVE May 28" src="episodes/assets/ExL-LIVE-May-28-2025-WebBanner.jpg">
             </a>
             <div>
               <a href="episodes/exl-live-episode-05-22-25.md">
                 <strong>Content Analytics: Optimize performance with AI insights</strong>
               </a>
               <br/><em>with Shay O'Reilly, Jennifer Werkmeister, and Doug Moore</em>
-              <br/><em>May 22, 2025</em>
+              <br/><em>May 28, 2025</em>
             </div>
         </td>
-    </tr>
-    <tr>
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-47-2025-06-05.md">
-              <img alt="Experience League LIVE May 22" src="assets/WebBannerExLLive-June05-2025.png">
+              <img alt="Experience League LIVE June 5" src="assets/WebBannerExLLive-June05-2025.png">
             </a>
             <div>
               <a href="episodes/exl-live-episode-47-2025-06-05.md">
@@ -43,7 +41,19 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
               <br/><em>June 05, 2025</em>
             </div>
         </td>
+        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-18-25.md">
+              <img alt="Experience League LIVE June 18" src="episodes/assets/exl-live-web-banner-20250618.png">
+            </a>
+            <div>
+              <a href="episodes/exl-live-episode-06-18-25.md">
+                <strong>Master Frequency Capping & Conflict Prioritization</strong>
+              </a>
+              <br/><em>with Sandra Hausmann, Ariel Sultan, Aaron Forrest, and Keara Fausett</em>
+              <br/><em>June 18, 2025</em>
+            </div>
+        </td>
     </tr>
+    
 </table>    
   
 </div>

@@ -22,6 +22,6 @@ In this session you will learn how to:
 
  * Explore new Adobe tools, like asset thumbnails and detailed views, to visualize and act on content insights.
 
-[![ExL LIVE May 22 2025](assets/May-22-2025-WebBanner.jpg)](https://engage.adobe.com/ExpLeagueLive-250522.html)
+[![ExL LIVE May 22 2025](assets/ExL-LIVE-May-28-2025-WebBanner.jpg)](https://www.youtube.com/live/FSlE6HeCWyQ)
 
-[**Register Now!**](https://engage.adobe.com/ExpLeagueLive-250522.html)
+**Click the image above to set a YouTube reminder!**
