@@ -18,8 +18,6 @@ This session is ideal for marketers, operations teams, and journey admins lookin
 
 Don't miss this opportunity to transform your marketing strategies and engage your audience like never before. 
 
-[Register now](https://engage.adobe.com/ExpLeagueLive-250618.html) and be part of the revolution in customer engagement!
+**Click the image below to set a YouTube reminder!**
 
-![webbanner](/help/experience-league-live/episodes/assets/exl-live-web-banner-20250618.png)
-
-Can't make it? Sign up anyway and we will send you the recording afterward. We hope to see you there!
+[![ExL LIVE Jan 17 2024](assets/exl-live-web-banner-20250618.png)](https://www.youtube.com/live/awYa2dU6TDY)
