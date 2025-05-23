@@ -1,6 +1,6 @@
 ---
 title: Master Frequency Capping & Conflict Prioritization
-description: Learn how to use new features in Adobe Journey Optimizer to govern and prioritize the most important messages being sent to customers. 
+description: Learn how to use new features in Adobe Journey Optimizer to govern and prioritize the most important messages being sent to customers.
 kt: KT-17474
 solution: Journey Optimizer
 feature: Frequency Rules
@@ -9,6 +9,7 @@ event-start-time: 2025-06-18 09:00-7
 event-guests: Sandra Hausmann, Ariel Sultan, Aaron Forrest, Keara Fausett
 hidefromtoc: yes
 hide: yes
+exl-id: 7041430f-845d-4150-9d2c-d8fafb450b9c
 ---
 # Master Frequency Capping & Conflict Prioritization
 
