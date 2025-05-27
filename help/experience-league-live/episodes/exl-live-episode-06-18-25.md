@@ -7,8 +7,6 @@ feature: Frequency Rules
 event-cta-url-live: https://youtube.com/live/awYa2dU6TDY
 event-start-time: 2025-06-18 09:00-7
 event-guests: Sandra Hausmann, Ariel Sultan, Aaron Forrest, Keara Fausett
-hidefromtoc: yes
-hide: yes
 exl-id: 7041430f-845d-4150-9d2c-d8fafb450b9c
 ---
 # Master Frequency Capping & Conflict Prioritization
@@ -19,6 +17,8 @@ This session is ideal for marketers, operations teams, and journey admins lookin
 
 Don't miss this opportunity to transform your marketing strategies and engage your audience like never before. 
 
-**Click the image below to set a YouTube reminder!**
+[Set a reminder on YouTube now](https://www.youtube.com/live/awYa2dU6TDY)!
 
-[![ExL LIVE Jan 17 2024](assets/exl-live-web-banner-20250618.png)](https://www.youtube.com/live/awYa2dU6TDY)
+![webbanner](/help/experience-league-live/episodes/assets/exl-live-web-banner-20250618.png)
+
+Can't make it? Sign up anyway and we will send you the recording afterward. We hope to see you there!
