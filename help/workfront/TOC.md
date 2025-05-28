@@ -2,6 +2,7 @@
 user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
+solution: Workfront
 ---
 
 # Workfront Events {#workfront-recordings}
