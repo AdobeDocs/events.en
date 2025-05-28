@@ -17,7 +17,7 @@ Whether your teams are authoring content directly in AJO, brainstorming with Gen
 
 Don't miss this opportunity to transform your marketing strategies and engage your audience like never before. 
 
-[Set a reminder on YouTube now](https://youtube.com/live/tyXesNYv-eM) and be part of the revolution in customer engagement!
+[Register now](https://engage.adobe.com/ExpLeagueLive-250605.html) and be part of the revolution in customer engagement!
 
 ![webbanner](/help/experience-league-live/assets/WebBannerExLLive-June05-2025.png)
 
