@@ -17,7 +17,7 @@ This session is ideal for marketers, operations teams, and journey admins lookin
 
 Don't miss this opportunity to transform your marketing strategies and engage your audience like never before. 
 
-[Set a reminder on YouTube now](https://www.youtube.com/live/awYa2dU6TDY)!
+[Register now](https://engage.adobe.com/ExpLeagueLive-250618.html?trackingid=MH16S65T&mv=email)!
 
 ![webbanner](/help/experience-league-live/episodes/assets/exl-live-web-banner-20250618.png)
 
