@@ -11,17 +11,23 @@ exl-id: a0a3c7dd-e060-4be8-ac9a-02a3bcf12614
 ---
 # Content Analytics - Optimize performance with AI insights
 
-Join us for an insightful one-hour webinar where we dive into the transformative world of content analytics, powered by Adobe's cutting-edge AI technology. This session will explore how content analytics can revolutionize the way you measure, understand, and optimize content performance. 
+Originally airing on May 28, 2025, our experts discussed the transformative world of content analytics, powered by Adobe's cutting-edge AI technology. Content Analytics revolutionizes the way you measure, understand, and optimize content performance. 
 
-In this session you will learn how to:
- * Understand how AI analyzes assets (images) and experiences (text, CTAs) to pinpoint what resonates with your audience.
+In this session, we explored:
 
- * Identify underutilized assets, reduce content fatigue, and optimize budgets by connecting content to KPIs like conversions and downloads.
+* How AI analyzes assets (images) and experiences (text, CTAs) to pinpoint what resonates with your audience.
+* How to identify underutilized assets, reduce content fatigue, and optimize budgets by connecting content to KPIs like conversions and downloads.
+* Discovered how Content Analytics reveals audience preferences to tailor experiences for users.
+* Explored new Adobe tools, like asset thumbnails and detailed views, to visualize and act on content insights.
 
- * Discover how Content Analytics reveals audience preferences to tailor experiences for users.
+>[!VIDEO](https://video.tv.adobe.com/v/3460420/?quality=12&learn=on)
 
- * Explore new Adobe tools, like asset thumbnails and detailed views, to visualize and act on content insights.
+>[!BEGINSHADEBOX "Have questions?"]
 
-[![ExL LIVE May 22 2025](assets/ExL-LIVE-May-28-2025-WebBanner.jpg)](https://www.youtube.com/live/FSlE6HeCWyQ)
+Continue the discussion on the [Experience League Community Forum discussion](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/adobe-experience-league-live-content-analytics-optimize/m-p/756741#M4712).
 
-**Click the image above to set a YouTube reminder!**
+>[!ENDSHADEBOX]
+
+## Additional Resources
+
+[Content Analytics videos](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/content-analytics/introduction-to-content-analytics)

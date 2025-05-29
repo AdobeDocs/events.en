@@ -19,17 +19,6 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 
 <table>
     <tr>
-        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-05-22-25.md">
-              <img alt="Experience League LIVE May 28" src="episodes/assets/ExL-LIVE-May-28-2025-WebBanner.jpg">
-            </a>
-            <div>
-              <a href="episodes/exl-live-episode-05-22-25.md">
-                <strong>Content Analytics: Optimize performance with AI insights</strong>
-              </a>
-              <br/><em>with Shay O'Reilly, Jennifer Werkmeister, and Doug Moore</em>
-              <br/><em>May 28, 2025</em>
-            </div>
-        </td>
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-47-2025-06-05.md">
               <img alt="Experience League LIVE June 5" src="assets/WebBannerExLLive-June05-2025.png">
             </a>
@@ -42,7 +31,7 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
             </div>
         </td>
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-18-25.md">
-              <img alt="Experience League LIVE June 18" src="episodes/assets/exl-live-web-banner-20250618.png">
+              <img alt="Experience League LIVE June 18" src="episodes/assets/exl-live-web-banner-20250618_v2.jpg">
             </a>
             <div>
               <a href="episodes/exl-live-episode-06-18-25.md">
