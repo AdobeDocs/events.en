@@ -15,10 +15,10 @@ Originally airing on May 28, 2025, our experts discussed the transformative worl
 
 In this session, we explored:
 
- * How AI analyzes assets (images) and experiences (text, CTAs) to pinpoint what resonates with your audience.
- * How to identify underutilized assets, reduce content fatigue, and optimize budgets by connecting content to KPIs like conversions and downloads.
- * Discovered how Content Analytics reveals audience preferences to tailor experiences for users.
- * Explored new Adobe tools, like asset thumbnails and detailed views, to visualize and act on content insights.
+* How AI analyzes assets (images) and experiences (text, CTAs) to pinpoint what resonates with your audience.
+* How to identify underutilized assets, reduce content fatigue, and optimize budgets by connecting content to KPIs like conversions and downloads.
+* Discovered how Content Analytics reveals audience preferences to tailor experiences for users.
+* Explored new Adobe tools, like asset thumbnails and detailed views, to visualize and act on content insights.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3460420/?quality=12&learn=on)
 
