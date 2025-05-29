@@ -1,7 +1,7 @@
 ---
 title: Preparing for Marketo Engage on Adobe Identity
 description: Join this training session to prepare for migrating Marketo Engage subscriptions to Adobe Identity, focusing on user migration, key actions, and essential resources for administrators, with guidance on navigating the migration console and understanding changes at each milestone.
-solution: Marketo
+solution: Marketo Engage
 feature: Administration
 role: Admin, Developer, Leader, User
 level: Intermediate, Experienced

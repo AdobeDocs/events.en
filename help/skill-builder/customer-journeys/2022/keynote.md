@@ -1,7 +1,7 @@
 ---
 title: Keynote - Customer Journey trends and innovation across B2B & B2C
 description: learn about the latest trends in Customer Journey Management across B2B and B2C
-solution: Marketo, Campaign, Campaign Classic v7, Campaign v8, Campaign v8 Client Console
+solution: Marketo Engage, Campaign, Campaign Classic v7, Campaign v8, Campaign v8 Client Console
 version: Campaign Classic v7, Campaign v8, Campaign v8 Client Console
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced

@@ -1,7 +1,7 @@
 ---
 title: Advanced Segmentation Audits - Ensuring Precision and Performance in Marketo Engage
 description: Join Adobe Marketo Engage Champion Darshil Shah to master advanced Segmentation audits, learning to optimize Segmentation strategies, align with customer behaviors, maintain GDPR compliance, and enhance marketing performance through best practices and real-time updates.
-solution: Marketo
+solution: Marketo Engage
 role: Admin, User
 level: Intermediate, Experienced
 doc-type: Event

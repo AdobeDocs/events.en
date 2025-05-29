@@ -1,7 +1,7 @@
 ---
 title: Experience Makers Spotlight - Streamline your Virtual Events with Interactive Webinars
 description: Save time by augmenting your Webinars and Events with Interactive Webinars, where you can manage the entire workflow in one place - from creating promotional emails and segmenting with smart lists, hosting live webinars, accessing performance analytics, and automating your follow up. In this session, you'll learn  Best practices to set up and build your first Interactive Webinar   How to track success with reports, leverage polls to generate leads, and automating follow ups   Real-world use cases and results on how Interactive Webinars can increase engagement while reducing deployment time
-solution: Marketo
+solution: Marketo Engage
 role: User
 level: Beginner
 doc-type: Event

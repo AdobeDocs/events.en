@@ -1,7 +1,7 @@
 ---
 title: Better together - Adobe [!DNL Marketo Engage] and Real-Time CDP
 description: learn how to orchestrate B2B campaigns with [!DNL Marketo Engage] and RT-CDP (B2B edition)
-solution: Marketo, Real-Time Customer Data Platform
+solution: Marketo Engage, Real-Time Customer Data Platform
 role: Admin, Data Architect, Data Engineer, User
 level: Beginner, Intermediate, Experienced
 kt: 10570

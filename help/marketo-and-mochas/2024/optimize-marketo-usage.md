@@ -1,7 +1,7 @@
 ---
 title: Marketo & Mochas - Maturity Part 2 - Optimizing Your Marketo Usage
 description: Join Adobe's Business Advisors, Cynthia Chang and Carly Gaver, for Part 2 of the Marketo Maturity series, focusing on data management, CRM integrations, and campaign optimization to enhance your Marketo usage, with live Q&A.
-solution: Marketo
+solution: Marketo Engage
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

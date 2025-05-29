@@ -1,7 +1,7 @@
 ---
 title: MSI Best Practices and Optimization
 description: Unlock the full potential of Marketo Sales Insights (MSI) with Cynthia Chang and James Leedom as they delve into key features, Salesforce integration, license management, and strategies to boost sales and marketing efficiency.
-solution: Marketo
+solution: Marketo Engage
 feature-set: Marketo Engage
 feature: Marketo Sales Insights
 role: Admin, Leader, User
