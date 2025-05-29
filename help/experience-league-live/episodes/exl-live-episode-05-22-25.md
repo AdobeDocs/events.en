@@ -22,6 +22,12 @@ In this session, we explored:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3460420/?quality=12&learn=on)
 
+>[!BEGINSHADEBOX "Have questions?"]
+
+Continue the discussion on the [Experience League Community Forum discussion](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/adobe-experience-league-live-content-analytics-optimize/m-p/756741#M4712).
+
+>[!ENDSHADEBOX]
+
 ## Additional Resources
 
 [Content Analytics videos](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/content-analytics/introduction-to-content-analytics)
