@@ -1,7 +1,7 @@
 ---
 title: Unleash the Power of Multi-Stream Journeys - Advanced Applications of Engagement Programs
 description: Define customer journey stages with examples from different business models.  Translate the customer journey blueprint into multi-stream Engagement Programs.  Leverage native reporting functionality for analyzing your Engagement Programs across customer lifecycles.
-solution: Marketo
+solution: Marketo Engage
 role: User
 level: Intermediate, Experienced
 doc-type: Event

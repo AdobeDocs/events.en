@@ -1,7 +1,7 @@
 ---
 title: Opening Keynote
 description: Opening Keynote featuring Raj Patel
-solution: Marketo
+solution: Marketo Engage
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

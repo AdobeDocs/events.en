@@ -1,7 +1,7 @@
 ---
 title: Marketo Migration to the Adobe Admin Console - (Post-Migration)
 description: Centralize Marketo user management with Adobe Admin Console. Manage roles (System, Product, Profile, Support Admins) and identity types (Adobe, Enterprise, Federated ID). Set up SSL for single sign-on, handle user management, and renew certificates every three years. Address common issues like login problems and use directory trust for a unified experience. Break large user conversions into batches of 500. Access the session recording on Adobe's Experience League page.
-solution: Marketo
+solution: Marketo Engage
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
