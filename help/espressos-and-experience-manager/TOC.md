@@ -18,3 +18,4 @@ doc-type: live event
     + [AEM Forms](2025/aem-forms.md)
     + [Digital Agility with AEM](2025/digital-agility.md)
     + [Why AEM is More Powerful in the Cloud](2025/aem-in-the-cloud.md)
+    + [Edge Delivery Services](2025/edge-delivery-services.md)

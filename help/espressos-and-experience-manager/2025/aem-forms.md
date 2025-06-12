@@ -1,6 +1,6 @@
 ---
-title: AEM Forms
-description: AEM Forms enhances performance management by offering operational efficiencies and exceptional user experiences. Key benefits include increased form filling rates, conversion rates, improved user experiences, and reduced customer errors. Capabilities cover omnichannel forms, automated workflows, interactive customer communications, and integration with Adobe Experience Cloud, supported by AI for enhanced personalization. Business impacts include a 2.5x increase in online enrollment conversion rates, 85% faster form editing, and a 50% decrease in customer errors. Cloud-native performance ensures forms are current, scalable, secure, and available. Innovations include document-based authoring, conversational forms, and universal editor support. AI assists in creating forms, automating testing, and improving efficiency. Access early innovations by contacting Adobe. Summit sessions feature thought leadership, top innovations, and case studies. Access resources, register for the summit, and connect with solution account managers for further assistance.
+title: Espressos & Experience Manager - AEM Forms
+description: AEM Forms boosts performance with omnichannel forms, AI-powered personalization, and cloud-native scalability—driving 2.5x conversions, 85% faster edits, and 50% fewer errors.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

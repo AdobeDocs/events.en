@@ -10,6 +10,7 @@ breadcrumb-title: AEM CS Release Updates
 + [Overview](overview.md)
 
 + 2025 {#2025}
+  + [2025.3.0](2025/2025-3-0.md)
   + [2025.2.0](2025/2025-2-0.md)
   + [2025.1.0](2025/2025-1-0.md)
 + 2024 {#2024}

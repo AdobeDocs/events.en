@@ -12,6 +12,7 @@ Behind the Brew is the companion series to Commerce & Coffee. It is designed for
 
 {cta  = Watch event}
 
+* 2025/proactive-monitoring-tools.md
 * 2025/app-builder.md
 * 2025/commerce-intelligence.md
 * 2025/deep-dive-live-search.md
@@ -25,7 +26,7 @@ Behind the Brew is the companion series to Commerce & Coffee. It is designed for
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/app-builder.md" title="Adobe Developer App Builder" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443027/?format=jpeg&nocache=1737765880344" alt="Adobe Developer App Builder"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443027/?format=jpeg&nocache=1749738836125" alt="Adobe Developer App Builder"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -48,7 +49,7 @@ Behind the Brew is the companion series to Commerce & Coffee. It is designed for
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/commerce-intelligence.md" title="Adobe Commerce Intelligence (fka MBI)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443025/?format=jpeg&nocache=1737765880333" alt="Adobe Commerce Intelligence (fka MBI)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443025/?format=jpeg&nocache=1749738836111" alt="Adobe Commerce Intelligence (fka MBI)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -71,7 +72,7 @@ Behind the Brew is the companion series to Commerce & Coffee. It is designed for
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/deep-dive-live-search.md" title="A Deep Dive into Live Search" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443021/?format=jpeg&nocache=1737765880353" alt="A Deep Dive into Live Search"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443021/?format=jpeg&nocache=1749738836153" alt="A Deep Dive into Live Search"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -94,7 +95,7 @@ Behind the Brew is the companion series to Commerce & Coffee. It is designed for
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/commerce-storefront.md" title="Optimize Your Commerce Storefront" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443031/?format=jpeg&nocache=1737765880320" alt="Optimize Your Commerce Storefront"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443031/?format=jpeg&nocache=1749738836139" alt="Optimize Your Commerce Storefront"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

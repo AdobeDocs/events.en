@@ -16,6 +16,8 @@ solution: Marketo Engage
 
 + [Overview](overview.md)
 + 2025 {#2025}
+  + [Inheriting a New or Current Bizible Instance](2025/inheriting-bizible-instance.md)
+  + [Auditing an Inherited or Current Instance](2025/auditing-inherited-instance.md)
   + [5 Marketo Features to Know](2025/5-features-to-know.md)
 + 2024 {#2024}
   + [Ask Me Anything](2024/ask-me-anything.md)

@@ -8,6 +8,13 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
 
 + [Adobe Customer Success Webinars](overview.md)
 + 2025 {#2025}
+  + [AI-Drive Automation in Workfront](2025/unlock-efficiency-ai-drive-automation-workfront.md)
+  + [AI - Beyond the Basics](2025/ai-beyond-basics.md)
+  + [Digital Experience Optimization with AI Insights](2025/accelerating-digital-experience-optimization.md)
+  + [Mastering Digital Asset Manager in AEM Content Hub](2025/mastering-dam-aem-content-hub.md)
+  + [Digital Trends and Preparing for the Future](2025/digital-trends-preparing-future.md)
+  + [Northstar Architecture](2025/northstar-architecture.md)
+  + [New Relic Essentials for AEM Cloud](2025/new-relic-essentials-aem-cloud.md)
   + [State of Digital and GenAI Adoption](2025/state-of-digital-and-genai-adoption-webinar.md)
   + [2024 holiday results and 2025 trends](2025/adobe-digital-insights.md)
   + [AEM with GenAI](2025/aem-genai.md)

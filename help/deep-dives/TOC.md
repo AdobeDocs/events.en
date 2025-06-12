@@ -17,6 +17,7 @@ doc-type: live event
 + Deep Dives in Marketo {#deep-dives-marketo}
   + [Admin Console Migration](admin-console.md)
   + [APIs](api.md)
+  + [Applying AI in Marketo](applying-ai.md)
   + [Automating & Streamlining Campaign Operations Using the Marketo API](campaign-operations.md)
   + [Certification](certification.md)
   + [Discover the New Email Designer in Marketo Engage](email-designer.md)

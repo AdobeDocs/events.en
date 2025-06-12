@@ -8,6 +8,64 @@ duration: 81
 
 The Commerce & Coffee series is for existing Adobe Commerce customers of all skill levels and features Sr. Commerce Strategy Consultant, Corey Gelato. The series focuses on Commerce strategies and tactics, supported by statistics reflective of the event topic. Following the presentation, there is a live demonstration showcasing how to put the strategies discussed into action within a Commerce platform. Each event concludes by giving attendees an opportunity to ask questions live and engage with the Adobe experts directly. You'll leave each event with a renewed sense of why and how to stay competitive and achieve success, all while maximizing what your Adobe Commerce platform has to offer.
 
+
+## 2025 Events
+
+<!-- CARDS
+* 2025/seo-growth.md
+* 2025/self-service-b2b.md
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Commerce & Coffee - Driving Growth with SEO">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/seo-growth.md" title="Commerce & Coffee - Driving Growth with SEO" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3459039/?format=jpeg&nocache=1749738512514" alt="Commerce & Coffee - Driving Growth with SEO"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/seo-growth.md" target="_blank" rel="referrer" title="Commerce & Coffee - Driving Growth with SEO">Commerce & Coffee - Driving Growth with SEO</a>
+                    </p>
+                    <p class="is-size-6">In this session, Corey Gelato and Agbi Bajrushi explore SEO types, key principles, and Adobe Commerce tools like Meta Fields, Page Builder, and media best practices for eCommerce.</p>
+                </div>
+                <a href="2025/seo-growth.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Commerce & Coffee - The Rise of Self-Service in B2B">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/self-service-b2b.md" title="Commerce & Coffee - The Rise of Self-Service in B2B" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451619/?format=jpeg&nocache=1749738512499" alt="Commerce & Coffee - The Rise of Self-Service in B2B"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/self-service-b2b.md" target="_blank" rel="referrer" title="Commerce & Coffee - The Rise of Self-Service in B2B">Commerce & Coffee - The Rise of Self-Service in B2B</a>
+                    </p>
+                    <p class="is-size-6">Enhance B2B experiences with Adobe Commerce! Discover features like shared catalogs, company management, quoting, and self-service tools. Learn about AI capabilities and B2B trends. Implement best practices for self-service and improve customer experiences. Join the Adobe Summit for more insights and resources.</p>
+                </div>
+                <a href="2025/self-service-b2b.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
 ## 2024 Events
 
 <!-- CARDS
@@ -24,7 +82,7 @@ The Commerce & Coffee series is for existing Adobe Commerce customers of all ski
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ask-me-anything.md" title="Ask Me Anything" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3437034/?format=jpeg&nocache=1732308154244" alt="Ask Me Anything"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3437034/?format=jpeg&nocache=1749738513506" alt="Ask Me Anything"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -47,7 +105,7 @@ The Commerce & Coffee series is for existing Adobe Commerce customers of all ski
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md" title="Commerce & Coffee Strategies for B2B eCommerce" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432604/?format=jpeg&nocache=1732308154235" alt="Commerce & Coffee Strategies for B2B eCommerce"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432604/?format=jpeg&nocache=1749738513489" alt="Commerce & Coffee Strategies for B2B eCommerce"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -70,7 +128,7 @@ The Commerce & Coffee series is for existing Adobe Commerce customers of all ski
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ecommerce-essentials.md" title="Commerce & Coffee - Mastering Ecommerce Essentials" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429437/?format=jpeg&nocache=1732308154232" alt="Commerce & Coffee - Mastering Ecommerce Essentials"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429437/?format=jpeg&nocache=1749738513520" alt="Commerce & Coffee - Mastering Ecommerce Essentials"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -93,7 +151,7 @@ The Commerce & Coffee series is for existing Adobe Commerce customers of all ski
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/peak-season-prep.md" title="Commerce & Coffee - Peak Season Preparation" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434700/?format=jpeg&nocache=1732308154240" alt="Commerce & Coffee - Peak Season Preparation"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434700/?format=jpeg&nocache=1749738513544" alt="Commerce & Coffee - Peak Season Preparation"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -116,7 +174,7 @@ The Commerce & Coffee series is for existing Adobe Commerce customers of all ski
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/personalize-ecommerce.md" title="Commerce & Coffee - Personalizing eCommerce Experiences with AI" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427493/?format=jpeg&nocache=1732308154247" alt="Commerce & Coffee - Personalizing eCommerce Experiences with AI"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427493/?format=jpeg&nocache=1749738513533" alt="Commerce & Coffee - Personalizing eCommerce Experiences with AI"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -153,7 +211,7 @@ The Commerce & Coffee series is for existing Adobe Commerce customers of all ski
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/ask-me-anything.md" title="Ask Me Anything" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425651/?format=jpeg&nocache=1732308154583" alt="Ask Me Anything"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425651/?format=jpeg&nocache=1749738513895" alt="Ask Me Anything"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -176,7 +234,7 @@ The Commerce & Coffee series is for existing Adobe Commerce customers of all ski
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/b2b.md" title="Empowering B2B Success" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3421687/?format=jpeg&nocache=1732308154575" alt="Empowering B2B Success"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3421687/?format=jpeg&nocache=1749738513923" alt="Empowering B2B Success"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -199,7 +257,7 @@ The Commerce & Coffee series is for existing Adobe Commerce customers of all ski
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/loyalty-retention.md" title="7 Ways to Build Customer Loyalty and Retention" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419686/?format=jpeg&nocache=1732308154578" alt="7 Ways to Build Customer Loyalty and Retention"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419686/?format=jpeg&nocache=1749738513949" alt="7 Ways to Build Customer Loyalty and Retention"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -222,7 +280,7 @@ The Commerce & Coffee series is for existing Adobe Commerce customers of all ski
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/organic-growth.md" title="Commerce & Coffee - Organic Growth" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416128/?format=jpeg&nocache=1732308154567" alt="Commerce & Coffee - Organic Growth"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416128/?format=jpeg&nocache=1749738513935" alt="Commerce & Coffee - Organic Growth"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -245,7 +303,7 @@ The Commerce & Coffee series is for existing Adobe Commerce customers of all ski
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/peak-season-prep.md" title="Peak Season Preparation" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424390/?format=jpeg&nocache=1732308154571" alt="Peak Season Preparation"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424390/?format=jpeg&nocache=1749738513909" alt="Peak Season Preparation"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
