@@ -12,6 +12,7 @@ Welcome to the Deep Dives on-demand events recordings. Using these resources com
 
 {cta  = Watch}
 
+* applying-ai.md
 * activity-log.md
 * admin-console.md
 * api.md
