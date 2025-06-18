@@ -11,14 +11,11 @@ exl-id: 7041430f-845d-4150-9d2c-d8fafb450b9c
 ---
 # Master Frequency Capping & Conflict Prioritization
 
-In this session, Adobe experts Ariel Sultan and Aaron Forrest dive into new features in Adobe Journey Optimizer to help you govern and prioritize customer messages with precision. Learn how to reduce messaging fatigue, resolve conflicts, and deliver impactful experiences that resonate.
+In this session, Adobe experts Ariel Sultan and Aaron Forrest dove into new features in Adobe Journey Optimizer to help you govern and prioritize customer messages with precision. They showed how to reduce messaging fatigue, resolve conflicts, and deliver impactful experiences that resonate.
 
 This session is ideal for marketers, operations teams, and journey admins looking to master Journey Optimizer's capabilities for greater control and efficiency.
 
-Don't miss this opportunity to transform your marketing strategies and engage your audience like never before. 
 
-[Register now](https://engage.adobe.com/ExpLeagueLive-250618.html?trackingid=MH16S65T&mv=email)!
+>[!VIDEO](https://video.tv.adobe.com/v/3464052/?quality=12&learn=on)
 
-![webbanner](/help/experience-league-live/episodes/assets/exl-live-web-banner-20250618_v2.jpg)
-
-Can't make it? Sign up anyway and we will send you the recording afterward. We hope to see you there!
+Join us for the [Adobe Journey Optimizer Community Ask Me Anything](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-june-[…]with-journey-optimizer-product-experts/ev-p/757473), on Wednesday, June 25th from 8am -9am PT, to continue the conversation.
