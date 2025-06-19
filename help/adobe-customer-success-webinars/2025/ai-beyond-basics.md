@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2324
 last-substantial-update: 2025-06-12
 jira: KT-18247
+exl-id: ad9ca09b-6cb2-4118-af19-da395a5d19b2
 ---
-
 # AI Assistant – Beyond the Basics
 
 This session empowered attendees to start using the AI Assistant with confidence, building proficiency that translates to workflow efficiencies and marketing performance. Overviewing key use cases for AI Assistant, how to apply the tool capabilities, as well as how to grow AI Assistant usage.  

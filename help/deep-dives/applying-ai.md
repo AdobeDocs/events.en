@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3377
 last-substantial-update: 2025-06-12
 jira: KT-18117
+exl-id: b45f02c5-e9b7-405e-9637-83440b39f254
 ---
-
 # Applying AI in Marketo: Practical Strategies and Implementation
 
 Join Lucas Goncalves Machado, AJ Navarro and Darshil Shah for a focused session on leveraging AI in Marketo. In this session, you will:

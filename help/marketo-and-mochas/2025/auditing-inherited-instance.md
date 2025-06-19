@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3956
 last-substantial-update: 2025-06-12
 jira: KT-18155
+exl-id: 66d45044-86a0-4cd8-bbdd-7d04cebf6c8f
 ---
-
 # Marketo & Mochas: Auditing an Inherited or Current Instance
 
 Did you recently inherit a Marketo instance? Or perhaps are looking to perform regular audits on your current instance to maximize its potential? Join us for this Marketo & Mochas webinar with our Adobe Business Advisors, Cynthia Chang and Carly Gaver, centered on how to run a deep dive audit to understand the current state of your instance. From tech setup and governance to data and email deliverability, this session will help you get up to speed with your new instance or revamp your current one. 

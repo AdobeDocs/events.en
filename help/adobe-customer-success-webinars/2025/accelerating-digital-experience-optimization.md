@@ -7,8 +7,8 @@ doc-type: Event
 duration: 2970
 last-substantial-update: 2025-06-12
 jira: KT-18243
+exl-id: fcf25ec0-1e23-4efe-a869-9e108456380c
 ---
-
 # Accelerating Digital Experience Optimization with AI-Powered Insights
 
 The webinar showcased the transformative impact of AI-powered features in Adobe Analytics, Target, and Customer Journey Analytics. These tools empower marketers and analysts to gain insights more rapidly, enhance personalization, and optimize cross-channel analysis. Attendees discovered how AI features can quickly surface trends, enabling faster, more informed decisions to improve digital strategies. They also saw how AI-driven tools can help tailor experiences and optimize testing to boost engagement and relevance for audiences, while gaining valuable cross-channel insights with Adobe Customer Journey Analytics (CJA).

@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3787
 last-substantial-update: 2025-06-12
 jira: KT-18156
+exl-id: 09353d41-314b-4551-b7e8-796ca665e14e
 ---
-
 # Behind the Brew: A Full Breakdown on Proactive Monitoring Tools
 
 Join us for an insightful session on leveraging cutting-edge monitoring tools like SWAT, Fastly, and New Relic to optimize system health and performance. Discover how these tools enable: 

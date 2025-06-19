@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3379
 last-substantial-update: 2025-06-12
 jira: KT-18241
+exl-id: 7d8d5e87-52d9-4b4a-a123-b9e2a3e4f065
 ---
-
 # Unlock Efficiency: AI-Driven Automation in Adobe Workfront
 
 In this session, discover how AI-driven automation in Adobe Workfront can streamline project management, eliminate manual tasks and boost overall efficiency. Learn best practices and advanced features to help you work smarter and unlock the full potential of Workfront. 

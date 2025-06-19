@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3546
 last-substantial-update: 2025-06-12
 jira: KT-18244
+exl-id: 54e7d661-eecb-42ec-8bff-7776bafbdb31
 ---
-
 # EA Northstar Architecture Planning
 
 This webinar on “Introduction to Cross-Solution Architecture Design” provided valuable insights into the creation and significance of Northstar Architecture diagrams. Attendees gained an understanding of the importance of Cross-Solution Architecture Design and learned about its creation and management.

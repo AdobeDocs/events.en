@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3359
 last-substantial-update: 2025-06-12
 jira: KT-18159
+exl-id: 36e7914e-a834-4b7c-956f-b21824a37ce2
 ---
-
 # Commerce & Coffee: Driving Growth with SEO
 
 In this session, Sr. Commerce Strategy Consultant, Corey Gelato, and Commerce Strategy Consultant, Agbi Bajrushi, do a deep dive into SEO. This includes an overview of different types of SEO and how they benefit an eCommerce business. We also highlight key principles and best practices for on-site SEO. Corey provides a demonstration on some of the native capabilities in Adobe Commerce that can help businesses level up their SEO including: Meta Fields and Masking, Page Builder for content creation and management and media best practices.

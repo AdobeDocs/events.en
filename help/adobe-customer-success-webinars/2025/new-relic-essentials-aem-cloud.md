@@ -9,8 +9,8 @@ doc-type: Event
 duration: 3224
 last-substantial-update: 2025-06-12
 jira: KT-18240
+exl-id: f56ad451-1369-4823-b2b0-2c4858b61c2d
 ---
-
 # New Relic Essentials for AEM Cloud: Optimize Performance and Prevent Issues
 
 In this session, learn how to maximize your New Relic entitlements to monitor and optimize AEM Cloud performance, efficiently diagnose issues and enhance your AEM environments. Explore real-world scenarios and best practices to gain actionable insights for superior performance management. 

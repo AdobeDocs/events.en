@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3524
 last-substantial-update: 2025-06-12
 jira: KT-18158
+exl-id: c479f24d-ee7c-4a18-95ac-991810b067a3
 ---
-
 # Marketo Measure and Mochas: Inheriting a New or Current Bizible Instance
 
 Join us for our Marketo Measure & Mochas webinar where experts, Carly Gaver and Kate Colbert, will provide recommendations for auditing your Marketo Measure (Bizible) instance. Whether you just inherited it or want to optimize your current instance, tune in to learn best practices for unleashing the full potential of your Marketo Measure platform! 
