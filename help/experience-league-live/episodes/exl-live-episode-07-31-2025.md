@@ -27,6 +27,6 @@ Sandra Hausmann, Senior Technical Marketing Engineer, Digital Experience
 * Kaitlin White, Senior Product Marketing Manager, Digital Experience
 * Chris Ivory, Sr Principal Solution Consultant,  Adobe Customer Solutions
 
-The registration will be available soon. In the meantime, bookmark the show on [YouTube](https://www.youtube.com/live/VUysRFpD40Q){target="_blank"} and select to get notified.
+Registration will be available soon. In the meantime, bookmark the show on [YouTube](https://www.youtube.com/live/VUysRFpD40Q){target="_blank"} and select to get notified.
 
 [![Web Banner](/help/experience-league-live/episodes/assets/WebBanner-31July2025.png)](https://www.youtube.com/live/VUysRFpD40Q)
