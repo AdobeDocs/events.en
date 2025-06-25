@@ -15,7 +15,7 @@ duration: 3825
 
 In this session regarding data collection for the Adobe Experience Cloud, our experts will provide a deeper dive into Adobe's advanced data collection capabilities, including functions like data prep for data collection. At the end of this session, attendees will feel confident with the latest and most powerful features for collecting data from digital experiences.
 
->[!VIDEO](https://video.tv.adobe.com/v/345342/?quality=12&learn=on)
+https://www.youtube.com/live/VUysRFpD40Q
 
 ## Additional Experience League LIVE sessions from this data collection series
 
