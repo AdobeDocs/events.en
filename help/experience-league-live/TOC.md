@@ -15,6 +15,7 @@ doc-type: live event
 
 + [Overview](overview.md)
 + Episodes {#episodes}
+  + [EP.49: Fueling Personalized Content in Journey Optimizer with AEM Content Fragments and Dynamic Media](episodes/exl-live-episode-07-31-25.md)
   + [Ep. 48: Master Frequency Capping & Conflict Prioritization](episodes/exl-live-episode-06-18-25.md)
   + [Ep. 47: Agile Workflows for Personalized Content at Scale](episodes/exl-live-episode-47-2025-06-05.md)
   + [Ep. 46: Content Analytics: Optimize performance with AI insights](episodes/exl-live-episode-05-22-25.md)
