@@ -19,11 +19,11 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 
 <table>
     <tr>
-        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-07-31-25.md">
+        <td style="vertical-align: top;"><a href="pisodes/exl-live-episode-07-31-2025.md">
               <img alt="Experience League LIVE July 31" src="episodes/assets/WebBanner-31July2025.png">
             </a>
             <div>
-              <a href="episodes/exl-live-episode-07-31-25.md">
+              <a href="pisodes/exl-live-episode-07-31-2025.md">
                 <strong>Master Frequency Capping & Conflict Prioritization</strong>
               </a>
               <br/><em>with Sandra Hausmann, Ariel Sultan, Aaron Forrest, and Keara Fausett</em>
