@@ -3,7 +3,7 @@ title: Putting it all Together
 description: We will wrap things up by understanding how Adobe Analytics tracks website data, how to save, share and collaborate. Leave this session with tips to increase your productivity and continue your learning journey.
 solution: Analytics
 feature-set: Analytics
-feature: Analytics Basics, Traffic Management, Data Governance, Data Sources, Data Configuration and Collection
+feature: Analytics Basics,Data Governance, Data Sources, Data Configuration and Collection
 doc-type: Event
 role: User
 level: Beginner
