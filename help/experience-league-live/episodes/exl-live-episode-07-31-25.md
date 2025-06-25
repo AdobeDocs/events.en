@@ -5,7 +5,7 @@ kt: KT-18261
 solution: Journey Optimizer
 feature: Fragments, Integrations, Email Design, Personalization
 event-cta-url-live: https://youtube.com/live/tyXesNYv-eM
-event-start-time: 2025-07-31 08:30 am PT
+event-start-time: 2025-07-31 08:30-7
 event-guests: Sandra Hausmann, Chris Ivory, Amarnath Vannarath, Rohan Bhatt
 last-substantial-update: 2025-06-25
 ---
