@@ -7,8 +7,8 @@ doc-type: Event
 duration: 2478
 last-substantial-update: 2025-06-26
 jira: KT-18444
+exl-id: 1db0a9de-d5ea-4304-a1bc-6867ba5434f0
 ---
-
 # Journey Optimizer Essentials
 
 Elevate your customer experience with personalized, AI-driven journeys. Join us for a value-packed webinar where we’ll guide you through the essentials of Adobe Journey Optimizer—helping you design, orchestrate, and optimize customer interactions effortlessly!

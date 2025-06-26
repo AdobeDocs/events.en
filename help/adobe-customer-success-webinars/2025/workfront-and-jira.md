@@ -7,8 +7,8 @@ doc-type: Event
 duration: 2435
 last-substantial-update: 2025-06-26
 jira: KT-18446
+exl-id: 8e611864-2759-4c71-b563-3acff27ac9db
 ---
-
 # Workfront <> JIRA: Connecting your marketing work management and development execution systems
 
 Gain foundational understanding on how to set up an initial integration between Workfront and JIRA and the knowledge on how to expand the connection between Adobe Workfront and Atlassian JIRA to meet your current and future needs for a connected work flow across systems of record.
