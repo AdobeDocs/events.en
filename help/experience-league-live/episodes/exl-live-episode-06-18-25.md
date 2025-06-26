@@ -1,7 +1,7 @@
 ---
 title: Master Frequency Capping & Conflict Prioritization
 description: Learn how to use new features in Adobe Journey Optimizer to govern and prioritize the most important messages being sent to customers.
-kt: KT-17474
+kt: 17474
 solution: Journey Optimizer
 feature: Frequency Rules
 event-cta-url-live: https://youtube.com/live/awYa2dU6TDY
@@ -19,3 +19,11 @@ This session is ideal for marketers, operations teams, and journey admins lookin
 >[!VIDEO](https://video.tv.adobe.com/v/3464052/?quality=12&learn=on)
 
 Join us for the [Adobe Journey Optimizer Community Ask Me Anything](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-june-[…]with-journey-optimizer-product-experts/ev-p/757473), on Wednesday, June 25th from 8am -9am PT, to continue the conversation.
+
+## Want to learn more? 
+
+Watch these tutorials:
+
+* [Identify potential conflicts](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts)
+* [Assign priority scores to inbound actions](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score)
+* *[Journey frequency capping and prioritization](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization)
