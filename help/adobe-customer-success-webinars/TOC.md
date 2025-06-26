@@ -8,6 +8,9 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
 
 + [Adobe Customer Success Webinars](overview.md)
 + 2025 {#2025}
+  + [Workfront and JIRA](2025/workfront-and-jira.md)
+  + [Transforming B2B & B2B2C Commerce](2025/transforming-b2b-commerce.md)
+  + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
   + [AI-Drive Automation in Workfront](2025/unlock-efficiency-ai-drive-automation-workfront.md)
   + [AI - Beyond the Basics](2025/ai-beyond-basics.md)
   + [Digital Experience Optimization with AI Insights](2025/accelerating-digital-experience-optimization.md)
