@@ -8,8 +8,8 @@ event-cta-url-live: https://youtube.com/live/tyXesNYv-eM
 event-start-time: 2025-07-31 08:30-7
 event-guests: Sandra Hausmann, Chris Ivory, Amarnath Vannarath, Rohan Bhatt
 last-substantial-update: 2025-06-25
+exl-id: 0accdf09-75c4-4ec7-b892-93c5d39c1bc5
 ---
-
 # Fueling Personalized Content in Journey Optimizer with AEM Content Fragments and Dynamic Media
 
 Join us for this Experience League Live session featuring Jyothitha Chandran, Chris Ivory, and Kaitlin White as they showcase how Adobe Journey Optimizer (AJO) integrates seamlessly with Adobe Experience Manager (AEM) Sites Content Fragments and AEM Assets Dynamic Media to deliver scalable, real-time personalization across every channel.   
