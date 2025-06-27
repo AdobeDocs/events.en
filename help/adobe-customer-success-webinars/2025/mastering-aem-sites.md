@@ -1,5 +1,5 @@
 ---
-title: Mastering AEM Sites: Your Beginner’s Guide to Templates, Navigation, and SEO
+title: Mastering AEM Sites - Templates, Navigation, and SEO
 description: Learn AEM Sites fundamentals - how to use page templates, design intuitive navigation, and apply key SEO practices to boost visibility and site performance.
 solution: Experience Manager
 version: Experience Manager as a Cloud Service
