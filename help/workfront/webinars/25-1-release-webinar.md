@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3348
 last-substantial-update: 2025-06-27
 jira: KT-18441
+exl-id: 7bffe22e-d321-4a38-ab1b-a8566cbdd9a2
 ---
-
 # Adobe Workfront First Quarter 2025 Release Webinar
 
 The webinar highlighting the latest Workfront feature enhancements included in the Q1 2025 Release was held January 9, 2025 with 406 live attendees. The Workfront Product team explained the new functionality and improvements going to Production in Workfront for the 25.1 release. If you missed the live session, the recording is posted here and the link to the  slide deck and the Experience League Community post with the Q&A are posted below:

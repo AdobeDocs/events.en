@@ -9,8 +9,8 @@ doc-type: Event
 duration: 2025
 last-substantial-update: 2025-06-27
 jira: KT-18431
+exl-id: 2f1f7a19-bd3a-4769-a820-9720c73b4c95
 ---
-
 # Mastering AEM Sites: Your Beginner’s Guide to Templates, Navigation, and SEO
 
 This session provides a foundational understanding of three critical aspects of building and managing effective websites within Adobe Experience Manager (AEM) Sites. Designed for individuals new to AEM, the session will demystify page templates as blueprints for content creation, explore best practices for designing intuitive website navigation, and introduce essential Search Engine Optimization (SEO) considerations within the AEM environment to improve online visibility. Attendees will gain practical insights and knowledge to confidently begin working with AEM Sites.
