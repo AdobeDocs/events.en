@@ -14,6 +14,7 @@ Adobe Customer Success-led webinars designed to empower you in optimizing your i
 
 {cta = Watch}
 
+* 2025/mastering-aem-sites.md
 * 2025/workfront-and-jira.md
 * 2025/transforming-b2b-commerce.md
 * 2025/journey-optimizer-essentials.md

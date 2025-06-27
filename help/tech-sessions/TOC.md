@@ -8,6 +8,7 @@ user-guide-description: Experience Cloud Tech Sessions is a proactive approach t
 
 + [Experience Cloud Tech Sessions](overview.md)
 + 2025 {#2025}
+  + [Migrate Adobe Analytics to AEP Web SDK](2025/migrate-analytics-to-aep-web-sdk.md)
   + [Adobe Campaign Classic Delivery Performance Troubleshooting](2025/acc-delivery-performance.md)
   + [Dispatcher Configurations in AEM as a Cloud Service](2025/dispatcher-configurations.md)
   + [Getting the Most out of Marketo Measure](2025/getting-most-marketo-measure.md)

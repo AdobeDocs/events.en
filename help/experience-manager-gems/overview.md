@@ -30,17 +30,41 @@ The webinars are conducted regularly.  Important tips,
 
 <!-- CARDS
 
+* gems2025/maximize-impact-with-sites-optimizer.md
 * gems2025/getting-started-adobe-managed-cdn.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AEM GEMs - Maximize the impact of your web experience with AEM Sites Optimizer">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="gems2025/maximize-impact-with-sites-optimizer.md" title="AEM GEMs - Maximize the impact of your web experience with AEM Sites Optimizer" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464069/?format=jpeg&nocache=1751034389257" alt="AEM GEMs - Maximize the impact of your web experience with AEM Sites Optimizer"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="gems2025/maximize-impact-with-sites-optimizer.md" target="_blank" rel="referrer" title="AEM GEMs - Maximize the impact of your web experience with AEM Sites Optimizer">AEM GEMs - Maximize the impact of your web experience with AEM Sites Optimizer</a>
+                    </p>
+                    <p class="is-size-6">Discover how Sites Optimizer uses AI to boost site performance, SEO, and user engagement with real-time insights and recommendations for marketing and dev teams.</p>
+                </div>
+                <a href="gems2025/maximize-impact-with-sites-optimizer.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AEM GEMs - Getting started with Adobe Managed CDN">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2025/getting-started-adobe-managed-cdn.md" title="AEM GEMs - Getting started with Adobe Managed CDN" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443168/?format=jpeg&nocache=1739484199651" alt="AEM GEMs - Getting started with Adobe Managed CDN"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443168/?format=jpeg&nocache=1751034389279" alt="AEM GEMs - Getting started with Adobe Managed CDN"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -80,7 +104,7 @@ The webinars are conducted regularly.  Important tips,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2024/aem-authoring-and-edge-delivery.md" title="Getting started with AEM Authoring and Edge Delivery Services" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427919/?format=jpeg&nocache=1739484200021" alt="Getting started with AEM Authoring and Edge Delivery Services"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427919/?format=jpeg&nocache=1751034389807" alt="Getting started with AEM Authoring and Edge Delivery Services"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -103,7 +127,7 @@ The webinars are conducted regularly.  Important tips,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2024/content-management-apis.md" title="AEM GEMs - Unlocking the Power of AEM Sites - Master the Content Management APIs" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435036/?format=jpeg&nocache=1739484200038" alt="AEM GEMs - Unlocking the Power of AEM Sites - Master the Content Management APIs"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435036/?format=jpeg&nocache=1751034389752" alt="AEM GEMs - Unlocking the Power of AEM Sites - Master the Content Management APIs"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -126,7 +150,7 @@ The webinars are conducted regularly.  Important tips,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2024/edge-delivery-for-aem-assets.md" title="Integrating AEM Assets with Edge Delivery Services" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433046/?format=jpeg&nocache=1739484200051" alt="Integrating AEM Assets with Edge Delivery Services"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433046/?format=jpeg&nocache=1751034389820" alt="Integrating AEM Assets with Edge Delivery Services"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -149,7 +173,7 @@ The webinars are conducted regularly.  Important tips,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2024/edge-delivery-for-aem-forms.md" title="Getting started with Edge Delivery Services for AEM Forms" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428434/?format=jpeg&nocache=1739484200089" alt="Getting started with Edge Delivery Services for AEM Forms"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428434/?format=jpeg&nocache=1751034389770" alt="Getting started with Edge Delivery Services for AEM Forms"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -172,7 +196,7 @@ The webinars are conducted regularly.  Important tips,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md" title="Improving the developer experience for AEM Assets with our new APIs and Events" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430198?format=jpeg&nocache=1739484200062" alt="Improving the developer experience for AEM Assets with our new APIs and Events"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430198?format=jpeg&nocache=1751034389783" alt="Improving the developer experience for AEM Assets with our new APIs and Events"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -195,7 +219,7 @@ The webinars are conducted regularly.  Important tips,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2024/private-github-for-aem-cloud-manager.md" title="Integrating Private GitHub Repositories in AEM Cloud Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432350?format=jpeg&nocache=1739484200072" alt="Integrating Private GitHub Repositories in AEM Cloud Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432350?format=jpeg&nocache=1751034389832" alt="Integrating Private GitHub Repositories in AEM Cloud Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -218,7 +242,7 @@ The webinars are conducted regularly.  Important tips,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2024/rapid-development-environment-news.md" title="What's new in Rapid Development Environments for AEM?" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433337/?format=jpeg&nocache=1739484200081" alt="What's new in Rapid Development Environments for AEM?"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433337/?format=jpeg&nocache=1751034389733" alt="What's new in Rapid Development Environments for AEM?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -241,7 +265,7 @@ The webinars are conducted regularly.  Important tips,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md" title="Building Storefronts on Edge Delivery Services with Adobe Commerce" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427729?format=jpeg&nocache=1739484200100" alt="Building Storefronts on Edge Delivery Services with Adobe Commerce"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427729?format=jpeg&nocache=1751034389795" alt="Building Storefronts on Edge Delivery Services with Adobe Commerce"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

@@ -42,5 +42,6 @@ solution: Workfront
   + [Request Queues and Intake Forms](user-groups/request-queues-and-intake-forms.md)
 + Releases {#releases}
   + [25.4 Release](webinars/25-4-release-webinar.md)
+  + [25.1 Release](webinars/25-1-release-webinar.md)
   + [24.1 Release](webinars/24-1-release-webinar.md)
 
