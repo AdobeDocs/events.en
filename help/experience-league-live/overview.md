@@ -22,10 +22,6 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-07-31-25.md">
               <img alt="Experience League LIVE July 31" src="episodes/assets/WebBanner-31July2025.png">
             </a>
-            <div>
-              <a href="episodes/exl-live-episode-07-31-25.md">
-                <strong>Master Frequency Capping & Conflict Prioritization</strong>
-              </a>
             </div>
         </td>
     </tr>
