@@ -24,7 +24,7 @@ Learn how to quickly get started with Adobe Analytics and Customer Journey Analy
 
 * **Introduction of Speakers**
   * Frederick, a Senior Customer Success Manager at Adobe, introduced the session.
-  * Dr. Kirsten Schaffer, Principal Customer Success Manager at Adobe, is the presenter.
+  * Dr. Kerstin Schäfer, Principal Customer Success Strategist at Adobe, is the presenter.
 
 * **Session Content**
   * The session covers setting up an organization for robust analytical capabilities, governance aspects, and running paths for analytics and customer journey analytics.
