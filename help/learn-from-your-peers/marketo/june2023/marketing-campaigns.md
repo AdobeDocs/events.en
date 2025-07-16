@@ -7,6 +7,7 @@ doc-type: Event
 last-substantial-update: 2023-06-30
 jira: KT-13564
 thumbnail: 3421021.jpeg
+solution: Marketo Engage
 event-start-time: 2023-6-30 08:30-8
 exl-id: 531d690e-8bb1-49eb-aafa-bc5db88baea7
 duration: 3444

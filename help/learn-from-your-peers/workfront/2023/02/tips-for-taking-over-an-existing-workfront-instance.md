@@ -4,6 +4,7 @@ description: Learn from experienced professionals about taking over a Workfront 
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
+solution: Workfront
 duration: 3641
 last-substantial-update: 2024-07-16
 jira: KT-15820

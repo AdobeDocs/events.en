@@ -4,6 +4,7 @@ description: Discover peer insights to understand user needs, optimize experienc
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
+solution: Workfront
 duration: 3640
 last-substantial-update: 2024-07-16
 jira: KT-15811

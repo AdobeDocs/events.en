@@ -2,6 +2,7 @@
 title: Testing Best Practices with Cloud Manager - September 2019
 description: Description here
 sub-product: cloud-manager
+solution: Experience Manager Cloud Manager
 feature-set: Experience Manager
 feature: Cloud Manager
 type: Event

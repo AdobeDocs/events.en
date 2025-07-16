@@ -3,6 +3,7 @@ title: Empowering Developer Excellence with AEM Core Components
 description: Accelerating website development and reducing maintenance costs with Web Content Management (WCM) Core Components. A live demonstration showcasing how to transform a teaser component into a card-style component with multiple design variations. Best practices for optimizing your Style Systems. A step-by-step demonstration of deploying UI changes efficiently using the front-end pipeline.
 feature-set: Experience Manager Sites
 feature: Core Components, Developing, Style System
+solution: Experience Manager
 topic: Development
 role: Developer
 level: Beginner, Intermediate

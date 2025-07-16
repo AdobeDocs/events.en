@@ -9,6 +9,7 @@ event-background-image: exl-event-behind-the-brew.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
+solution: Commerce
 ---
 
 # Behind the Brew {#behind-the-brew-recordings}

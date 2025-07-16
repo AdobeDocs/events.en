@@ -3,6 +3,7 @@ user-guide-title: Data Drip
 user-guide-breadcrumb: Data Drip
 user-guide-description: A list of Data Drip event recordings
 type: Event
+solution: Analytics
 mini-toc-levels: 2
 event-series: Data Drip
 event-background-image: exl-event-data-drip.png

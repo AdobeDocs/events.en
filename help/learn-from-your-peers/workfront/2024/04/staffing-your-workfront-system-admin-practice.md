@@ -2,6 +2,7 @@
 title: Staffing your Workfront system admin practice webinar
 description: Learn from Dell and Adobe Workfront experts about the strategic importance of System Administrators in our on-demand webinar. Discover tips on securing full-time headcount, leveraging the Group Admin role, and defining role profiles for effective setup and scalability in Adobe Workfront.
 topic: Administration
+solution: Workfront
 role: Admin, Leader
 level: Beginner
 doc-type: Event

@@ -2,6 +2,7 @@
 user-guide-title: Adobe Experience Manager GEMS events
 user-guide-description: Learn about AEM Gems, a series of technical deep dives delivered by Adobe Experience Manager experts.
 breadcrumb-title: AEM GEMs events
+solution: Experience Manager
 ---
 
 # Experience Manager GEMS events {#experience-manager-gems-recordings}

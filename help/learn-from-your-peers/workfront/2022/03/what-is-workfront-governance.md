@@ -3,6 +3,7 @@ title: What IS Workfront Governance?
 description: Explore governance in Workfront with our on-demand webinar. Learn from Mayo Clinic College of Medicine and Workfront experts about starting small, evolving practices, and their journey to comprehensive governance.
 role: Admin
 level: Beginner, Intermediate, Experienced
+solution: Workfront
 doc-type: Event
 duration: 3713
 last-substantial-update: 2024-07-16

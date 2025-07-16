@@ -2,6 +2,7 @@
 title: Establishing a Workfront center of excellence webinar
 description: Learn from Mattel and Adobe Workfront experts about establishing a Workfront Center of Excellence (CoE) in our on-demand webinar. Discover key components, enablers, and incremental steps for sustainable and scalable administration, improving user adoption, and enhancing product usage and data integrity.
 role: Admin, Leader
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3715

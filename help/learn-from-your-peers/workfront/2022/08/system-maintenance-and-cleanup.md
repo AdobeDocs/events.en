@@ -4,6 +4,7 @@ description: Learn from your peers about Workfront system maintenance. Discover 
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
+solution: Workfront
 duration: 3639
 last-substantial-update: 2024-07-16
 jira: KT-15815

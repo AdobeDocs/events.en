@@ -4,6 +4,7 @@ description: Learn from experts about optimizing project templates in our on-dem
 feature: Projects
 topic: Administration
 role: Admin, User
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3664

@@ -5,6 +5,7 @@ feature-set: Experience Manager
 feature: Tagging
 role: Leader, Architect, Developer, Admin, User
 level: Beginner, Intermediate
+solution: Experience Manager
 doc-type: Event
 last-substantial-update: 2023-10-06
 jira: KT-14118

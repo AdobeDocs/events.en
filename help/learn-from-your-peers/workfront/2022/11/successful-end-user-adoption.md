@@ -4,6 +4,7 @@ description: Learn from your peers about the role of an Adobe Workfront System A
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
+solution: Workfront
 duration: 3647
 last-substantial-update: 2024-07-16
 jira: KT-15818

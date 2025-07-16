@@ -2,6 +2,7 @@
 user-guide-title: Espressos & Experience Manager
 user-guide-breadcrumb: Espressos & Experience Manager
 user-guide-description: A list of Espressos & Experience Manager recordings
+solution: Experience Manager
 type: Event
 mini-toc-levels: 2
 event-series: Espressos & Experience Manager

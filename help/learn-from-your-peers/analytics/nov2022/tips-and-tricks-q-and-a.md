@@ -2,6 +2,7 @@
 title: '[!DNL Adobe Analytics] Champion Tips and Tricks Follow-up Q&A'
 description: We gathered five [!DNL Adobe Analytics] Champions from across the globe to share the tips and tricks that helped them master [!DNL Adobe Analytics]. During the event, over 90 questions were asked by [!DNL Adobe Analytics] users around the world. Since our [!DNL Adobe Analytics] experts weren't able to answer all of those question during the live Q&A, we got the group back together and hosted a follow-up Q&A session where the Champions answered YOUR questions and shared even more expert tips & tricks.
 role: User
+solution: Analytics
 doc-type: Event
 last-substantial-update: 2023-02-09
 kt: 11846
