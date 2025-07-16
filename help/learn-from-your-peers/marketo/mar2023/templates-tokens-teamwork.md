@@ -5,7 +5,6 @@ solution: Marketo Engage
 role: Admin, User
 level: Intermediate, Experienced
 doc-type: Event
-solution: Marketo Engage
 last-substantial-update: 2023-03-03
 jira: KT-12415
 thumbnail: 3416250.jpeg
