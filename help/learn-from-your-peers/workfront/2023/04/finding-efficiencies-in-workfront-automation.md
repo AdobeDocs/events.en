@@ -3,6 +3,7 @@ title: Finding efficiencies in Workfront with automation webinar
 description: Learn efficient maintenance strategies for Adobe Workfront in our on-demand webinar. Discover tips from Stanley Black & Decker and Workfront experts on automating repetitive tasks, utilizing Fusion templates, and evolving workflow processes for optimal efficiency.
 feature: Workfront Fusion
 role: Admin
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3682

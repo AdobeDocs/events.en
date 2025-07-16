@@ -3,6 +3,7 @@ user-guide-title: Adobe Experience Manager as a Cloud Service release overview
 user-guide-breadcrumb: AEMCS Release Events
 user-guide-description: Get a quick overview of the latest features on Adobe Experience Manager as a Cloud Service
 breadcrumb-title: AEM CS Release Updates
+solution: Experience Manager
 ---
 
 # Adobe Experience Manager as a Cloud Service release updates {#aemcs-release-update-recordings}

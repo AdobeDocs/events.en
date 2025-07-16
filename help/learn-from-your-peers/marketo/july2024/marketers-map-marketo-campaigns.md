@@ -5,6 +5,7 @@ feature: Smart Campaigns, Reporting
 role: Admin, Developer, User
 level: Intermediate, Experienced
 doc-type: Event
+solution: Marketo Engage
 duration: 2740
 last-substantial-update: 2024-08-05
 jira: KT-15890

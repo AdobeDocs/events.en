@@ -3,6 +3,7 @@ title: Leveraging the group admin webinar
 description: Learn from your peers about the evolving roles of Workfront System and Group Administrators. Explore roles, best practices, documentation, and advocacy in our on-demand webinar.
 topic: Administration
 role: Admin
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3667

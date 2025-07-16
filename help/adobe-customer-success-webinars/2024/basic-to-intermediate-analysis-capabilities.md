@@ -19,7 +19,7 @@ Learn how to quickly get started with Adobe Analytics and Customer Journey Analy
 ## Main points
 
 * **Session Overview**
-  * The session is titled "Quickstart for Basic Intermediate Analysis Capabilities" and is led by Dr. Kirsten Schaffer.
+  * The session is titled "Quickstart for Basic Intermediate Analysis Capabilities" and is led by Dr. Kerstin Schäfer.
   * The session is being recorded, and the link to the recording will be sent to all registered attendees.
 
 * **Introduction of Speakers**

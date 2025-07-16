@@ -1,6 +1,7 @@
 ---
 title: Learn how to apply and stand out as a Champion
 description: Join Adobe’s Adoption Marketing team and current Adobe Champions for an exclusive webinar where we'll guide you through the program and share tips on submitting a standout application.
+solution: General
 role: Admin, Developer, Leader, User
 level: Intermediate, Experienced
 doc-type: Event

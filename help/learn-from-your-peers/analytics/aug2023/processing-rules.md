@@ -5,6 +5,7 @@ feature-set: Analytics
 feature: Processing Rules
 role: User
 level: Beginner
+solution: Analytics
 doc-type: Event
 last-substantial-update: 2023-08-25
 jira: KT-13802

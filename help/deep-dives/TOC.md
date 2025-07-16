@@ -3,6 +3,7 @@ user-guide-title: Deep Dives
 user-guide-breadcrumb: Deep Dives
 user-guide-description: A list of Deep Dive recordings
 type: Event
+solution: Marketo Engage
 mini-toc-levels: 2
 event-series: Deep Dives
 event-background-image: exl-event-experience-league-live.png

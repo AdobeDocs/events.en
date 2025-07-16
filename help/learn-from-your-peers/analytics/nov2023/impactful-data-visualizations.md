@@ -3,6 +3,7 @@ title: The Art and Science of Impactful Data Visualizations in Adobe Analytics
 description: Explore Adobe Analytics visualizations and impactful data storytelling. Discover how to transform data into thoughtful and compelling visuals that tell a story, enabling you to convey insights with precision and impact using Analysis Workspace.
 feature: Visualizations, Analysis Workspace
 role: User
+solution: Analytics
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3656

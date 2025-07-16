@@ -3,6 +3,7 @@ title: Foundations of operational reporting Webinar
 description: Learn from your peers what System Administrators should measure in Workfront. Discover key metrics, reporting needs, and sample dashboards in our on-demand webinar.
 feature: Reports and Dashboards
 role: Admin
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3672

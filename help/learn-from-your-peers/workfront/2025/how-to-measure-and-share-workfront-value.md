@@ -2,6 +2,7 @@
 title: Articulating Impact - How to Measure and Share Workfront Value
 description: In this on-demand webinar, James Hill and Ellen Saltmarsh from Synchrony, and Daniel Clarke from EMMsphere, will share their strategies for articulating their "why" for adopting Workfront, defining measurable outcomes like time and cost savings, communicating success stories to gain stakeholder buy-in, and using a step-by-step playbook for value realization.
 topic: Administration
+solution: Workfront
 role: Admin, Leader
 level: Beginner
 doc-type: Event

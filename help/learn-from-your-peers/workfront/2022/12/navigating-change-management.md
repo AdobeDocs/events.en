@@ -4,6 +4,7 @@ description: Learn from change management experts about navigating transitions w
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
+solution: Workfront
 duration: 3634
 last-substantial-update: 2024-07-16
 jira: KT-15819

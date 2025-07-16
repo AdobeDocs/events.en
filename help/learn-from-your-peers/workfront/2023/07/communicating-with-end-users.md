@@ -2,6 +2,7 @@
 title: Communicating with end users webinar
 description: Explore diverse strategies for communicating with Workfront users in our on-demand webinar. Learn from IDEXX, Adobe, and Adobe Workfront experts about effective channels, types of communications, and evolving your strategy iteratively.
 role: Admin, Leader
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3649

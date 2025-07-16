@@ -1,6 +1,7 @@
 ---
 title: Understanding user management webinar
 description: Join our on-demand webinar to master Workfront user setup and organization. Learn from Thermo Fisher Scientific and Adobe Workfront experts about licenses, access levels, groups, teams, object hierarchy, sharing permissions, and best practices for effective user management.
+solution: Workfront
 role: Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event

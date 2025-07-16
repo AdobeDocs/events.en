@@ -4,6 +4,7 @@ description: Join Rachel Hanessian and Ariel Sultan for an insightful webinar, w
 role: Admin
 level: Beginner
 doc-type: Event
+solution: Experience Platform, Real-Time Customer Data Platform, Journey Optimizer, Customer Journey Analytics
 duration: 2813
 last-substantial-update: 2024-10-30
 jira: KT-16367

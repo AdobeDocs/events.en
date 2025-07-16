@@ -1,6 +1,7 @@
 ---
 title: Marketo Migration to the Adobe Admin Console - (Pre-Migration)
 description: Adobe is migrating Marketo Engage to the Admin Console for better user management. Learn about auto and self-migration types, prerequisites, post-migration changes, best practices, common pitfalls, and support. Access the session recording on Adobe's Experience League website.
+solution: Marketo Engage
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

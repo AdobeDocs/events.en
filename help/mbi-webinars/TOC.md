@@ -2,6 +2,8 @@
 user-guide-title: Commerce Intelligence Events
 breadcrumb-title: Commerce Intelligence Events
 user-guide-description: Commerce Intelligence Events is a video library where experts and peers have shared their thoughts and ideas on Adobe Commerce Intelligence.
+type: Event
+solution: Commerce Intelligence
 ---
 
 # Commerce Intelligence Events  {#commerce-intelligence-webinar-recordings}

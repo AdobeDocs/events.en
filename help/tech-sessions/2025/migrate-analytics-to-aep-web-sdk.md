@@ -4,6 +4,7 @@ description: Learn how to migrate from appmeasurement.js and at.js to AEP Web SD
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
+solution: Analytics, Target
 duration: 4381
 last-substantial-update: 2025-06-27
 jira: KT-18368
