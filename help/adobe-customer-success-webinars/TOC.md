@@ -8,6 +8,8 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
 
 + [Adobe Customer Success Webinars](overview.md)
 + 2025 {#2025}
+  + [AEM's Emerging Technology](2025/personalized-experiences-aem.md)
+  + [Migrating to CJA from Adobe Analytics](2025/analytics-to-cja-migration.md)
   + [Mastering AEM Sites](2025/mastering-aem-sites.md)
   + [Workfront and JIRA](2025/workfront-and-jira.md)
   + [Transforming B2B & B2B2C Commerce](2025/transforming-b2b-commerce.md)
