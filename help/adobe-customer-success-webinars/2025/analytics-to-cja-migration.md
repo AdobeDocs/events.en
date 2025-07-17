@@ -9,8 +9,8 @@ doc-type: Event
 duration: 3654
 last-substantial-update: 2025-07-16
 jira: KT-18535
+exl-id: 725291fa-add4-4c93-8bc9-37155936c9d8
 ---
-
 # Best practices migrating to Adobe Customer Journey Analytics from Adobe Analytics
 
 Learn about the migration from Adobe Analytics to Customer Journey Analytics (CJA). Hosted by Nicolina Picone and Maurizio Corò from Adobe's Ultimate Success team, the session provides an in-depth overview of CJA, its capabilities, and best practices for migration. 

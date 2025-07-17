@@ -12,8 +12,8 @@ doc-type: Event
 duration: 2919
 last-substantial-update: 2025-07-16
 jira: KT-18454
+exl-id: 79da1489-12ad-4a4c-9064-4c5206a08354
 ---
-
 # Beyond the Page: Fast, Flexible, Personalized Experiences with AEM’s Emerging Tech
 
 Discover how Adobe Experience Manager is transforming digital experience delivery with the latest advancements in Edge Delivery Services, headless CMS architectures, and personalization. This session will walk you through modern authoring models, discuss real-world use cases, and outline how brands can achieve faster, more flexible, and targeted web experiences with integrated Adobe tools. Join us to learn the practical steps, architectural insights, and proven strategies shaping the future of content and personalization.
@@ -31,4 +31,3 @@ Discover how Adobe Experience Manager is transforming digital experience deliver
 * **Personalization at the Edge** Personalization is embedded in the delivery process, leveraging Adobe Target and Adobe Journey Optimizer (AJO) for real-time audience segmentation, A/B testing, and tailored experiences without compromising performance.
 
 * **AEM Sites Optimizer** A new tool that continuously scans sites for health, performance, SEO, and accessibility issues, providing actionable recommendations directly within the AEM dashboard to ensure ongoing optimization.
-
