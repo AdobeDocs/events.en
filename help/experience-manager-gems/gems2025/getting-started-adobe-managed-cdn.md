@@ -3,6 +3,7 @@ title: AEM GEMs - Getting started with Adobe Managed CDN
 description: Learn how to configure Adobe Managed CDN in AEM Cloud Service to enhance performance and security with new CDN configuration capabilities.
 role: Developer, User
 level: Intermediate
+feature: Edge Delivery Services
 doc-type: Event
 duration: 3438
 last-substantial-update: 2025-01-30

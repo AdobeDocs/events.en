@@ -1,6 +1,7 @@
 ---
 title: Magic Buttons and How to Build Them
 description: Enhance workflows and user experiences with Adobe's UI extensibility, allowing custom integrations through Adobe App Builder, simplifying complex tasks with a "magic button," and supporting seamless integration with enterprise systems, with future expansions to more Adobe services.
+solution: Experience Manager
 topic: Development
 role: Developer
 level: Beginner, Intermediate

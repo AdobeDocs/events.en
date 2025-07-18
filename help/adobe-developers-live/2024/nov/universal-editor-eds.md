@@ -2,7 +2,7 @@
 title: Universal Editor, Adobe Experience Manager Authoring & Edge Delivery Services
 description: Universal Editor simplifies headless content management by supporting various tech stacks, offering in-context live previews, consolidating multiple editors, and allowing easy customization through JSON configuration and App Builder extensions.
 solution: Experience Manager, Experience Manager Sites
-feature: Authoring
+feature: Authoring, Edge Delivery Services
 topic: Content Management
 role: Developer
 level: Beginner, Intermediate

@@ -1,6 +1,7 @@
 ---
 title: Adobe Experience Manager Rapid Development Environments
 description: Facilitate rapid development and deployment in cloud environments with Adobe's new SDK, reducing deployment time significantly and supporting quick updates, live logs, and advanced configuration options, as discussed in DevOps Life 2024.
+solution: Experience Manager as a Cloud Service, Experience Manager
 feature: Developer Tools
 topic: Development
 role: Developer

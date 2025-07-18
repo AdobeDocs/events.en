@@ -1,6 +1,7 @@
 ---
 title: CDN & WAF Configuration in Adobe Experience Manager as a Cloud Service
 description: Enhance the performance and security of Adobe Experience Manager as a Cloud Service applications with customizable CDN rules, WAF protection, and the Config Pipeline, as shared by Adobe experts.
+solution: Experience Manager as a Cloud Service
 feature: Security
 topic: Performance, Security
 role: Developer

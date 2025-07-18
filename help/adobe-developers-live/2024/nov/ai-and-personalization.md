@@ -1,6 +1,7 @@
 ---
 title: Bringing AI and Personalization to Adobe Experience Manager Edge Delivery Services
 description: Learn how to integrate AI and personalization into Adobe Experience Manager Edge Delivery Services with foundational architecture, semantic search, and advanced use cases demonstrated by Andreas Haller, Principal Solution Architect at Cognizant Netcentric.
+solution: Experience Manager as a Cloud Service, Experience Manager
 feature: Edge Delivery Services, Search, Generative AI
 topic: Artificial Intelligence, Personalization
 role: Developer

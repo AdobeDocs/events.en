@@ -3,6 +3,7 @@ title: Espressos & Experience Manager - Edge Delivery Services
 description: Watch our first Espressos & AEM webinar! Experts Casey & Rajan cover Edge Delivery Services, Universal Editor, and SPEED to boost site speed, conversions, and ease of editing.
 solution: Experience Manager
 version: Experience Manager as a Cloud Service
+feature: Edge Delivery Services
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
