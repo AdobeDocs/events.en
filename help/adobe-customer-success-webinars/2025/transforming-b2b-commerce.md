@@ -2,6 +2,9 @@
 title: Transforming B2B & B2B2C Commerce with Personalization & Automation
 description: Learn how B2B commerce can scale personalization using AEM, Target, and AEP to optimize B2B2C experiences and drive data-driven, unified content and offers.
 role: Admin, Developer, Leader, User
+solution: Experience Manager, Target, Commerce
+feature: Edge Delivery Services
+topic: Personalization
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2661

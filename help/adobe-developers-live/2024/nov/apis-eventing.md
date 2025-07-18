@@ -1,6 +1,7 @@
 ---
 title: Modern Adobe Experience Manager APIs & Eventing
 description: Extend applications and integrate AMS services with modern APIs, supported by a dedicated team and comprehensive resources on developer.adobe.com, with new APIs for content fragments, event integration, and opportunities for early adopters.
+solution: Experience Manager as a Cloud Service, Experience Manager
 feature: APIs, Integrations
 topic: Integrations
 role: Developer

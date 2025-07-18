@@ -6,6 +6,7 @@ level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3101
 last-substantial-update: 2025-06-19
+feature: Product Announcements
 jira: KT-18275
 thumbnail: null
 exl-id: 4ba8920f-6ec2-4613-81fc-fc3708643d65

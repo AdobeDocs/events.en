@@ -1,7 +1,7 @@
 ---
 title: Developing Exceptional Commerce Storefront Experiences with Edge Delivery Services & Adobe Commerce
 description: Integrating ads delivery services with Adobe Commerce enhances ecommerce storefronts by leveraging high-impact experiences, fast edge delivery, customizable Adobe Commerce drop-ins, and a unified technology stack for improved SEO, faster page loads, and seamless developer experiences.
-solution: Commerce, Experience Manager
+solution: Commerce, Experience Manager, Experience Manager as a Cloud Service
 feature: Storefront, Edge Delivery Services
 topic: Commerce
 role: Developer

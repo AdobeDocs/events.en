@@ -1,30 +1,28 @@
 ---
-title: Workfront On-Demand Events
+title: Adobe Workfront On-demand Workshops
 description: Workfront Events is a video library where experts and peers have shared their thoughts and ideas on how to use Workfront to enhance the work being done for their organizations.
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
 ---
-# Workfront On-Demand Events {#overview}
+# Adobe Workfront On-demand Workshops {#workfront-workshops}
 
-A library of recorded Workfront events where experts and peers share thoughts on how to use Workfront.
+## Releases
 
-## Featured Sessions
+This ongoing video series offers a clear and concise overview of each quarterly Adobe Workfront release. Whether you're a system admin, power user, or just curious about what's new, these sessions are designed to help you stay informed and confident about the latest updates. In partnership with the Product Management team, these events highlight key features, functionality enhancements, and tips to quickly understand what’s changing and how those changes can benefit your organization.
 
-<!-- CARDS 
+<!-- CARDS
 
-* user-groups/workfront-system-maintenance.md
-* user-groups/reporting-and-dashboards.md
-* user-groups/agile-in-marketing.md
+* releases/25-7-release-webinar.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Workfront System Maintenance (July 27, 2021)">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Workfront 25.7 release webinar">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="user-groups/workfront-system-maintenance.md" title="Workfront System Maintenance (July 27, 2021)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/341213/?format=jpeg&nocache=1751033947116" alt="Workfront System Maintenance (July 27, 2021)"
+                    <a href="releases/25-7-release-webinar.md" title="Adobe Workfront 25.7 release webinar" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464843/?format=jpeg&nocache=1752859088580" alt="Adobe Workfront 25.7 release webinar"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -32,22 +30,44 @@ A library of recorded Workfront events where experts and peers share thoughts on
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="user-groups/workfront-system-maintenance.md" target="_blank" rel="referrer" title="Workfront System Maintenance (July 27, 2021)">Workfront System Maintenance (July 27, 2021)</a>
+                        <a href="releases/25-7-release-webinar.md" target="_blank" rel="referrer" title="Adobe Workfront 25.7 release webinar">Adobe Workfront 25.7 release webinar</a>
                     </p>
-                    <p class="is-size-6">Listen to a panel of Workfront system administrator experts share their thoughts and tips on how to keep your system clean and functioning with continual syste… (Descriptions should be between 60 and 160 characters)</p>
+                    <p class="is-size-6">Discover new Workfront 25.7 features from the Q3 2025 Release webinar—watch the recording and explore key updates.</p>
                 </div>
-                <a href="user-groups/workfront-system-maintenance.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="releases/25-7-release-webinar.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Reporting & Dashboards (March 16, 2021)">
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+<!--
+## Featured Events
+
+Explore the latest from your Adobe Workfront community through our curated selection of featured events. Each month, we host free live sessions covering a variety of topics to help you get the most out of Workfront. Missed a live event? No problem! Catch up with on-demand recordings that showcase customer stories, proven best practices, and valuable lessons learned. Want to connect in real time? Join upcoming live events to ask questions, share insights, and collaborate with peers. Visit the Experience League Events page regularly to see what’s coming up next!
+-->
+
+## Workfront Event Series
+
+### Top 3
+
+Looking for quick, actionable insights to level up your Adobe Workfront game? The “Top 3” video series is designed with you in mind. Each short video highlights three practical tips, favorite features, or creative approaches shared by real users and experts from the Workfront Community. Whether you’re just getting started or looking to optimize your existing setup, these bite-sized videos deliver value fast—without the fluff. Watch, learn, and walk away with three ideas you can apply today
+
+<!-- CARDS
+
+* top3/blueprints.md
+
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Top 3 – Creative Approaches with Blueprints">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="user-groups/reporting-and-dashboards.md" title="Reporting & Dashboards (March 16, 2021)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/341216/?format=jpeg&nocache=1751033947099" alt="Reporting & Dashboards (March 16, 2021)"
+                    <a href="top3/blueprints.md" title="Top 3 – Creative Approaches with Blueprints" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1752859088922" alt="Top 3 – Creative Approaches with Blueprints"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -55,22 +75,38 @@ A library of recorded Workfront events where experts and peers share thoughts on
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="user-groups/reporting-and-dashboards.md" target="_blank" rel="referrer" title="Reporting & Dashboards (March 16, 2021)">Reporting & Dashboards (March 16, 2021)</a>
+                        <a href="top3/blueprints.md" target="_blank" rel="referrer" title="Top 3 – Creative Approaches with Blueprints">Top 3 – Creative Approaches with Blueprints</a>
                     </p>
-                    <p class="is-size-6">Listen to Jordan Emery, Vice President of Marketing at J.P. Morgan, share the reports and dashboards they use to track intake requests.</p>
+                    <p class="is-size-6">Discover how Workfront Blueprints fast-track setup, with new templates, dashboards & sandbox testing tips.</p>
                 </div>
-                <a href="user-groups/reporting-and-dashboards.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="top3/blueprints.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Agile in Marketing (Sep 15, 2020)">
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+### Versus!
+
+Welcome to the Versus! video series, where we break down common Workfront features that seem similar—but serve different purposes or solve different challenges. In each episode, we’ll compare two objects, highlight their unique strengths, and help you understand when and how to use each one.
+
+Whether you're a Workfront admin, project manager, or everyday user, this series will give you quick, practical insights to make smarter decisions and get more out of your Workfront setup.
+
+<!-- CARDS
+
+* versus/groups-vs-teams.md
+
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Versus! – Groups vs. Teams">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="user-groups/agile-in-marketing.md" title="Agile in Marketing (Sep 15, 2020)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/341224/?format=jpeg&nocache=1751033947085" alt="Agile in Marketing (Sep 15, 2020)"
+                    <a href="versus/groups-vs-teams.md" title="Versus! – Groups vs. Teams" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1752859089086" alt="Versus! – Groups vs. Teams"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -78,11 +114,49 @@ A library of recorded Workfront events where experts and peers share thoughts on
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="user-groups/agile-in-marketing.md" target="_blank" rel="referrer" title="Agile in Marketing (Sep 15, 2020)">Agile in Marketing (Sep 15, 2020)</a>
+                        <a href="versus/groups-vs-teams.md" target="_blank" rel="referrer" title="Versus! – Groups vs. Teams">Versus! – Groups vs. Teams</a>
                     </p>
-                    <p class="is-size-6">Hear about agile marketing and how it works in Workfront. (Between 60 and 160 characters)</p>
+                    <p class="is-size-6">Learn the difference between Groups vs. Teams in Adobe Workfront for better structure, collaboration, and task management.</p>
                 </div>
-                <a href="user-groups/agile-in-marketing.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="versus/groups-vs-teams.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+### Expert Insights
+
+The Workfront Expert Insights series is your go-to resource for unlocking practical strategies and advanced tips from seasoned Workfront practitioners. Each video dives into a new theme: from governance and request queues to SLA reporting, Fusion use cases, content supply chain workflows, and more. 
+These sessions feature real-world solutions, customer examples, and actionable takeaways designed to help Workfront users at all levels optimize their setup, scale operations, and get more value from the platform. Whether you're looking to solve a specific challenge or spark ideas for innovation, Workfront Expert Insights offers a behind-the-scenes look at how experts get it done.
+
+<!-- CARDS 
+
+* expert-insights/request-queues.md
+
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights - Request Queues with Lyndsy Denk">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="expert-insights/request-queues.md" title="Expert Insights - Request Queues with Lyndsy Denk" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465272/?format=jpeg&nocache=1752859089318" alt="Expert Insights - Request Queues with Lyndsy Denk"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="expert-insights/request-queues.md" target="_blank" rel="referrer" title="Expert Insights - Request Queues with Lyndsy Denk">Expert Insights - Request Queues with Lyndsy Denk</a>
+                    </p>
+                    <p class="is-size-6">Workfront expert tips on building Help Desk Queues, routing requests, and dashboard insights with Lyndsy Denk.</p>
+                </div>
+                <a href="expert-insights/request-queues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
                 </a>
             </div>

@@ -1,6 +1,7 @@
 ---
 title: Extension Manager for Adobe Experience Manager Sites
 description: Learn how to extend Adobe Experience Manager functionality with the Extension Manager, enabling cross-organization UI extensions and customization without redeploying the entire application, as demonstrated by Iryna Lagno, Sr. Software Engineer at Adobe.
+solution: Experience Manager, Experience Manager Sites
 feature: Headless
 topic: Development, Headless
 role: Developer
