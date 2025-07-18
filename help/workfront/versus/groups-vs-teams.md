@@ -1,7 +1,7 @@
 ---
 title: Versus! – Groups vs. Teams
 description: Learn the difference between Groups vs. Teams in Adobe Workfront for better structure, collaboration, and task management.
-feature: People Teams and Groups, People, Teams, and Groups
+feature: People Teams and Groups
 role: Admin
 level: Beginner
 doc-type: Event
