@@ -8,8 +8,8 @@ duration: 3625
 last-substantial-update: 2025-07-18
 feature: Product Announcements
 jira: KT-18525
+exl-id: b2a32f57-3582-457a-975d-1c56a58ec0f6
 ---
-
 # Adobe Workfront 25.7 release webinar
 
 The webinar highlighting the latest Workfront feature enhancements included in the Q3 2025 Release was held July 10, 2025 with 425 live attendees. The Workfront Product team explained the new functionality and improvements going to Production in Workfront for the 25.7 release. If you missed the live session, the recording is posted here,

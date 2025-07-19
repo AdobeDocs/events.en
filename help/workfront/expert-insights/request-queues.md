@@ -8,8 +8,8 @@ doc-type: Event
 duration: 1228
 last-substantial-update: 2025-07-17
 jira: KT-18551
+exl-id: 370e6388-2dc3-4c12-8500-510dac32e867
 ---
-
 # Expert Insights - Request Queues with Lyndsy Denk
 
 Welcome to Expert Insights!  I’m Cynthia Boon, your “On-Demand” Workfront CSM and for this episode we have Workfront Celebrity, [@Lyndsy-Denk](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/17573167) ! We discuss Lyndsy’s Workfront Story and then a deep dive into her Help Desk Request Queue.
@@ -47,6 +47,4 @@ You never know what amazing ideas customers will share during events, so make su
 
 ## Have something to share?
 
-Do you have a great story to share, either during an event or in an Expert Insights video? Please reach out to our team at [CSatScale@adobe.com](mailto:CSatScale@adobe.com).  
-
-
+Do you have a great story to share, either during an event or in an Expert Insights video? Please reach out to our team at [CSatScale@adobe.com](mailto:CSatScale@adobe.com).

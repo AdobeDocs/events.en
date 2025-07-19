@@ -1,5 +1,5 @@
 ---
-title: Creative Ways of Managing Resources in Adobe Workfront 
+title: Creative Ways of Managing Resources in Adobe Workfront
 description: This workshop was recorded on May 20, 2025 and featured Rick Christensen from Western Governors University and Kiersten Kollins and Nicole Alanis from DSW Designer Shoe Warehouse as they shared how they are capturing and reporting on capacity in Workfront.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,7 +8,7 @@ duration: 3101
 last-substantial-update: 2025-7-7
 jira: KT-18430
 thumbnail: null
-
+exl-id: 342292d0-e12b-41d0-8dd4-ec4f55475a33
 ---
 # Creative Ways of Managing Resources in Adobe Workfront 
 
