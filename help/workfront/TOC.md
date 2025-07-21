@@ -7,14 +7,19 @@ solution: Workfront
 
 # Workfront Events {#workfront-recordings}
 
-+ [Workfront User Groups and Webinars](overview.md)
++ [Workfront On-demand Workshops](overview.md)
 
++ Release Webinars {#releases}
+  + [25.7 Release](releases/25-7-release-webinar.md)
+  + [25.4 Release](releases/25-4-release-webinar.md)
+  + [25.1 Release](releases/25-1-release-webinar.md)
+  + [24.1 Release](releases/24-1-release-webinar.md)
 + Top 3 {#top3}
   + [Creative Approaches with Blueprints](top3/blueprints.md)
 + Versus! {#versus}
   + [Groups vs. Teams](versus/groups-vs-teams.md)
 + Expert Insights {#expert-insights}
-  +[Request Queues with Lyndsy Denk](expert-insights/request-queues.md)
+  + [Request Queues with Lyndsy Denk](expert-insights/request-queues.md)
 + Workshop Rewind {#workshop-rewind}
   + Workflow {#workflow}
       + [Creative ways of managing resources](classics/creative-ways-of-managing-resources.md)
@@ -57,9 +62,5 @@ solution: Workfront
   + Request Queues and Intake {#request-queues-and-intake}
     + [Request Queues and Intake Forms](user-groups/request-queues-and-intake-forms.md)
 
-+ Releases {#releases}
-  + [25.7 Release](releases/25-7-release-webinar.md)
-  + [25.4 Release](releases/25-4-release-webinar.md)
-  + [25.1 Release](releases/25-1-release-webinar.md)
-  + [24.1 Release](releases/24-1-release-webinar.md)
+
 
