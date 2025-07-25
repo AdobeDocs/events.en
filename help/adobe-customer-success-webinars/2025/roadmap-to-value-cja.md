@@ -9,8 +9,8 @@ doc-type: Event
 duration: 3523
 last-substantial-update: 2025-07-25
 jira: KT-18546
+exl-id: 6df2bdc8-841e-4c7a-8475-158e338fb3e4
 ---
-
 # Roadmap to Value with CJA
 
 In our opening session of the series, we review why a documented strategy to measure ROI is so critical in realizing value with CJA. This webinar will provide practical guidance and real-world examples to help you build your CJA use case roadmap. This roadmap allows you to unlock measurable outcomes and ensures alignment on value delivery. Customer Journey Analytics provides immense potential but you must utilize it well to maximize your value.

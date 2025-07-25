@@ -10,8 +10,8 @@ doc-type: Event
 duration: 3173
 last-substantial-update: 2025-07-25
 jira: KT-18602
+exl-id: b51b818e-131c-4c58-ab45-2a5cdec73f25
 ---
-
 # Tech Sessions: Fastly and Adobe Commerce
 
 In this session, we explore best practices for delivering scalable, high-performing, and resilient digital experiences, while strategically engaging Adobe Support for optimal outcomes.
