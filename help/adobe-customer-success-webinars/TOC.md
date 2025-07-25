@@ -41,6 +41,7 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
   + [Mastering Sequential Logic - Start Stops](2025/sequential-logic-start-stop.md)
   + [Optimizing AEM Performance](2025/optimize-aem-performance.md)
   + [Personalizing digital communications](2025/personalize-digital-communications.md)
+  + [Roadmap to Value with CJA](2025/roadmap-to-value-cja.md)
   + [Winning Executive Sponsorship for AEP Projects](2025/exec-sponsorship-aep-projects.md)
   + [Workfront Fusion Basics & Best Practices](2025/adobe-workfront-fusion-best-practices.md)
   + [Smarter Marketing Starts Here - Integrating Google & Adobe](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
