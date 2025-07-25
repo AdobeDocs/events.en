@@ -8,13 +8,14 @@ user-guide-description: Experience Cloud Tech Sessions is a proactive approach t
 
 + [Experience Cloud Tech Sessions](overview.md)
 + 2025 {#2025}
-  + [Migrate Adobe Analytics to AEP Web SDK](2025/migrate-analytics-to-aep-web-sdk.md)
   + [Adobe Campaign Classic Delivery Performance Troubleshooting](2025/acc-delivery-performance.md)
   + [Dispatcher Configurations in AEM as a Cloud Service](2025/dispatcher-configurations.md)
   + [Getting the Most out of Marketo Measure](2025/getting-most-marketo-measure.md)
+  + [Fastly and Adobe Commerce](2025/fastly-and-adobe-commerce.md)
   + Marketo Migration to the Adobe Admin Console {#marketo-admin-console}
     + [Pre-migration](2025/marketo-pre-migration.md)
     + [Post-migration](2025/marketo-post-migration.md)
+  + [Migrate Adobe Analytics to AEP Web SDK](2025/migrate-analytics-to-aep-web-sdk.md)
 + 2024 {#2024}
   + Real-Time Content Data Platform {#rtcdp-office-hours-2024}
     + [AEP Web SDK Troubleshooting](2024/aep-web-sdk-troubleshooting.md)
