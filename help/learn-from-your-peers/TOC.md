@@ -108,4 +108,5 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
       + [What IS Workfront governance?](workfront/2022/03/what-is-workfront-governance.md)
     + February {#february}
       + [Understanding user management](workfront/2022/02/understanding-user-management.md)
++ [Explore Adobe User Groups across Experience Cloud](./adobe-user-groups.md)
 + [Learn how to apply and stand out as a Champion](./adobe-champion-application.md)

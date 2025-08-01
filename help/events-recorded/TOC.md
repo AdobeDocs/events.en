@@ -89,6 +89,7 @@ user-guide-description: A collection of event recordings forcused on using Adobe
   + Adobe Marketo {#am}
     + [Deep Dives](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
     + [Experience Cloud Tech Sessions](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
+    + [Foundations of Marketo Engage](/help/foundations-of-marketo-engage/overview.md)
     + [Learn from your Peers](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
     + [Marketo and Mochas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
     + [Marketo Champion Office Hours](https://experienceleague.adobe.com/docs/events/marketo-champion-office-hours/overview.html)
