@@ -14,8 +14,8 @@ doc-type: Event
 duration: 3287
 last-substantial-update: 2025-08-01
 jira: KT-18450
+exl-id: 7efac6ad-7a28-436d-8174-28bee14f2853
 ---
-
 # Programs, Campaigns & Beyond
 
 This session is ideal for new and early-stage users looking to build confidence and capability in Marketo Engage.

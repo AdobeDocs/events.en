@@ -1,8 +1,8 @@
 ---
 title: Foundations of Marketo Engage
 description: Join the Foundational Marketo User Group to build confidence and core skills in Adobe Marketo Engage through beginner-friendly, supportive sessions.
+exl-id: 0f4ac207-0828-4f35-915b-8ba5715af780
 ---
-
 # Foundations of Marketo Engage {#foundations-of-marketo-engage-webinars}
 
 The Foundational Marketo User Group is designed specifically for individuals who are just beginning their journey with Adobe Marketo Engage. This group offers a welcoming, supportive environment where new users can build confidence and core skills through structured, beginner-friendly sessions.
@@ -68,7 +68,3 @@ The Foundational Marketo User Group is designed specifically for individuals who
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-
-
-

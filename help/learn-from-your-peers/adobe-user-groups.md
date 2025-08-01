@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3492
 last-substantial-update: 2025-08-01
 jira: KT-18677
+exl-id: b0344cef-66f3-4882-b0d8-eb2e298a08d2
 ---
-
 # Explore Adobe User Groups across Experience Cloud
 
 Join us for the Adobe User Group Webinar - designed to connect, inspire, and grow regional networks of Adobe MarTech professionals.
@@ -26,5 +26,3 @@ This session covered,
 * Get practical guidance on how to join or form a User Group , including available resources, tools, and support from Adobe.
 * Hear directly from active User Group leaders across AEM, Analytics, Marketo Engage and Workfront as they share how peer-to-peer learning helped them grow professionally and solve real challenges.
 * Explore leadership opportunities like becoming a User Group Leader or participating as a User Group Member.
-
-

@@ -15,8 +15,8 @@ doc-type: Event
 duration: 3229
 last-substantial-update: 2025-08-01
 jira: KT-18497
+exl-id: 961ec095-fd39-453d-b687-94e3fbf4d0cf
 ---
-
 # Powering Campaigns with Marketo Personalization
 
 Discover how to elevate your marketing impact with a foundational overview of Marketo Engage’s personalization capabilities. In this session, we’ll explore why personalization matters and how it can drive stronger engagement and conversion across your campaigns.

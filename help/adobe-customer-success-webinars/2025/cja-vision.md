@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2988
 last-substantial-update: 2025-08-01
 jira: KT-18661
+exl-id: 6c6f1d82-0d86-414c-843c-58d884830140
 ---
-
 # Foundational Architecture Needed to Enable the Adobe Customer Journey Analytics Vision
 
 This session explores how outdated or fragmented systems can lead to technical debt, hinder Adobe Customer Journey Analytics adoption, and limit scalability. Learn how leveraging a NorthStar Architecture can help diagnose gaps in your implementation and maintain organizational alignment.
