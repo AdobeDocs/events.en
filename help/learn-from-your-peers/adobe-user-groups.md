@@ -20,8 +20,6 @@ If you are working with Adobe Experience Cloud solutions and want to grow your s
 
 ## Session overview
 
-This session covered, 
-
 * Learn what User Groups are and how they support collaboration, problem-solving, and skill-building.
 * Get practical guidance on how to join or form a User Group , including available resources, tools, and support from Adobe.
 * Hear directly from active User Group leaders across AEM, Analytics, Marketo Engage and Workfront as they share how peer-to-peer learning helped them grow professionally and solve real challenges.
