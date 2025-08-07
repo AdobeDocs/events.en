@@ -27,7 +27,7 @@ user-guide-description: A collection of event recordings forcused on using Adobe
   + [Experience League LIVE](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
   + [Experience Manager GEMS](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
   + [Experience Manager Release Overview](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html)
-  + [Foundations of Marketo Engage](https://experienceleague.adobe.com/docs/events/foundations-of-marketo-engage/overview.md)
+  + [Foundations of Marketo Engage](https://experienceleague.adobe.com/en/docs/events/foundations-of-marketo-engage-webinars/overview)
   + [GenStudio for Performance Marketing Events](https://experienceleague.adobe.com/docs/events/genstudio-for-performance-marketing-events/overview.html) 
   + [Learn from your Peers](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
   + [Marketo and Mochas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
@@ -90,7 +90,7 @@ user-guide-description: A collection of event recordings forcused on using Adobe
   + Adobe Marketo {#am}
     + [Deep Dives](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
     + [Experience Cloud Tech Sessions](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
-    + [Foundations of Marketo Engage](https://experienceleague.adobe.com/docs/events/foundations-of-marketo-engage/overview.md)
+    + [Foundations of Marketo Engage](https://experienceleague.adobe.com/en/docs/events/foundations-of-marketo-engage-webinars/overview)
     + [Learn from your Peers](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
     + [Marketo and Mochas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
     + [Marketo Champion Office Hours](https://experienceleague.adobe.com/docs/events/marketo-champion-office-hours/overview.html)

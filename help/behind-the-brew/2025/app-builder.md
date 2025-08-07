@@ -1,8 +1,8 @@
 ---
 title: Adobe Developer App Builder
 description: Integrate Adobe Commerce with Any eCommerce Application Using App Builder Expert Guidance and Live Demonstration
-role: Admin, Developer, Leader, User
-level: Beginner, Intermediate, Experienced
+role: Admin, Developer
+level: Intermediate, Experienced
 doc-type: Event
 duration: 3460
 last-substantial-update: 2025-01-25
