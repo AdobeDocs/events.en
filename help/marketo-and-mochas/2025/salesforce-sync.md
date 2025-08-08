@@ -59,15 +59,15 @@ To use Salesforce Sync with Marketo effectively, follow these best practices, ex
    * Log in to Salesforce as the Marketo Sync User and try performing the same action. This helps identify permission issues or invalid data.
    * Set up recurring campaigns in Marketo to fix common errors, like standardizing country/state values (e.g., "CA" to "California").
 
-5. **Use Custom Sync Filters**
+1. **Use Custom Sync Filters**
  
     Custom filters help you control which records sync between Salesforce and Marketo. For example, create a field called "Do Not Sync to Marketo." If this field is marked "true" for a record, it won’t sync to Marketo. This is useful for excluding invalid email addresses or outdated contacts.
 
-6. **Limit Task Creation**
+1. **Limit Task Creation**
    
     elm Salesforce. Focus on meaningful activities like "filled out form" or "clicked link in email."
 
-7. **Collaborate with Your Salesforce Admin**
+1. **Collaborate with Your Salesforce Admin**
 
     Since the sync involves both systems, work closely with your Salesforce admin to:
 
@@ -75,18 +75,18 @@ To use Salesforce Sync with Marketo effectively, follow these best practices, ex
     * Clean up unnecessary fields in Salesforce.
     * Troubleshoot sync issues together.
 
-8. **Monitor Sync Performance**
+1. **Monitor Sync Performance**
  
     Regularly check the sync status in Marketo’s admin section:
 
     Look for spikes in the "Sync Backlog Trend" or "Sync Throughput" dashboards. These indicate delays or excessive updates.
     If you notice issues, investigate which fields or records are causing the problem.
 
-9. **Use Custom Objects Wisely**
+1. **Use Custom Objects Wisely**
 
     Custom objects are special data structures that can store additional information (e.g., product details). Only sync custom objects that are necessary for your campaigns to avoid bloating your database.
 
-10. **Plan for Scalability**
+1. **Plan for Scalability**
     
     When setting up the sync, think long-term:
 
