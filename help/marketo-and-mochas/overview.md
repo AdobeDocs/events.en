@@ -17,6 +17,7 @@ Welcome to the Marketo and Mochas recordings. Using these resources combined wit
 * 2025/inheriting-bizible-instance.md
 * 2025/auditing-inherited-instance.md
 * 2025/5-features-to-know.md
+* 2025/salesforce-sync.md
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -25,7 +26,7 @@ Welcome to the Marketo and Mochas recordings. Using these resources combined wit
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/inheriting-bizible-instance.md" title="Marketo Measure and Mochas - Inheriting a New or Current Bizible Instance" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3459038/?format=jpeg&nocache=1749739012261" alt="Marketo Measure and Mochas - Inheriting a New or Current Bizible Instance"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3459038/?format=jpeg&nocache=1754608683907" alt="Marketo Measure and Mochas - Inheriting a New or Current Bizible Instance"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -48,7 +49,7 @@ Welcome to the Marketo and Mochas recordings. Using these resources combined wit
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/auditing-inherited-instance.md" title="Marketo & Mochas - Auditing an Inherited or Current Instance" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3459034/?format=jpeg&nocache=1749739012233" alt="Marketo & Mochas - Auditing an Inherited or Current Instance"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3459034/?format=jpeg&nocache=1754608683897" alt="Marketo & Mochas - Auditing an Inherited or Current Instance"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -71,7 +72,7 @@ Welcome to the Marketo and Mochas recordings. Using these resources combined wit
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/5-features-to-know.md" title="Marketo & Mochas - 5 Marketo Features to Know in 2025" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444165/?format=jpeg&nocache=1749739012247" alt="Marketo & Mochas - 5 Marketo Features to Know in 2025"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444165/?format=jpeg&nocache=1754608683871" alt="Marketo & Mochas - 5 Marketo Features to Know in 2025"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -84,6 +85,29 @@ Welcome to the Marketo and Mochas recordings. Using these resources combined wit
                     <p class="is-size-6">Watch our first Marketo & Mochas session of the year with our Marketo Engage experts, Carly Gaver and Kate Colbert. Carly and Kate went over 5 capability-rich features in your Marketo package that can help elevate your customer experience and drive demand in 2025. Tune in and unleash the full potential of your Marketo platform!</p>
                 </div>
                 <a href="2025/5-features-to-know.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Marketo & Mochas - Salesforce Sync">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/salesforce-sync.md" title="Marketo & Mochas - Salesforce Sync" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470624/?format=jpeg&nocache=1754608683887" alt="Marketo & Mochas - Salesforce Sync"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/salesforce-sync.md" target="_blank" rel="referrer" title="Marketo & Mochas - Salesforce Sync">Marketo & Mochas - Salesforce Sync</a>
+                    </p>
+                    <p class="is-size-6">Master the Marketo–Salesforce sync with expert guidance on permissions, field visibility, admin collaboration, and best practices to ensure smooth, optimized integration.</p>
+                </div>
+                <a href="2025/salesforce-sync.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
                 </a>
             </div>
@@ -113,7 +137,7 @@ Welcome to the Marketo and Mochas recordings. Using these resources combined wit
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ask-me-anything.md" title="Ask Me Anything" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3438195/?format=jpeg&nocache=1749739013183" alt="Ask Me Anything"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3438195/?format=jpeg&nocache=1754608685142" alt="Ask Me Anything"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -136,7 +160,7 @@ Welcome to the Marketo and Mochas recordings. Using these resources combined wit
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/attribution-dashboard-recording.md" title="Marketo & Mochas - Fundamentals of Attribution Dashboards Recording" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427255/?format=jpeg&nocache=1749739013155" alt="Marketo & Mochas - Fundamentals of Attribution Dashboards Recording"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427255/?format=jpeg&nocache=1754608685125" alt="Marketo & Mochas - Fundamentals of Attribution Dashboards Recording"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -159,7 +183,7 @@ Welcome to the Marketo and Mochas recordings. Using these resources combined wit
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/drive-growth-with-reporting.md" title="Marketo & Mochas - Driving Growth with Reporting (Maturity Pt 3)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435407/?format=jpeg&nocache=1749739013210" alt="Marketo & Mochas - Driving Growth with Reporting (Maturity Pt 3)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435407/?format=jpeg&nocache=1754608685116" alt="Marketo & Mochas - Driving Growth with Reporting (Maturity Pt 3)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -182,7 +206,7 @@ Welcome to the Marketo and Mochas recordings. Using these resources combined wit
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/lead-nurture-success.md" title="Marketo & Mochas - Laying the Foundation for Lead Nurture Success" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429436/?format=jpeg&nocache=1749739013195" alt="Marketo & Mochas - Laying the Foundation for Lead Nurture Success"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429436/?format=jpeg&nocache=1754608685081" alt="Marketo & Mochas - Laying the Foundation for Lead Nurture Success"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -205,7 +229,7 @@ Welcome to the Marketo and Mochas recordings. Using these resources combined wit
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/marketo-measure-and-mochas-activities-and-custom-models.md" title="Marketo Measure & Mochas Activities and Custom Models" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432603/?format=jpeg&nocache=1749739013169" alt="Marketo Measure & Mochas Activities and Custom Models"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432603/?format=jpeg&nocache=1754608685092" alt="Marketo Measure & Mochas Activities and Custom Models"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -228,7 +252,7 @@ Welcome to the Marketo and Mochas recordings. Using these resources combined wit
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/maturity-part1-foundation.md" title="Marketo & Mochas - Maturity Part 1 - Laying the Foundation" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432499/?format=jpeg&nocache=1749739013247" alt="Marketo & Mochas - Maturity Part 1 - Laying the Foundation"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432499/?format=jpeg&nocache=1754608685104" alt="Marketo & Mochas - Maturity Part 1 - Laying the Foundation"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -251,7 +275,7 @@ Welcome to the Marketo and Mochas recordings. Using these resources combined wit
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/new-discover-dashboard.md" title="New Discover Dashboards" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428405/?format=jpeg&nocache=1749739013235" alt="New Discover Dashboards"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428405/?format=jpeg&nocache=1754608685150" alt="New Discover Dashboards"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -274,7 +298,7 @@ Welcome to the Marketo and Mochas recordings. Using these resources combined wit
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/optimize-marketo-usage.md" title="Marketo & Mochas - Maturity Part 2 - Optimizing Your Marketo Usage" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434699/?format=jpeg&nocache=1749739013222" alt="Marketo & Mochas - Maturity Part 2 - Optimizing Your Marketo Usage"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434699/?format=jpeg&nocache=1754608685134" alt="Marketo & Mochas - Maturity Part 2 - Optimizing Your Marketo Usage"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -316,7 +340,7 @@ Welcome to the Marketo and Mochas recordings. Using these resources combined wit
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/attribution.md" title="Marketo and Mochas - Marketo Measure Attribution" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3413506/?format=jpeg&nocache=1749739013472" alt="Marketo and Mochas - Marketo Measure Attribution"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3413506/?format=jpeg&nocache=1754608685652" alt="Marketo and Mochas - Marketo Measure Attribution"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -339,7 +363,7 @@ Welcome to the Marketo and Mochas recordings. Using these resources combined wit
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/deliverability-part-one.md" title="Marketo and Mochas - Deliverability (Part 1)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416666/?format=jpeg&nocache=1749739013447" alt="Marketo and Mochas - Deliverability (Part 1)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416666/?format=jpeg&nocache=1754608685668" alt="Marketo and Mochas - Deliverability (Part 1)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -362,7 +386,7 @@ Welcome to the Marketo and Mochas recordings. Using these resources combined wit
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/deliverability-part-two.md" title="Marketo and Mochas - Deliverability (Part 2)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418668/?format=jpeg&nocache=1749739013485" alt="Marketo and Mochas - Deliverability (Part 2)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418668/?format=jpeg&nocache=1754608685679" alt="Marketo and Mochas - Deliverability (Part 2)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -385,7 +409,7 @@ Welcome to the Marketo and Mochas recordings. Using these resources combined wit
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/lead-scoring.md" title="Marketo and Mochas - Lead Scoring" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3412722/?format=jpeg&nocache=1749739013460" alt="Marketo and Mochas - Lead Scoring"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3412722/?format=jpeg&nocache=1754608685689" alt="Marketo and Mochas - Lead Scoring"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -408,7 +432,7 @@ Welcome to the Marketo and Mochas recordings. Using these resources combined wit
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/lifecycle-modeling.md" title="Customer Journey Management - Lifecycle Modeling" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420763/?format=jpeg&nocache=1749739013497" alt="Customer Journey Management - Lifecycle Modeling"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420763/?format=jpeg&nocache=1754608685698" alt="Customer Journey Management - Lifecycle Modeling"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -431,7 +455,7 @@ Welcome to the Marketo and Mochas recordings. Using these resources combined wit
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/msi-best-practices.md" title="MSI Best Practices and Optimization" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422797?format=jpeg&nocache=1749739013521" alt="MSI Best Practices and Optimization"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422797?format=jpeg&nocache=1754608685715" alt="MSI Best Practices and Optimization"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -454,7 +478,7 @@ Welcome to the Marketo and Mochas recordings. Using these resources combined wit
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/online-offline.md" title="Online vs Offline Channels" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422363/?format=jpeg&nocache=1749739013534" alt="Online vs Offline Channels"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422363/?format=jpeg&nocache=1754608685707" alt="Online vs Offline Channels"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -477,7 +501,7 @@ Welcome to the Marketo and Mochas recordings. Using these resources combined wit
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/program-management.md" title="Marketo and Mochas - Program Management Best Practices" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425070/?format=jpeg&nocache=1749739013509" alt="Marketo and Mochas - Program Management Best Practices"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425070/?format=jpeg&nocache=1754608685722" alt="Marketo and Mochas - Program Management Best Practices"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

@@ -17,6 +17,7 @@ solution: Workfront
 + [Wake Up with Workfront](overview.md)
 + 2025 {#2025}
   + [Ask Me Anything](2025/ask-me-anything.md)
+  + [Auditing and Aligning your Workfront Instance](2025/audit-and-align-workfront-instance.md)
   + [Maximize Productivity with Workfront Fusion](2025/maximize-productivity.md)
   + [Optimize and Maintain Your Environment](2025/optimize-maintain-environment.md)
   + [Resource Management](2025/resource-management.md)
