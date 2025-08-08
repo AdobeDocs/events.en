@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3387
 last-substantial-update: 2025-08-07
 jira: KT-18703
+exl-id: 6f8c668e-e6b3-4f9a-9e48-61c5c9f68ea2
 ---
-
 # Wake Up With Workfront: Optimize to Elevate. Auditing and Aligning your Adobe Workfront Instance
 
 Whether you’ve just inherited an Adobe Workfront instance or you’ve been managing one for years, a structured review is your first step toward long-term success. In this foundational session, we walk through how to assess your instance with clarity and purpose—identifying what’s working, where opportunities lie, and how to set the stage for scalable improvement. You’ll learn how to: 

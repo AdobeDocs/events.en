@@ -9,8 +9,8 @@ doc-type: Event
 duration: 3547
 last-substantial-update: 2025-08-07
 jira: KT-18706
+exl-id: fc46eb27-359f-49da-8795-53b6acea0075
 ---
-
 # Marketo & Mochas: Salesforce Sync
 
 Marketo has very few native integrations, but Salesforce is the most powerful of them all. With around 90% of Marketo customers also utilizing Salesforce, Adobe is committed to advising customers on how to theorize, diagnose, and optimize syncing between the two. The Marketo sync with SFDC is largely based on the permissions in SFDC that are given to the Marketo Sync User. This can be difficult for customers because of multiple admins or different teams creating silos in communication around updates in the system. 
