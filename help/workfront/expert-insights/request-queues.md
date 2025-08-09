@@ -4,6 +4,9 @@ description: Workfront expert tips on building Help Desk Queues, routing request
 feature: Requests
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
+speaker-name-1: Lyndsy Dent
+speaker-title-1: Marketing Training and Enablement Manager
+speaker-company-1: IDEXX
 doc-type: Event
 duration: 1228
 last-substantial-update: 2025-07-17
@@ -37,7 +40,7 @@ As promised, here are the resources we discussed along with a couple of extra li
 
 * And don’t forget to check out the [Workfront AMA](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798) Ask Me ANYTHING about Workfront Proof where Lyndsy along with Monique Evans and Richard Carlson answered your questions around Proofing!
 
-### About Lyndsy 
+## About the speaker 
 
 Lyndsy is the Marketing Training and Enablement Manager at IDEXX. In addition to Workfront, she admins their DAM and leads internal communications for the marketing department. She has a background in technical writing, instructional design, higher education, and coaching high school competitive speech and debate.   
 

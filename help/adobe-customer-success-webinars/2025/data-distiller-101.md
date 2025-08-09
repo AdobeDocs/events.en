@@ -1,6 +1,7 @@
 ---
 title: Data Distiller 101
 description: Data Distiller 101 webinar highlights its capabilities in data segmentation, enrichment, and AI/ML integration, offering scalable solutions for data architects and marketing entities to enhance data-driven decision-making.
+solution: Experience Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event

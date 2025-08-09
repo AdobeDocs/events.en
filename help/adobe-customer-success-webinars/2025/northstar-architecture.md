@@ -1,6 +1,7 @@
 ---
 title: EA Northstar Architecture Planning
 description: TWebinar on Cross-Solution Architecture Design covered the value and creation of Northstar diagrams, with key insights for developers, leaders, and users.
+solution: General
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Event

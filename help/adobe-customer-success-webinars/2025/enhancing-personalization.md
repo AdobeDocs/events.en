@@ -1,6 +1,7 @@
 ---
 title: Enhancing Personalization - Integration Essentials for Adobe Target with CJA and AEM
 description: Discover how to enhance your personalization strategy by integrating Adobe Target with CJA and AEM, exploring best practices, key insights, and actionable strategies to optimize customer engagement and deliver personalized experiences across all channels.
+solution: Target, Customer Journey Analytics, Experience Manager
 feature: Integrations
 topic: Personalization, Integrations
 role: Admin, Developer, Leader, User
