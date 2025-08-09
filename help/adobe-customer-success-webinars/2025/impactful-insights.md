@@ -1,6 +1,7 @@
 ---
 title: Impactful Insights - Crafting Strategies for Effective Measurement
 description: A well-implemented measurement strategy enhances operational efficiency, fosters data-driven decision making, and improves customer experiences, providing organizations with a competitive edge.
+solution: General
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event

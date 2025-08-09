@@ -1,6 +1,7 @@
 ---
 title: Adobe Digital Insights - State of Digital & GenAI Adoption Webinar
 description: Discover key Retail & Travel trends from Adobe, powered by 1T+ site visits—GenAI, mobile, KPIs, and consumer insights to help drive growth.
+solution: General
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

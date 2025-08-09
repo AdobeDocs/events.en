@@ -1,6 +1,7 @@
 ---
 title: GenAI Experimentation in AJO and Its Relationship with Adobe Target
 description: The meeting highlighted the AI Content Accelerator's capabilities in generating text, images, and HTML, content experimentation through Adobe Journey Optimizer, integration with Adobe Target for optimization and personalization, various use cases for combined tools, and future developments including enhanced AI features.
+solution: Journey Optimizer, Target
 feature: AI Assistant, Generative AI
 topic: Artificial Intelligence
 role: Admin, Developer, Leader, User

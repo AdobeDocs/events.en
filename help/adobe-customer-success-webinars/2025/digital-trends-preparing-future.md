@@ -1,6 +1,7 @@
 ---
 title: Digital Trends and Preparing for the Future
 description: Explore key 2025 trends, their impact on workflows and reporting, and how to adapt with Adobe solutions. Covers global trends, agility, and measurement.
+solution: General
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Event
