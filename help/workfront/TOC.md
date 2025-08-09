@@ -20,7 +20,7 @@ solution: Workfront
 + Versus! {#versus}
   + [Groups vs. Teams](versus/groups-vs-teams.md)
 + Expert Insights {#expert-insights}
-  + [Non-Traditional Workfront Workflows](expert-insights/request-queues.md)
+  + [Non-Traditional Workfront Workflows](expert-insights/non-traditional-workfront-workflows.md)
   + [Request Queues with Lyndsy Denk](expert-insights/request-queues.md)
   + [SLA Reporting in Workfront](expert-insights/sla-reporting.md)
 + Workshop Rewind {#workshop-rewind}
