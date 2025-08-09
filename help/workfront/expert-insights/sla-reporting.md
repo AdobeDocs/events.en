@@ -11,8 +11,8 @@ doc-type: Event
 duration: 1616
 last-substantial-update: 2025-08-08
 jira: KT-18623
+exl-id: 0d870372-4605-4d42-b539-5de2943a2682
 ---
-
 # Expert Insights: SLA Reporting in Workfront with Madalyn Destafney
 
 Welcome to another installment of Expert Insights!  I’m Cynthia Boon, your “On-Demand” Workfront CSM and am excited to share that we have the one and only, Madalyn Destafney, sharing some of her extensive experience to help customers implement and measure Service Level Agreements (SLAs) using Workfront. 

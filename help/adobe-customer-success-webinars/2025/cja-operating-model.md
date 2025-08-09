@@ -9,8 +9,8 @@ doc-type: Event
 duration: 3590
 last-substantial-update: 2025-08-08
 jira: KT-18694
+exl-id: 70a11781-ad10-4e3b-94f3-f1a5a98d725c
 ---
-
 # Designing an Operating Model for CJA Success
 
 In the third session of our CJA VRA Series, learn why establishing a cohesive operating model to support your measurement program is so critical in avoiding future resourcing challenges, enhancing efficiencies, and maximising your ability to scale.

@@ -11,8 +11,8 @@ doc-type: Event
 duration: 1129
 last-substantial-update: 2025-08-08
 jira: KT-18622
+exl-id: a67e7d79-fbfa-4268-9418-98fe977e13f3
 ---
-
 # Expert Insights: Non-Traditional Workfront Workflows with Kiersten Kollins
 
 Welcome to another Expert Insights episode!  I’m Cynthia Boon, your “On-Demand” Workfront CSM. Ever wonder how other customers use Workfront? Looking for unique ways to solve your organizational challenges and support your processes?  
@@ -44,5 +44,3 @@ With more than a decade of experience working in marketing creative and operatio
 ## Have something to share?
 
 Do you have a great story to share, either during an event or in an Expert Insights video? Please reach out to our team at [CSatScale@adobe.com|mailto:CSatScale@adobe.com].
-
-

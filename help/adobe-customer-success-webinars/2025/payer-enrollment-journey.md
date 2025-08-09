@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3550
 last-substantial-update: 2025-08-08
 jira: KT-18695
+exl-id: e7990fde-6d15-48ac-b539-bcb2fe31e7c7
 ---
-
 # Modernizing the Payers' Enrollment Journey with AEM Forms
 
 Discover how AEM Forms helps Payers modernize the end-to-end enrollment journey from lead generation forms to enrollment applications and customer communications. Learn how to automate digital processes and drive customer engagement through effective, omnichannel experiences.

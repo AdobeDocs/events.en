@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3470
 last-substantial-update: 2025-08-08
 jira: KT-18628
+exl-id: 79a28ff0-7f89-4d71-80e4-6f9cd5c07380
 ---
-
 # Start Fast, Scale Smart: Activating Team-Level Success with Workfront Planning
 
 This workshop was recorded on May 28, 2025 and featured our Adobe Workfront Product team where they shared their expertise for implementing Workfront Planning. 
@@ -42,5 +42,3 @@ Here are some additional quick links to resources to help you get started! 
 * [Adobe Workfront Planning release activity](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)
 
 We’ll have more events coming soon for Workfront Planning, so be sure to check out the [Events page on Experience League](https://experienceleague.adobe.com/events/?filters=Workfront)regularly so you don’t miss out!
-
-

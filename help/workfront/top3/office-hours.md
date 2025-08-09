@@ -8,8 +8,8 @@ doc-type: Event
 duration: 255
 last-substantial-update: 2025-08-08
 jira: KT-18641
+exl-id: 55be2998-55ae-4162-af86-caddefc6895a
 ---
-
 # Top 3 Approaches to Office Hours
 
 It’s me again, your “On-Demand Workfront CSM” Cynthia Boon and I’ve got a topic for you that comes up all the time during events.  If you’re just getting started with establishing office hours or you just want to freshen them up, check out the video below! 
@@ -27,5 +27,3 @@ Bonus resource! We held a Community Coffee Break where loads of fabulous custome
 [Workfront Coffee Break Communication Methods for Adoption](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-10-26-8-30am-9-30am-pdt-communication/ev-p/621879)
 
 Do you have examples of how you approach your Workfront Office Hours? Please share your best practices in this [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-approaches-to-office-hours/td-p/713391)!
-
-

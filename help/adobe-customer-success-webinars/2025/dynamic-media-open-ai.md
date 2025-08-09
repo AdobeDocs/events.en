@@ -11,8 +11,8 @@ doc-type: Event
 duration: 2757
 last-substantial-update: 2025-08-08
 jira: KT-18702
+exl-id: 088790b0-b411-4471-aeb5-1e7bda7d62e9
 ---
-
 # Mastering Dynamic Media with Open API
 
 This webinar is designed for professionals who are familiar with traditional Dynamic Media and are looking to understand and implement [Dynamic Media Ultimate](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate) with Open API.  We will explore the high-level workings of Dynamic Media Ultimate with Open API and compare it with traditional Dynamic Media. Our goal is to provide a comprehensive understanding of the differences between these two approaches, enabling participants familiar with Dynamic Media to easily adapt to the Open API model.

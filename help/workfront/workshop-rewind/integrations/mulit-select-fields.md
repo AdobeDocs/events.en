@@ -9,8 +9,8 @@ doc-type: Event
 duration: 3172
 last-substantial-update: 2025-08-08
 jira: KT-18631
+exl-id: 8581b9e5-674b-447a-8a52-1217d197891a
 ---
-
 # Navigating the Workfront API and Fusion Changes for Multi-Select Fields with Ease
 
 This workshop was recorded on June 25, 2025 and featured Andy Hess, sharing the upcoming changes to the Workfront API and Fusion.

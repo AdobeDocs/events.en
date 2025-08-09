@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3728
 last-substantial-update: 2025-08-08
 jira: KT-18626
+exl-id: 5377412d-db56-4fca-92c9-0c4c59fa2d79
 ---
-
 # Workfront Crowdsource Challenge: Project Templates
 
 This workshop was recorded on April 8, 2025 and featured Ross Barton and Lindsay Love from Ologie who shared their Workfront story, reaching out for feedback from the customer community.  As Workfronters, we are always looking for opportunities to see how other customers configure their system and manage their processes, so this was an amazing opportunity.

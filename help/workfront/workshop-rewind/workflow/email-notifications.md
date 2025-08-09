@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3756
 last-substantial-update: 2025-08-08
 jira: KT-18627
+exl-id: 801730b2-2056-4f55-986a-6f06c7d27d27
 ---
-
 # Mastering Email Notifications in Adobe Workfront
 
 This interactive 1-hour workshop was recorded on May 7, 2025 and featured a discussion around  the different notification types available in Workfront, key email notifications, best practices for managing them, and actionable recommendations to help you and your team stay informed without feeling overwhelmed.

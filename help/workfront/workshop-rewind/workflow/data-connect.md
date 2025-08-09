@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3611
 last-substantial-update: 2025-08-08
 jira: KT-18629
+exl-id: 557695aa-9952-4119-bb72-9a523b8d47a6
 ---
-
 # Unlock the Power of Workfront Data Connect
 
 This workshop was recorded on May 29, 2025 and featured our Adobe Workfront Product team where they shared their expertise around what Data Connect is and how it can be used to access Workfront data and provide visibility to drive business decisions!
@@ -34,5 +34,3 @@ If you have any follow-up questions for Matt or want to share how you are using 
 
 
 We hope to see you at future Customer Success workshops!  Be sure to check out the [Workfront Events](https://experienceleague.adobe.com/events/?filters=Workfront) on Experience League for the full list and to register.
-
-

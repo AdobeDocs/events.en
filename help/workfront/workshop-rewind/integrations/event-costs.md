@@ -9,8 +9,8 @@ doc-type: Event
 duration: 3322
 last-substantial-update: 2025-08-08
 jira: KT-18630
+exl-id: 96b70e2e-7e81-4694-adf6-560c0703a034
 ---
-
 # The Workfront Fusion Fix: Ericsson’s Smarter Way to Unlocking True Event Costs
 
 This workshop was recorded on June 12, 2025 and featured Lucas Brito, Marketing Tech and Analytics Manager at Ericsson, who shared how Ericsson extended Workfront to capture true event costs, streamline financial visibility, and reduce manual errors—ultimately making the process simpler and smarter for everyone involved. Lucas explained the integration of Fusion with various systems, including SharePoint, Power BI, and SAP, to automate the expense reporting process, and even jumped into Fusion for a live demo!
