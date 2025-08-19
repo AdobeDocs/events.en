@@ -1,7 +1,6 @@
 ---
 title: Adobe Campaign Classic Delivery Performance - Troubleshooting
 description: This session covered key strategies to improve email and SMS delivery performance using Adobe Campaign. It addressed common challenges like delivery delays, low throughput, and transactional slowness, offering solutions such as batching optimization, SQL logging, and server performance monitoring. Deliverability best practices included proper email authentication (SPF, DKIM, DMARC), blacklist monitoring, and spam checks. For enhanced performance, experts recommended clean workflows, throttling rules, and avoiding shared containers. SMS delivery tips focused on proper external account setup and log analysis. The session also emphasized tracking validation, database maintenance using bloat reports, and applying pressure/fatigue rules to boost engagement. A session recording will be shared via email and posted on the Adobe Experience site.
-version: Classic v7
 solution: Campaign Classic v7
 product: Adobe Campaign
 feature: SMS, Deliverability, Troubleshooting
