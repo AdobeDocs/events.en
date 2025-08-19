@@ -11,6 +11,8 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
   + Commerce {#commerce2025}
     + [Transforming B2B & B2B2C Commerce](2025/transforming-b2b-commerce.md)
   + Customer Journey Analytics {#cja2025}
+    + [Building Executive Sponsorship](2025/cja-success.md)
+    + [Change Management Strategies](2025/cja-adoption.md)
     + [Designing an Operating Model for CJA Success](2025/cja-operating-model.md)
     + [Foundational Architecture](2025/cja-vision.md)
     + [Migrating to CJA from Adobe Analytics](2025/analytics-to-cja-migration.md)
@@ -29,6 +31,7 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
     + [New Relic Essentials for AEM Cloud](2025/new-relic-essentials-aem-cloud.md)
     + [Optimizing AEM Performance](2025/optimize-aem-performance.md)
     + [Personalizing digital communications](2025/personalize-digital-communications.md)
+    + [Universal Editor Overview](2025/modern-aem-authoring.md)
   + Experience Platform {#aep2025}
     + [AI - Beyond the Basics](2025/ai-beyond-basics.md)
     + [Best Practices and Insights for Modeling XDM Schemas](2025/model-xdm-schemas.md)
