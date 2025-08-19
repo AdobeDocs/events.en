@@ -22,7 +22,7 @@ This ongoing video series offers a clear and concise overview of each quarterly 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="releases/25-7-release-webinar.md" title="Adobe Workfront 25.7 release webinar" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464843/?format=jpeg&nocache=1754697926098" alt="Adobe Workfront 25.7 release webinar"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464843/?format=jpeg&nocache=1755644848870" alt="Adobe Workfront 25.7 release webinar"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -68,7 +68,7 @@ Looking for quick, actionable insights to level up your Adobe Workfront game? Th
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/blueprints.md" title="Top 3 – Creative Approaches with Blueprints" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1754697926485" alt="Top 3 – Creative Approaches with Blueprints"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1755644849276" alt="Top 3 – Creative Approaches with Blueprints"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -91,7 +91,7 @@ Looking for quick, actionable insights to level up your Adobe Workfront game? Th
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/office-hours.md" title="Top 3 Approaches to Office Hours" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1754697926468" alt="Top 3 Approaches to Office Hours"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1755644849259" alt="Top 3 Approaches to Office Hours"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -130,7 +130,7 @@ Whether you're a Workfront admin, project manager, or everyday user, this series
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="versus/groups-vs-teams.md" title="Versus! – Groups vs. Teams" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1754697926685" alt="Versus! – Groups vs. Teams"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1755644849574" alt="Versus! – Groups vs. Teams"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -158,19 +158,44 @@ These sessions feature real-world solutions, customer examples, and actionable t
 
 <!-- CARDS 
 
+* expert-insights/content-supply-chain.md
 * expert-insights/non-traditional-workfront-workflows.md
 * expert-insights/request-queues.md
 * expert-insights/sla-reporting.md
+* expert-insights/enterprise-work-management.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights – Content Supply Chain with Corre Kombol">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="expert-insights/content-supply-chain.md" title="Expert Insights – Content Supply Chain with Corre Kombol" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469899/?format=jpeg&nocache=1755644850018" alt="Expert Insights – Content Supply Chain with Corre Kombol"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="expert-insights/content-supply-chain.md" target="_blank" rel="referrer" title="Expert Insights – Content Supply Chain with Corre Kombol">Expert Insights – Content Supply Chain with Corre Kombol</a>
+                    </p>
+                    <p class="is-size-6">Learn expert strategies from Corre Kombol on optimizing your content supply chain with Adobe solutions. Boost efficiency, collaboration, and results.</p>
+                </div>
+                <a href="expert-insights/content-supply-chain.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights - Non-Traditional Workfront Workflows with Kiersten Kollins">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/non-traditional-workfront-workflows.md" title="Expert Insights - Non-Traditional Workfront Workflows with Kiersten Kollins" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469900/?format=jpeg&nocache=1754697926938" alt="Expert Insights - Non-Traditional Workfront Workflows with Kiersten Kollins"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469900/?format=jpeg&nocache=1755644850008" alt="Expert Insights - Non-Traditional Workfront Workflows with Kiersten Kollins"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -193,7 +218,7 @@ These sessions feature real-world solutions, customer examples, and actionable t
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/request-queues.md" title="Expert Insights - Request Queues with Lyndsy Denk" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465272/?format=jpeg&nocache=1754697926951" alt="Expert Insights - Request Queues with Lyndsy Denk"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465272/?format=jpeg&nocache=1755644850056" alt="Expert Insights - Request Queues with Lyndsy Denk"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -216,7 +241,7 @@ These sessions feature real-world solutions, customer examples, and actionable t
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/sla-reporting.md" title="SLA Reporting in Workfront with Madalyn Destafney" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469901/?format=jpeg&nocache=1754697926919" alt="SLA Reporting in Workfront with Madalyn Destafney"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469901/?format=jpeg&nocache=1755644850045" alt="SLA Reporting in Workfront with Madalyn Destafney"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -229,6 +254,29 @@ These sessions feature real-world solutions, customer examples, and actionable t
                     <p class="is-size-6">Learn how to implement and measure Service Level Agreements (SLAs) in Adobe Workfront with expert tips from Madalyn Destafney, including step-by-step guidance, calculated field examples, and custom form best practices.</p>
                 </div>
                 <a href="expert-insights/sla-reporting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights – Enterprise Work Management with Daniel Clarke">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="expert-insights/enterprise-work-management.md" title="Expert Insights – Enterprise Work Management with Daniel Clarke" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469898/?format=jpeg&nocache=1755644850032" alt="Expert Insights – Enterprise Work Management with Daniel Clarke"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="expert-insights/enterprise-work-management.md" target="_blank" rel="referrer" title="Expert Insights – Enterprise Work Management with Daniel Clarke">Expert Insights – Enterprise Work Management with Daniel Clarke</a>
+                    </p>
+                    <p class="is-size-6">Hear Daniel Clarke share Workfront best practices on enterprise work management, adoption, leadership metrics, and Fusion strategies for success.</p>
+                </div>
+                <a href="expert-insights/enterprise-work-management.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
                 </a>
             </div>

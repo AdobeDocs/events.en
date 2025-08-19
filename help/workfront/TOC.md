@@ -20,9 +20,11 @@ solution: Workfront
 + Versus! {#versus}
   + [Groups vs. Teams](versus/groups-vs-teams.md)
 + Expert Insights {#expert-insights}
+  + [Content Supply Chain](expert-insights/content-supply-chain.md)
   + [Non-Traditional Workfront Workflows](expert-insights/non-traditional-workfront-workflows.md)
   + [Request Queues with Lyndsy Denk](expert-insights/request-queues.md)
   + [SLA Reporting in Workfront](expert-insights/sla-reporting.md)
+  + [Enterprise Work Management](expert-insights/enterprise-work-management.md)
 + Workshop Rewind {#workshop-rewind}
   + Integrations {#integrations}
       + [Navigating Changes for Multi-Select Fields with Ease](workshop-rewind/integrations/mulit-select-fields.md)
