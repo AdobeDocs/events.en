@@ -11,8 +11,8 @@ doc-type: Event
 duration: 2547
 last-substantial-update: 2025-08-19
 jira: KT-18620
+exl-id: db16e693-cd95-4e67-858b-b57829d1e704
 ---
-
 # Expert Insights – Enterprise Work Management with Daniel Clarke
 
 Welcome back to Expert Insights!  I’m Cynthia Boon, your “On-Demand” Workfront CSM, and in this episode, we have a fabulous presentation with Daniel Clarke where he shares his expertise on Enterprise Work Management. Daniel is a Sr. Manager of Restaurant Solutions at Sysco Corporation, with a passion for workflow processes and Workfront!  
@@ -39,5 +39,3 @@ I have the pleasure of leading a team of designers, consultants, and analysts at
 ## Have something to share?
 
 Do you have a great story to share, either during an event or in an Expert Insights video? Please reach out to our team at [CSatScale@adobe.com|mailto:CSatScale@adobe.com].
-
-

@@ -9,8 +9,8 @@ doc-type: Event
 duration: 2891
 last-substantial-update: 2025-08-19
 jira: KT-18763
+exl-id: 6212a20d-f58c-481c-a475-89153cb0d040
 ---
-
 # Universal Editor: A Strategic Overview to Modern AEM Authoring
 
 Discover how Adobe Experience Manager's Universal Editor is transforming content authoring across different architectures from Edge Delivery Services to Headless implementations. This session will provide a comprehensive overview of Universal Editor's practical use cases and key technical considerations to help you determine if it's the right fit for your project. Learn how to navigate common challenges and make informed decisions about implementing Universal Editor in your AEM environment.

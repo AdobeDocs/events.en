@@ -11,8 +11,8 @@ doc-type: Event
 duration: 801
 last-substantial-update: 2025-08-19
 jira: KT-18621
+exl-id: f8600288-a19b-440c-b60d-94078014353e
 ---
-
 # Expert Insights – Content Supply Chain with Corre Kombol
 
 Welcome back to Expert Insights!  I’m Cynthia Boon, your “On-Demand” Workfront Customer Success Manager (CSM), and in this episode, we are joined by Corre Kombol, a Principal Customer Success Manager here at Adobe!  

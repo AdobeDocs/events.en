@@ -8,8 +8,8 @@ doc-type: Event
 duration: 1623
 last-substantial-update: 2025-08-19
 jira: KT-18767
+exl-id: 7e5827d4-e243-4030-94f0-1ad25cab8951
 ---
-
 # Building Executive Sponsorship for support of Adobe Customer Journey Analytics (CJA) Success
 
 In our fourth session, we dive into how the lack of strong executive sponsorship will delay decision-making, budget allocation, and change management. In this webinar, we explore the critical role executive leaders play in championing Adobe Customer Journey Analytics programs, aligning cross-functional teams, and driving measurable business outcomes. Learn practical strategies to engage senior stakeholders, communicate value effectively, and build a culture of data-driven decision-making.
