@@ -43,4 +43,4 @@ With more than a decade of experience working in marketing creative and operatio
 
 ## Have something to share?
 
-Do you have a great story to share, either during an event or in an Expert Insights video? Please reach out to our team at [CSatScale@adobe.com|mailto:CSatScale@adobe.com].
+Do you have a great story to share, either during an event or in an Expert Insights video? Please reach out to our team at [CSatScale@adobe.com](mailto:CSatScale@adobe.com).

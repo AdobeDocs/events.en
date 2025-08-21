@@ -38,4 +38,4 @@ I have the pleasure of leading a team of designers, consultants, and analysts at
 
 ## Have something to share?
 
-Do you have a great story to share, either during an event or in an Expert Insights video? Please reach out to our team at [CSatScale@adobe.com|mailto:CSatScale@adobe.com].
+Do you have a great story to share, either during an event or in an Expert Insights video? Please reach out to our team at [CSatScale@adobe.com](mailto:CSatScale@adobe.com).
