@@ -11,8 +11,8 @@ doc-type: Event
 duration: 901
 last-substantial-update: 2025-08-21
 jira: KT-18613
+exl-id: 56779a36-f8f1-42ca-aeaa-b21fc9b64e94
 ---
-
 # Expert Insights - Resource Management with Corinna Jevons
 
 Looking for advice on Getting Started with Resource Management? Join your On-Demand Workfront CSM for an interview with our resident Adobe Workfront Resource Management expert, Corinna Jevons, and explore the common questions and best approaches to implementing this Workfront feature. 

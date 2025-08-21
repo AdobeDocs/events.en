@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3595
 last-substantial-update: 2025-08-21
 jira: KT-18607
+exl-id: 8fe2cec5-3166-403c-a4d0-08f8d9939968
 ---
-
 # Summoning Success: Unlocking the Latest in Workfront Planning
 
 This workshop was recorded on June 26, 2025 and featured our Adobe Workfront Product team where they shared the latest features of Workfront Planning! For more information on what’s coming next for Workfront Planning, be sure to bookmark [the Adobe Workfront Planning Release Activity](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)page on Experience League. 

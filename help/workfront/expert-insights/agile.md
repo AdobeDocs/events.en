@@ -12,8 +12,8 @@ doc-type: Event
 duration: 833
 last-substantial-update: 2025-08-21
 jira: KT-18614
+exl-id: 916e7c62-cb28-47df-a180-6933f9d59e5c
 ---
-
 # Expert Insights - Agile with Natalie Mitchell
 
 Welcome back to a new Expert Insights interview, this time with advice on the best practices for getting started with Agile in your organization. Join your On-Demand Workfront CSM for an interview with our resident Adobe Workfront Agile expert, Natalie Mitchell, and explore the common questions and recommendations for implementing the Agile methodology with your teams.
