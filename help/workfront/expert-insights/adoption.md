@@ -4,15 +4,15 @@ description: Learn adoption strategies from Leslie Spier to boost Workfront enga
 feature: Strategic Planning
 role: Admin, Developer, Leader, User
 speaker-name-1: Leslie Spier
-speaker-title-1:  Customer Success Manager
+speaker-title-1: Customer Success Manager
 speaker-company-1: Adobe
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 875
 last-substantial-update: 2025-08-20
 jira: KT-18615
+exl-id: 1e6c3720-61d1-4d6e-ac7e-85df816f9780
 ---
-
 # Expert Insights - Adoption with Leslie Spier
 
 Adoption is a topic that we return to regularly, and in this edition of our Expert Insights interview, Leslie Spier shares her experience and ideas for building engagement within your organization.

@@ -3,7 +3,7 @@ title: Expert Insights – Governance & Centers of Excellence with Danielle John
 description: Discover strategies from Danielle Johnston on using Workfront to build governance and centers of excellence that drive adoption and positive change.
 feature: Strategic Planning
 speaker-name-1: Danielle Johnston
-speaker-title-1:  Customer Success Manager
+speaker-title-1: Customer Success Manager
 speaker-company-1: Adobe
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -11,8 +11,8 @@ doc-type: Event
 duration: 942
 last-substantial-update: 2025-08-20
 jira: KT-18619
+exl-id: d7ebb12d-102d-41a4-86a6-95f49384172f
 ---
-
 # Expert Insights – Governance & Centers of Excellence with Danielle Johnston
 
 Welcome back to Expert Insights!  I’m Cynthia Boon, your “On-Demand” Workfront CSM, and in this episode, we are joined by Danielle Johnston!  She shares her ideas on how to get started, ways to use Workfront to support your Governance and Center of Excellence efforts and encourages us to be the positive change we want to see in Workfront! 
@@ -37,4 +37,3 @@ Danielle is a Customer Success Manager that has helped multiple customers implem
 ## Have something to share?
 
 Do you have a great story to share, either during an event or in an Expert Insights video? Please reach out to our team at [CSatScale@adobe.com](mailto:CSatScale@adobe.com).
-

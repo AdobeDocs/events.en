@@ -3,7 +3,7 @@ title: Expert Insights – Reporting Practices with Nichole Vargas
 description: Learn top reporting practices from Nichole Vargas—boost your Workfront reporting skills with calculated fields, storytelling tips, and community-driven resources.
 feature: Reports and Dashboards
 speaker-name-1: Nichole Vargas
-speaker-title-1:  Senior Customer Success Manager
+speaker-title-1: Senior Customer Success Manager
 speaker-company-1: Adobe
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -11,8 +11,8 @@ doc-type: Event
 duration: 1547
 last-substantial-update: 2025-08-20
 jira: KT-18616
+exl-id: dc1904fe-6403-42bd-91c8-d58a0ea73237
 ---
-
 # Expert Insights – Reporting Practices with Nichole Vargas
 
 This episode is inspired by my coworker, Nichole Vargas, one of the brilliant “3 Musketeers” known as the Workfront Scale Team.
@@ -52,4 +52,3 @@ Nichole Vargas is a go-getter, committed to exceeding customer expectations. He
 ## Have something to share?
 
 Do you have a great story to share, either during an event or in an Expert Insights video? Please reach out to our team at [CSatScale@adobe.com](mailto:CSatScale@adobe.com).
-

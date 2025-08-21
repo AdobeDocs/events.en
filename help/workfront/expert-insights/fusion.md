@@ -3,7 +3,7 @@ title: Expert Insights – Fusion with Ewan Hruska
 description: Learn Fusion best practices from Ewan Hruska. Discover how to document, optimize, and scale workflows with Adobe Workfront Fusion for efficiency.
 feature: Workfront Fusion
 speaker-name-1: Ewan Hruska
-speaker-title-1:  Senior Customer Success Architect
+speaker-title-1: Senior Customer Success Architect
 speaker-company-1: Adobe
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -11,8 +11,8 @@ doc-type: Event
 duration: 1458
 last-substantial-update: 2025-08-20
 jira: KT-18618
+exl-id: ab61b492-a391-497b-af45-f2d468e3f24f
 ---
-
 # Expert Insights – Fusion with Ewan Hruska
 
 Welcome back to Expert Insights!  I’m Cynthia Boon, your “On-Demand” Workfront CSM, and in this episode, we are joined by Ewan Hruska! He is truly a magical, “Knight of Fusion” and shares the benefits of Fusion along his expert advice for getting the most from the tool. 

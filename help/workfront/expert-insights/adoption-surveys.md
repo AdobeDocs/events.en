@@ -2,10 +2,10 @@
 title: Expert Insights – Adoption Surveys with Jaime Davidson
 description: Adoption & Change Management, Best Practices, Workflow Automation (all fit nicely since the session is about adoption surveys, optimization, and scaling processes
 speaker-name-1: Jaime Davidson
-speaker-title-1:  Senior Manager, Organizational Effectiveness MarTech
+speaker-title-1: Senior Manager, Organizational Effectiveness MarTech
 speaker-company-1: Cognizant
 speaker-name-2: Danielle Johnston
-speaker-title-2:  Customer Success Manager
+speaker-title-2: Customer Success Manager
 speaker-company-2: Adobe
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -13,8 +13,8 @@ doc-type: Event
 duration: 1910
 last-substantial-update: 2025-08-20
 jira: KT-18617
+exl-id: 75153967-b82d-4221-b44b-73aabb74402f
 ---
-
 # Expert Insights – Adoption Surveys with Jaime Davidson
 
 It's your On-Demand Workfront CSM here, and I’m back with a new video!  This time, we have a presentation from one of our fantastic customers, Jaime Davidson from Cognizant!  She kindly offered her time and her expertise during our November Connect event, sharing her experience and resources for implementing Workfront Adoption Surveys. *Bonus!* Our very own Workfront CSM, Danielle Johnston shares her insights and recommendations as well!
@@ -40,4 +40,3 @@ Jaime is a skilled marketing automation and process optimization leader, with ov
 ## Have something to share?
 
 Do you have a great story to share, either during an event or in an Expert Insights video? Please reach out to our team at [CSatScale@adobe.com](mailto:CSatScale@adobe.com).
-
