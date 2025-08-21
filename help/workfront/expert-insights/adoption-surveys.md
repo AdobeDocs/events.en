@@ -1,8 +1,6 @@
 ---
 title: Expert Insights – Adoption Surveys with Jaime Davidson
 description: Adoption & Change Management, Best Practices, Workflow Automation (all fit nicely since the session is about adoption surveys, optimization, and scaling processes
-feature: ??? - select one or more from: https://adobe.ly/3JfnRW9
-topic: ??? - select 0 or more from: https://adobe.ly/3NRHfMp
 speaker-name-1: Jaime Davidson
 speaker-title-1:  Senior Manager, Organizational Effectiveness MarTech
 speaker-company-1: Cognizant
