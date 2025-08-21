@@ -29,8 +29,8 @@ Here are some additional quick links to resources to help you get started! 
 
 ### Learn
 
- * [Chart Your Course to Success with Adobe Workfront Planning](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-learn-chart-your-course-to-success-with-adobe/td-p/743077)
- * [Guidebook – Your Workfront Planning GPS](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Planning+Guidebook.pdf)
+* [Chart Your Course to Success with Adobe Workfront Planning](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-learn-chart-your-course-to-success-with-adobe/td-p/743077)
+* [Guidebook – Your Workfront Planning GPS](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Planning+Guidebook.pdf)
   
 ### Planning Training Videos
 

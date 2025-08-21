@@ -20,8 +20,13 @@ solution: Workfront
 + Versus! {#versus}
   + [Groups vs. Teams](versus/groups-vs-teams.md)
 + Expert Insights {#expert-insights}
+  + [Adoption](expert-insights/adoption.md)
+  + [Adoption Surveys](expert-insights/adoption-surveys.md)
   + [Content Supply Chain](expert-insights/content-supply-chain.md)
+  + [Fusion](expert-insights/fusion.md)
+  + [Governance & Centers of Excellence](expert-insights/centers-of-excellence.md)
   + [Non-Traditional Workfront Workflows](expert-insights/non-traditional-workfront-workflows.md)
+  + [Reporting Practices](expert-insights/reporting-practices.md)
   + [Request Queues with Lyndsy Denk](expert-insights/request-queues.md)
   + [SLA Reporting in Workfront](expert-insights/sla-reporting.md)
   + [Enterprise Work Management](expert-insights/enterprise-work-management.md)

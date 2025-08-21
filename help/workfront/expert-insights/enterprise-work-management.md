@@ -19,18 +19,18 @@ Welcome back to Expert Insights!  I’m Cynthia Boon, your “On-Demand” Work
 
 He shared so many best practices during our Workfront Collective event, but here are a few highlights,
  
- * Workfront is not a “set it and forget it” solution. If you’re having adoption challenges, go back and review processes, login as your users, or watch them work. 
- * Pie charts (and pies in general) are awesome! 
- * Examples of how to improve your Stakeholder experience. 
- * Recommendations for Leadership Metrics. 
- * Examples of how to make your case for Fusion with your leadership. 
- * Once you get Fusion, don’t forget to give your Fusion platform its own name!  
+* Workfront is not a “set it and forget it” solution. If you’re having adoption challenges, go back and review processes, login as your users, or watch them work. 
+* Pie charts (and pies in general) are awesome! 
+* Examples of how to improve your Stakeholder experience. 
+* Recommendations for Leadership Metrics. 
+* Examples of how to make your case for Fusion with your leadership. 
+* Once you get Fusion, don’t forget to give your Fusion platform its own name!  
 
 >[!VIDEO](https://video.tv.adobe.com/v/3469898/?learn=on&enablevpops)
 
 ## Resources
 
- * Daniel Clarke, Enterprise Work Management 031124 - [Presentation Deck](https://nam04.safelinks.protection.outlook.com/?url=https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Adobe+Workfront+Collective+-+Daniel+Clarke+-+March+2024.pdf&data=05|02|csatscale@adobe.com|4308ae2a6beb4130dc6f08dc4926eafc|fa7b1b5a7b34438794aed2c178decee1|0|0|638465678712329711|Unknown|TWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=|0|||&sdata=y14IXCdSk8laYXyfuLcjFNjBDeDjwZZu33nFJmxbx4E=&reserved=0) 
+* Daniel Clarke, Enterprise Work Management 031124 - [Presentation Deck](https://nam04.safelinks.protection.outlook.com/?url=https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Adobe+Workfront+Collective+-+Daniel+Clarke+-+March+2024.pdf&data=05|02|csatscale@adobe.com|4308ae2a6beb4130dc6f08dc4926eafc|fa7b1b5a7b34438794aed2c178decee1|0|0|638465678712329711|Unknown|TWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=|0|||&sdata=y14IXCdSk8laYXyfuLcjFNjBDeDjwZZu33nFJmxbx4E=&reserved=0) 
 
 ## About the speaker
 
@@ -38,4 +38,4 @@ I have the pleasure of leading a team of designers, consultants, and analysts at
 
 ## Have something to share?
 
-Do you have a great story to share, either during an event or in an Expert Insights video? Please reach out to our team at [CSatScale@adobe.com|mailto:CSatScale@adobe.com].
+Do you have a great story to share, either during an event or in an Expert Insights video? Please reach out to our team at [CSatScale@adobe.com](mailto:CSatScale@adobe.com).
