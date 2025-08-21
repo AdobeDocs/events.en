@@ -22,11 +22,13 @@ solution: Workfront
 + Expert Insights {#expert-insights}
   + [Adoption](expert-insights/adoption.md)
   + [Adoption Surveys](expert-insights/adoption-surveys.md)
+  + [Agile](expert-insights/agile.md)
   + [Content Supply Chain](expert-insights/content-supply-chain.md)
   + [Fusion](expert-insights/fusion.md)
   + [Governance & Centers of Excellence](expert-insights/centers-of-excellence.md)
   + [Non-Traditional Workfront Workflows](expert-insights/non-traditional-workfront-workflows.md)
   + [Reporting Practices](expert-insights/reporting-practices.md)
+  + [Resource Management ](expert-insights/resource-management.md)
   + [Request Queues with Lyndsy Denk](expert-insights/request-queues.md)
   + [SLA Reporting in Workfront](expert-insights/sla-reporting.md)
   + [Enterprise Work Management](expert-insights/enterprise-work-management.md)
@@ -36,6 +38,7 @@ solution: Workfront
       + [Unlocking True Event Costs](workshop-rewind/integrations/event-costs.md)
   + Planning {#planning}
       + [Team-Level Success with Workfront Planning](workshop-rewind/planning/team-success-workfront-planning.md)
+      + [Latest in Workfront Planning](workshop-rewind/planning/workfront-planning.md)
   + Workflow {#workflow}
       + [Creative ways of managing resources](classics/creative-ways-of-managing-resources.md)
       + [Mastering Email Notifications](workshop-rewind/workflow/email-notifications.md)

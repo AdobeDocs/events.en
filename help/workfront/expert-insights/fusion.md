@@ -32,8 +32,8 @@ As Ewan mentioned in the video, he is working on a Fusion Best Practice guide, a
 
 ## Resources
 
- * [List of Available Fusion Templates](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=en) 
- * [Adobe Workfront Fusion video overviews](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=en) 
+* [List of Available Fusion Templates](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=en) 
+* [Adobe Workfront Fusion video overviews](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=en) 
 
 ## About the speaker
 

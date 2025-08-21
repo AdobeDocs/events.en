@@ -7,6 +7,7 @@ speaker-company-1: Cognizant
 speaker-name-2: Danielle Johnston
 speaker-title-2: Customer Success Manager
 speaker-company-2: Adobe
+feature: Workfront Integrations and Apps
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
