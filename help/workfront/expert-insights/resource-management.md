@@ -2,7 +2,6 @@
 title: Expert Insights - Resource Management with Corinna Jevons
 description: Learn from Corinna Jevons how to get started with Workfront Resource Management, optimize capacity, and balance workloads effectively.
 feature: Resource Management
-topic: ??? - select 0 or more from: https://adobe.ly/3NRHfMp
 speaker-name-1: Corinna Jevons
 speaker-title-1: Team Lead, Customer Success Architect Team
 speaker-company-1: Adobe
