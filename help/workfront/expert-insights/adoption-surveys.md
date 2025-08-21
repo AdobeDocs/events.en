@@ -25,12 +25,9 @@ It's your On-Demand Workfront CSM here, and I’m back with a new video!  This 
 
 During the presentation, Jaime and Danielle discussed some supplemental resources, which we’ve hyperlinked below.
 
- * [Workfront Guide to Adoption Surveys](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+Guide+to+Adoption+Surveys)
- * [Workfront Admin Chat - Cognizant](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+-+Admin+Chat+20231113+final+GBC)
- * [Workfront User Adoption Survey](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+User+Adoption+Survey+2022+final_Admin+chat)
-
-<!-- * Workfront Summary Word Doc: Template – _*attached*_
- ** We took a stab at creating a template doc based on all the ideas that were shared during the session.  Let us know if you have any questions or thoughts on the document. -->
+* [Workfront Guide to Adoption Surveys](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+Guide+to+Adoption+Surveys)
+* [Workfront Admin Chat - Cognizant](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+-+Admin+Chat+20231113+final+GBC)
+* [Workfront User Adoption Survey](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+User+Adoption+Survey+2022+final_Admin+chat)
 
 Want more information on Adoption and general Onboarding? Check out our blog! - [New Workfront Customers! Welcome to the Adobe Workfront Customer Success Onboarding Blog!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927)
 

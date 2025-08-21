@@ -21,21 +21,21 @@ Welcome to another installment of Expert Insights!  I’m Cynthia Boon, your �
 
 As promised in the video, we have Madalyn’s presentation linked with her steps, calculated expressions, and report examples. 
 
- * [Madalyn’s Slide deck PDF](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/SLA+Reporting.pdf)
+* [Madalyn’s Slide deck PDF](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/SLA+Reporting.pdf)
 
 ## Resources
 
 During the presentation, Madalyn shared her custom forms and calculated fields, so if you’re just getting started with those features, here are some links to point you in the right direction. 
 
- * Tutorial Playlist - [Create and Share Custom Forms](https://experienceleague.adobe.com/en/playlists/workfront-create-and-manage-custom-forms)
+* Tutorial Playlist - [Create and Share Custom Forms](https://experienceleague.adobe.com/en/playlists/workfront-create-and-manage-custom-forms)
 
- * Article - [Get started with calculated fields and expressions](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
+* Article - [Get started with calculated fields and expressions](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
 
- * Tips & Tricks - [Calculated Fields Everyone Should Know -and How to Report on Them!](https://experienceleague.adobe.com/en/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
+* Tips & Tricks - [Calculated Fields Everyone Should Know -and How to Report on Them!](https://experienceleague.adobe.com/en/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
 
 Interested in more tips from Madalyn? Check out her series of tips and tricks in the Workfront Community! 
 
- * [Tuesday Tech Bytes](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812#M2742)
+* [Tuesday Tech Bytes](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812#M2742)
 
 ## About the speaker 
 

@@ -21,9 +21,9 @@ Corre is a truly strategic CSM who sets the pace for us on how to use Adobe Solu
 
 ## Corre’s Advice
 
- * Better Exists! 
- * Start by identifying your process paint points and go from there. Don’t let the technology overwhelm the objective.
- * Connect with other customers that are on a similar journey in the Community or at Events! 
+* Better Exists! 
+* Start by identifying your process paint points and go from there. Don’t let the technology overwhelm the objective.
+* Connect with other customers that are on a similar journey in the Community or at Events! 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3469899/?learn=on&enablevpops)
 
@@ -31,13 +31,13 @@ Corre is a truly strategic CSM who sets the pace for us on how to use Adobe Solu
 
 ### Summit Sessions
 
- * [How Adobe Optimized Its Content Supply Chain – S316](https://business.adobe.com/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html) : Explore Adobe’s approach to deploying its Content Supply Chain across its own marketing org 
- * [Revolutionizing Content Production with Adobe – S305](https://business.adobe.com/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) : Discover how Adobe can maximize your content supply chain and accelerate your creative workflow 
+* [How Adobe Optimized Its Content Supply Chain – S316](https://business.adobe.com/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html) : Explore Adobe’s approach to deploying its Content Supply Chain across its own marketing org 
+* [Revolutionizing Content Production with Adobe – S305](https://business.adobe.com/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) : Discover how Adobe can maximize your content supply chain and accelerate your creative workflow 
 
 ### Product Demos
 
- * [Workfront](https://business.adobe.com/product-demos/workfront/interactive-tour.html) - because an interactive [product demo] is needed to illustrate the scope of what can exist within our enterprise work management solution.  
- * [GenStudio](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html) - I love how comprehensive this is for our customers to start to tie their needs to solutions that exist today at Adobe.
+* [Workfront](https://business.adobe.com/product-demos/workfront/interactive-tour.html) - because an interactive [product demo] is needed to illustrate the scope of what can exist within our enterprise work management solution.  
+* [GenStudio](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html) - I love how comprehensive this is for our customers to start to tie their needs to solutions that exist today at Adobe.
 
 ## About the speaker 
 

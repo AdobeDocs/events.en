@@ -21,14 +21,14 @@ Welcome back to Expert Insights!  I’m Cynthia Boon, your “On-Demand” Wo
 
 ## Tips
 
- * Start small. Communication is the key to change! 
- * Have your “Why are we using Workfront – elevator speech” ready! Your Execs and your users will ask, so having clear talking points will prepare you for those surprise conversations. 
- * Use Workfront to support and track your Governance and Center of Excellence efforts. 
+* Start small. Communication is the key to change! 
+* Have your “Why are we using Workfront – elevator speech” ready! Your Execs and your users will ask, so having clear talking points will prepare you for those surprise conversations. 
+* Use Workfront to support and track your Governance and Center of Excellence efforts. 
 
 ## Resources
 
- * [Top Customer Use Cases](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Top+Customer+Use+Cases.png) 
- * [Assessing the Maturity of Work Management Practices](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Assessing+the+Maturity+of+Work+Management+Practices.png) 
+* [Top Customer Use Cases](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Top+Customer+Use+Cases.png) 
+* [Assessing the Maturity of Work Management Practices](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Assessing+the+Maturity+of+Work+Management+Practices.png) 
 
 ## About the speaker
 

@@ -21,19 +21,19 @@ We were lucky enough to have Kiersten Kollins, Senior Marketing Ops Technologist
 
 You’ll be amazed at all the fantastic ideas she shares, including: 
 
- * Bypassing the traditional request queue and issue approach, and leverage project templates to quickly spin up work. 
- * Creating custom reporting to track the “peaks and valleys” of their campaigns for capacity planning. 
- * Customizing their terminology to ensure that the system reflects the culture of the organization. 
- * Initiating Creative Brief reviews to match the needs of their users and projects. 
- * *BONUS!* She also shares an example of one of her favorite Fusion use cases!
+* Bypassing the traditional request queue and issue approach, and leverage project templates to quickly spin up work. 
+* Creating custom reporting to track the “peaks and valleys” of their campaigns for capacity planning. 
+* Customizing their terminology to ensure that the system reflects the culture of the organization. 
+* Initiating Creative Brief reviews to match the needs of their users and projects. 
+* *BONUS!* She also shares an example of one of her favorite Fusion use cases!
 
 >[!VIDEO](https://video.tv.adobe.com/v/3469900/?learn=on&enablevpops)
 
 ## Resources
 
 During the event, Kiersten mentioned two resources that we’ve attached to the [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315).
- * **Example Report** - Task Reporting After Business Hours 
- * **DSW Feedback Routing Guardrails** This is a fantastic example of how to teach your users how to provide updates in Workfront! 
+* **Example Report** - Task Reporting After Business Hours 
+* **DSW Feedback Routing Guardrails** This is a fantastic example of how to teach your users how to provide updates in Workfront! 
 
 ## About the speaker 
 
