@@ -57,6 +57,7 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
     + [Cultivating an Agile Marketing Organization](2025/agile-marketing-organization.md)
     + [Digital Trends and Preparing for the Future](2025/digital-trends-preparing-future.md)
     + [Northstar Architecture](2025/northstar-architecture.md)
+    + [AI-Driven Growth and Top Performer Playbooks](2025/ai-driven-growth.md)
     + [State of Digital and GenAI Adoption](2025/state-of-digital-and-genai-adoption-webinar.md)
   + Workfront {#workfront2025}
     + [AI-Drive Automation in Workfront](2025/unlock-efficiency-ai-drive-automation-workfront.md)
