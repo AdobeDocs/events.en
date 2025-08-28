@@ -35,8 +35,7 @@ In this educational webinar, Adobe Champions Melanie Bartlett and Deepak Khetawa
 
 Whether you're an author looking to improve searchability, a developer syndicating content, or a DAM librarian scaling operations, this session will equip you with actionable insights and real-world use cases to elevate your asset strategy. 
 
-You can access the presentation slides [here](help/learn-from-your-peers/assets/experience-manager/aug2025/2025-08-28-Adobe-Smart-Tags-Champions-webinar_FINALCOPY.pdf).
-
+You can access the presentation slides [here](../../assets/experience-manager/aug2025/2025-08-28-Adobe-Smart-Tags-Champions-webinar_FINALCOPY.pdf)
 
 ## Unlocking Efficient Asset Discoverability with AI
 
