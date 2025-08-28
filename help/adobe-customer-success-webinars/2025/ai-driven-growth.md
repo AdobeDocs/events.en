@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3350
 last-substantial-update: 2025-08-27
 jira: KT-18836
+exl-id: 7267b110-fcba-4866-a7f8-4eefa0c14467
 ---
-
 # Retail Leaders: AI-Driven Growth and Top Performer Playbooks
 
 This Adobe Customer Success x Adobe Digital Insights webinar covers the latest 2025 insights at the intersection of retail performance and AI-powered digital traffic. This includes decoding how leading brands are setting new standards for loyalty, engagement, and conversion in a rapidly evolving landscape.
