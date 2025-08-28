@@ -46,6 +46,5 @@ Discover how Adobe Experience Manager leverages Smart Tags and AI to revolutioni
 * **Custom Training** Tailors tagging to your unique business taxonomy, ensuring relevant and precise asset categorization.
 * **Best Practices** Emphasizes quality training data, iterative improvement, and governance for long-term value.
 * **Real-World Impact** Demonstrated benefits in e-commerce and finance, from faster product launches to compliance assurance.
-* 
-Harnessing these strategies can streamline workflows, improve content ROI, and empower teams to find and use assets more effectively.
 
+Harnessing these strategies can streamline workflows, improve content ROI, and empower teams to find and use assets more effectively.
