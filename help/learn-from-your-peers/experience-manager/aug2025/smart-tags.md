@@ -17,8 +17,8 @@ doc-type: Event
 duration: 3039
 last-substantial-update: 2025-08-28
 jira: KT-18882
+exl-id: 7350ac8d-3ebc-4dbc-bbc3-3feb8e192833
 ---
-
 # AEM Smart Tags: Streamlining Content & Enhancing Discoverability
 
 Is your asset taxonomy strategy set up to help you scale your efforts in Adobe Experience Manager Assets?

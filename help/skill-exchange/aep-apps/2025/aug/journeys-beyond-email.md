@@ -8,8 +8,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-28
 jira: KT-18850
+exl-id: e611a377-0e3c-4ccd-ac9c-280638b6ea36
 ---
-
 # Solving Adobe Journeys Beyond Email
 
 This session explores solving real-world challenges in Adobe Journey Optimizer through a tangible example. It highlights strategies for building multi-touchpoint journeys across email, voice, and direct mail to create cohesive customer experiences. Attendees will gain actionable insights and approaches from a product owner perspective to optimize journeys.

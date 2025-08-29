@@ -10,8 +10,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-28
 jira: KT-18847
+exl-id: 0d9e851e-cad4-40b4-a5f3-16ade670ceae
 ---
-
 # Navigating the New Norm: Balancing Personalization, Privacy and Data Security
 
 In a world where customers demand tailored experiences and expect their data to be protected, how do you strike the right balance? Join us to discover proven strategies for delivering seamless, cross-platform personalization without compromising privacy or security. Learn how to build trust, stay compliant, and unlock the full potential of your customer data with Adobe Experience Platform.
@@ -39,4 +39,3 @@ Discover how Prudential transformed its marketing technology using Adobe Experie
 * **Omnichannel Personalization** Orchestrated journeys across email, web, and CRM platforms for dynamic engagement.
 
 These strategies empower marketers to deliver impactful, compliant, and secure customer experiences—essential for building trust and driving business outcomes.
-

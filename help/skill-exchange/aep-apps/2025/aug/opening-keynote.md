@@ -9,8 +9,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-28
 jira: KT-18846
+exl-id: fe32abfa-2dfa-4d56-8f1c-c9dca734da28
 ---
-
 # Skill Exchange Keynote - The Future of Experience Making with AI, Adobe Experience Platform
 
 ## Transforming Digital Experiences with AI

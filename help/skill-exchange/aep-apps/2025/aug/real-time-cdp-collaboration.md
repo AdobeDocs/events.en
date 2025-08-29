@@ -8,8 +8,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-28
 jira: KT-18848
+exl-id: e5632e05-e6e8-4b00-9037-a065ed80da54
 ---
-
 # Get the most out of your media investments with Adobe's Real-Time CDP Collaboration
 
 Learn how you can maximize your Connected TV (CTV) ad spend in today's competitive landscape. Join Giuseppe Cagliostro, a current Collaboration user, as he discusses how Real-Time CDP Collaboration empowers your advertising team to seamlessly leverage your first-party data across multiple publishers, to quickly discover, activate, and measure relevant audiences at scale.

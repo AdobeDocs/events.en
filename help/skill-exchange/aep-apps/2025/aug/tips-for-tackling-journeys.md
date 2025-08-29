@@ -9,8 +9,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-28
 jira: KT-18849
+exl-id: e2b632ee-aa96-41db-8587-f880595a5143
 ---
-
 # Calming Customer Chaos: Tips for Tackling Complex Journeys in Adobe Journey Optimizer (AJO)
 
 As marketers and marketing ops professionals, we are all too familiar with customer journeys that appear complex and overwhelming at first glance. The key to effectively managing these journeys lies not in overlooking critical customer interactions or milestones, nor in simplifying solutions to the point of ineffectiveness. Instead, success requires the right set of tools and strategies that allow us to navigate these complexities without adding unnecessary complication to our marketing efforts.
