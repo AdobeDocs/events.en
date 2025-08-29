@@ -1,8 +1,6 @@
 ---
 title: Experience Makers Spotlight - Streamlining Follow-Ups in Customer Lifecycle
 description: Learn how executable vs. request campaigns streamline workflows, improve data accuracy, and boost engagement with real-time multi-channel strategies.
-feature: ??? - select one or more from: https://adobe.ly/3JfnRW9
-topic: ??? - select 0 or more from: https://adobe.ly/3NRHfMp
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
