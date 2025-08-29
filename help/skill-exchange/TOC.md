@@ -127,6 +127,9 @@ event-series: The Skill Exchange
     + [Tips for Tackling Complex Journeys in Adobe Journey Optimizer](aep-apps/2025/aug/tips-for-tackling-journeys.md)
     + [Journeys Beyond Email](aep-apps/2025/aug/journeys-beyond-email.md)
 + Marketo {#marketo}
+  + August 2025 {#aug2025}
+    + [Improving Data Categorization](marketo/2025/aug/data-categorization-with-ai.md)
+    + [Streamlining Follow-Ups](marketo/2025/aug/follow-ups-customer-lifecycle.md)
   + August 2024 {#aug2024}
     + [Opening Keynote](marketo/aug2024/keynote.md)
     + [Advanced Applications of Engagement Programs](marketo/aug2024/advanced-applications-engagment-programs.md)
@@ -160,6 +163,12 @@ event-series: The Skill Exchange
     + [Reporting within [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
     + [Ultimate Tips & Tricks For Your Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
+  + August 2025 {#aug2025}
+    + [Opening Keynote](workfront/2025/aug/keynote.md)
+    + [Advanced Text Mode](workfront/2025/aug/advanced-text-mode.md)
+    + [Automate user account creation with Fusion](workfront/2025/aug/fusion-user-account-creation.md)
+    + [Center of Excellence](workfront/2025/aug/center-of-excellence.md)
+    + [Mastering Workfront's AI Tools](workfront/2025/aug/workfront-ai-tools.md)
   + August 2024 {#aug2024}
     + [Opening Keynote](workfront/aug2024/keynote.md)
     + [Customizing the Workload Balancer](workfront/aug2024/workload-balancer.md)
