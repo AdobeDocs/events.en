@@ -30,6 +30,8 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
   + February {#feb2024}
     + [Communication, Requirements, and Testing in Agile SDLC](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
+  + August {#aug2025}
+    + [AEM Smart Tags](experience-manager/aug2025/smart-tags.md)
   + July {#jul2024}
     + [Unlocking Success at Scale](experience-manager/july2024/global-digital-presence.md)
   + November {#nov2023}

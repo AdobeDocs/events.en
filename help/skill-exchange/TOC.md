@@ -89,15 +89,15 @@ event-series: The Skill Exchange
     + [Putting it All Together](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
   + August 2024 {#aug2024}
-      + [Opening Keynote](aem/aug2024/keynote.md)
-      + [AEM Sites with Universal Editor](aem/aug2024/universal-editor.md)
-      + [Cohesive Experiences with AEM Customization and Governance](aem/aug2024/customize-elements.md)
-      + [Digital Asset Managment Strategies](aem/aug2024/spotlight-dam-strategies.md)
-      + [Dynamic Media Classic Asset Management](aem/aug2024/dmc-asset-management.md)
-      + [Enhancing Content Supply Chain](aem/aug2024/spotlight-content-supply-chain.md)
-      + [Master Headless and SPA Editor Approaches](aem/aug2024/headless-spa-editor.md)
-      + [Metadata, Content Structure, and Taxonomy](aem/aug2024/dam-performance.md)
-      + [Print Production](aem/aug2024/print-production.md)
+    + [Opening Keynote](aem/aug2024/keynote.md)
+    + [AEM Sites with Universal Editor](aem/aug2024/universal-editor.md)
+    + [Cohesive Experiences with AEM Customization and Governance](aem/aug2024/customize-elements.md)
+    + [Digital Asset Managment Strategies](aem/aug2024/spotlight-dam-strategies.md)
+    + [Dynamic Media Classic Asset Management](aem/aug2024/dmc-asset-management.md)
+    + [Enhancing Content Supply Chain](aem/aug2024/spotlight-content-supply-chain.md)
+    + [Master Headless and SPA Editor Approaches](aem/aug2024/headless-spa-editor.md)
+    + [Metadata, Content Structure, and Taxonomy](aem/aug2024/dam-performance.md)
+    + [Print Production](aem/aug2024/print-production.md)
   + August 2023 {#aug2023}
     + Developer Track {#developer-track}
       + [AEM Developer Starter Kit](aem/aug2023/deploy-new-project.md)
@@ -119,6 +119,13 @@ event-series: The Skill Exchange
       + [The Power of Reusability](aem/aug2022/reusability.md)
       + [Drive business value with content personalization in AEM](aem/aug2022/personalization.md)
       + [Maximize Your AEM Implementation](aem/aug2022/implementation.md)
++ Adobe Experience Platform {#aep}
+  + August 2025 {#aug2025}
+    + [Opening Keynote](aep-apps/2025/aug/opening-keynote.md)
+    + [Balancing Personalization, Privacy and Data Security](aep-apps/2025/aug/personalization-privacy-data-security.md)
+    + [Media investments and Adobe's Real-Time CDP Collaboration](aep-apps/2025/aug/real-time-cdp-collaboration.md)
+    + [Tips for Tackling Complex Journeys in Adobe Journey Optimizer](aep-apps/2025/aug/tips-for-tackling-journeys.md)
+    + [Journeys Beyond Email](aep-apps/2025/aug/journeys-beyond-email.md)
 + Marketo {#marketo}
   + August 2024 {#aug2024}
     + [Opening Keynote](marketo/aug2024/keynote.md)
