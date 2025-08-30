@@ -10,8 +10,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-29
 jira: KT-18878
+exl-id: 22811352-8232-44b6-af8c-89483a729838
 ---
-
 # Elevate Workfront Reporting with Advanced Text Mode
 
 Take your Workfront reporting to the next level with advanced text mode techniques. In this session, Nathan Johnson from Adobe will show you how to create more efficient, dynamic, and user-friendly reports by:

@@ -9,8 +9,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-29
 jira: KT-18879
+exl-id: da0a2d1b-8d97-418e-9a8d-08f713f7cb6a
 ---
-
 # Opening Keynote
 
 The presentation highlights Adobe Workfront's evolution as the gold standard marketing system of record, emphasizing its intelligent, visible, and connected workflows designed to streamline marketing operations. Key advancements include AI-powered features such as campaign creation, automated project management, and content recommendations, alongside real-time insights and conversational AI for enhanced visibility. Workfront’s seamless integration with Adobe tools like AEM and Photoshop ensures connected workflows, while navigation improvements simplify user experience. These innovations position Workfront as a centralized platform for planning, executing, and measuring marketing work, empowering teams to operate more efficiently and collaboratively.

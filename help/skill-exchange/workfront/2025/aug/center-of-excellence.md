@@ -8,8 +8,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-29
 jira: KT-18875
+exl-id: b4e3f704-b0a7-4b1e-a2a5-d8ff427ece84
 ---
-
 # Preparing your Workfront organization for a center of excellence
 
 Establishing a Center of Excellence (CoE) is crucial for driving innovation, optimizing processes, and achieving strategic goals. This training session will provide a comprehensive guide on how to prepare your Workfront organization for the successful implementation of a CoE. 

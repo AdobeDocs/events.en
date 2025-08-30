@@ -11,8 +11,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-29
 jira: KT-18876
+exl-id: e8ac62c5-75e5-41d2-94c8-25bcaacd5668
 ---
-
 # Automate Workfront user account creation with Fusion
 
 Imagine starting your Monday with a flood of urgent admin requests: new hires to onboard, access permissions to update, and accounts to deactivate. Manual user account creation can be time-consuming and error-prone. Discover how to streamline your workflow, reduce errors, and boost efficiency by automating account creation with Fusion in the Adobe Admin Console.

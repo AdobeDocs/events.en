@@ -8,8 +8,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-29
 jira: KT-18869
+exl-id: 7b868c8b-e451-43e3-a318-65967b8ff996
 ---
-
 # Maximize Efficiency with AI: Mastering Workfront's AI Tools
 
 Unlock the potential of AI to enhance productivity and effectiveness in Adobe Workfront. This session introduces Workfront's AI Reviewer, Project Health Advisor, and AI-powered Briefs, tools designed to streamline workflows. Learn how to pre-screen content against branding guidelines, reduce manual effort, ensure compliance, and accelerate decision-making with the AI Reviewer.

@@ -8,8 +8,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-29
 jira: KT-18864
+exl-id: e952d6e7-fb3d-4e5f-9912-825fbd303cc2
 ---
-
 # Improving Data Categorization in Marketo Engage Using Fine-Tuned AI Models
 
 As a Revenue Ops professional, you may be struggling with SPAM form submissions, keyword matching in job titles to determine personas, or messy open-text fields that make it hard to extract insights from your data. These data categorization challenges hinder segmentation, personalization, and reporting, preventing your team from leveraging your data and making it difficult to send tailored content to your audience.

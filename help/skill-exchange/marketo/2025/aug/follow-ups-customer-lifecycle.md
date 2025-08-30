@@ -7,8 +7,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-29
 jira: KT-18867
+exl-id: 1659fd7b-c12d-4ea0-bba1-e3f583edf949
 ---
-
 # Experience Makers Spotlight: Streamlining Follow-Ups in Customer Lifecycle
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471390/?learn=on&enablevpops)
