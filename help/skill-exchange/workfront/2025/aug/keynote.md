@@ -1,6 +1,6 @@
 ---
 title: Opening Keynote
-description: AI-Powered Workfront - The Future of Marketing Systems - Adobe Workfront
+description: Discover how Adobe Workfront powers intelligent, visible, and connected workflows with AI-driven campaign creation, insights, and seamless Adobe integrations.
 feature: People Teams and Groups
 topic: Artificial Intelligence
 role: User

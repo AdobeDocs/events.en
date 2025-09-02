@@ -1,6 +1,7 @@
 ---
 title: Elevate Workfront Reporting with Advanced Text Mode
 description: Learn how to master Adobe Workfront Text Mode to merge columns, build custom value expressions, and create dynamic prompts for smarter reporting.
+solution: Workfront
 feature: Text Mode Reporting
 speaker-name-1: Nathan Johnson
 speaker-company-1: Adobe

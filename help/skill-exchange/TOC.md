@@ -128,6 +128,9 @@ event-series: The Skill Exchange
     + [Journeys Beyond Email](aep-apps/2025/aug/journeys-beyond-email.md)
 + Marketo {#marketo}
   + August 2025 {#aug2025}
+    + [Opening Keynote](marketo/2025/aug/opening-keynote.md)
+    + [AI-Powered Lifecycle Engine](marketo/2025/aug/ai-lifecycle-engine.md)
+    + [Design Studio for Global Marketing Operations](marketo/2025/aug/design-studio.md)
     + [Improving Data Categorization](marketo/2025/aug/data-categorization-with-ai.md)
     + [Streamlining Follow-Ups](marketo/2025/aug/follow-ups-customer-lifecycle.md)
   + August 2024 {#aug2024}
@@ -168,7 +171,10 @@ event-series: The Skill Exchange
     + [Advanced Text Mode](workfront/2025/aug/advanced-text-mode.md)
     + [Automate user account creation with Fusion](workfront/2025/aug/fusion-user-account-creation.md)
     + [Center of Excellence](workfront/2025/aug/center-of-excellence.md)
+    + [Enabling Users on New Features](workfront/2025/aug/enable-users-new-features.md)
+    + [Getting Started with Review and Approvals](workfront/2025/aug/review-approval.md)
     + [Mastering Workfront's AI Tools](workfront/2025/aug/workfront-ai-tools.md)
+    + [Streamlining Creative Workflows with Workfront + AEM](workfront/2025/aug/workflows-workfront-aem.md)
   + August 2024 {#aug2024}
     + [Opening Keynote](workfront/aug2024/keynote.md)
     + [Customizing the Workload Balancer](workfront/aug2024/workload-balancer.md)
