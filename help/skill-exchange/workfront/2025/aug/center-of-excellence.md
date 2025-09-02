@@ -1,6 +1,7 @@
 ---
 title: Preparing your Workfront organization for a center of excellence
 description: Learn how to launch and scale a Workfront Center of Excellence with governance strategies, executive sponsorship, and adoption best practices.
+solution: Workfront
 feature: Get Started with Workfront
 role: User
 level: Beginner

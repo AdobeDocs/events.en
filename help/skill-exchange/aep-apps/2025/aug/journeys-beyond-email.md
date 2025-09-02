@@ -1,6 +1,7 @@
 ---
 title: Solving Adobe Journeys Beyond Email
 description: Learn to design and test multichannel journeys with Adobe Journey Optimizer, using test profiles, event data, and real-world scenarios for optimal engagement.
+solution: Journey Optimizer
 feature: Email, Direct Mail, Journeys
 role: User
 level: Beginner, Intermediate, Experienced

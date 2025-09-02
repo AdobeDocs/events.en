@@ -1,6 +1,7 @@
 ---
 title: Automate Workfront user account creation with Fusion
 description: Discover how to use Adobe Workfront Fusion and APIs to automate user account creation, cut setup time from 22 minutes to under 60 seconds, and boost efficiency.
+solution: Workfront
 feature: Workfront Fusion, Workfront API
 speaker-name-1: Kurt Jones
 speaker-company-1: J.P. Morgan

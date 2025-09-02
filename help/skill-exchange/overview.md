@@ -44,7 +44,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/opening-keynote.md" title="Skill Exchange Keynote - The Future of Experience Making with AI, Adobe Experience Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1756505537148" alt="Skill Exchange Keynote - The Future of Experience Making with AI, Adobe Experience Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1756848631023" alt="Skill Exchange Keynote - The Future of Experience Making with AI, Adobe Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -67,7 +67,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/personalization-privacy-data-security.md" title="Navigating the New Norm - Balancing Personalization, Privacy and Data Security" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471328/?format=jpeg&nocache=1756505537193" alt="Navigating the New Norm - Balancing Personalization, Privacy and Data Security"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471328/?format=jpeg&nocache=1756848631032" alt="Navigating the New Norm - Balancing Personalization, Privacy and Data Security"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -90,7 +90,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/real-time-cdp-collaboration.md" title="Get the most out of your media investments with Adobe's Real-Time CDP Collaboration" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471329/?format=jpeg&nocache=1756505537172" alt="Get the most out of your media investments with Adobe's Real-Time CDP Collaboration"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471329/?format=jpeg&nocache=1756848630989" alt="Get the most out of your media investments with Adobe's Real-Time CDP Collaboration"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -113,7 +113,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/tips-for-tackling-journeys.md" title="Calming Customer Chaos - Tips for Tackling Complex Journeys in Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471330/?format=jpeg&nocache=1756505537182" alt="Calming Customer Chaos - Tips for Tackling Complex Journeys in Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471330/?format=jpeg&nocache=1756848631003" alt="Calming Customer Chaos - Tips for Tackling Complex Journeys in Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -136,7 +136,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/journeys-beyond-email.md" title="Solving Adobe Journeys Beyond Email" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471331/?format=jpeg&nocache=1756505537161" alt="Solving Adobe Journeys Beyond Email"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471331/?format=jpeg&nocache=1756848631014" alt="Solving Adobe Journeys Beyond Email"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -163,18 +163,90 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
 
 {cta  = Watch event}
 
+* marketo/2025/aug/opening-keynote.md
+* marketo/2025/aug/ai-lifecycle-engine.md
+* marketo/2025/aug/design-studio.md
 * marketo/2025/aug/data-categorization-with-ai.md
 * marketo/2025/aug/follow-ups-customer-lifecycle.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Opening Keynote">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="marketo/2025/aug/opening-keynote.md" title="Opening Keynote" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471392/?format=jpeg&nocache=1756848632015" alt="Opening Keynote"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="marketo/2025/aug/opening-keynote.md" target="_blank" rel="referrer" title="Opening Keynote">Opening Keynote</a>
+                    </p>
+                    <p class="is-size-6">Discover how AI agents are transforming B2B marketing into B2B 3.0. Learn strategies to boost efficiency, personalization, and customer journeys with Marketo Engage.</p>
+                </div>
+                <a href="marketo/2025/aug/opening-keynote.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch event</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="From MQL to AIQL - Building an AI-Powered Lifecycle Engine in Marketo Engage">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="marketo/2025/aug/ai-lifecycle-engine.md" title="From MQL to AIQL - Building an AI-Powered Lifecycle Engine in Marketo Engage" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471387/?format=jpeg&nocache=1756848631969" alt="From MQL to AIQL - Building an AI-Powered Lifecycle Engine in Marketo Engage"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="marketo/2025/aug/ai-lifecycle-engine.md" target="_blank" rel="referrer" title="From MQL to AIQL - Building an AI-Powered Lifecycle Engine in Marketo Engage">From MQL to AIQL - Building an AI-Powered Lifecycle Engine in Marketo Engage</a>
+                    </p>
+                    <p class="is-size-6">Learn how to transform lead scoring in Marketo Engage with AI-driven lifecycle management, automated insights, and sales-ready recommendations.</p>
+                </div>
+                <a href="marketo/2025/aug/ai-lifecycle-engine.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch event</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Unlocking the Full Power of Design Studio for Global Marketing Operations">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="marketo/2025/aug/design-studio.md" title="Unlocking the Full Power of Design Studio for Global Marketing Operations" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471389/?format=jpeg&nocache=1756848632006" alt="Unlocking the Full Power of Design Studio for Global Marketing Operations"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="marketo/2025/aug/design-studio.md" target="_blank" rel="referrer" title="Unlocking the Full Power of Design Studio for Global Marketing Operations">Unlocking the Full Power of Design Studio for Global Marketing Operations</a>
+                    </p>
+                    <p class="is-size-6">Learn how to scale with Design Studio in Marketo Engage. Discover encapsulation, templates, forms, and strategies to reduce technical debt and boost efficiency.</p>
+                </div>
+                <a href="marketo/2025/aug/design-studio.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch event</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Improving Data Categorization in Marketo Engage Using Fine-Tuned AI Models">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/data-categorization-with-ai.md" title="Improving Data Categorization in Marketo Engage Using Fine-Tuned AI Models" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471388/?format=jpeg&nocache=1756505537499" alt="Improving Data Categorization in Marketo Engage Using Fine-Tuned AI Models"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471388/?format=jpeg&nocache=1756848631996" alt="Improving Data Categorization in Marketo Engage Using Fine-Tuned AI Models"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -192,12 +264,12 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="undefined">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Experience Makers Spotlight - Streamlining Follow-Ups in Customer Lifecycle">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="marketo/2025/aug/follow-ups-customer-lifecycle.md" title="undefined" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471390/?format=jpeg&nocache=1756505537513" alt="undefined"
+                    <a href="marketo/2025/aug/follow-ups-customer-lifecycle.md" title="Experience Makers Spotlight - Streamlining Follow-Ups in Customer Lifecycle" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471390/?format=jpeg&nocache=1756848631984" alt="Experience Makers Spotlight - Streamlining Follow-Ups in Customer Lifecycle"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -205,9 +277,9 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="marketo/2025/aug/follow-ups-customer-lifecycle.md" target="_blank" rel="referrer" title="undefined">undefined</a>
+                        <a href="marketo/2025/aug/follow-ups-customer-lifecycle.md" target="_blank" rel="referrer" title="Experience Makers Spotlight - Streamlining Follow-Ups in Customer Lifecycle">Experience Makers Spotlight - Streamlining Follow-Ups in Customer Lifecycle</a>
                     </p>
-                    <p class="is-size-6">undefined</p>
+                    <p class="is-size-6">Learn how executable vs. request campaigns streamline workflows, improve data accuracy, and boost engagement with real-time multi-channel strategies.</p>
                 </div>
                 <a href="marketo/2025/aug/follow-ups-customer-lifecycle.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch event</span>
@@ -227,8 +299,11 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
 * workfront/2025/aug/keynote.md
 * workfront/2025/aug/advanced-text-mode.md
 * workfront/2025/aug/center-of-excellence.md
+* workfront/2025/aug/enable-users-new-features.md
 * workfront/2025/aug/fusion-user-account-creation.md
+* workfront/2025/aug/review-approval.md
 * workfront/2025/aug/workfront-ai-tools.md
+* workfront/2025/aug/workflows-workfront-aem.md
  
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -238,7 +313,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/keynote.md" title="Opening Keynote" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471499/?format=jpeg&nocache=1756505537827" alt="Opening Keynote"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471499/?format=jpeg&nocache=1756848632532" alt="Opening Keynote"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -248,7 +323,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="workfront/2025/aug/keynote.md" target="_blank" rel="referrer" title="Opening Keynote">Opening Keynote</a>
                     </p>
-                    <p class="is-size-6">AI-Powered Workfront - The Future of Marketing Systems - Adobe Workfront</p>
+                    <p class="is-size-6">Discover how Adobe Workfront powers intelligent, visible, and connected workflows with AI-driven campaign creation, insights, and seamless Adobe integrations.</p>
                 </div>
                 <a href="workfront/2025/aug/keynote.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch event</span>
@@ -261,7 +336,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/advanced-text-mode.md" title="Elevate Workfront Reporting with Advanced Text Mode" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471498/?format=jpeg&nocache=1756505537866" alt="Elevate Workfront Reporting with Advanced Text Mode"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471498/?format=jpeg&nocache=1756848632492" alt="Elevate Workfront Reporting with Advanced Text Mode"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -284,7 +359,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/center-of-excellence.md" title="Preparing your Workfront organization for a center of excellence" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471495/?format=jpeg&nocache=1756505537856" alt="Preparing your Workfront organization for a center of excellence"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471495/?format=jpeg&nocache=1756848632522" alt="Preparing your Workfront organization for a center of excellence"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -302,12 +377,35 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Enabling Users on New Features - Agitation is Life">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="workfront/2025/aug/enable-users-new-features.md" title="Enabling Users on New Features - Agitation is Life" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471494/?format=jpeg&nocache=1756848632567" alt="Enabling Users on New Features - Agitation is Life"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="workfront/2025/aug/enable-users-new-features.md" target="_blank" rel="referrer" title="Enabling Users on New Features - Agitation is Life">Enabling Users on New Features - Agitation is Life</a>
+                    </p>
+                    <p class="is-size-6">Learn strategies to boost Workfront adoption—engaging users, aligning features with business goals, and using analytics to improve rollouts.</p>
+                </div>
+                <a href="workfront/2025/aug/enable-users-new-features.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch event</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Automate Workfront user account creation with Fusion">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/fusion-user-account-creation.md" title="Automate Workfront user account creation with Fusion" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471496/?format=jpeg&nocache=1756505537844" alt="Automate Workfront user account creation with Fusion"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471496/?format=jpeg&nocache=1756848632510" alt="Automate Workfront user account creation with Fusion"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -325,12 +423,35 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Getting Started with Review and Approvals">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="workfront/2025/aug/review-approval.md" title="Getting Started with Review and Approvals" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471493/?format=jpeg&nocache=1756848632551" alt="Getting Started with Review and Approvals"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="workfront/2025/aug/review-approval.md" target="_blank" rel="referrer" title="Getting Started with Review and Approvals">Getting Started with Review and Approvals</a>
+                    </p>
+                    <p class="is-size-6">Discover how Workfront review and approval speeds up asset approvals, reduces email loops, and ensures compliance with streamlined collaboration.</p>
+                </div>
+                <a href="workfront/2025/aug/review-approval.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch event</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Maximize Efficiency with AI - Mastering Workfront's AI Tools">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/workfront-ai-tools.md" title="Maximize Efficiency with AI - Mastering Workfront's AI Tools" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471393/?format=jpeg&nocache=1756505537875" alt="Maximize Efficiency with AI - Mastering Workfront's AI Tools"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471393/?format=jpeg&nocache=1756848632541" alt="Maximize Efficiency with AI - Mastering Workfront's AI Tools"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -343,6 +464,29 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
                     <p class="is-size-6">Explore how Adobe Workfront AI features like Catch Me Up, summarization, and formula generation help automate tasks, optimize workflows, and drive productivity.</p>
                 </div>
                 <a href="workfront/2025/aug/workfront-ai-tools.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch event</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Streamlining Creative Workflows with Workfront + Adobe Experience Manager">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="workfront/2025/aug/workflows-workfront-aem.md" title="Streamlining Creative Workflows with Workfront + Adobe Experience Manager" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471497/?format=jpeg&nocache=1756848632559" alt="Streamlining Creative Workflows with Workfront + Adobe Experience Manager"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="workfront/2025/aug/workflows-workfront-aem.md" target="_blank" rel="referrer" title="Streamlining Creative Workflows with Workfront + Adobe Experience Manager">Streamlining Creative Workflows with Workfront + Adobe Experience Manager</a>
+                    </p>
+                    <p class="is-size-6">Learn how connecting Workfront and AEM Assets streamlines requests, automates metadata, improves governance, and powers an efficient content supply chain.</p>
+                </div>
+                <a href="workfront/2025/aug/workflows-workfront-aem.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch event</span>
                 </a>
             </div>

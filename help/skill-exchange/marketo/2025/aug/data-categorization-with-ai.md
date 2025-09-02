@@ -1,6 +1,7 @@
 ---
 title: Improving Data Categorization in Marketo Engage Using Fine-Tuned AI Models
 description: Discover how to use fine-tuned AI models in Marketo Engage to detect spam, match job titles to personas, and categorize open text fields with webhooks.
+solution: Marketo Engage
 topic: Artificial Intelligence
 role: User
 level: Beginner, Intermediate, Experienced

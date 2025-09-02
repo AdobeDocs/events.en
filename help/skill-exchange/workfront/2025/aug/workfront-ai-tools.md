@@ -2,6 +2,7 @@
 title: Maximize Efficiency with AI - Mastering Workfront's AI Tools
 description: Explore how Adobe Workfront AI features like Catch Me Up, summarization, and formula generation help automate tasks, optimize workflows, and drive productivity.
 topic: Artificial Intelligence
+solution: Workfront
 role: User
 level: Beginner
 doc-type: Event
