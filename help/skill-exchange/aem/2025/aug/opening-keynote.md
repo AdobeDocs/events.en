@@ -17,11 +17,11 @@ Join Haresh Kumar, Head of Strategy and Product for Adobe Experience Manager (AE
 
 **Key Takeaways**
 
-- How AI agents and Experience Hub streamline content generation and workflows.  
-- The role of AI-driven activation to deliver the right content across every channel and device.  
-- How AI search improves asset discovery, reuse, and content velocity.  
-- New optimization tools like Sites Optimizer and Content Advisor for better engagement and conversion.  
-- How to scale one-to-one personalization securely and effectively.  
+* How AI agents and Experience Hub streamline content generation and workflows.  
+* The role of AI-driven activation to deliver the right content across every channel and device.  
+* How AI search improves asset discovery, reuse, and content velocity.  
+* New optimization tools like Sites Optimizer and Content Advisor for better engagement and conversion.  
+* How to scale one-to-one personalization securely and effectively.  
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471386/?learn=on&enablevpops)
 
