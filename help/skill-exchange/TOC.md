@@ -137,7 +137,7 @@ event-series: The Skill Exchange
       + [The Power of Reusability](aem/aug2022/reusability.md)
       + [Drive business value with content personalization in AEM](aem/aug2022/personalization.md)
       + [Maximize Your AEM Implementation](aem/aug2022/implementation.md)
-+ Customer Journey Analytics
++ Customer Journey Analytics {#cja}
   + August 2025 {#aug2025}
     + [Modern Takes on Classic AA Recipes](cja/2025/aug/modern-takes-classic-aa.md)
 + Marketo {#marketo}
