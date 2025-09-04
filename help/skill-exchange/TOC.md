@@ -88,6 +88,10 @@ event-series: The Skill Exchange
     + [Marketing Channels, Please Use Responsibly](analytics/jun2021/marketing-channels.md)
     + [Putting it All Together](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
+  + August 2025 {#aug2025}
+    + [Opening Keynote](aem/2025/aug/opening-keynote.md)
+    + [Future-Ready Content Framework](aem/2025/aug/content-framework.md)
+    + [Scalable Asset Management](aem/2025/aug/scalable-asset-management.md)
   + August 2024 {#aug2024}
     + [Opening Keynote](aem/aug2024/keynote.md)
     + [AEM Sites with Universal Editor](aem/aug2024/universal-editor.md)
