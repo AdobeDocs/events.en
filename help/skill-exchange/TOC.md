@@ -25,8 +25,11 @@ event-series: The Skill Exchange
     + [Journeys Beyond Email](aep-apps/2025/aug/journeys-beyond-email.md)
 + Analytics {#analytics}
   + Aug 2025 {#aug2025}
+    + [Opening Keynote](analytics/2025/aug/opening-keynote.md)
     + [Customizations in Adobe Analytics Workspace](analytics/2025/aug/analysis-workspace-customizations.md)
     + [Dashboards Don’t Deliver Insights](analytics/2025/aug/dashboards-insights.md)
+    + [Data Storytelling With Analysis Workspace](analytics/2025/aug/data-storytelling.md)
+    + [Data to PowerPoint](analytics/2025/aug/data-to-powerpoint.md)
     + [Scalable Analytics Workflows](analytics/2025/aug/scalable-workflows.md)
     + [Segmentation & Personalization](analytics/2025/aug/segmentation-personalization.md)
     + [Workspace Features that you Should be Using](analytics/2025/aug/workspace-features.md)
@@ -101,9 +104,18 @@ event-series: The Skill Exchange
     + [Getting Started](analytics/jun2021/getting-started.md)
     + [Marketing Channels, Please Use Responsibly](analytics/jun2021/marketing-channels.md)
     + [Putting it All Together](analytics/jun2021/putting-all-together.md)
++ Customer Journey Analytics {#cja}
+  + August 2025 {#aug2025}
+    + [Opening Keynote](cja/2025/aug/opening-keynote.md)
+    + [Customer Journey Analytics Journey Canvas](cja/2025/aug/journey-canvas.md)
+    + [Customer Journey Analytics Data Model](cja/2025/aug/cja-data-model.md)
+    + [Modern Takes on Classic AA Recipes](cja/2025/aug/modern-takes-classic-aa.md)
+    + [Uncovering the Story Behind Every Journey](cja/2025/aug/story-behind-journey.md)
 + Experience Manager {#aem}
   + August 2025 {#aug2025}
     + [Opening Keynote](aem/2025/aug/opening-keynote.md)
+    + [Asset Workflows, Permissions & Integration](aem/2025/aug/asset-workflows-permissions-integration.md)
+    + [Developing Reports and ROI Metrics for AEM Assets](aem/2025/aug/reports-roi-metrics.md)
     + [Future-Ready Content Framework](aem/2025/aug/content-framework.md)
     + [Scalable Asset Management](aem/2025/aug/scalable-asset-management.md)
   + August 2024 {#aug2024}
@@ -137,9 +149,6 @@ event-series: The Skill Exchange
       + [The Power of Reusability](aem/aug2022/reusability.md)
       + [Drive business value with content personalization in AEM](aem/aug2022/personalization.md)
       + [Maximize Your AEM Implementation](aem/aug2022/implementation.md)
-+ Customer Journey Analytics {#cja}
-  + August 2025 {#aug2025}
-    + [Modern Takes on Classic AA Recipes](cja/2025/aug/modern-takes-classic-aa.md)
 + Marketo {#marketo}
   + August 2025 {#aug2025}
     + [Opening Keynote](marketo/2025/aug/opening-keynote.md)
