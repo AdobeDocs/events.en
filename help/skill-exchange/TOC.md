@@ -15,7 +15,21 @@ event-series: The Skill Exchange
     + [Effective Extensibility](commerce/aug2024/extensibility.md)
     + [Maximizing SEO Throughout Migration Workflows](commerce/aug2024/seo-migration-workflows.md)
     + [Personalizing the Customer Experience](commerce/aug2024/personalization.md)
++ Adobe Experience Platform {#aep}
+  + August 2025 {#aug2025}
+    + [Opening Keynote](aep-apps/2025/aug/opening-keynote.md)
+    + [Balancing Personalization, Privacy and Data Security](aep-apps/2025/aug/personalization-privacy-data-security.md)
+    + [Demystifying Common Metrics](analytics/2025/aug/demystifying-common-metrics.md)
+    + [Media investments and Adobe's Real-Time CDP Collaboration](aep-apps/2025/aug/real-time-cdp-collaboration.md)
+    + [Tips for Tackling Complex Journeys in Adobe Journey Optimizer](aep-apps/2025/aug/tips-for-tackling-journeys.md)
+    + [Journeys Beyond Email](aep-apps/2025/aug/journeys-beyond-email.md)
 + Analytics {#analytics}
+  + Aug 2025 {#aug2025}
+    + [Customizations in Adobe Analytics Workspace](analytics/2025/aug/analysis-workspace-customizations.md)
+    + [Dashboards Don’t Deliver Insights](analytics/2025/aug/dashboards-insights.md)
+    + [Scalable Analytics Workflows](analytics/2025/aug/scalable-workflows.md)
+    + [Segmentation & Personalization](analytics/2025/aug/segmentation-personalization.md)
+    + [Workspace Features that you Should be Using](analytics/2025/aug/workspace-features.md)
   + Aug 2024 {#aug2024}
     + [Opening Keynote](analytics/aug2024/keynote.md)
     + [Alerts and Annotations](analytics/aug2024/alerts-annotations.md)
@@ -123,13 +137,9 @@ event-series: The Skill Exchange
       + [The Power of Reusability](aem/aug2022/reusability.md)
       + [Drive business value with content personalization in AEM](aem/aug2022/personalization.md)
       + [Maximize Your AEM Implementation](aem/aug2022/implementation.md)
-+ Adobe Experience Platform {#aep}
++ Customer Journey Analytics
   + August 2025 {#aug2025}
-    + [Opening Keynote](aep-apps/2025/aug/opening-keynote.md)
-    + [Balancing Personalization, Privacy and Data Security](aep-apps/2025/aug/personalization-privacy-data-security.md)
-    + [Media investments and Adobe's Real-Time CDP Collaboration](aep-apps/2025/aug/real-time-cdp-collaboration.md)
-    + [Tips for Tackling Complex Journeys in Adobe Journey Optimizer](aep-apps/2025/aug/tips-for-tackling-journeys.md)
-    + [Journeys Beyond Email](aep-apps/2025/aug/journeys-beyond-email.md)
+    + [Modern Takes on Classic AA Recipes](cja/2025/aug/modern-takes-classic-aa.md)
 + Marketo {#marketo}
   + August 2025 {#aug2025}
     + [Opening Keynote](marketo/2025/aug/opening-keynote.md)
