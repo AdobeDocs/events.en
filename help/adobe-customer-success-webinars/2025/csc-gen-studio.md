@@ -3,7 +3,7 @@ title: Demystifying the Content Supply Chain and Adobe GenStudio as a Product Su
 description: Discover how Workfront + AEM connect the content supply chain. Learn how Adobe Gen Studio streamlines planning, creation, delivery, and insights.
 solution: Workfront, GenStudio for Performance Marketing
 solution-set: GenStudio for Performance Marketing
-feature: Workflow and Planning, Workfront Planning
+feature: Workfront Planning
 topic: Content Supply Chain, Integrations
 role: Admin, Developer, User
 level: Beginner, Intermediate
