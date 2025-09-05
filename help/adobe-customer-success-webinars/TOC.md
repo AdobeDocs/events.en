@@ -38,6 +38,7 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
     + [Data Distiller 101](2025/data-distiller-101.md)
     + [Winning Executive Sponsorship for AEP Projects](2025/exec-sponsorship-aep-projects.md)
   + GenStudio for Performance Marketing {#genstudio2025}
+    + [Content Supply Chain and Adobe GenStudio](2025/csc-gen-studio.md)
     + [GenStudio for Performance Marketing Operating Model](2025/genstudio-for-performance-marketing-operating-model.md)
   + Journey Optimizer {#ajo2025}
     + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)

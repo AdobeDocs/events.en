@@ -7,6 +7,7 @@ user-guide-description: Learn from Adobe experts how to master new e-signature w
 
 + [Overview](overview.md)
 + [Acrobat Sign 101](./skill-builders/getting-started.md)
++ [Adobe Acrobat Sign July Release 2025](skill-builders/acrobat-july-release.md)
 + [Prepare Your Agreements for e-signature](./skill-builders/e-signature-setup.md)
 + [Work with e-signatures in your Microsoft apps](./skill-builders/e-signature-microsoft.md)
 + [Advanced Tips for Sending Documents for Signature](./skill-builders/advanced-sending-documents-signature.md)
