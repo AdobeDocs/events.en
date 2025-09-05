@@ -15,7 +15,7 @@ In this Experience League Live show, Travis Jordan andn Nikhil Sharma will showc
 
 Learn how you can deliver rich, personalized mobile experiences that go beyond plain text, featuring features like interactive buttons, carousels, quick replies, and more—all orchestrated directly within Journey Optimizer with these new channels. We’ll walk through the advantages and differences between RCS and WhatsApp, go through how to set-up these new channels, including API credentials and webhooks, and how you can incorporate these channels into your existing omnichannel engagement strategy. 
 
-> ![Show banner](/experience-league-live/assets/30Sept2025_WebBanner.png)
+> ![Show banner](../assets/30Sept2025_WebBanner.png)
 
 [Set a reminder for the show!](https://www.youtube.com/live/Pf5O5b0Ehig)
 
