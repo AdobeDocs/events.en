@@ -19,7 +19,6 @@ event-series: The Skill Exchange
   + August 2025 {#aug2025}
     + [Opening Keynote](aep-apps/2025/aug/opening-keynote.md)
     + [Balancing Personalization, Privacy and Data Security](aep-apps/2025/aug/personalization-privacy-data-security.md)
-    + [Demystifying Common Metrics](analytics/2025/aug/demystifying-common-metrics.md)
     + [Media investments and Adobe's Real-Time CDP Collaboration](aep-apps/2025/aug/real-time-cdp-collaboration.md)
     + [Tips for Tackling Complex Journeys in Adobe Journey Optimizer](aep-apps/2025/aug/tips-for-tackling-journeys.md)
     + [Journeys Beyond Email](aep-apps/2025/aug/journeys-beyond-email.md)
@@ -30,6 +29,7 @@ event-series: The Skill Exchange
     + [Dashboards Don’t Deliver Insights](analytics/2025/aug/dashboards-insights.md)
     + [Data Storytelling With Analysis Workspace](analytics/2025/aug/data-storytelling.md)
     + [Data to PowerPoint](analytics/2025/aug/data-to-powerpoint.md)
+    + [Demystifying Common Metrics](analytics/2025/aug/demystifying-common-metrics.md)
     + [Scalable Analytics Workflows](analytics/2025/aug/scalable-workflows.md)
     + [Segmentation & Personalization](analytics/2025/aug/segmentation-personalization.md)
     + [Workspace Features that you Should be Using](analytics/2025/aug/workspace-features.md)
