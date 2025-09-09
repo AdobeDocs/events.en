@@ -197,6 +197,7 @@ event-series: The Skill Exchange
     + [Enabling Users on New Features](workfront/2025/aug/enable-users-new-features.md)
     + [Getting Started with Review and Approvals](workfront/2025/aug/review-approval.md)
     + [Mastering Workfront's AI Tools](workfront/2025/aug/workfront-ai-tools.md)
+    + [Pro Tips for User Management & Licensing](workfront/2025/aug/user-management-licensing.md)
     + [Streamlining Creative Workflows with Workfront + AEM](workfront/2025/aug/workflows-workfront-aem.md)
   + August 2024 {#aug2024}
     + [Opening Keynote](workfront/aug2024/keynote.md)
