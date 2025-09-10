@@ -48,7 +48,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/opening-keynote.md" title="Adobe Analytics Opening Keynote" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471124/?format=jpeg&nocache=1757438064822" alt="Adobe Analytics Opening Keynote"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471124/?format=jpeg&nocache=1757465008519" alt="Adobe Analytics Opening Keynote"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -71,7 +71,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/dashboards-insights.md" title="Why Dashboards Don’t Deliver Insights (And What Actually Does)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471120/?format=jpeg&nocache=1757438064831" alt="Why Dashboards Don’t Deliver Insights (And What Actually Does)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471120/?format=jpeg&nocache=1757465008550" alt="Why Dashboards Don’t Deliver Insights (And What Actually Does)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -94,7 +94,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/data-storytelling.md" title="Data Storytelling With Analysis Workspace" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471116/?format=jpeg&nocache=1757438064827" alt="Data Storytelling With Analysis Workspace"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471116/?format=jpeg&nocache=1757465008524" alt="Data Storytelling With Analysis Workspace"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -117,7 +117,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/demystifying-common-metrics.md" title="Demystifying Common Metrics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471114/?format=jpeg&nocache=1757438064835" alt="Demystifying Common Metrics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471114/?format=jpeg&nocache=1757465008547" alt="Demystifying Common Metrics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -140,7 +140,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/data-to-powerpoint.md" title="Shortcut Across the Data-Verse - Get Your Data to PowerPoint at Warp Speed" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471119/?format=jpeg&nocache=1757438064859" alt="Shortcut Across the Data-Verse - Get Your Data to PowerPoint at Warp Speed"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471119/?format=jpeg&nocache=1757465008543" alt="Shortcut Across the Data-Verse - Get Your Data to PowerPoint at Warp Speed"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -163,7 +163,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/analysis-workspace-customizations.md" title="Three Game-Changing Customizations in Adobe Analytics Workspace" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471123/?format=jpeg&nocache=1757438064852" alt="Three Game-Changing Customizations in Adobe Analytics Workspace"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471123/?format=jpeg&nocache=1757465008531" alt="Three Game-Changing Customizations in Adobe Analytics Workspace"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -186,7 +186,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/scalable-workflows.md" title="Data in Motion - Scalable Analytics Workflows for Insight-Driven Teams" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471118/?format=jpeg&nocache=1757438064848" alt="Data in Motion - Scalable Analytics Workflows for Insight-Driven Teams"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471118/?format=jpeg&nocache=1757465008536" alt="Data in Motion - Scalable Analytics Workflows for Insight-Driven Teams"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -209,7 +209,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/segmentation-personalization.md" title="Driving Impact with Segmentation & Personalization in Adobe Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471113/?format=jpeg&nocache=1757438064856" alt="Driving Impact with Segmentation & Personalization in Adobe Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471113/?format=jpeg&nocache=1757465008554" alt="Driving Impact with Segmentation & Personalization in Adobe Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -232,7 +232,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/workspace-features.md" title="Workspace Features that you Should be Using" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471117/?format=jpeg&nocache=1757438064887" alt="Workspace Features that you Should be Using"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471117/?format=jpeg&nocache=1757465008539" alt="Workspace Features that you Should be Using"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -273,7 +273,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="cja/2025/aug/opening-keynote.md" title="Customer Journey Analytics Opening Keynote" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471108/?format=jpeg&nocache=1757438065312" alt="Customer Journey Analytics Opening Keynote"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471108/?format=jpeg&nocache=1757465009661" alt="Customer Journey Analytics Opening Keynote"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -296,7 +296,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="cja/2025/aug/modern-takes-classic-aa.md" title="Cooking with CJA - Modern Takes on Classic AA Recipes" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471110/?format=jpeg&nocache=1757438065297" alt="Cooking with CJA - Modern Takes on Classic AA Recipes"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471110/?format=jpeg&nocache=1757465009634" alt="Cooking with CJA - Modern Takes on Classic AA Recipes"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -319,7 +319,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="cja/2025/aug/cja-data-model.md" title="The Architecture of Analysis - How to Approach Your Customer Journey Analytics Data Model" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471111/?format=jpeg&nocache=1757438065335" alt="The Architecture of Analysis - How to Approach Your Customer Journey Analytics Data Model"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471111/?format=jpeg&nocache=1757465009672" alt="The Architecture of Analysis - How to Approach Your Customer Journey Analytics Data Model"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -342,7 +342,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="cja/2025/aug/journey-canvas.md" title="Driving CX Success with Adobe Customer Journey Analytics Journey Canvas" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471112/?format=jpeg&nocache=1757438065324" alt="Driving CX Success with Adobe Customer Journey Analytics Journey Canvas"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471112/?format=jpeg&nocache=1757465009648" alt="Driving CX Success with Adobe Customer Journey Analytics Journey Canvas"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -365,7 +365,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="cja/2025/aug/story-behind-journey.md" title="Lights, Data, Insight - Uncovering the Story Behind Every Journey" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471109/?format=jpeg&nocache=1757438065344" alt="Lights, Data, Insight - Uncovering the Story Behind Every Journey"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471109/?format=jpeg&nocache=1757465009682" alt="Lights, Data, Insight - Uncovering the Story Behind Every Journey"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -406,7 +406,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/opening-keynote.md" title="Adobe Experience Manager Opening Keynote" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471386/?format=jpeg&nocache=1757438065823" alt="Adobe Experience Manager Opening Keynote"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471386/?format=jpeg&nocache=1757465010566" alt="Adobe Experience Manager Opening Keynote"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -429,7 +429,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/asset-workflows-permissions-integration.md" title="AEM Masterclass - Asset Workflows, Permissions & Integration" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471383/?format=jpeg&nocache=1757438065835" alt="AEM Masterclass - Asset Workflows, Permissions & Integration"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471383/?format=jpeg&nocache=1757465010597" alt="AEM Masterclass - Asset Workflows, Permissions & Integration"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -452,7 +452,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/reports-roi-metrics.md" title="Developing Reports and ROI Metrics for AEM Assets" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471384/?format=jpeg&nocache=1757438065846" alt="Developing Reports and ROI Metrics for AEM Assets"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471384/?format=jpeg&nocache=1757465010607" alt="Developing Reports and ROI Metrics for AEM Assets"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -475,7 +475,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/content-framework.md" title="Smart, Scalable, and Structured - Building a Future-Ready Content Framework" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471382/?format=jpeg&nocache=1757438065806" alt="Smart, Scalable, and Structured - Building a Future-Ready Content Framework"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471382/?format=jpeg&nocache=1757465010583" alt="Smart, Scalable, and Structured - Building a Future-Ready Content Framework"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -498,7 +498,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/scalable-asset-management.md" title="Taxonomy & Structure - AEM’s Secret to Scalable Asset Management" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471385/?format=jpeg&nocache=1757438065814" alt="Taxonomy & Structure - AEM’s Secret to Scalable Asset Management"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471385/?format=jpeg&nocache=1757465010621" alt="Taxonomy & Structure - AEM’s Secret to Scalable Asset Management"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -539,7 +539,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/opening-keynote.md" title="Skill Exchange Keynote - The Future of Experience Making with AI, Adobe Experience Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1757438066305" alt="Skill Exchange Keynote - The Future of Experience Making with AI, Adobe Experience Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1757465011389" alt="Skill Exchange Keynote - The Future of Experience Making with AI, Adobe Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -562,7 +562,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/personalization-privacy-data-security.md" title="Navigating the New Norm - Balancing Personalization, Privacy and Data Security" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471328/?format=jpeg&nocache=1757438066296" alt="Navigating the New Norm - Balancing Personalization, Privacy and Data Security"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471328/?format=jpeg&nocache=1757465011417" alt="Navigating the New Norm - Balancing Personalization, Privacy and Data Security"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -585,7 +585,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/real-time-cdp-collaboration.md" title="Get the most out of your media investments with Adobe's Real-Time CDP Collaboration" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471329/?format=jpeg&nocache=1757438066258" alt="Get the most out of your media investments with Adobe's Real-Time CDP Collaboration"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471329/?format=jpeg&nocache=1757465011405" alt="Get the most out of your media investments with Adobe's Real-Time CDP Collaboration"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -608,7 +608,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/tips-for-tackling-journeys.md" title="Calming Customer Chaos - Tips for Tackling Complex Journeys in Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471330/?format=jpeg&nocache=1757438066274" alt="Calming Customer Chaos - Tips for Tackling Complex Journeys in Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471330/?format=jpeg&nocache=1757465011438" alt="Calming Customer Chaos - Tips for Tackling Complex Journeys in Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -631,7 +631,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/journeys-beyond-email.md" title="Solving Adobe Journeys Beyond Email" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471331/?format=jpeg&nocache=1757438066285" alt="Solving Adobe Journeys Beyond Email"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471331/?format=jpeg&nocache=1757465011428" alt="Solving Adobe Journeys Beyond Email"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -672,7 +672,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/opening-keynote.md" title="Opening Keynote" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471392/?format=jpeg&nocache=1757438066736" alt="Opening Keynote"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471392/?format=jpeg&nocache=1757465012333" alt="Opening Keynote"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -695,7 +695,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/ai-lifecycle-engine.md" title="From MQL to AIQL - Building an AI-Powered Lifecycle Engine in Marketo Engage" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471387/?format=jpeg&nocache=1757438066723" alt="From MQL to AIQL - Building an AI-Powered Lifecycle Engine in Marketo Engage"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471387/?format=jpeg&nocache=1757465012293" alt="From MQL to AIQL - Building an AI-Powered Lifecycle Engine in Marketo Engage"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -718,7 +718,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/design-studio.md" title="Unlocking the Full Power of Design Studio for Global Marketing Operations" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471389/?format=jpeg&nocache=1757438066699" alt="Unlocking the Full Power of Design Studio for Global Marketing Operations"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471389/?format=jpeg&nocache=1757465012342" alt="Unlocking the Full Power of Design Studio for Global Marketing Operations"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -741,7 +741,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/data-categorization-with-ai.md" title="Improving Data Categorization in Marketo Engage Using Fine-Tuned AI Models" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471388/?format=jpeg&nocache=1757438066747" alt="Improving Data Categorization in Marketo Engage Using Fine-Tuned AI Models"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471388/?format=jpeg&nocache=1757465012310" alt="Improving Data Categorization in Marketo Engage Using Fine-Tuned AI Models"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -764,7 +764,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/follow-ups-customer-lifecycle.md" title="Experience Makers Spotlight - Streamlining Follow-Ups in Customer Lifecycle" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471390/?format=jpeg&nocache=1757438066710" alt="Experience Makers Spotlight - Streamlining Follow-Ups in Customer Lifecycle"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471390/?format=jpeg&nocache=1757465012322" alt="Experience Makers Spotlight - Streamlining Follow-Ups in Customer Lifecycle"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -809,7 +809,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/keynote.md" title="Opening Keynote" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471499/?format=jpeg&nocache=1757438067166" alt="Opening Keynote"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471499/?format=jpeg&nocache=1757465013242" alt="Opening Keynote"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -832,7 +832,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/advanced-text-mode.md" title="Elevate Workfront Reporting with Advanced Text Mode" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471498/?format=jpeg&nocache=1757438067181" alt="Elevate Workfront Reporting with Advanced Text Mode"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471498/?format=jpeg&nocache=1757465013280" alt="Elevate Workfront Reporting with Advanced Text Mode"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -855,7 +855,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/center-of-excellence.md" title="Preparing your Workfront organization for a center of excellence" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471495/?format=jpeg&nocache=1757438067204" alt="Preparing your Workfront organization for a center of excellence"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471495/?format=jpeg&nocache=1757465013254" alt="Preparing your Workfront organization for a center of excellence"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -878,7 +878,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/enable-users-new-features.md" title="Enabling Users on New Features - Agitation is Life" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471494/?format=jpeg&nocache=1757438067222" alt="Enabling Users on New Features - Agitation is Life"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471494/?format=jpeg&nocache=1757465013227" alt="Enabling Users on New Features - Agitation is Life"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -901,7 +901,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/fusion-user-account-creation.md" title="Automate Workfront user account creation with Fusion" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471496/?format=jpeg&nocache=1757438067194" alt="Automate Workfront user account creation with Fusion"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471496/?format=jpeg&nocache=1757465013265" alt="Automate Workfront user account creation with Fusion"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -924,7 +924,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/review-approval.md" title="Getting Started with Review and Approvals" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471493/?format=jpeg&nocache=1757438067213" alt="Getting Started with Review and Approvals"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471493/?format=jpeg&nocache=1757465013304" alt="Getting Started with Review and Approvals"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -947,7 +947,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/workfront-ai-tools.md" title="Maximize Efficiency with AI - Mastering Workfront's AI Tools" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471393/?format=jpeg&nocache=1757438067238" alt="Maximize Efficiency with AI - Mastering Workfront's AI Tools"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471393/?format=jpeg&nocache=1757465013288" alt="Maximize Efficiency with AI - Mastering Workfront's AI Tools"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -970,7 +970,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/user-management-licensing.md" title="Maximize Your Workfront License – Pro Tips for User Management & Licensing" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473945/?format=jpeg&nocache=1757438067245" alt="Maximize Your Workfront License – Pro Tips for User Management & Licensing"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473945/?format=jpeg&nocache=1757465013296" alt="Maximize Your Workfront License – Pro Tips for User Management & Licensing"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -993,7 +993,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/workflows-workfront-aem.md" title="Streamlining Creative Workflows with Workfront + Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471497/?format=jpeg&nocache=1757438067230" alt="Streamlining Creative Workflows with Workfront + Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471497/?format=jpeg&nocache=1757465013312" alt="Streamlining Creative Workflows with Workfront + Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
