@@ -9,8 +9,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-02
 jira: KT-18865
+exl-id: 2b6ceeb6-4ab4-42c8-9183-2a8d3b4b64d7
 ---
-
 # Unlocking the Full Power of Design Studio for Global Marketing Operations
 
 When leveraged strategically, Design Studio becomes a foundational tool for globalization and scalability across your entire Marketo Engage instance. Standardizing and reusing forms, landing page templates, and email templates drives efficiency, consistency, and stronger program integration. In global marketing operations, standardization is key to managing Marketo Engage at scale.

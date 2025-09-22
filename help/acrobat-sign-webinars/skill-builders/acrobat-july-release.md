@@ -10,8 +10,8 @@ doc-type: Event
 duration: 3588
 last-substantial-update: 2025-09-05
 jira: KT-19007
+exl-id: 0b442d68-25ba-4c79-9786-20c1600cfa15
 ---
-
 # Webinar: Learn all about our latest improvements: Adobe Acrobat Sign July Release 2025
 
 Explore the new features & functionalities built for those who lead, manage, and drive success with Acrobat Sign. 

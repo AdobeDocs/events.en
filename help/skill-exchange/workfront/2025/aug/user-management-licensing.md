@@ -8,8 +8,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-09
 jira: KT-19095
+exl-id: aac8a3d4-ba6b-4661-ae21-11971e4a79e8
 ---
-
 # Maximize Your Workfront License – Pro Tips for User Management & Licensing
 
 Are your Workfront licenses working as hard as you are? Join Monique Evans from Stanley Black & Decker and Sonia Espejo from Adobe for a fast-paced session packed with expert tips and tricks to help you drive more value through smarter user setup, streamlined maintenance, and actionable reporting.

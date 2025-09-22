@@ -9,8 +9,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04
 jira: KT-18820
+exl-id: cf6a1931-094a-4a2e-b3df-6e20d07e1487
 ---
-
 # Data Storytelling With Analysis Workspace
 
 Dashboards are great, but too often they don't drive any impact. In this session, we’ll walk through how to turn your Adobe Analysis Workspace projects into real data stories that get noticed and drive action.

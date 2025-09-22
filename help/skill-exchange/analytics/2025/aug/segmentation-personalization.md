@@ -10,8 +10,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04
 jira: KT-18816
+exl-id: 15f1e74c-f443-41cd-9cec-b699f6ba7f3f
 ---
-
 # Driving Impact with Segmentation & Personalization in Adobe Analytics
 
 Take your marketing strategy to the next level by harnessing the full power of Adobe Analytics' segmentation and personalization capabilities.

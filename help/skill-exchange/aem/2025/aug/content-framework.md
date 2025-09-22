@@ -11,8 +11,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-03
 jira: KT-18857
+exl-id: 09707db3-c43b-417c-a619-e8461c63042c
 ---
-
 # Smart, Scalable, and Structured: Building a Future-Ready Content Framework
 
 Learn how to scale content operations in AEM Assets using a modular strategy—leveraging metadata, taxonomy, content fragments, and more.

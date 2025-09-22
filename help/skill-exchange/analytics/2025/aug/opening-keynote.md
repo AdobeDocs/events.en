@@ -7,8 +7,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04
 jira: KT-18828
+exl-id: 8f1fedd4-3c00-4593-8b04-4d37be97378a
 ---
-
 # Adobe Analytics Opening Keynote
 
 Essential Skills for Modern Analysts

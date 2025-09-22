@@ -7,8 +7,8 @@ doc-type: Event
 duration: 806
 last-substantial-update: 2025-09-04
 jira: KT-18809
+exl-id: 74c03cda-645e-4f93-a44f-b7f7fcaaa813
 ---
-
 # Customer Journey Analytics Opening Keynote
 
 Opening Keynote

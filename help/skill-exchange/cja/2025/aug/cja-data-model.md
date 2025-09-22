@@ -8,8 +8,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04
 jira: KT-18813
+exl-id: 704ff998-840a-4815-a24f-f08b625b14f5
 ---
-
 # The Architecture of Analysis: How to Approach Your Customer Journey Analytics Data Model
 
 One crucial aspect of building a CJA data model is understanding the hierarchical relationship between different touch points and interactions. This forms the foundation for meaningful analysis and insights.

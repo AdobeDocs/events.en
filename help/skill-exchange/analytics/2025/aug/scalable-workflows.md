@@ -9,8 +9,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04
 jira: KT-18822
+exl-id: aeffcf4e-0f0d-4903-ad14-bb7ab499ab64
 ---
-
 # Data in Motion - Scalable Analytics Workflows for Insight-Driven Teams
 
 Join Adobe Champion Ioana Maftei, Senior Analytics Manager at IBM, as she shares how to build scalable, governed analytics workflows that make the content supply chain measurable. Learn how to deliver the right insights to the right people at the right time, enable cross-team collaboration, and tailor Analysis Workspace projects to fit different roles and needs.

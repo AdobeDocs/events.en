@@ -9,8 +9,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-03
 jira: KT-18861
+exl-id: eafba020-b895-4100-9f63-760787eb97f6
 ---
-
 # Opening Keynote
  
 Join Haresh Kumar, Head of Strategy and Product for Adobe Experience Manager (AEM), as he shares how AI is transforming content creation, management, and optimization. In this session, you’ll discover how AEM is evolving to help teams deliver personalization at scale and drive ROI with AI-powered workflows.  

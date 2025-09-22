@@ -11,8 +11,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-03
 jira: KT-18860
+exl-id: 20fd3501-f51c-424b-9f33-d9eebbfce7b2
 ---
-
 # Taxonomy & Structure: AEM’s Secret to Scalable Asset Management
 
 In this session, Katie Junge and Melanie Bartlett will be sharing their quick, actionable tips for refining and optimizing your tagging and taxonomy structure. Learn how AEM Assets experts deploy best practices to drive immediate results:

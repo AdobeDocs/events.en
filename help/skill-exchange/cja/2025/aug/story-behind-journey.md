@@ -7,8 +7,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04
 jira: KT-18811
+exl-id: 31d09a38-1410-4301-b46f-174e7bd6ac7c
 ---
-
 # Lights, Data, Insight: Uncovering the Story Behind Every Journey
 
 In a world of disconnected data and delayed decisions, this session explores how Adobe Experience Platform and Customer Journey Analytics bring clarity to the customer journey. Learn how to unify datasets, stitch identities, and activate insights across touch points—from campaign tracking and segmentation to real-time personalization and messaging with AJO.

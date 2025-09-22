@@ -9,8 +9,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04
 jira: KT-18824
+exl-id: 1366ff6f-3b2b-4b7d-b97f-a6cd41e322ed
 ---
-
 # Why Dashboards Don’t Deliver Insights (And What Actually Does)
 
 “We need a dashboard that gives us insights.” Sound familiar? The truth is, dashboards aren’t designed to deliver insights—they're just the starting point.

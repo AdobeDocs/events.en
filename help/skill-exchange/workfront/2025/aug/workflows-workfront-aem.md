@@ -2,7 +2,7 @@
 title: Streamlining Creative Workflows with Workfront + Adobe Experience Manager
 description: Learn how connecting Workfront and AEM Assets streamlines requests, automates metadata, improves governance, and powers an efficient content supply chain.
 feature: Strategic Planning, Digital Content and Documents, Workfront Integrations and Apps
-solution: Experience Manager Assets, Workfront 
+solution: Experience Manager Assets, Workfront
 topic: Integrations, Content Supply Chain
 role: User
 level: Intermediate, Experienced
@@ -10,8 +10,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-02
 jira: KT-18877
+exl-id: da99764b-c444-4356-a02e-7134cb4c8d63
 ---
-
 # Streamlining Creative Workflows with Workfront + Adobe Experience Manager
 
 Get an inside look at LeapPoint’s partnership with Adam Driggs to integrate Adobe Workfront and Adobe Experience Manager Assets, laying the groundwork for a scalable content supply chain. Learn how creative and marketing teams can accelerate planning, production, and activation by connecting work management with asset management to improve visibility, reduce manual effort, and enhance governance across the content lifecycle. In this session, Adam Driggs from LeapPoint will share how to: - Integrate Workfront and AEM Assets to help streamline creative workflows and automate asset delivery - Synchronize Workfront custom forms with AEM Assets metadata to drive efficiency across creative production and activation - Align people, process, and governance to ensure long-term success.

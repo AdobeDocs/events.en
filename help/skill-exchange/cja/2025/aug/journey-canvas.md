@@ -8,8 +8,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04
 jira: KT-18815
+exl-id: 10075f8c-ad44-4ee7-970c-9cdae1b21b11
 ---
-
 # Driving CX Success with Adobe Customer Journey Analytics Journey Canvas
 
 In this session, we’ll explore the powerful capabilities of Adobe Customer Journey Analytics (CJA) and its Journey Canvas to drive deeper, outcome-oriented Customer Experience (CX) strategies. We'll focus on a practical framework for mapping and comparing the "happy path"—your ideal user journey—with actual user behavior, uncovering where friction, drop-off, or divergence from intent occurs.

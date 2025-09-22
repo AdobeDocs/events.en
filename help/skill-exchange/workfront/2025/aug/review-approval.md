@@ -9,8 +9,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-02
 jira: KT-18873
+exl-id: 9ef49553-3dd0-41d1-b763-ccebd19faee9
 ---
-
 # Getting Started with Review and Approvals
 
 Are you tired of the email feedback loop when you’re trying to gain approval on an asset? Workfront’s review and approval functionality is an invaluable tool for reducing cycle times, gaining alignment across stakeholders, and ensuring compliance standards are met. Learn how to get started using the new review and approval functionality in Workfront. We’ll also touch on recommendations for transitioning your existing proofing process into the new review and approval functionality.
@@ -27,4 +27,4 @@ Discover how Workfront’s unified approvals revolutionize digital review and ap
 * **Flexible Collaboration** Easily add teams, external reviewers, and adjust roles mid-process for dynamic project needs.
 * **Transition Support** Options for gradual adoption or immediate switch, with full parity planned for legacy features.
 
-Leverage these insights to optimize your approval workflows, improve compliance, and accelerate project delivery.﻿
+Leverage these insights to optimize your approval workflows, improve compliance, and accelerate project delivery.

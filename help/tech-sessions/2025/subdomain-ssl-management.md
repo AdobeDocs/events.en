@@ -9,8 +9,8 @@ doc-type: Event
 duration: 3409
 last-substantial-update: 2025-09-05
 jira: KT-18866
+exl-id: 2ccb1f70-17fe-444e-b819-2e6daeb8f79d
 ---
-
 # Tech Sessions: Adobe Campaign Subdomain and SSL management in the Control Panel
 
 In this session, we explore the concepts of subdomain delegation and configuration within Adobe Campaign, including the installation of SSL certificates to secure subdomains.

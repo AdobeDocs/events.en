@@ -10,8 +10,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04
 jira: KT-18858
+exl-id: 64e0b923-cdbd-4841-834d-b3f1b8d82f71
 ---
-
 # AEM Masterclass: Asset Workflows, Permissions & Integration
 
 In this session, Admins and DAM Librarians will learn efficient usage of AEM asset workflows, understanding and applying permissions and access control within DAM and getting to know of different Integration strategies with DAM.

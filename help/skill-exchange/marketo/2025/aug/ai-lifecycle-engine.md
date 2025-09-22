@@ -10,8 +10,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-02
 jira: KT-18862
+exl-id: 9426dc9d-046b-47cc-a003-601823effa45
 ---
-
 # From MQL to AIQL: Building an AI-Powered Lifecycle Engine in Marketo Engage
 
 Discover how to transform your lead lifecycle strategy by evolving from static scoring models to dynamic AI-driven qualification (AIQL). This session explores how to implement an “AI Marketing Agent” within Marketo Engage that continuously evaluates leads, assigns scores, assesses stages, and generates next-step recommendations and summaries for your Sales team, all triggered automatically as new engagement happens.

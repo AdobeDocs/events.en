@@ -9,8 +9,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-02
 jira: KT-18874
+exl-id: 92f42aad-f0e5-4d89-9d98-dc92891b3254
 ---
-
 # Enabling Users on New Features: Agitation is Life
 
 “Agitation is the opposite of stagnation – the one is life, the other is death” ~Ernestine Rose As system admins the release notes may be seen as the next intrigue into how we can continue to improve our systems and solve more problems, but for many of our users, change is not always so readily accepted. Join in as we delve into some successful ways we can build a culture of change, present solutions to the right stakeholders, and continuously improve our systems so we continue to add value whether the system is brand new or running full steam ahead. System (governance) for sharing general system updates Tips for building a culture of change – enabling user adoption Identifying the best ROI for change – high value, low effort first Reporting on baselines and impacts.

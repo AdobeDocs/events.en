@@ -9,8 +9,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04
 jira: KT-18821
+exl-id: 2c7bef44-9af5-4c7c-a9a7-9489a8dbefd2
 ---
-
 # Workspace Features that you Should be Using
 
 Discover powerful yet often overlooked features within Adobe Analytics Workspace that can elevate your analysis and drive real impact. In this session, we'll explore practical use cases and simple techniques that turn everyday tools into engines of insight—helping you uncover what truly matters to your business. Whether you're a seasoned analyst or just getting started, you'll leave with actionable ideas to maximize the value of your data.

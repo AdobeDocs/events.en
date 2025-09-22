@@ -8,8 +8,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04
 jira: KT-18859
+exl-id: 0cad0078-2388-4b08-8d75-80f969328764
 ---
-
 # Developing Reports and ROI Metrics for AEM Assets
 
 This session will help you learn how to develop insightful reports and meaningful ROI metrics in AEM Assets.

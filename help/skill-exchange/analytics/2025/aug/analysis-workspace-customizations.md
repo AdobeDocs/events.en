@@ -9,8 +9,8 @@ doc-type: Event
 duration: 2408
 last-substantial-update: 2025-09-04
 jira: KT-18827
+exl-id: 14ec70f1-4302-4afd-a5b9-d89f1b240aaa
 ---
-
 # Three Game-Changing Customizations in Adobe Analytics Workspace
 
 Most of us spend our (Adobe Analytics) life on default settings without realizing we can customize it! I am here to present you with three options that will let you showcase your analytics workspace dashboards in the most meaningful way to resonate with your brand identity as well as your own style! These powerful yet underused customization features can transform your dashboards from standard to standout.

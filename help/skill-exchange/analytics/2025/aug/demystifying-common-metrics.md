@@ -9,8 +9,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04
 jira: KT-18817
+exl-id: f2f4277d-7778-4100-8768-0fac3edeec55
 ---
-
 # Demystifying Common Metrics
 
 There are a number of metrics that we all use every day. In this session I’ll go over what they actually mean and how to use them most effectively. It will cover some out of the box metrics like visits and visitors and even go into some calculated metrics like conversion rate and bounce rate.
@@ -35,4 +35,3 @@ Discover how to make sense of the most common web analytics metrics and use them
 * **Bot Traffic Awareness** Find out how bot metrics help you identify and filter out non-human traffic for cleaner reporting.
 
 Mastering these concepts will help you select the best metrics for your needs and maximize the value of your analytics reporting.
-

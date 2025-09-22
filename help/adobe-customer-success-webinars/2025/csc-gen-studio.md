@@ -11,8 +11,8 @@ doc-type: Event
 duration: 1178
 last-substantial-update: 2025-09-05
 jira: KT-19004
+exl-id: 39d90218-d572-4156-8de0-d581471b2ee7
 ---
-
 # Demystifying the Content Supply Chain and Adobe GenStudio as a Product Suite
 
 This webinar provides a high-level overview of the modern content supply chain, illustrating how organizations can accelerate, simplify, and govern content creation and delivery across every channel and audience. Viewers will learn about the integrated power of Adobe GenStudio as a product suite—featuring AEM Sites, AEM Assets, Workfront, and Creative Cloud—to unlock real-time collaboration, automate workflows, and enable scalable, on-brand creative execution. The session is designed to educate business and IT leaders on how a unified content supply chain platform can drive marketing agility, creative impact, and measurable business growth.

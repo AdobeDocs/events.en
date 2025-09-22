@@ -9,8 +9,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-02
 jira: KT-18868
+exl-id: 2dd43d54-8bc8-431c-b03b-792aa9ece08f
 ---
-
 # Opening Keynote
 
 The Adobe Experience Makers: The Skill Exchange (Marketo Engage track) event featured Badsah Mukherji, Adobe Senior Group Product Manager, discussing the evolution of B2B marketing into “B2B 3.0.” This new phase focuses on AI-driven customer experiences, emphasizing personalized engagement and targeting buying groups within accounts. Mukherjee highlighted the transformative role of AI agents in automating tasks, enhancing efficiency, and enabling marketers to focus on strategic roles. The importance of human-AI collaboration was stressed, with AI amplifying creativity rather than replacing it. Key skills for success in this landscape include prompt engineering, data fluency, and agent configuration. Adobe is integrating AI agents into tools like Marketo Engage to automate customer lifecycle orchestration, ensuring marketers who embrace AI will thrive in the future of B2B marketing.

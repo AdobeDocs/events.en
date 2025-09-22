@@ -10,8 +10,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04
 jira: KT-18812
+exl-id: 8dc0e0d1-a44e-45a7-9e01-abe38abeb9a2
 ---
-
 # Cooking with CJA: Modern Takes on Classic AA Recipes
 
 Ready to hang up your old Adobe Analytics apron and step into a modern analytics kitchen? In this practical session, we’ll show you how to remake your go-to AA techniques using the powerful ingredients available in Customer Journey Analytics (CJA).

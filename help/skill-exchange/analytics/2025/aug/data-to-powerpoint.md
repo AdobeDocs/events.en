@@ -10,8 +10,8 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04
 jira: KT-18823
+exl-id: 72b12647-ac15-455c-9ce2-11ff5160b155
 ---
-
 # Shortcut Across the Data-Verse: Get Your Data to PowerPoint at Warp Speed
 
 Love it or hate it, PowerPoint presentations are a common request from upper management: a few visualizations that they can add into their weekly or monthly slide decks. Often this means a lot of effort for us on the data side to repeat menial steps taking screen shots and trying to align them to look attractive… Instead, let's jump in our ship and take a wormhole to get to the result easier, bypassing the asteroid fields and space pirates.
