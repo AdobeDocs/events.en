@@ -7,7 +7,7 @@ feature: Fragments, Integrations, Email Design, Personalization
 event-cta-url-live: https://www.youtube.com/live/Pf5O5b0Ehig
 event-start-time: 2025-09-30 09:00-7
 event-guests: Sandra Hausmann, Travis Jordan, Nikhil Sharma
-
+exl-id: 963b69d7-8ffa-4bb4-9b1b-980d6d94821f
 ---
 # Fueling Personalized Content in Journey Optimizer with AEM Content Fragments and Dynamic Media
 
@@ -18,5 +18,3 @@ Learn how you can deliver rich, personalized mobile experiences that go beyond p
 > ![Show banner](../assets/30Sept2025_WebBanner.png)
 
 [Register now!](https://engage.adobe.com/ExpLeagueLive-250930.html)
-
-

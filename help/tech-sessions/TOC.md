@@ -9,6 +9,7 @@ user-guide-description: Experience Cloud Tech Sessions is a proactive approach t
 + [Experience Cloud Tech Sessions](overview.md)
 + 2025 {#2025}
   + [Adobe Campaign Classic Delivery Performance Troubleshooting](2025/acc-delivery-performance.md)
+  + [Adobe Campaign Subdomain and SSL management](2025/subdomain-ssl-management.md)
   + [Dispatcher Configurations in AEM as a Cloud Service](2025/dispatcher-configurations.md)
   + [Getting the Most out of Marketo Measure](2025/getting-most-marketo-measure.md)
   + [Fastly and Adobe Commerce](2025/fastly-and-adobe-commerce.md)

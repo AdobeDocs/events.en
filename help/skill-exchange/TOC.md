@@ -15,7 +15,24 @@ event-series: The Skill Exchange
     + [Effective Extensibility](commerce/aug2024/extensibility.md)
     + [Maximizing SEO Throughout Migration Workflows](commerce/aug2024/seo-migration-workflows.md)
     + [Personalizing the Customer Experience](commerce/aug2024/personalization.md)
++ Adobe Experience Platform {#aep}
+  + August 2025 {#aug2025}
+    + [Opening Keynote](aep-apps/2025/aug/opening-keynote.md)
+    + [Balancing Personalization, Privacy and Data Security](aep-apps/2025/aug/personalization-privacy-data-security.md)
+    + [Media investments and Adobe's Real-Time CDP Collaboration](aep-apps/2025/aug/real-time-cdp-collaboration.md)
+    + [Tips for Tackling Complex Journeys in Adobe Journey Optimizer](aep-apps/2025/aug/tips-for-tackling-journeys.md)
+    + [Journeys Beyond Email](aep-apps/2025/aug/journeys-beyond-email.md)
 + Analytics {#analytics}
+  + Aug 2025 {#aug2025}
+    + [Opening Keynote](analytics/2025/aug/opening-keynote.md)
+    + [Customizations in Adobe Analytics Workspace](analytics/2025/aug/analysis-workspace-customizations.md)
+    + [Dashboards Don’t Deliver Insights](analytics/2025/aug/dashboards-insights.md)
+    + [Data Storytelling With Analysis Workspace](analytics/2025/aug/data-storytelling.md)
+    + [Data to PowerPoint](analytics/2025/aug/data-to-powerpoint.md)
+    + [Demystifying Common Metrics](analytics/2025/aug/demystifying-common-metrics.md)
+    + [Scalable Analytics Workflows](analytics/2025/aug/scalable-workflows.md)
+    + [Segmentation & Personalization](analytics/2025/aug/segmentation-personalization.md)
+    + [Workspace Features that you Should be Using](analytics/2025/aug/workspace-features.md)
   + Aug 2024 {#aug2024}
     + [Opening Keynote](analytics/aug2024/keynote.md)
     + [Alerts and Annotations](analytics/aug2024/alerts-annotations.md)
@@ -87,17 +104,30 @@ event-series: The Skill Exchange
     + [Getting Started](analytics/jun2021/getting-started.md)
     + [Marketing Channels, Please Use Responsibly](analytics/jun2021/marketing-channels.md)
     + [Putting it All Together](analytics/jun2021/putting-all-together.md)
++ Customer Journey Analytics {#cja}
+  + August 2025 {#aug2025}
+    + [Opening Keynote](cja/2025/aug/opening-keynote.md)
+    + [Customer Journey Analytics Journey Canvas](cja/2025/aug/journey-canvas.md)
+    + [Customer Journey Analytics Data Model](cja/2025/aug/cja-data-model.md)
+    + [Modern Takes on Classic AA Recipes](cja/2025/aug/modern-takes-classic-aa.md)
+    + [Uncovering the Story Behind Every Journey](cja/2025/aug/story-behind-journey.md)
 + Experience Manager {#aem}
+  + August 2025 {#aug2025}
+    + [Opening Keynote](aem/2025/aug/opening-keynote.md)
+    + [Asset Workflows, Permissions & Integration](aem/2025/aug/asset-workflows-permissions-integration.md)
+    + [Developing Reports and ROI Metrics for AEM Assets](aem/2025/aug/reports-roi-metrics.md)
+    + [Future-Ready Content Framework](aem/2025/aug/content-framework.md)
+    + [Scalable Asset Management](aem/2025/aug/scalable-asset-management.md)
   + August 2024 {#aug2024}
-      + [Opening Keynote](aem/aug2024/keynote.md)
-      + [AEM Sites with Universal Editor](aem/aug2024/universal-editor.md)
-      + [Cohesive Experiences with AEM Customization and Governance](aem/aug2024/customize-elements.md)
-      + [Digital Asset Managment Strategies](aem/aug2024/spotlight-dam-strategies.md)
-      + [Dynamic Media Classic Asset Management](aem/aug2024/dmc-asset-management.md)
-      + [Enhancing Content Supply Chain](aem/aug2024/spotlight-content-supply-chain.md)
-      + [Master Headless and SPA Editor Approaches](aem/aug2024/headless-spa-editor.md)
-      + [Metadata, Content Structure, and Taxonomy](aem/aug2024/dam-performance.md)
-      + [Print Production](aem/aug2024/print-production.md)
+    + [Opening Keynote](aem/aug2024/keynote.md)
+    + [AEM Sites with Universal Editor](aem/aug2024/universal-editor.md)
+    + [Cohesive Experiences with AEM Customization and Governance](aem/aug2024/customize-elements.md)
+    + [Digital Asset Managment Strategies](aem/aug2024/spotlight-dam-strategies.md)
+    + [Dynamic Media Classic Asset Management](aem/aug2024/dmc-asset-management.md)
+    + [Enhancing Content Supply Chain](aem/aug2024/spotlight-content-supply-chain.md)
+    + [Master Headless and SPA Editor Approaches](aem/aug2024/headless-spa-editor.md)
+    + [Metadata, Content Structure, and Taxonomy](aem/aug2024/dam-performance.md)
+    + [Print Production](aem/aug2024/print-production.md)
   + August 2023 {#aug2023}
     + Developer Track {#developer-track}
       + [AEM Developer Starter Kit](aem/aug2023/deploy-new-project.md)
@@ -120,6 +150,12 @@ event-series: The Skill Exchange
       + [Drive business value with content personalization in AEM](aem/aug2022/personalization.md)
       + [Maximize Your AEM Implementation](aem/aug2022/implementation.md)
 + Marketo {#marketo}
+  + August 2025 {#aug2025}
+    + [Opening Keynote](marketo/2025/aug/opening-keynote.md)
+    + [AI-Powered Lifecycle Engine](marketo/2025/aug/ai-lifecycle-engine.md)
+    + [Design Studio for Global Marketing Operations](marketo/2025/aug/design-studio.md)
+    + [Improving Data Categorization](marketo/2025/aug/data-categorization-with-ai.md)
+    + [Streamlining Follow-Ups](marketo/2025/aug/follow-ups-customer-lifecycle.md)
   + August 2024 {#aug2024}
     + [Opening Keynote](marketo/aug2024/keynote.md)
     + [Advanced Applications of Engagement Programs](marketo/aug2024/advanced-applications-engagment-programs.md)
@@ -153,6 +189,16 @@ event-series: The Skill Exchange
     + [Reporting within [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
     + [Ultimate Tips & Tricks For Your Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
+  + August 2025 {#aug2025}
+    + [Opening Keynote](workfront/2025/aug/keynote.md)
+    + [Advanced Text Mode](workfront/2025/aug/advanced-text-mode.md)
+    + [Automate user account creation with Fusion](workfront/2025/aug/fusion-user-account-creation.md)
+    + [Center of Excellence](workfront/2025/aug/center-of-excellence.md)
+    + [Enabling Users on New Features](workfront/2025/aug/enable-users-new-features.md)
+    + [Getting Started with Review and Approvals](workfront/2025/aug/review-approval.md)
+    + [Mastering Workfront's AI Tools](workfront/2025/aug/workfront-ai-tools.md)
+    + [Pro Tips for User Management & Licensing](workfront/2025/aug/user-management-licensing.md)
+    + [Streamlining Creative Workflows with Workfront + AEM](workfront/2025/aug/workflows-workfront-aem.md)
   + August 2024 {#aug2024}
     + [Opening Keynote](workfront/aug2024/keynote.md)
     + [Customizing the Workload Balancer](workfront/aug2024/workload-balancer.md)

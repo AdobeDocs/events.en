@@ -14,11 +14,12 @@ solution: Workfront
   + [25.4 Release](releases/25-4-release-webinar.md)
   + [25.1 Release](releases/25-1-release-webinar.md)
   + [24.1 Release](releases/24-1-release-webinar.md)
-+ Top 3 {#top3}
-  + [Creative Approaches with Blueprints](top3/blueprints.md)
-  + [Top 3 Approaches to Office Hours](top3/office-hours.md)
-+ Versus! {#versus}
-  + [Groups vs. Teams](versus/groups-vs-teams.md)
++ Quick Takes {#quicktakes}
+  + Top 3 {#top3}
+    + [Creative Approaches with Blueprints](top3/blueprints.md)
+    + [Top 3 Approaches to Office Hours](top3/office-hours.md)
+  + Versus! {#versus}
+    + [Groups vs. Teams](versus/groups-vs-teams.md)
 + Expert Insights {#expert-insights}
   + [Adoption](expert-insights/adoption.md)
   + [Adoption Surveys](expert-insights/adoption-surveys.md)
