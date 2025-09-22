@@ -17,4 +17,4 @@ Learn how you can deliver rich, personalized mobile experiences that go beyond p
 
 > ![Show banner](../assets/30Sept2025_WebBanner.png)
 
-[Set a reminder for the show!](https://www.youtube.com/live/Pf5O5b0Ehig)
+[Register now!](https://engage.adobe.com/ExpLeagueLive-250930.html)
