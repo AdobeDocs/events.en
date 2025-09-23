@@ -32,6 +32,7 @@ user-guide-description: A collection of event recordings forcused on using Adobe
   + [Learn from your Peers](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
   + [Marketo and Mochas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
   + [Marketo Champion Office Hours](https://experienceleague.adobe.com/docs/events/marketo-champion-office-hours/overview.html)
+  + [The Perfect Blend](https://experienceleague.adobe.com/docs/events/perfect-blend/overview.html)
   + [Skill Builder](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
   + [Skill Exchange](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
   + [Wake up with Workfront](https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html)
@@ -94,6 +95,7 @@ user-guide-description: A collection of event recordings forcused on using Adobe
     + [Learn from your Peers](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
     + [Marketo and Mochas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
     + [Marketo Champion Office Hours](https://experienceleague.adobe.com/docs/events/marketo-champion-office-hours/overview.html)
+    + [The Perfect Blend](https://experienceleague.adobe.com/docs/events/perfect-blend/overview.html)
     + [Skill Builder](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
     + [Skill Exchange](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
   + Adobe Journey Optimizer {#ajo}

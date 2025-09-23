@@ -130,6 +130,11 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
   {description = The Adobe Commerce Intelligence (aka MBI) webinar series is a periodic event for Adobe Commerce Intelligence customers. The webinars cover a wide range of topics and best practices for using Adobe Commerce Intelligence to its fullest potential.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-intelligence-webinars.png}
   {cta  = View recordings}
+* https://experienceleague.adobe.com/docs/events/perfect-blend/overview.html
+  {title = The Perfect Blend}  
+  {description = Discover how Adobe DX products integrate to streamline workflows, boost efficiency, and deliver smarter business outcomes with live demos and Q&A.}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png}
+  {cta  = View recordings}  
 * https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html
   {title = Skill Builder}  
   {description = Skill Builder is a webinar series designed to build your knowledge base and maximize your investment in Adobe Experience Cloud.}
@@ -149,6 +154,29 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Workfront">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html" title="Adobe Workfront" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png" alt="Adobe Workfront"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html" target="_blank" rel="referrer" title="Adobe Workfront">Adobe Workfront</a>
+                    </p>
+                    <p class="is-size-6">A library of recorded Workfront events where experts and peers share thoughts on how to use Workfront.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">View recordings</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Acrobat Sign Webinars">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
@@ -655,6 +683,29 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="The Perfect Blend">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/docs/events/perfect-blend/overview.html" title="The Perfect Blend" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png" alt="The Perfect Blend"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/docs/events/perfect-blend/overview.html" target="_blank" rel="referrer" title="The Perfect Blend">The Perfect Blend</a>
+                    </p>
+                    <p class="is-size-6">Discover how Adobe DX products integrate to streamline workflows, boost efficiency, and deliver smarter business outcomes with live demos and Q&A.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/docs/events/perfect-blend/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">View recordings</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Skill Builder">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
@@ -719,29 +770,6 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
                     <p class="is-size-6">The Wake Up with Workfront series showcases project management and workflow best practices for all skill levels, featuring actionable strategies, live demonstrations of Workfront's key features, and a concluding Q&A session.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">View recordings</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Workfront">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html" title="Workfront" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png" alt="Workfront"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html" target="_blank" rel="referrer" title="Workfront">Workfront</a>
-                    </p>
-                    <p class="is-size-6">A library of recorded Workfront events where experts and peers share thoughts on how to use Workfront.</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">View recordings</span>
                 </a>
             </div>
