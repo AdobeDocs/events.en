@@ -7,7 +7,7 @@ feature: Basics
 event-cta-url-live: https://youtube.com/live/kiJfaedHSVw
 event-start-time: 2025-10-16 09:00-7
 event-guests: Doug Moore, Kari Olson, Caitlin Baunach
-
+exl-id: 7d497f07-0dfd-4501-8fc2-bbac213603ec
 ---
 # Accelerate B2B Growth with Actionable Insights - Unlock the Power of Customer Journey Analytics B2B Edition
 
@@ -20,5 +20,3 @@ Whether you're focused on optimizing customer experiences, expanding your sales 
 > ![Show banner](../assets/exl-live-episode-10-16-25-web-banner.png)
 
 [Set a reminder for the show!](https://youtube.com/live/kiJfaedHSVw)
-
-
