@@ -15,9 +15,9 @@ jira: KT-19286
 
 This webinar will give an in-depth understanding of how the Adobe Experience Platform Identity Service works to equip digital marketing managers with the knowledge to devise segmentation and activation scenarios. By understanding exactly how multi-device and other use cases work, realistic real-world solutions are possible.
 
-- Greater understanding of the nature/limitations of profile merge. This will allow a wider group of stakeholders to devise segmentation and activation scenarios. 
-- First-line identification of possible profile collapse problems.
-- Identity Service vs Real-time Customer profile.
+* Greater understanding of the nature/limitations of profile merge. This will allow a wider group of stakeholders to devise segmentation and activation scenarios. 
+* First-line identification of possible profile collapse problems.
+* Identity Service vs Real-time Customer profile.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475214/?learn=on&enablevpops)
 
