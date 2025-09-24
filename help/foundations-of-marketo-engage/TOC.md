@@ -9,5 +9,7 @@ solution: Marketo Engage
 
 + [Foundations of Marketo Engage Webinars](overview.md)
 + 2025 {#2025}
+  + [Create Your Nurture Recipe](2025/nurture-recipe.md)
   + [Programs, Campaigns & Beyond](2025/programs-campaigns.md)
   + [Powering Campaigns with Marketo Personalization](2025/campaigns-with-marketo-personalization.md)
+  + [Score Smarter, Not Harder](2025/scoring.md)

@@ -36,6 +36,7 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
     + [AI - Beyond the Basics](2025/ai-beyond-basics.md)
     + [Best Practices and Insights for Modeling XDM Schemas](2025/model-xdm-schemas.md)
     + [Data Distiller 101](2025/data-distiller-101.md)
+    + [Identity Graph Use Cases and Troubleshooting](2025/identity-graph.md)
     + [Winning Executive Sponsorship for AEP Projects](2025/exec-sponsorship-aep-projects.md)
   + GenStudio for Performance Marketing {#genstudio2025}
     + [Content Supply Chain and Adobe GenStudio](2025/csc-gen-studio.md)
