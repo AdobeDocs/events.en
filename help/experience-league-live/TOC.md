@@ -15,6 +15,7 @@ doc-type: live event
 
 + [Overview](overview.md)
 + Episodes {#episodes}
+  + [EP. 52: Adobe Experience Platform Agent Orchestrator](episodes/exl-live-episode-10-22-25.md)
   + [EP. 51: Unlock the Power of Customer Journey Analytics B2B Edition](episodes/exl-live-episode-10-16-25.md)
   + [EP. 50: Expand your mobile reach with RCS and WhatsApp in Journey Optimizer](episodes/exl-live-episode-09-30-25.md)
   + [EP. 49: Fueling Personalized Content in Journey Optimizer with AEM Content Fragments and Dynamic Media](episodes/exl-live-episode-07-31-25.md)
