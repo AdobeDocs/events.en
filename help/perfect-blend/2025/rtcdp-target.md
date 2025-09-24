@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2965
 last-substantial-update: 2025-09-23
 jira: KT-19277
+exl-id: 075c3491-f09e-4fed-a621-77324af1b397
 ---
-
 # Real-Time Customer Data Platform, Target, & Friends
 
 Join Adobe's Senior Solutions Consultant, Joshua Kimball, as he overviews how RTCDP can help unify cross-channel data into real-time account and customer profiles that are ready for activation in Adobe Target within milliseconds. 

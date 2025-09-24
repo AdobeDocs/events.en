@@ -9,8 +9,8 @@ doc-type: Event
 duration: 3744
 last-substantial-update: 2025-09-23
 jira: KT-19279
+exl-id: 74b6cd7e-b523-45ea-be1a-31214f6b57cb
 ---
-
 # Improve Your Data Reporting & Visualization with Customer Journey Analytics
 
 Watch for an in-depth session on how Customer Journey Analytics (CJA) can immediately boost your cross-channel data analysis and reporting. Whether you’re using Adobe Analytics, Adobe Target, or Adobe Journey Optimizer (AJO), this session will show you how CJA enables a new level of reporting and decision making with enhanced insights. 
