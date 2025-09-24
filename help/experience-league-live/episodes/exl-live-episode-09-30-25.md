@@ -9,11 +9,11 @@ event-start-time: 2025-09-30 09:00-7
 event-guests: Sandra Hausmann, Travis Jordan, Nikhil Sharma
 exl-id: 963b69d7-8ffa-4bb4-9b1b-980d6d94821f
 ---
-# Fueling Personalized Content in Journey Optimizer with AEM Content Fragments and Dynamic Media
+# Expand your mobile reach with RCS and WhatsApp in Journey Optimizer
 
 In this Experience League Live show, Travis Jordan andn Nikhil Sharma will showcase how Adobe Journey Optimizer has recently expanded mobile engagement with powerful new channel additions and functionality, including WhatsApp, RCS, and Custom SMS Provider. 
 
-Learn how you can deliver rich, personalized mobile experiences that go beyond plain text, featuring features like interactive buttons, carousels, quick replies, and more—all orchestrated directly within Journey Optimizer with these new channels. We’ll walk through the advantages and differences between RCS and WhatsApp, go through how to set-up these new channels, including API credentials and webhooks, and how you can incorporate these channels into your existing omnichannel engagement strategy. 
+Learn how you can deliver rich, personalized mobile experiences that go beyond plain text, featuring features like interactive buttons, carousels, quick replies, and more - all orchestrated directly within Journey Optimizer with these new channels. We'll walk through the advantages and differences between RCS and WhatsApp, go through how to set-up these new channels, including API credentials and webhooks, and how you can incorporate these channels into your existing omni-channel engagement strategy. 
 
 > ![Show banner](../assets/30Sept2025_WebBanner.png)
 

@@ -22,6 +22,34 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-09-30-25.md">
               <img alt="Experience League LIVE 30 September 2025" src="../experience-league-live/assets/30Sept2025_WebBanner.png">
             </a>
+            <div>
+              <a href="episodes/exl-live-episode-09-30-25.md">
+                <strong>Expand your mobile reach with RCS and WhatsApp in Journey Optimizer</strong>
+              </a>
+              <br/><em>with Sandra Hausmann, Travis Jordan, and Nikhil Sharma</em>
+              <br/><em>Sept 30, 2025</em>
+            </div>
+        </td>
+        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-16-25.md">
+              <img alt="Experience League LIVE 16 October 2025" src="assets/exl-live-episode-10-16-25-web-banner.png">
+            </a>
+            <div>
+              <a href="episodes/exl-live-episode-10-16-25.md">
+                <strong>Unlock the Power of Customer Journey Analytics B2B Edition</strong>
+              </a>
+              <br/><em>with Doug Moore, Kari Olson, Caitlin Baunach</em>
+              <br/><em>Oct 16, 2025</em>
+            </div>
+        </td>
+        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-22-25.md">
+              <img alt="Experience League LIVE 22 October 2025" src="episodes/assets/WebBanner-Oct22-2025.jpg">
+            </a>
+            <div>
+              <a href="episodes/exl-live-episode-10-22-25.md">
+                <strong>Next-Gen Customer Experiences & Efficiency with Adobe Experience Platform Agent Orchestrator</strong>
+              </a>
+              <br/><em>with Daniel Wright, Namita Krishnan, and Huong Vu</em>
+              <br/><em>Oct 22, 2025</em>
             </div>
         </td>
     </tr>
