@@ -3,7 +3,7 @@ title:  The Perfect Blend
 description: Discover how Adobe DX products integrate to streamline workflows, boost efficiency, and deliver smarter business outcomes with live demos and Q&A.
 ---
 
-#  The Perfect Blend {#the-perfect-blend}
+# The Perfect Blend {#the-perfect-blend}
 
 The Perfect Blend series focuses on a rotating group of two DX products, highlighting their integration points. Adobe experts discuss how these 2 products work together to create a more efficient, streamlined approach for any business. The presentation is coupled with a live demonstration of the two products collaborating and concludes with a live Q&A session.
 
