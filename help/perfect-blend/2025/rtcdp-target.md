@@ -1,7 +1,7 @@
 ---
-title: Real-time CDP, Target, & Friends
+title: Real-Time Customer Data Platform, Target, & Friends
 description: Learn how Adobe Real-Time CDP unifies cross-channel data into actionable customer profiles that activate instantly in Adobe Target. See how connected data and AI-driven segmentation enable personalized journeys, testing, and automation that drive engagement, conversions, and loyalty. Includes a live demo of RTCDP and Target in action.
-solution: Real-time CDP, Target
+solution: Real-Time Customer Data Platform, Target
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,7 +10,7 @@ last-substantial-update: 2025-09-23
 jira: KT-19277
 ---
 
-# Real-time CDP, Target, & Friends
+# Real-Time Customer Data Platform, Target, & Friends
 
 Join Adobe's Senior Solutions Consultant, Joshua Kimball, as he overviews how RTCDP can help unify cross-channel data into real-time account and customer profiles that are ready for activation in Adobe Target within milliseconds. 
 

@@ -11,4 +11,4 @@ solution: Marketo Engage
 + 2025 {#2025}
   + [Collaboration with AEM and Workfront](2025/aem-and-workfront.md)
   + [Data Reporting & Visualization](2025/data-reporting-and-visualization.md)
-  + [Real-time CDP, Target, & Friends](2025/rtcdp-target.md)
+  + [Real-Time Customer Data Platform, Target, & Friends](2025/rtcdp-target.md)
