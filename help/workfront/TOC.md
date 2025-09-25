@@ -46,10 +46,6 @@ solution: Workfront
       + [Project Templates](workshop-rewind/workflow/project-templates.md)
       + [Unlock the Power of Workfront Data Connect](workshop-rewind/workflow/data-connect.md)
 
-<!--  + Planning {#planning}
-  + Integrations {#integrations}
--->
-
 + Classics {#classics}
   + Administration {#administration}
     + [Audit Trails & Compliance](user-groups/audit-trails-and-compliance.md)
@@ -86,3 +82,7 @@ solution: Workfront
 
 
 
+
+<!--  + Planning {#planning}
+  + Integrations {#integrations}
+-->
