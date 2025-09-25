@@ -42,6 +42,9 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
     + [Effective Security Strategies in Cloud Service](experience-manager/july2023/effective-security-strategies-in-cloud-service.md) 
   + May {#may2023} 
     + [Mastering Content & Experience Fragments](experience-manager/may2023/mastering-content-and-experience-fragments.md)
++ GenAI {#genai}
+  + September 2025 {#sept2025}
+    + [Scale AI Adoption - A Playbook for Approvals](genai/sept2025/scale-ai-adoption-a-playbook-for-approvals.md)
 + Marketo {#marketo}
   + May 2025 {#may2025}
     + [Discover the Impact of Interactive Webinars](marketo/may2025/interactive-webinars.md)
