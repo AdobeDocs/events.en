@@ -133,7 +133,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
 * https://experienceleague.adobe.com/en/docs/events/the-perfect-blend/overview
   {title = The Perfect Blend}  
   {description = Discover how Adobe DX products integrate to streamline workflows, boost efficiency, and deliver smarter business outcomes with live demos and Q&A.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-the-perfect-blend.png}
   {cta  = View recordings}  
 * https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html
   {title = Skill Builder}  
@@ -688,7 +688,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/events/the-perfect-blend/overview" title="The Perfect Blend" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png" alt="The Perfect Blend"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-the-perfect-blend.png" alt="The Perfect Blend"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
