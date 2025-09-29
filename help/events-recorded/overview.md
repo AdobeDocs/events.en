@@ -130,7 +130,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
   {description = The Adobe Commerce Intelligence (aka MBI) webinar series is a periodic event for Adobe Commerce Intelligence customers. The webinars cover a wide range of topics and best practices for using Adobe Commerce Intelligence to its fullest potential.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-intelligence-webinars.png}
   {cta  = View recordings}
-* https://experienceleague.adobe.com/docs/events/perfect-blend/overview.html
+* https://experienceleague.adobe.com/en/docs/events/the-perfect-blend/overview
   {title = The Perfect Blend}  
   {description = Discover how Adobe DX products integrate to streamline workflows, boost efficiency, and deliver smarter business outcomes with live demos and Q&A.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png}
@@ -687,7 +687,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/perfect-blend/overview.html" title="The Perfect Blend" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/events/the-perfect-blend/overview" title="The Perfect Blend" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png" alt="The Perfect Blend"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -696,11 +696,11 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/perfect-blend/overview.html" target="_blank" rel="referrer" title="The Perfect Blend">The Perfect Blend</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/events/the-perfect-blend/overview" target="_blank" rel="referrer" title="The Perfect Blend">The Perfect Blend</a>
                     </p>
                     <p class="is-size-6">Discover how Adobe DX products integrate to streamline workflows, boost efficiency, and deliver smarter business outcomes with live demos and Q&A.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/perfect-blend/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/events/the-perfect-blend/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">View recordings</span>
                 </a>
             </div>
