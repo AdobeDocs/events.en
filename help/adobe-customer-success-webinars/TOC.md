@@ -9,6 +9,7 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
 + [Adobe Customer Success Webinars](overview.md)
 + 2025 {#2025}
   + Commerce {#commerce2025}
+    + [Enriching Adobe Commerce with Adobe Experience Platform](2025/enriching-adobe-commerce.md)
     + [Transforming B2B & B2B2C Commerce](2025/transforming-b2b-commerce.md)
   + Customer Journey Analytics {#cja2025}
     + [Building Executive Sponsorship](2025/cja-success.md)
@@ -33,6 +34,7 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
     + [Personalizing digital communications](2025/personalize-digital-communications.md)
     + [Universal Editor Overview](2025/modern-aem-authoring.md)
   + Experience Platform {#aep2025}
+    + [AI Agents](2025/ai-agents.md)
     + [AI - Beyond the Basics](2025/ai-beyond-basics.md)
     + [Best Practices and Insights for Modeling XDM Schemas](2025/model-xdm-schemas.md)
     + [Data Distiller 101](2025/data-distiller-101.md)
