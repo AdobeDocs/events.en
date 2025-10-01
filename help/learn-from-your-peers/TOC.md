@@ -45,9 +45,6 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
 + GenAI {#genai}
   + September 2025 {#sept2025}
     + [Scale AI Adoption - A Playbook for Approvals](genai/sept2025/scale-ai-adoption-a-playbook-for-approvals.md)
-+ Experience Platform {#experience-platform}
-  + 2025 {#2025}
-    + [AI Agents in AEP](platform/ai-agents.md)
 + Marketo {#marketo}
   + May 2025 {#may2025}
     + [Discover the Impact of Interactive Webinars](marketo/may2025/interactive-webinars.md)

@@ -1,7 +1,6 @@
 ---
 title: AI Agents in AEP - An Overview
 description: Learn how AI Agents in Adobe Experience Platform drive efficiency, support real use cases, and deliver applied value. Explore vision, roadmap, and how to start.
-feature: AI Assistant
 topic: Artificial Intelligence
 solution: Experience Platform
 role: Admin, Developer, Leader, User
