@@ -9,6 +9,7 @@ solution: Experience Manager
 
 + [Overview](overview.md)
 + 2025 {#gems2025}
+  + [Mastering Cache Efficiency for Optimal Page Performance](gems2025/mastering-cache-efficiency-for-optimal-page-performance.md)
   + [Maximize the impact of your web experience with AEM Sites Optimizer](gems2025/maximize-impact-with-sites-optimizer.md)
   + [Getting started with Adobe Managed CDN](gems2025/getting-started-adobe-managed-cdn.md)
 + 2024 {#gems2024}

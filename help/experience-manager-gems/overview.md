@@ -30,6 +30,7 @@ The webinars are conducted regularly.  Important tips,
 
 <!-- CARDS
 
+* gems2025/mastering-cache-efficiency-for-optimal-page-performance.md
 * gems2025/maximize-impact-with-sites-optimizer.md
 * gems2025/getting-started-adobe-managed-cdn.md
 
