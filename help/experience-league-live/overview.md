@@ -19,17 +19,6 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 
 <table>
     <tr>
-        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-09-30-25.md">
-              <img alt="Experience League LIVE 30 September 2025" src="../experience-league-live/assets/30Sept2025_WebBanner.png">
-            </a>
-            <div>
-              <a href="episodes/exl-live-episode-09-30-25.md">
-                <strong>Expand your mobile reach with RCS and WhatsApp in Journey Optimizer</strong>
-              </a>
-              <br/><em>with Sandra Hausmann, Travis Jordan, and Nikhil Sharma</em>
-              <br/><em>Sept 30, 2025</em>
-            </div>
-        </td>
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-16-25.md">
               <img alt="Experience League LIVE 16 October 2025" src="assets/exl-live-episode-10-16-25-web-banner.png">
             </a>
