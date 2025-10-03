@@ -11,9 +11,9 @@ exl-id: 963b69d7-8ffa-4bb4-9b1b-980d6d94821f
 ---
 # Expand your mobile reach with RCS and WhatsApp in Journey Optimizer
 
-Travis Jordan andn Nikhil Sharma showed how Adobe Journey Optimizer has recently expanded mobile engagement with powerful new channel additions and functionality, including WhatsApp, RCS, and Custom SMS Provider. 
+In this show Travis Jordan and Nikhil Sharma demonstrate how Adobe Journey Optimizer has recently expanded mobile engagement with powerful new channel additions and functionality, including WhatsApp, RCS, and Custom SMS Provider. 
 
-They showed how you can deliver rich, personalized mobile experiences that go beyond plain text, featuring interactive buttons, carousels, quick replies, and more - all orchestrated directly within Journey Optimizer with these new channels. They walked through the advantages and differences between RCS and WhatsApp, went through how to set-up these new channels, including API credentials and webhooks, and showed how you can incorporate these channels into your existing omni-channel engagement strategy. 
+They show how you can deliver rich, personalized mobile experiences that go beyond plain text, featuring interactive buttons, carousels, quick replies, and more - all orchestrated directly within Journey Optimizer with these new channels. They walk through the advantages and differences between RCS and WhatsApp, how to set-up these new channels, including API credentials and webhooks, and show how you can incorporate these channels into your existing omni-channel engagement strategy. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475370/?quality=12&learn=on)
 
