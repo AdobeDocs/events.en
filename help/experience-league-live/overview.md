@@ -45,7 +45,7 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
               <img alt="Experience League LIVE 30 October 2025" src="assets/exl-live-episode-10-30-25-web-banner.png">
             </a>
             <div>
-              <a href="episodes/exl-live-episode-10-22-25.md">
+              <a href="episodes/exl-live-episode-10-30-25.md">
                 <strong>The Next Era of Experimentation: How Agentic AI is Fueling Smarter Testing and Growth</strong>
               </a>
               <br/><em>with Sandra Hausmann, Brent Kostak, Justin Grover and David Arbour</em>
