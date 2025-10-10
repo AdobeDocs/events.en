@@ -31,13 +31,13 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
             </div>
         </td>
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-22-25.md">
-              <img alt="Experience League LIVE 22 October 2025" src="episodes/assets/WebBanner-Oct22-2025.jpg">
+              <img alt="Experience League LIVE 22 October 2025" src="episodes/assets/WebBanner-v2-Oct22-2025.jpg">
             </a>
             <div>
               <a href="episodes/exl-live-episode-10-22-25.md">
                 <strong>Next-Gen Customer Experiences & Efficiency with Adobe Experience Platform Agent Orchestrator</strong>
               </a>
-              <br/><em>with Daniel Wright, Namita Krishnan, and Huong Vu</em>
+              <br/><em>with Daniel Wright, Namita Krishnan, Huong Vu, and Cole Connelly</em>
               <br/><em>Oct 22, 2025</em>
             </div>
         </td>
