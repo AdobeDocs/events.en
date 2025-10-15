@@ -19,6 +19,6 @@ In this session, join the Product team behind Experience Platform Agent Orchestr
 * How Agent Orchestrator orchestrates expert agents to deliver measurable results and support end-to-end use cases
 * How Agent Orchestrator provides the trust, transparency, security, and guardrails that brands require to confidently adopt AI solutions
 
-> ![Show banner](assets/WebBanner-v2-Oct22-2025.jpg)
+[![ExL LIVE Jan 17 2024](assets/WebBanner-v2-Oct22-2025.jpg)](https://engage.adobe.com/ExpLeagueLive-251022.html)
 
-[Set a reminder for the show!](https://youtube.com/live/WS_DzRmYNzw)
+[Register Now!](https://engage.adobe.com/ExpLeagueLive-251022.html)
