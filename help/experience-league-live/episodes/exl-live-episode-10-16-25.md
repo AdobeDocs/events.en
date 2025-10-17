@@ -17,6 +17,6 @@ In this hands-on Experience League Live session, you'll gain access to a live de
 
 Whether you're focused on optimizing customer experiences, expanding your sales pipeline, or driving measurable growth across the buyer's journey, this session will equip you with the tools and strategies to make data work harder for your business.
 
-> ![Show banner](../assets/exl-live-episode-10-16-25-web-banner.png)
+[![ExL LIVE Oct 16 2025](../assets/exl-live-episode-10-16-25-web-banner.png)](https://engage.adobe.com/ExpLeagueLive-251016.html)
 
-[Set a reminder for the show!](https://youtube.com/live/kiJfaedHSVw)
+[REGISTER NOW!](https://engage.adobe.com/ExpLeagueLive-251016.html)
