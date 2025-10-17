@@ -19,7 +19,7 @@ Whether you're focused on optimizing customer experiences, expanding your sales 
 
 >[!TIP]
 >
-> Try it yourself -  [Sign up to access a demo environment](https://business.adobe.com/resources/customer-journey-analytics-b2b-edition-sandbox.html).
+> Try it yourself - [Sign up to access a demo environment](https://business.adobe.com/resources/customer-journey-analytics-b2b-edition-sandbox.html).
 > You can continue the conversation and ask the Adobe experts questions in the **[community forum](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-unlock-the-power-of-customer-journey/td-p/780513#)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476010/?learn=on&enablevpops)
