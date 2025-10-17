@@ -17,6 +17,9 @@ In this hands-on Experience League Live session, you'll gain access to a live de
 
 Whether you're focused on optimizing customer experiences, expanding your sales pipeline, or driving measurable growth across the buyer's journey, this session will equip you with the tools and strategies to make data work harder for your business.
 
-[![ExL LIVE Oct 16 2025](../assets/exl-live-episode-10-16-25-web-banner.png)](https://engage.adobe.com/ExpLeagueLive-251016.html)
+>[!TIP]
+>
+> Try it yourself - [Sign up to access a demo environment](https://business.adobe.com/resources/customer-journey-analytics-b2b-edition-sandbox.html).
+> You can continue the conversation and ask the Adobe experts questions in the **[community forum](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-unlock-the-power-of-customer-journey/td-p/780513#)**.
 
-[REGISTER NOW!](https://engage.adobe.com/ExpLeagueLive-251016.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3476010/?learn=on&enablevpops)
