@@ -72,6 +72,8 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
   + 2025 {#2025}
     + February {#february2025}
       + [Articulating Impact - How to Measure and Share Workfront Value](workfront/2025/how-to-measure-and-share-workfront-value.md)
+    + October {#october2025}
+      + [Simplify Resource Planning with Automation](workfront/2025/simplify-resource-planning-with-automation.md)
   + 2024 {#2024}
     + April {#april2024}
       + [Staffing your Workfront system admin practice](workfront/2024/04/staffing-your-workfront-system-admin-practice.md)
