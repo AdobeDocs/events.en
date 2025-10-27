@@ -20,3 +20,7 @@ In this session, the Product team behind Experience Platform Agent Orchestrator 
 * How Agent Orchestrator provides the trust, transparency, security, and guardrails that brands require to confidently adopt AI solutions
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476153/?learn=on&enablevpops)
+
+Join us for the [Adobe Journey Optimizer Community Ask Me Anything!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252) on Wednesday, November 12th from 8am - 9am PT. We'll be joined by Adobe Journey Optimizer experts: Cole Connelly (@coleconnelly) - Sr Product Manager, Huong Vu (@HuongVu) - Product Marketing Manager, Namita Krishnan (@Namita_Krishnan) - Product Manager, Brent Kostak (@bkostak) - Sr Product Marketing Manager, David Arbour (@user03474) - Sr Research Scientist, Justin Grover (@justin_grover) - Principal Product Manager, Sandra Hausmann (@SHausmann) - Sr Technical Marketing Engineer and Daniel Wright (@dwright) - Sr Technical Marketing Engineer. 
+
+We'll be answering your questions during this live chat.
