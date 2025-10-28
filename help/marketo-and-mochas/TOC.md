@@ -16,6 +16,7 @@ solution: Marketo Engage
 
 + [Overview](overview.md)
 + 2025 {#2025}
+  + [Harnessing GenAI](2025/harness-gen-ai.md)
   + [Inheriting a New or Current Bizible Instance](2025/inheriting-bizible-instance.md)
   + [Auditing an Inherited or Current Instance](2025/auditing-inherited-instance.md)
   + [5 Marketo Features to Know](2025/5-features-to-know.md)

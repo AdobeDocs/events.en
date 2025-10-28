@@ -46,6 +46,8 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
   + September 2025 {#sept2025}
     + [Scale AI Adoption - A Playbook for Approvals](genai/sept2025/scale-ai-adoption-a-playbook-for-approvals.md)
 + Marketo {#marketo}
+  + October 2025 {#oct2025}
+    + [Building a data hygiene strategy](marketo/oct2025/data-hygiene-strategy.md)
   + May 2025 {#may2025}
     + [Discover the Impact of Interactive Webinars](marketo/may2025/interactive-webinars.md)
   + November 2024 {#nov2024}

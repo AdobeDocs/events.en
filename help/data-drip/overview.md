@@ -14,6 +14,7 @@ The Data Drip series features Adobe experts and welcomes existing Adobe Analytic
 
 * 2025/adobe-analytics-basics-beyond.md
 * 2025/marketing-channel-attribution-modeling.md
+* 2025/migrating-to-web-sdk.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -23,7 +24,7 @@ The Data Drip series features Adobe experts and welcomes existing Adobe Analytic
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/adobe-analytics-basics-beyond.md" title="Adobe Analytics Basics and Beyond" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443028/?format=jpeg&nocache=1737763602579" alt="Adobe Analytics Basics and Beyond"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443028/?format=jpeg&nocache=1761687728532" alt="Adobe Analytics Basics and Beyond"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -33,7 +34,7 @@ The Data Drip series features Adobe experts and welcomes existing Adobe Analytic
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2025/adobe-analytics-basics-beyond.md" target="_blank" rel="referrer" title="Adobe Analytics Basics and Beyond">Adobe Analytics Basics and Beyond</a>
                     </p>
-                    <p class="is-size-6">Maximize Efficiency and Value with Adobe Analytics - Essential Best Practices and Reporting Features</p>
+                    <p class="is-size-6">Join Taylor Walker and Vishnu Pillai's webinar to master Adobe Analytics, optimize workspaces, export data, and integrate tools. Watch now for expert insights</p>
                 </div>
                 <a href="2025/adobe-analytics-basics-beyond.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch event</span>
@@ -46,7 +47,7 @@ The Data Drip series features Adobe experts and welcomes existing Adobe Analytic
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/marketing-channel-attribution-modeling.md" title="Marketing Channels & Attribution Modeling" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443020/?format=jpeg&nocache=1737763602565" alt="Marketing Channels & Attribution Modeling"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443020/?format=jpeg&nocache=1761687728525" alt="Marketing Channels & Attribution Modeling"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
