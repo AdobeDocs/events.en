@@ -18,4 +18,5 @@ doc-type: live event
 + 2025 {#2025}
   + [Adobe Analytics Basics and Beyond](2025/adobe-analytics-basics-beyond.md)
   + [Marketing Channels & Attribution Modeling](2025/marketing-channel-attribution-modeling.md)
+  + [Migrating from an Old System to Web SDK](2025/migrating-to-web-sdk.md)
 

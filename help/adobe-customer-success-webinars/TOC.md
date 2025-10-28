@@ -45,6 +45,7 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
     + [GenStudio for Performance Marketing Operating Model](2025/genstudio-for-performance-marketing-operating-model.md)
   + Journey Optimizer {#ajo2025}
     + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
+    + [Leveraging a NorthStar Architecture](2025/northstar-architecture-enable-adobe-journey-optimzier.md)
     + [Roadmap to Value with Adobe Journey Optimizer](2025/ajo-roadmap-to-value.md)
   + Multi-solution {#multisolution2025}
     + [Content Supply Chain Basics](2025/content-supply-chain-basics.md)
