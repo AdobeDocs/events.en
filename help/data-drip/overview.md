@@ -24,7 +24,7 @@ The Data Drip series features Adobe experts and welcomes existing Adobe Analytic
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/adobe-analytics-basics-beyond.md" title="Adobe Analytics Basics and Beyond" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443028/?format=jpeg&nocache=1761687728532" alt="Adobe Analytics Basics and Beyond"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443028/?format=jpeg&nocache=1761764021858" alt="Adobe Analytics Basics and Beyond"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -47,7 +47,7 @@ The Data Drip series features Adobe experts and welcomes existing Adobe Analytic
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/marketing-channel-attribution-modeling.md" title="Marketing Channels & Attribution Modeling" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443020/?format=jpeg&nocache=1761687728525" alt="Marketing Channels & Attribution Modeling"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443020/?format=jpeg&nocache=1761764021868" alt="Marketing Channels & Attribution Modeling"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -60,6 +60,29 @@ The Data Drip series features Adobe experts and welcomes existing Adobe Analytic
                     <p class="is-size-6">Unlock the Power of Adobe Analytics Set Up Marketing Channels and Leverage Attribution Modeling with Expert Guidance</p>
                 </div>
                 <a href="2025/marketing-channel-attribution-modeling.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch event</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Data Drip - Benefits of Migrating from an Old System to Web SDK">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/migrating-to-web-sdk.md" title="Data Drip - Benefits of Migrating from an Old System to Web SDK" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476271/?format=jpeg&nocache=1761764021878" alt="Data Drip - Benefits of Migrating from an Old System to Web SDK"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/migrating-to-web-sdk.md" target="_blank" rel="referrer" title="Data Drip - Benefits of Migrating from an Old System to Web SDK">Data Drip - Benefits of Migrating from an Old System to Web SDK</a>
+                    </p>
+                    <p class="is-size-6">Learn how Adobe Web SDK streamlines implementation, boosts performance, and cuts costs with smarter tracking and simplified integrations via the Edge Network.</p>
+                </div>
+                <a href="2025/migrating-to-web-sdk.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch event</span>
                 </a>
             </div>
