@@ -29,3 +29,8 @@ Whether you're a growth marketer, product manager, or optimization strategist, s
 Join us for the [Adobe Journey Optimizer Community Ask Me Anything!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252) on Wednesday, November 12th from 8am - 9am PT. We'll be joined by Adobe Journey Optimizer experts: Cole Connelly (@coleconnelly) - Sr Product Manager, Huong Vu (@HuongVu) - Product Marketing Manager, Namita Krishnan (@Namita_Krishnan) - Product Manager, Brent Kostak (@bkostak) - Sr Product Marketing Manager, David Arbour (@user03474) - Sr Research Scientist, Justin Grover (@justin_grover) - Principal Product Manager, Sandra Hausmann (@SHausmann) - Sr Technical Marketing Engineer and Daniel Wright (@dwright) - Sr Technical Marketing Engineer. 
 
 We'll be answering your questions during this live chat.
+
+## Additional resources
+
+* [Inside Adobe’s AI experimentation accelerator - Podcast](https://conversion.com/podcast/the-conversion-podcast-adobe-ai/)
+  
