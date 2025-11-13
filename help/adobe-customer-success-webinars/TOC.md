@@ -21,8 +21,10 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
     + [Smarter Marketing Starts Here - Integrating Google & Adobe](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
   + Experience Manager {#aem2025}
     + [AEM's Emerging Technology](2025/personalized-experiences-aem.md)
+    + [Essential Tips and Best Practices for AEM Lucene Search](2025/aem-lucene-search.md)
     + [AEM with GenAI](2025/aem-genai.md)
     + [AEM and Workfront integration](2025/aem-workfront-integration.md)
+    + [AI Assistant in AEM](2025/ai-assistant-in-aem.md)
     + [Building Effective Web Pages](2025/build-effective-web-pages.md)
     + [Driving customer engagement](2025/driving-customer-engagement.md)
     + [Enrollment Journey with AEM Forms](2025/payer-enrollment-journey.md)
@@ -44,6 +46,9 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
     + [Content Supply Chain and Adobe GenStudio](2025/csc-gen-studio.md)
     + [GenStudio for Performance Marketing Operating Model](2025/genstudio-for-performance-marketing-operating-model.md)
   + Journey Optimizer {#ajo2025}
+    + [Building Executive Sponsorship](2025/build-executive-sponsorship-ajo.md)
+    + [Change Management Strategies for Adoption](2025/change-management-strategies.md)
+    + [Designing an Operating Model](2025/design-an-operating-model-ajo.md)
     + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
     + [Leveraging a NorthStar Architecture](2025/northstar-architecture-enable-adobe-journey-optimzier.md)
     + [Roadmap to Value with Adobe Journey Optimizer](2025/ajo-roadmap-to-value.md)
