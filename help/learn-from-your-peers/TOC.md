@@ -27,7 +27,8 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
     + March {#mar2022}
       + [Telling Impactful Stories with Data](analytics/mar2022/stories-with-data.md)
 + Commerce {#commerce}
-  + February {#feb2024}
+  + 2025 {#2025}
+    + [Adobe Commerce and App Builder Essentials - From Basics to Impact](commerce/2025/commerce-and-app-builder.md)
     + [Communication, Requirements, and Testing in Agile SDLC](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
   + August {#aug2025}
