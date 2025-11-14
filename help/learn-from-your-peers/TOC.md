@@ -31,6 +31,8 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
     + [Adobe Commerce and App Builder Essentials - From Basics to Impact](commerce/2025/commerce-and-app-builder.md)
     + [Communication, Requirements, and Testing in Agile SDLC](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
+  + November {#nov2025}
+    + [Metadata Mayhem to Mastery](experience-manager/nov2025/metadata-mayhem.md)
   + August {#aug2025}
     + [AEM Smart Tags](experience-manager/aug2025/smart-tags.md)
   + July {#jul2024}
