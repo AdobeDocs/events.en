@@ -143,7 +143,6 @@ user-guide-description: Collection of recordings from the Adobe Developer Live C
     + [Adobe [!DNL Analytics] APIs you need to know in 2021](2021/october/analytics-api.md)
     + [Adobe Client Data Layer](2021/october/adobe-client-data-layer.md)
     + [Adobe Commerce and the Community Contribution Model](2021/october/community-contribution-model.md)
-    + [Adobe Commerce Live Search Results](2021/october/adobe-commerce-search.md)
     + [Adobe Exchange - 3rd party developer marketplace](2021/october/app-builder-exchange.md)
     + [Adobe I/O Open Source projects and contributions](2021/october/app-builder-adobeio.md)
     + [Adobe I/O Powered Experience Manager Assets Export](2021/october/app-builder-asset-export.md)
