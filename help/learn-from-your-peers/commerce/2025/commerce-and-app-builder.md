@@ -26,3 +26,7 @@ Join Adobe Commerce Champion Alex Lyzun for an educational session exploring the
 
 Whether you are just starting out with App Builder or are looking to understand the strategic value of extensibility, this webinar is designed to equip you with a clear, accessible foundation to help you unlock new possibilities with Adobe Commerce!
 
+## Additional resources
+
+* [Post-Webinar Office Hours](https://commerce-augs.adobe.com/events/details/adobe-commerce-adobe-commerce-champion-office-hours-presents-adobe-commerce-amp-app-builder-essentials-from-basics-to-impact-webinar-office-hours/) with Alex Lyzun
+* [Adobe Commerce User Groups](https://commerce-augs.adobe.com/)
