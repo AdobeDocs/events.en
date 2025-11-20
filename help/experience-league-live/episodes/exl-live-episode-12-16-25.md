@@ -1,12 +1,12 @@
 ---
 title: Simplify troubleshooting and support case management with Product Support Agent
 description: Powered by Adobe Experience Platform Agent Orchestrator, Product Support Agent is designed to these teams in their Adobe Experience Platform applications by providing an interactive way to troubleshoot, diagnose, and escalate issues, enabling faster resolutions and greater operational efficiency.  
-kt: KT-18493
-solution: Journey Optimizer, Target
-feature: AI Assistant, Experimentation
-event-cta-url-live: https://youtube.com/live/w8eWsKuwyzI
-event-start-time: 2025-10-30 08:30-8
-event-guests: Sandra Hausmann, Brent Kostak, Justin Grover, David Arbour
+kt: KT-19794
+solution: Experience Platform
+feature: AI Assistant
+event-cta-url-live: https://www.youtube.com/live/MW2Ba7HJNbA
+event-start-time: 2025-12-16 09:00-8
+event-guests: Daniel Wright, Huong Vu, Shreya Anantha Raman
 ---
 
 # Simplify troubleshooting and support case management with Product Support Agent
