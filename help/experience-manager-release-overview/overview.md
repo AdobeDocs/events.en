@@ -39,7 +39,7 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2025/2025-6-0.md" target="_blank" rel="referrer" title="2025.06.0 AEM Release Overview Video">2025.06.0 AEM Release Overview Video</a>
                     </p>
-                    <p class="is-size-6">earn how to add WebVTT captions in Adobe Dynamic Media Classic to improve accessibility, SEO, and global reach for your videos.</p>
+                    <p class="is-size-6">Learn how to add WebVTT captions in Adobe Dynamic Media Classic to improve accessibility, SEO, and global reach for your videos.</p>
                 </div>
                 <a href="2025/2025-6-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
