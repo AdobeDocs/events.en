@@ -25,16 +25,6 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
   {description = Learn from Adobe experts how to master new e-signature workflows in Acrobat Sign.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png}
   {cta  = View recordings}
-* https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html
-  {title = Adobe Campaign Insider Series}
-  {description = Tips &amp; tricks and inspiration for Adobe Campaign customers to help evolve cross-channel marketing strategies, elevate team marketing practitioner skills, and help organizations launch more advanced cross-channel marketing strategies.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-campaign-insider-series.png}
-  {cta  = View recordings}
-* https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html
-  {title = Adobe Content Management Forum}
-  {description = Learn from Adobe experts as they discuss the current and future state of content management strategy, deliverables, challenges, and technical requirements.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-content-management-forum.png}
-  {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html
   {title = Adobe Commerce Product Updates}
   {description = The latest product innovations in Adobe Commerce, presented by the Adobe Commerce product team.}
@@ -44,11 +34,6 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
   {title = Adobe Developers Live}
   {description = Adobe Developers Live brings together Adobe developers and experience builders with diverse backgrounds and a singular purpose - to create incredible end-to-end experiences.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png}
-  {cta  = View recordings}
-* https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html
-  {title = AEM Champion Office Hours}
-  {description = If you are interested in advancing your knowledge and use of Adobe Experience Manager, interacting with Experience Manager thought leaders, and earning exclusive swag - then join the AEM Champion Office Hours User Group today!}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-champions.png}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html
   {title = APAC Adobe Commerce Webinars}
@@ -200,52 +185,6 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Campaign Insider Series">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html" title="Adobe Campaign Insider Series" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-campaign-insider-series.png" alt="Adobe Campaign Insider Series"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html" target="_blank" rel="referrer" title="Adobe Campaign Insider Series">Adobe Campaign Insider Series</a>
-                    </p>
-                    <p class="is-size-6">Tips & tricks and inspiration for Adobe Campaign customers to help evolve cross-channel marketing strategies, elevate team marketing practitioner skills, and help organizations launch more advanced cross-channel marketing strategies.</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">View recordings</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Content Management Forum">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html" title="Adobe Content Management Forum" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-content-management-forum.png" alt="Adobe Content Management Forum"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html" target="_blank" rel="referrer" title="Adobe Content Management Forum">Adobe Content Management Forum</a>
-                    </p>
-                    <p class="is-size-6">Learn from Adobe experts as they discuss the current and future state of content management strategy, deliverables, challenges, and technical requirements.</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">View recordings</span>
-                </a>
-            </div>
-        </div>
-    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Commerce Product Updates">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
@@ -287,29 +226,6 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
                     <p class="is-size-6">Adobe Developers Live brings together Adobe developers and experience builders with diverse backgrounds and a singular purpose - to create incredible end-to-end experiences.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">View recordings</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AEM Champion Office Hours">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html" title="AEM Champion Office Hours" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-champions.png" alt="AEM Champion Office Hours"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html" target="_blank" rel="referrer" title="AEM Champion Office Hours">AEM Champion Office Hours</a>
-                    </p>
-                    <p class="is-size-6">If you are interested in advancing your knowledge and use of Adobe Experience Manager, interacting with Experience Manager thought leaders, and earning exclusive swag - then join the AEM Champion Office Hours User Group today!</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">View recordings</span>
                 </a>
             </div>

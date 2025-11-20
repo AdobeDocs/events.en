@@ -34,7 +34,6 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 </table>    
   
 
-
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
 <div id="recs-overview-body-3"></div>

@@ -9,13 +9,10 @@ user-guide-description: A collection of event recordings forcused on using Adobe
 + [Overview](overview.md)
 + By series {#series}
   + [Acrobat Sign Webinars](https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html)
-  + [Adobe Campaign Insider Series](https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html)
   + [Adobe Commerce Intelligence Webinars](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
   + [Adobe Commerce Product Updates](https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html)
-  + [Adobe Content Management Forum](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
   + [Adobe Customer Success Webinars](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html)
   + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
-  + [AEM Champion Office Hours](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
   + [APAC Commerce Events](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
   + [Behind the Brew](https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html)
   + [Commerce and Coffee](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
@@ -54,7 +51,6 @@ user-guide-description: A collection of event recordings forcused on using Adobe
     + [Skill Builder](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
     + [Skill Exchange](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
   + Adobe Campaign {#ac}
-    + [Adobe Campaign Insider Series](https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html)
     + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
     + [Experience Cloud Tech Sessions](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
     + [Skill Builder](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
@@ -72,9 +68,7 @@ user-guide-description: A collection of event recordings forcused on using Adobe
     + [The Perfect Blend](https://experienceleague.adobe.com/en/docs/events/the-perfect-blend/overview)
     + [Skill Builder](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
   + Adobe Experience Manager {#aem}
-    + [Adobe Content Management Forum](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
     + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
-    + [AEM Champion Office Hours](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
     + [Espressos & Experience Manager](https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html)
     + [Experience Cloud Tech Sessions](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
     + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
