@@ -14,6 +14,7 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
   + Customer Journey Analytics {#cja2025}
     + [Building Executive Sponsorship](2025/cja-success.md)
     + [Change Management Strategies](2025/cja-adoption.md)
+    + [CJA Data Insights Agent](2025/cja-data-insights-agent.md)
     + [Designing an Operating Model for CJA Success](2025/cja-operating-model.md)
     + [Foundational Architecture](2025/cja-vision.md)
     + [Migrating to CJA from Adobe Analytics](2025/analytics-to-cja-migration.md)
