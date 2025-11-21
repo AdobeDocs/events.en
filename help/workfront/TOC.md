@@ -16,19 +16,19 @@ solution: Workfront
   + [24.1 Release](releases/24-1-release-webinar.md)
 + Workshop Rewind {#workshop-rewind}
   + Fusion {#fusion}
-      + [Automating Naming Conventions](workshop-rewind/fusion/automating-naming-conventions.md)
-      + [Navigating Changes for Multi-Select Fields with Ease](workshop-rewind/fusion/mulit-select-fields.md)
-      + [Unlocking True Event Costs](workshop-rewind/fusion/event-costs.md)
+    + [Automating Naming Conventions](workshop-rewind/fusion/automating-naming-conventions.md)
+    + [Navigating Changes for Multi-Select Fields with Ease](workshop-rewind/fusion/mulit-select-fields.md)
+    + [Unlocking True Event Costs](workshop-rewind/fusion/event-costs.md)
   + Planning {#planning}
-      + [Latest in Workfront Planning](workshop-rewind/planning/workfront-planning.md)
-      + [Team-Level Success with Workfront Planning](workshop-rewind/planning/team-success-workfront-planning.md)
-      + [Workfront Planning Release & Roadmap](workshop-rewind/planning/workfront-planning.md)
+    + [Latest in Workfront Planning](workshop-rewind/planning/workfront-planning.md)
+    + [Team-Level Success with Workfront Planning](workshop-rewind/planning/team-success-workfront-planning.md)
+    + [Workfront Planning Release & Roadmap](workshop-rewind/planning/workfront-planning.md)
   + Workflow {#workflow}
-      + [Creative ways of managing resources](classics/creative-ways-of-managing-resources.md)
-      + [Mastering Email Notifications](workshop-rewind/workflow/email-notifications.md)
-      + [Project Templates](workshop-rewind/workflow/project-templates.md)
-      + [Self-Taught to Success](workshop-rewind/workflow/self-taught-to-success.md)
-      + [Unlock the Power of Workfront Data Connect](workshop-rewind/workflow/data-connect.md)
+    + [Creative ways of managing resources](classics/creative-ways-of-managing-resources.md)
+    + [Mastering Email Notifications](workshop-rewind/workflow/email-notifications.md)
+    + [Project Templates](workshop-rewind/workflow/project-templates.md)
+    + [Self-Taught to Success](workshop-rewind/workflow/self-taught-to-success.md)
+    + [Unlock the Power of Workfront Data Connect](workshop-rewind/workflow/data-connect.md)
 + Quick Takes {#quicktakes}
   + Top 3 {#top3}
     + [Creative Approaches with Blueprints](quick-takes/top3/blueprints.md)
