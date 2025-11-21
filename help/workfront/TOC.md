@@ -22,7 +22,7 @@ solution: Workfront
   + Planning {#planning}
     + [Latest in Workfront Planning](workshop-rewind/planning/workfront-planning.md)
     + [Team-Level Success with Workfront Planning](workshop-rewind/planning/team-success-workfront-planning.md)
-    + [Workfront Planning Release & Roadmap](workshop-rewind/planning/workfront-planning.md)
+    + [Workfront Planning Release & Roadmap](workshop-rewind/planning/planning-release-roadmap.md)
   + Workflow {#workflow}
     + [Creative ways of managing resources](classics/creative-ways-of-managing-resources.md)
     + [Mastering Email Notifications](workshop-rewind/workflow/email-notifications.md)
