@@ -6,9 +6,9 @@ duration: 39
 ---
 # Adobe Workfront On-demand Workshops {#workfront-workshops}
 
-## Releases
+## Release Webinars
 
-This ongoing video series offers a clear and concise overview of each quarterly Adobe Workfront release. Whether you're a system admin, power user, or just curious about what's new, these sessions are designed to help you stay informed and confident about the latest updates. In partnership with the Product Management team, these events highlight key features, functionality enhancements, and tips to quickly understand what’s changing and how those changes can benefit your organization.
+This ongoing video series offers a clear and concise overview of each quarterly Adobe Workfront release. Whether you're a system admin, power user, or just curious about what's new, these sessions are designed to help you stay informed and confident about the latest updates. In partnership with the Product Management team, these events highlight key features, functionality enhancements, and tips to quickly understand what's changing and how those changes can benefit your organization. 
 
 <!-- CARDS
 
@@ -22,7 +22,7 @@ This ongoing video series offers a clear and concise overview of each quarterly 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="releases/25-7-release-webinar.md" title="Adobe Workfront 25.7 release webinar" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464843/?format=jpeg&nocache=1756499239196" alt="Adobe Workfront 25.7 release webinar"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464843/?format=jpeg&nocache=1763675711841" alt="Adobe Workfront 25.7 release webinar"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -43,124 +43,15 @@ This ongoing video series offers a clear and concise overview of each quarterly 
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-<!--
-## Featured Events
+## Workshop Rewind
 
-Explore the latest from your Adobe Workfront community through our curated selection of featured events. Each month, we host free live sessions covering a variety of topics to help you get the most out of Workfront. Missed a live event? No problem! Catch up with on-demand recordings that showcase customer stories, proven best practices, and valuable lessons learned. Want to connect in real time? Join upcoming live events to ask questions, share insights, and collaborate with peers. Visit the Experience League Events page regularly to see what’s coming up next!
--->
-
-## Workfront Event Series
-
-### Top 3
-
-Looking for quick, actionable insights to level up your Adobe Workfront game? The “Top 3” video series is designed with you in mind. Each short video highlights three practical tips, favorite features, or creative approaches shared by real users and experts from the Workfront Community. Whether you’re just getting started or looking to optimize your existing setup, these bite-sized videos deliver value fast—without the fluff. Watch, learn, and walk away with three ideas you can apply today
-
-<!-- CARDS
-
-* top3/blueprints.md
-* top3/office-hours.md
-
--->
-<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
-<div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Top 3 – Creative Approaches with Blueprints">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="top3/blueprints.md" title="Top 3 – Creative Approaches with Blueprints" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1756499239717" alt="Top 3 – Creative Approaches with Blueprints"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="top3/blueprints.md" target="_blank" rel="referrer" title="Top 3 – Creative Approaches with Blueprints">Top 3 – Creative Approaches with Blueprints</a>
-                    </p>
-                    <p class="is-size-6">Discover how Workfront Blueprints fast-track setup, with new templates, dashboards & sandbox testing tips.</p>
-                </div>
-                <a href="top3/blueprints.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Top 3 Approaches to Office Hours">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="top3/office-hours.md" title="Top 3 Approaches to Office Hours" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1756499239703" alt="Top 3 Approaches to Office Hours"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="top3/office-hours.md" target="_blank" rel="referrer" title="Top 3 Approaches to Office Hours">Top 3 Approaches to Office Hours</a>
-                    </p>
-                    <p class="is-size-6">Discover tips, resources, and community best practices for running effective Adobe Workfront Office Hours to boost adoption and engagement.</p>
-                </div>
-                <a href="top3/office-hours.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-
-### Versus!
-
-Welcome to the Versus! video series, where we break down common Workfront features that seem similar—but serve different purposes or solve different challenges. In each episode, we’ll compare two objects, highlight their unique strengths, and help you understand when and how to use each one.
-
-Whether you're a Workfront admin, project manager, or everyday user, this series will give you quick, practical insights to make smarter decisions and get more out of your Workfront setup.
-
-<!-- CARDS
-
-* versus/groups-vs-teams.md
-
--->
-<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
-<div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Versus! – Groups vs. Teams">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="versus/groups-vs-teams.md" title="Versus! – Groups vs. Teams" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1756499240185" alt="Versus! – Groups vs. Teams"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="versus/groups-vs-teams.md" target="_blank" rel="referrer" title="Versus! – Groups vs. Teams">Versus! – Groups vs. Teams</a>
-                    </p>
-                    <p class="is-size-6">Learn the difference between Groups vs. Teams in Adobe Workfront for better structure, collaboration, and task management.</p>
-                </div>
-                <a href="versus/groups-vs-teams.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-### Workshop Rewind
-
-Explore the latest from your Adobe Workfront community through our curated selection of featured events. Each month, we host free live sessions covering a variety of topics to help you get the most out of Workfront. Missed a live event? No problem! Catch up with on-demand recordings that showcase customer stories, proven best practices, and valuable lessons learned. Want to connect in real time? Join upcoming live events to ask questions, share insights, and collaborate with peers. Visit the [Experience League Workfront Events page](../workfront/overview.md) regularly to see what’s coming up next!
+Explore the latest from your Adobe Workfront community through our curated selection of featured events. Each month, we host free live sessions covering a variety of topics to help you get the most out of Workfront. Missed a live event? No problem! Catch up with on-demand recordings that showcase customer stories, proven best practices, and valuable lessons learned. Want to connect in real time? Join upcoming live events to ask questions, share insights, and collaborate with peers. Visit the [Experience League Workfront Events page](https://experienceleague.adobe.com/en/events?filters=Workfront ) regularly to see what's coming up next! 
 
 <!-- CARDS 
 
 * workshop-rewind/planning/team-success-workfront-planning.md
-* workshop-rewind/integrations/event-costs.md
-* workshop-rewind/integrations/mulit-select-fields.md
+* workshop-rewind/fusion/event-costs.md
+* workshop-rewind/workflow/data-connect.md
  
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -170,7 +61,7 @@ Explore the latest from your Adobe Workfront community through our curated selec
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workshop-rewind/planning/team-success-workfront-planning.md" title="Start Fast, Scale Smart - Activating Team-Level Success with Workfront Planning" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469964/?format=jpeg&nocache=1756499240524" alt="Start Fast, Scale Smart - Activating Team-Level Success with Workfront Planning"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469964/?format=jpeg&nocache=1763675712244" alt="Start Fast, Scale Smart - Activating Team-Level Success with Workfront Planning"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -188,12 +79,12 @@ Explore the latest from your Adobe Workfront community through our curated selec
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="The Workfront Fusion Fix - Ericsson’s Smarter Way to Unlocking True Event Costs">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="The Workfront Fusion Fix - Ericsson's Smarter Way to Unlocking True Event Costs">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="workshop-rewind/integrations/event-costs.md" title="The Workfront Fusion Fix - Ericsson’s Smarter Way to Unlocking True Event Costs" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469977/?format=jpeg&nocache=1756499240508" alt="The Workfront Fusion Fix - Ericsson’s Smarter Way to Unlocking True Event Costs"
+                    <a href="workshop-rewind/fusion/event-costs.md" title="The Workfront Fusion Fix - Ericsson's Smarter Way to Unlocking True Event Costs" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469977/?format=jpeg&nocache=1763675712238" alt="The Workfront Fusion Fix - Ericsson's Smarter Way to Unlocking True Event Costs"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -201,22 +92,22 @@ Explore the latest from your Adobe Workfront community through our curated selec
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="workshop-rewind/integrations/event-costs.md" target="_blank" rel="referrer" title="The Workfront Fusion Fix - Ericsson’s Smarter Way to Unlocking True Event Costs">The Workfront Fusion Fix - Ericsson’s Smarter Way to Unlocking True Event Costs</a>
+                        <a href="workshop-rewind/fusion/event-costs.md" target="_blank" rel="referrer" title="The Workfront Fusion Fix - Ericsson's Smarter Way to Unlocking True Event Costs">The Workfront Fusion Fix - Ericsson's Smarter Way to Unlocking True Event Costs</a>
                     </p>
                     <p class="is-size-6">See how Ericsson uses Adobe Workfront Fusion with SharePoint, Power BI, and SAP to automate expense reporting, improve financial visibility, and reduce manual errors.</p>
                 </div>
-                <a href="workshop-rewind/integrations/event-costs.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="workshop-rewind/fusion/event-costs.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Navigating the Workfront API and Fusion Changes for Multi-Select Fields with Ease">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Unlock the Power of Workfront Data Connect">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="workshop-rewind/integrations/mulit-select-fields.md" title="Navigating the Workfront API and Fusion Changes for Multi-Select Fields with Ease" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469978/?format=jpeg&nocache=1756499240537" alt="Navigating the Workfront API and Fusion Changes for Multi-Select Fields with Ease"
+                    <a href="workshop-rewind/workflow/data-connect.md" title="Unlock the Power of Workfront Data Connect" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469965/?format=jpeg&nocache=1763675712257" alt="Unlock the Power of Workfront Data Connect"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -224,11 +115,76 @@ Explore the latest from your Adobe Workfront community through our curated selec
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="workshop-rewind/integrations/mulit-select-fields.md" target="_blank" rel="referrer" title="Navigating the Workfront API and Fusion Changes for Multi-Select Fields with Ease">Navigating the Workfront API and Fusion Changes for Multi-Select Fields with Ease</a>
+                        <a href="workshop-rewind/workflow/data-connect.md" target="_blank" rel="referrer" title="Unlock the Power of Workfront Data Connect">Unlock the Power of Workfront Data Connect</a>
                     </p>
-                    <p class="is-size-6">Learn about upcoming Adobe Workfront API and Fusion changes, including multi-select field updates, event subscription versioning, and strategies to prevent breaking changes.</p>
+                    <p class="is-size-6">Discover how Adobe Workfront Data Connect integrates with BI tools to unlock insights, track performance, and drive smarter business decisions.</p>
                 </div>
-                <a href="workshop-rewind/integrations/mulit-select-fields.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="workshop-rewind/workflow/data-connect.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+## Quick Takes
+
+Looking for quick, practical insights to strengthen your Adobe Workfront expertise? These Quick Takes offer two powerful series designed to help you level up fast. The Top 3 videos offer short, bite-sized highlights—three tips, features, or creative approaches shared by real users and experts—so you can walk away with actionable ideas you can apply right away. 
+
+The Versus! videos take a side-by-side approach, breaking down Workfront features that may look similar but serve different purposes. Each episode compares two objects, clarifies their unique strengths, and helps you understand when to use each one. 
+
+Whether you're a Workfront admin, project manager, or everyday user, this section delivers clear, concise guidance to help you make smarter decisions, optimize your setup, and get more out of Workfront—fast. 
+
+<!-- CARDS
+
+* quick-takes/top3/blueprints.md
+* quick-takes/versus/groups-vs-teams.md
+
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Top 3 – Creative Approaches with Blueprints">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="quick-takes/top3/blueprints.md" title="Top 3 – Creative Approaches with Blueprints" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1763675712911" alt="Top 3 – Creative Approaches with Blueprints"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="quick-takes/top3/blueprints.md" target="_blank" rel="referrer" title="Top 3 – Creative Approaches with Blueprints">Top 3 – Creative Approaches with Blueprints</a>
+                    </p>
+                    <p class="is-size-6">Discover how Workfront Blueprints fast-track setup, with new templates, dashboards & sandbox testing tips.</p>
+                </div>
+                <a href="quick-takes/top3/blueprints.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Versus! – Groups vs. Teams">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="quick-takes/versus/groups-vs-teams.md" title="Versus! – Groups vs. Teams" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1763675712903" alt="Versus! – Groups vs. Teams"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="quick-takes/versus/groups-vs-teams.md" target="_blank" rel="referrer" title="Versus! – Groups vs. Teams">Versus! – Groups vs. Teams</a>
+                    </p>
+                    <p class="is-size-6">Learn the difference between Groups vs. Teams in Adobe Workfront for better structure, collaboration, and task management.</p>
+                </div>
+                <a href="quick-takes/versus/groups-vs-teams.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
                 </a>
             </div>
@@ -257,7 +213,7 @@ These sessions feature real-world solutions, customer examples, and actionable t
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption.md" title="Expert Insights - Adoption with Leslie Spier" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469893/?format=jpeg&nocache=1756499240950" alt="Expert Insights - Adoption with Leslie Spier"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469893/?format=jpeg&nocache=1763675713371" alt="Expert Insights - Adoption with Leslie Spier"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -280,7 +236,7 @@ These sessions feature real-world solutions, customer examples, and actionable t
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption-surveys.md" title="Expert Insights – Adoption Surveys with Jaime Davidson" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469895/?format=jpeg&nocache=1756499240919" alt="Expert Insights – Adoption Surveys with Jaime Davidson"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469895/?format=jpeg&nocache=1763675713377" alt="Expert Insights – Adoption Surveys with Jaime Davidson"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -303,7 +259,7 @@ These sessions feature real-world solutions, customer examples, and actionable t
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/agile.md" title="Expert Insights - Agile with Natalie Mitchell" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469891/?format=jpeg&nocache=1756499240935" alt="Expert Insights - Agile with Natalie Mitchell"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469891/?format=jpeg&nocache=1763675713389" alt="Expert Insights - Agile with Natalie Mitchell"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -323,3 +279,4 @@ These sessions feature real-world solutions, customer examples, and actionable t
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
