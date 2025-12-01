@@ -67,6 +67,7 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
     + [2024 holiday results and 2025 trends](2025/adobe-digital-insights.md)
     + [Crafting Strategies for Effective Measurement](2025/impactful-insights.md)
     + [Cultivating an Agile Marketing Organization](2025/agile-marketing-organization.md)
+    + [Develop Practical B2B Use Cases](2025/practical-business-use-cases.md)
     + [Digital Trends and Preparing for the Future](2025/digital-trends-preparing-future.md)
     + [Northstar Architecture](2025/northstar-architecture.md)
     + [AI-Driven Growth and Top Performer Playbooks](2025/ai-driven-growth.md)
