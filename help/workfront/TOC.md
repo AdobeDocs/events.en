@@ -31,6 +31,7 @@ solution: Workfront
     + [Workfront Planning Release & Roadmap](workshop-rewind/planning/planning-release-roadmap.md)
   + Workflow {#workflow}
     + [Blueprints](workshop-rewind/workflow/blueprints.md)
+    + [Reimagining Creative Briefs](workshop-rewind/workflow/creative-briefs.md)
     + [Defining & Communicating Workfront Value](workshop-rewind/workflow/workfront-value.md)
     + [Governance, Execution, and Adoption Tips](workshop-rewind/workflow/governance-execution-adoption.md)
     + [Mastering Email Notifications](workshop-rewind/workflow/email-notifications.md)
