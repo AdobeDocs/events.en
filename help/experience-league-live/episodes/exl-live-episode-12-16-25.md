@@ -20,6 +20,6 @@ Join us in this live session where the Product team behind Product Support Agent
 * How Product Support Agent empowers users with proactive and self-service support and automated case creation and tracking
 * Innovations and capabilities in the horizon to further streamline support management for users
 
-[![ExL LIVE Jan 17 2024](assets/WebBanner_Dec16_2025.jpg)](https://www.youtube.com/live/MW2Ba7HJNbA){target="_blank"}
+[![ExL LIVE Jan 17 2024](assets/WebBanner_Dec16_2025.jpg)](https://engage.adobe.com/ExpLeagueLive-251216.html?sdid=LH4XT4PX&mv=other){target="_blank"}
 
-[Click to set a reminder on YouTube!](https://www.youtube.com/live/MW2Ba7HJNbA){target="_blank"}
+[Register now for this event!](https://engage.adobe.com/ExpLeagueLive-251216.html?sdid=LH4XT4PX&mv=other){target="_blank"}
