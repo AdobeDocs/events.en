@@ -16,6 +16,7 @@ user-guide-description: Learn from Adobe experts how to master new e-signature w
 + [Creating and Using Workflows](./skill-builders/create-use-workflows.md)
 + [Document Builder](./skill-builders/document-builder.md)
 + [Notarize Integration](./skill-builders/notarize.md)
++ [Optimize Mobile E-Signing](./skill-builders/mobile-e-signing.md)
 + [Post a Fillable, Signable Web Form](./skill-builders/fillable-signable-web-form.md)
 + [Power Up Your Acrobat Sign Admin Experience](./skill-builders/acrobat-sign-admin-experience.md)
 + [Prepare Your Agreements for e-signature](./skill-builders/e-signature-setup.md)
