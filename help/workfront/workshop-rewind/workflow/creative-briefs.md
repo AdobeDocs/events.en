@@ -17,10 +17,7 @@ Explore how Kohler reimagined their creative briefs using Workfront to enhance p
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477114/?learn=on&enablevpops)
 
-## Resources
 
-* Come see us live at our events [text](https://experienceleague.adobe.com/fr/events)
-* Come see us live at our events [text](https://experienceleague.adobe.com/fr/events)
 
 
 
