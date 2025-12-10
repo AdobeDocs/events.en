@@ -45,6 +45,11 @@ solution: Workfront
   + Top 3 {#top3}
     + [Creative Approaches with Blueprints](quick-takes/top3/blueprints.md)
     + [Top 3 Approaches to Office Hours](quick-takes/top3/office-hours.md)
+    + [Top 3 Calendar Hacks](quick-takes/top3/calendar-hacks.md)
+    + [Use Images in Custom Forms](quick-takes/top3/add-image-custom-forms.md)
+    + [Top Reasons to Use Layout Templates](quick-takes/top3/layout-templates.md)
+    + [Top Reasons to Attend Workfront Workshops](quick-takes/top3/reason-attend-workshop.md)
+    + [Maximize Report Scheduling in Workfront](quick-takes/top3/report-scheduling.md)
   + Versus! {#versus}
     + [Groups vs. Teams](quick-takes/versus/groups-vs-teams.md)
 + Expert Insights {#expert-insights}
@@ -54,6 +59,7 @@ solution: Workfront
   + [Content Supply Chain](expert-insights/content-supply-chain.md)
   + [Fusion](expert-insights/fusion.md)
   + [Governance & Centers of Excellence](expert-insights/centers-of-excellence.md)
+  + [Master Text Mode](expert-insights/text-mode.md)
   + [Non-Traditional Workfront Workflows](expert-insights/non-traditional-workfront-workflows.md)
   + [Reporting Practices](expert-insights/reporting-practices.md)
   + [Resource Management ](expert-insights/resource-management.md)
