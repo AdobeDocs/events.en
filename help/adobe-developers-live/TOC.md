@@ -7,6 +7,12 @@ user-guide-description: Collection of recordings from the Adobe Developer Live C
 # Adobe Developers Live Events {#adobe-developers-live-recordings}
 
 + [Overview](overview.md)
++ 2025 {#2025}
+  + [Keynote - Building the Agentic Web Keynote](2025/keynote.md)
+  + [Agentic Evolution of AEM](2025/agentic-evolution-aem.md)
+  + [AI in Adobe Projects](2025/ai-in-projects.md)
+  + [AI Coding Showdown](2025/coding-agent.md)
+  + [Explore Adobe Experience Manager Agents](2025/aem-agents.md)
 + 2024 {#2024}
   + November {#nov2024}
     + [Keynote](2024/nov/keynote.md)
