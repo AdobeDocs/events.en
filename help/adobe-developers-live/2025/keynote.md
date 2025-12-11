@@ -1,9 +1,6 @@
 ---
 title: Building the Agentic Web Keynote
 description: Explore AI's role in digital experiences with Adobe's vision for the agentic web, featuring AEM Agents and more.
-version: ???
-feature: ??? - select one or more from: https://adobe.ly/3JfnRW9
-topic: ??? - select 0 or more from: https://adobe.ly/3NRHfMp
 role: Developer
 level: Beginner, Intermediate, Experienced
 doc-type: Event
