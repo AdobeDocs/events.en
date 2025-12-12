@@ -15,6 +15,10 @@ Discover how AI transforms digital experiences in this keynote from Adobe Develo
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477589/?learn=on&enablevpops)
 
+Recorded live from San Jose, this full keynote features Loni Stark, David Nuescheler, Mark Szulc, Shankari Panchapakesan, Cecily Liu, and Deck Reyes as they unveil Adobe's vision for the agentic web—including AEM Agents, Content AI Foundational Services, Brand Concierge, Sites Optimizer, and LLM Optimizer.
+
+Special thanks to our sponsors Algolia and Ensemble for supporting Adobe Developers Live 2025.
+
 ## Next Steps
 
 * Continue the conversation on [Experience League](https://adobe.ly/47ss08A) 

@@ -28,14 +28,11 @@ solution: Experience Manager
   + [AEM Best Practices Analyzer for on premise and AMS environments](gems2023/aem-best-practices-analyzer.md)
 + 2022 {#gems2022}
   + [Customer Use Case & Implementation of AEM Headless in Use](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
-  + [Looking under the hood - Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
   + [Integrate AEM & CIF framework to build a rich and immersive e-commerce experience](gems2022/aem-and-cif-framework-integration.md)
   + [Build websites faster with AEM Headless and App Builder](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
-  + [Adobe Experience Manager as a Cloud Service: 2021 review and 2022 outlook](gems2022/aemcloudservice-2021-review-and-outlook.md)
 + 2020 {#gems2020}
   + [AEM 6.5 ready for the world - translation integration & best practices](gems2020/aem65-readyfortheworld-translationintegration-bestpractices.md)
 + 2019 {#gems2019}
-  + [What's new in Experience Manager 6.5 [!DNL Sites]](gems2019/adobe-experience-manager-6-5-sites-whats-new.md)
   + [AEM Rich Text Editor (RTE) deep dive](gems2019/aem-rich-text-editor-rte-deep-dive1.md)
   + [Deep dive on implementation details of stores, modules, and segments in ContextHub](gems2019/contexthub-deep-dive.md)
   + [Creating headless omnichannel experiences with AEM 6.5](gems2019/creating-headless-omnichannel-experiences-with-aem-65.md)

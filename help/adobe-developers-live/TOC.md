@@ -10,9 +10,22 @@ user-guide-description: Collection of recordings from the Adobe Developer Live C
 + 2025 {#2025}
   + [Keynote - Building the Agentic Web Keynote](2025/keynote.md)
   + [Agentic Evolution of AEM](2025/agentic-evolution-aem.md)
+  + [AI Agents with LLM Optimizer](2025/llm-optimizer.md)
   + [AI in Adobe Projects](2025/ai-in-projects.md)
   + [AI Coding Showdown](2025/coding-agent.md)
+  + [AI Commerce Development Innovations](2025/app-builder-extensions.md)
+  + [AI Content Discovery with AEM](2025/ai-content-discovery.md)
+  + [Brand Concierge ](2025/brand-concierge.md)
+  + [Content AI in AEM](2025/content-ai.md)
+  + [Document Authoring at Scale](2025/document-authoring-at-scale.md)
+  + [Dynamic Publishing](2025/dynamic-publishing.md)
   + [Explore Adobe Experience Manager Agents](2025/aem-agents.md)
+  + [Migrate and Modernize Experiences](2025/modernize-experiences.md)
+  + [Modernizing Qantas with Edge Delivery Services](2025/modernizing-qantas.md)
+  + [Optimize Code with AEM Sites Optimizer](2025/code-optimization.md)
+  + [Rapid Development Environment Snapshots](2025/rapid-development-snapshots.md)
+  + [Streamline Government Services with AI](2025/government-digital-services.md)
+  + [Unlock AI in AEM](2025/transform-aem-with-agents.md)
 + 2024 {#2024}
   + November {#nov2024}
     + [Keynote](2024/nov/keynote.md)
