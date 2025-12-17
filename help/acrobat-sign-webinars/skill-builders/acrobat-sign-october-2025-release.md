@@ -1,5 +1,5 @@
 ---
-title: What's New in Acrobat Sign - October 2025
+title: What's New - Acrobat Sign October 2025 Release
 description: Explore Acrobat Sign's latest features from the October 2025 release, enhancing user experience and compliance.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -9,7 +9,7 @@ last-substantial-update: 2025-12-01
 jira: KT-19843
 ---
 
-# What's New in Acrobat Sign: October 2025
+# What's New - Acrobat Sign October 2025 Release
 
 Discover the new features and enhancements in Acrobat Sign's October 2025 release. Learn how these updates improve user experiences, support compliance, and streamline document processes. Whether you're new to Acrobat Sign or looking to maximize its potential, this session provides insights and practical demonstrations to help you digitize your document workflows efficiently.
 

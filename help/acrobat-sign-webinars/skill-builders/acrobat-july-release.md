@@ -1,5 +1,5 @@
 ---
-title: Webinar - Learn all about our latest improvements - Adobe Acrobat Sign July Release 2025
+title: Learn all about our latest improvements - Acrobat Sign July Release 2025
 description: Discover Acrobat Sign's July 2025 updates - PDF/A compliance, WhatsApp notifications, and enhanced agreement security for leaders and admins.
 solution: Acrobat Sign
 feature-set: Document Cloud
@@ -12,7 +12,7 @@ last-substantial-update: 2025-09-05
 jira: KT-19007
 exl-id: 0b442d68-25ba-4c79-9786-20c1600cfa15
 ---
-# Webinar: Learn all about our latest improvements: Adobe Acrobat Sign July Release 2025
+# Learn all about our latest improvements - Acrobat Sign July Release 2025
 
 Explore the new features & functionalities built for those who lead, manage, and drive success with Acrobat Sign. 
 
@@ -22,7 +22,7 @@ In this session, you'll learn all about our latest innovations, which help you i
 * Send Agreement Notifications via WhatsApp 
 * Protect sensitive agreements: Account Sharing & Restricted Agreement Access 
 
-Whether you’re new to Acrobat Sign or looking to maximize its potential, this webinar will provide practical insights and demonstrations to help you digitize your document processes with ease.
+Whether you're new to Acrobat Sign or looking to maximize its potential, this webinar will provide practical insights and demonstrations to help you digitize your document processes with ease.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3473003/?learn=on&enablevpops)
 

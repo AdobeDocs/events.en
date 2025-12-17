@@ -53,7 +53,10 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
     + [Designing an Operating Model](2025/design-an-operating-model-ajo.md)
     + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
     + [Leveraging a NorthStar Architecture](2025/northstar-architecture-enable-adobe-journey-optimzier.md)
+    + [Modernize Campaigns](2025/ajo-adobe-campaign.md)
     + [Roadmap to Value with Adobe Journey Optimizer](2025/ajo-roadmap-to-value.md)
+  + Marketo {#Mmarketo2025}
+    + [New Email Editor](2025/marketo-new-email-editor.md)
   + Multi-solution {#multisolution2025}
     + [Content Supply Chain Basics](2025/content-supply-chain-basics.md)
     + [Digital Experience Optimization with AI Insights](2025/accelerating-digital-experience-optimization.md)

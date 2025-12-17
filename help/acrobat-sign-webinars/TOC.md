@@ -7,8 +7,8 @@ user-guide-description: Learn from Adobe experts how to master new e-signature w
 
 + [Overview](overview.md)
 + Release webinars {#releases}
-  + [Adobe Acrobat Sign October Release 2025](skill-builders/acrobat-sign-october-2025-release.md)
-  + [Adobe Acrobat Sign July Release 2025](skill-builders/acrobat-july-release.md)
+  + [October 2025](skill-builders/acrobat-sign-october-2025-release.md)
+  + [July 2025](skill-builders/acrobat-july-release.md)
 + Innovation - New Feature Highlights {#newfeatures}
   + [Optimize Mobile E-Signing](./skill-builders/mobile-e-signing.md)
 + 101 - Get Started for Users {#getstartedusers}
