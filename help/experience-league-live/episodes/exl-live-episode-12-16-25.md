@@ -15,11 +15,11 @@ This session is part of a series spotlighting Adobe Experience Platform Agent Or
 
 Marketing and customer experience teams are under intense pressure to deliver highly personalized, multi-channel campaigns with fewer resources and tighter timelines. Yet more often than not, their time gets drained operational burdens like troubleshooting and support management, hindering them from focusing on strategic, high-impact customer experience work. Powered by Adobe Experience Platform Agent Orchestrator, Product Support Agent is designed to these teams in their Adobe Experience Platform applications by providing an interactive way to troubleshoot, diagnose, and escalate issues, enabling faster resolutions and greater operational efficiency.
 
-Join us in this live session where the Product team behind Product Support Agent explores:
+View this live session where the Product team behind Product Support Agent explored:
 * An overview of Product Support Agent
 * How Product Support Agent empowers users with proactive and self-service support and automated case creation and tracking
 * Innovations and capabilities in the horizon to further streamline support management for users
 
-[![ExL LIVE Jan 17 2024](assets/WebBanner_Dec16_2025.jpg)](https://engage.adobe.com/ExpLeagueLive-251216.html?sdid=LH4XT4PX&mv=other){target="_blank"}
+>[!VIDEO](https://video.tv.adobe.com/v/3477984/?learn=on)
 
-[Register now for this event!](https://engage.adobe.com/ExpLeagueLive-251216.html?sdid=LH4XT4PX&mv=other){target="_blank"}
+[Keep the discussion going in the Community discussion!](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-simplify/m-p/790172#M1909){target="_blank"}
