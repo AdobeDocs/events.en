@@ -19,16 +19,8 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 
 <table>
     <tr>
-         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-12-16-25.md">
-              <img alt="Experience League LIVE 16 December 2025" src="episodes/assets/WebBanner_Dec16_2025.jpg">
-            </a>
-            <div>
-              <a href="episodes/exl-live-episode-12-16-25.md">
-                <strong>Simplify troubleshooting and support case management with Product Support Agent</strong>
-              </a>
-              <br/><em>with Daniel Wright, Huong Vu, and Shreya Anantha Raman</em>
-              <br/><em>Dec 16, 2025</em>
-            </div>
+         <td style="vertical-align: top;">
+            New shows coming up soon. Come back to this page to see available shows.
         </td>
     </tr>
     
