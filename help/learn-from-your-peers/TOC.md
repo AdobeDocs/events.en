@@ -39,6 +39,8 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
   + 2025 {#2025}
     + [Scale AI Adoption - A Playbook for Approvals](genai/2025/scale-ai-adoption-a-playbook-for-approvals.md)
 + Marketo {#marketo}
+  + 2026 {#2026}
+    + [How Marketo Engage's Email Designer Has Evolved](marketo/2026/email-designer-evolved.md)
   + 2025 {#2025}
     + [Building a data hygiene strategy](marketo/2025/data-hygiene-strategy.md)
     + [Discover the Impact of Interactive Webinars](marketo/2025/interactive-webinars.md)
