@@ -15,6 +15,7 @@ doc-type: live event
 
 + [Overview](overview.md)
 + Episodes {#episodes}
+  + [EP. 55: Agents at work: Creating and activating audiences and journeys](episodes/exl-live-episode-01-28-26.md)
   + [EP. 54: Simplify troubleshooting and support case management with Product Support Agent](episodes/exl-live-episode-12-16-25.md)
   + [EP. 53: The Next Era of Experimentation: How Agentic AI is Fueling Smarter Testing and Growth](episodes/exl-live-episode-10-30-25.md)
   + [EP. 52: Adobe Experience Platform Agent Orchestrator](episodes/exl-live-episode-10-22-25.md)
