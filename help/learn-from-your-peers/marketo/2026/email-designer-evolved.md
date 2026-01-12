@@ -35,3 +35,4 @@ Join us for a grounded, real-world look at how the Email Designer has matured—
 * [Feature comparison old vs new Email Designer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/feature-comparison#_blank)
 * [Release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current)
 * [Champion Deep Dive: Discover the new Email Designer in Marketo Engage](https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/email-designer)
+* [Join the conversation on Community with Q&A](https://nation.marketo.com/t5/product-blogs/watch-on-demand-learn-from-your-peers-webinar-beyond-the-launch/ba-p/359083)
