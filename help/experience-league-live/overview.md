@@ -18,15 +18,19 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 ## Upcoming Experience League LIVE events
 
 <table>
-    <tr>
-         <td style="vertical-align: top;">
-            New shows coming up soon. Come back to this page to see available shows.
-        </td>
-    </tr>
-    
-</table>    
-  
-
+<tr>
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-01-28-26.md">
+      <img alt="Experience League LIVE Jan 28 2026" src="episodes/assets/WebBanner-1-28-26.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-01-28-26.md"><strong>See Audience Agent uncover audience insights and create ready-to-use audiences in minutes. </strong></a>
+      <br/><em>with Shelby Mansuri, Keara Fausett, and Alyssa Espiritu</em>
+      <br/><em>January 28, 2026 at 8:30 PT</em>
+      <br/><br/><a href="https://www.youtube.com/live/V7n2KuhrhqQ">Set a reminder</a>
+    </div>
+  </td>
+</tr>
+</table>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
