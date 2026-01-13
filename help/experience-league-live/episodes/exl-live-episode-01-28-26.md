@@ -17,4 +17,4 @@ See Audience Agent uncover audience insights and create ready-to-use audiences i
 
 <img alt="Experience League LIVE Jan 28 2026" src="./assets/WebBanner-1-28-26.jpg">
 
-[Set a reminder for the show](https://www.youtube.com/live/V7n2KuhrhqQ){target="_blank"}
+[Register today!](https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&mv=other){target="_blank"}
