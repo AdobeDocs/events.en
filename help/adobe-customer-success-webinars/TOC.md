@@ -13,7 +13,7 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
     + [Strategic Benefits of AEM Cloud Service](2026/moving-to-aemcs.md)
   + Experience Platform {#aep2026}
     + [Embedded Intelligence Shift](2026/embedded-intelligence.md)
-  + General {#general2025}
+  + General {#general2026}
     + [AI Strategies for Holiday Success](2026/2025-holiday-results.md)
 + 2025 {#2025}
   + Commerce {#commerce2025}
