@@ -9,6 +9,7 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
 + [Adobe Customer Success Webinars](overview.md)
 + 2026 {#2026}
   + Experience Manager {#aem2026}
+    + [Maximize Content Supply Chains](2026/value-with-content-supply-chain.md)
     + [Modern Delivery Models for AEM Sites](2026/modern-delivery-model-aem.md)
     + [Strategic Benefits of AEM Cloud Service](2026/moving-to-aemcs.md)
   + Experience Platform {#aep2026}

@@ -20,7 +20,6 @@ In this first of three livestream sessions regarding data collection for the Ado
 ## Additional Experience League LIVE sessions from this data collection series
 
 * [Ask the experts - Real-Time CDP Connections](exl-live-episode-06-23-22.md)
-* [Ask the experts - Datastreams and data prep](exl-live-episode-07-21-22.md)
 
 ### Some helpful links
 
