@@ -42,7 +42,6 @@ doc-type: live event
   + [Ep. 29: Get the most from your behavioral event data in Real-Time CDP and AJO](episodes/exl-live-episode-11-14-23.md)
   + [Ep. 27: API Triggered Messaging in Adobe Journey Optimizer](episodes/exl-live-episode-8-23-23.md)
   + [Ep. 26: Actionable audiences, in one place​, from any source, with standard controls](episodes/exl-live-episode-7-20-23.md)
-  + [Ep. 22: Speeding up your web experiences](episodes/exl-live-episode-2-16-23.md)
   + [Ep. 17: Providing a more personalized customer experience in real time](episodes/exl-live-episode-09-20-22.md)
   + [Ep. 14: Ask the experts - RTCDP Connections](episodes/exl-live-episode-06-23-22.md)
   + [Ep. 13: Ask the experts - The basics of Web SDK](episodes/exl-live-episode-05-26-22.md)
