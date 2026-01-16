@@ -31,10 +31,10 @@ Continue the discussion on the [Experience League Community Forum discussion](ht
 * Data views offer powerful features such as retroactive changes, derived fields for customization, and the ability to filter and analyze data at a granular level.
 * Connections in Customer Journey Analytics allow for the union of different data sets, enabling the analysis of multiple data sources in one place.
 * Data views and connections should be used strategically and with caution to ensure proper governance and control over data access and analysis.
-* There is a new tool called "component migration" that allows Adobe Analytics admins to migrate projects to CGA.
-* When migrating a project, all components in the tables, as well as any segments or calculated metrics applied, get moved over to CGA.
-* There is a mapping process where components that don't exist in CGA can be mapped using catch-all or derived fields.
-* It is recommended to create a catch-all for elements that don't exist in CGA and then edit them in the destination project.
-* Previously, it was believed that calculated metrics and segments had to be recreated when migrating to CGA, but now there is an option to migrate them.
+* There is a new tool called "component migration" that allows Adobe Analytics admins to migrate projects to CJA.
+* When migrating a project, all components in the tables, as well as any segments or calculated metrics applied, get moved over to CJA.
+* There is a mapping process where components that don't exist in CJA can be mapped using catch-all or derived fields.
+* It is recommended to create a catch-all for elements that don't exist in CJA and then edit them in the destination project.
+* Previously, it was believed that calculated metrics and segments had to be recreated when migrating to CJA, but now there is an option to migrate them.
 * To ensure that calculated metrics and segments are included in the migration, they need to be applied to a table or visualization in Adobe Analytics.
 
