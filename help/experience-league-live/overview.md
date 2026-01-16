@@ -61,17 +61,7 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
     </div>
   </td>
   
-  <td style="vertical-align: top;">
-    <a href="episodes/exl-live-episode-05-16-24.md">
-      <img alt="Experience League LIVE ep8" src="episodes/assets/WebBanner-May16-2024.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-05-16-24.md"><strong>This is the way…to migrate Analytics to Web SDK</strong></a>
-      <br/><em>with Mitch Rice, Joe Khoury, and Doug Moore</em>
-      <br/><em>May 16, 2024</em>
-    </div>
-  </td>
-  
+
   <td style="vertical-align: top;">
     <a href="episodes/exl-live-episode-05-26-22.md">
       <img alt="Experience League LIVE May 26" src="episodes/assets/WebBanner-Apr24-2024.jpg">
