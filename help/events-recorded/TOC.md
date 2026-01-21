@@ -17,7 +17,7 @@ user-guide-description: A collection of event recordings forcused on using Adobe
   + [Commerce and Coffee](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
   + [Customer Data Management Voices](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html)
   + [Data Drip](https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html)
-  + [Deep Dives](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
+  + [Marketo Deep Dives](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
   + [Espressos & Experience Manager](https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html)
   + [Experience Cloud Tech Sessions](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
   + [Experience League LIVE](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
@@ -82,7 +82,7 @@ user-guide-description: A collection of event recordings forcused on using Adobe
     + [Experience Cloud Tech Sessions](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
     + [The Perfect Blend](https://experienceleague.adobe.com/en/docs/events/the-perfect-blend/overview)
   + Adobe Marketo {#am}
-    + [Deep Dives](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
+    + [Marketo Deep Dives](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
     + [Experience Cloud Tech Sessions](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
     + [Foundations of Marketo Engage](https://experienceleague.adobe.com/en/docs/events/foundations-of-marketo-engage-webinars/overview)
     + [Learn from your Peers](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
