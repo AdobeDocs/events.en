@@ -25,19 +25,14 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
   {description = Learn from Adobe experts how to master new e-signature workflows in Acrobat Sign.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png}
   {cta  = View recordings}
-* https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html
-  {title = Adobe Commerce Product Updates}
-  {description = The latest product innovations in Adobe Commerce, presented by the Adobe Commerce product team.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-product-updates.png}
-  {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html
   {title = Adobe Developers Live}
   {description = Adobe Developers Live brings together Adobe developers and experience builders with diverse backgrounds and a singular purpose - to create incredible end-to-end experiences.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png}
   {cta  = View recordings}
-* https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html
-  {title = APAC Adobe Commerce Webinars}
-  {description = The APAC Commerce Webinar Series is a monthly cadence of workshops for Adobe Commerce customers that covers a wide range of topics from best practices to product roadmap and industry trends.}
+* https://experienceleague.adobe.com/docs/events/adobe-commerce-webinars/overview.html
+  {title = Adobe Commerce Webinars}
+  {description = The Adobe Commerce Webinar Series is a monthly cadence of workshops for Adobe Commerce customers that covers a wide range of topics from best practices to product roadmap and industry trends.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html
@@ -66,8 +61,8 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-data-drip.png}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html 
-  {title = Deep Dives}
-  {description = Deep Dive on-demand events recordings help you gain a better understanding how to use Adobe Marketo to support your business.}
+  {title = Marketo Deep Dives}
+  {description = Marketo Deep Dive on-demand events recordings help you gain a better understanding how to use Adobe Marketo to support your business.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html
@@ -89,11 +84,6 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
   {title = Learn from your Peers}  
   {description = Learn from Adobe experts and peers how to get the most from your Adobe solutions. With topics selected for practitioners, by practitioners, these interactive sessions share art of the possible use cases, best practices, and tips &amp; tricks.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-learn-from-your-peers.png}
-  {cta  = View recordings}
-* https://experienceleague.adobe.com/en/docs/events/genstudio-for-performance-marketing-events/overview
-  {title = GenStudio for Performance Marketing Events}  
-  {description = Discover upcoming and past webinars and events designed to help you master GenStudio for Performance Marketing.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-genstudio-for-performance-marketing-events.png}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html
   {title = Marketo and Mochas}  

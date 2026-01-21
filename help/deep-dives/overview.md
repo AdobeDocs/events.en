@@ -1,10 +1,10 @@
 ---
-title: Deep Dives
+title: Marketo Deep Dives
 description: Deep Dives is a video library where experts and peers have shared their thoughts and ideas on how to best use Adobe Marketo.
 exl-id: 21242f9e-8084-4482-8461-ba8a9e2fbd26
 duration: 15
 ---
-# Deep Dive Events
+# Marketo Deep Dive Events
 
 Welcome to the Deep Dives on-demand events recordings. Using these resources combined with the Adobe Marketo [documentation](https://experienceleague.adobe.com/docs/marketo-engage.html) and [tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html), you will gain a better understanding how to use Adobe Marketo to support your business.
 
@@ -188,7 +188,7 @@ Welcome to the Deep Dives on-demand events recordings. Using these resources com
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="email-designer.md" target="_blank" rel="referrer" title="Discover the New Email Designer in Marketo Engage">Discover the New Email Designer in Marketo Engage</a>
                     </p>
-                    <p class="is-size-6">Explore Marketo Engage’s new email designer with Adobe experts. Learn features, best practices, tips, migration strategies, and more to enhance your email marketing.</p>
+                    <p class="is-size-6">Explore Marketo Engage's new email designer with Adobe experts. Learn features, best practices, tips, migration strategies, and more to enhance your email marketing.</p>
                 </div>
                 <a href="email-designer.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>

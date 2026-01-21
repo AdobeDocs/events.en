@@ -1,6 +1,6 @@
 ---
-user-guide-title: Deep Dives
-user-guide-breadcrumb: Deep Dives
+user-guide-title: Marketo Deep Dives
+user-guide-breadcrumb: Marketo Deep Dives
 user-guide-description: A list of Deep Dive recordings
 type: Event
 solution: Marketo Engage
@@ -12,7 +12,7 @@ event-cta-text-live: Join live
 doc-type: live event
 ---
 
-# Deep Dives {#deep-dives-recordings}
+# Marketo Deep Dives {#deep-dives-recordings}
 
 + [Overview](overview.md)
 + Deep Dives in Marketo {#deep-dives-marketo}
