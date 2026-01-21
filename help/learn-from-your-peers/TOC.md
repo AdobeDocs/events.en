@@ -80,8 +80,6 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
     + [All about request queues](workfront/2022/all-about-request-queues.md)
     + [Foundations of operational reporting](workfront/2022/foundations-of-operational-reporting.md)
     + [Leveraging the group admin](workfront/2022/leveraging-the-group-admin.md)
-    + [Designing an ideal user experience](workfront/2022/designing-an-ideal-user-experience.md)
     + [What IS Workfront governance?](workfront/2022/what-is-workfront-governance.md)
-    + [Understanding user management](workfront/2022/understanding-user-management.md)
 + [Explore Adobe User Groups across Experience Cloud](./adobe-user-groups.md)
 + [Learn how to apply and stand out as a Champion](./adobe-champion-application.md)

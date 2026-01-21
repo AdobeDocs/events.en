@@ -10,10 +10,9 @@ user-guide-description: A collection of event recordings forcused on using Adobe
 + By series {#series}
   + [Acrobat Sign Webinars](https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html)
   + [Adobe Commerce Intelligence Webinars](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
-  + [Adobe Commerce Product Updates](https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html)
   + [Adobe Customer Success Webinars](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html)
   + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
-  + [APAC Commerce Events](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
+  + [Adobe Commerce Webinars](https://experienceleague.adobe.com/docs/events/adobe-commerce-webinars/overview.html)
   + [Behind the Brew](https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html)
   + [Commerce and Coffee](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
   + [Customer Data Management Voices](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html)
@@ -25,7 +24,6 @@ user-guide-description: A collection of event recordings forcused on using Adobe
   + [Experience Manager GEMS](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
   + [Experience Manager Release Overview](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html)
   + [Foundations of Marketo Engage](https://experienceleague.adobe.com/en/docs/events/foundations-of-marketo-engage-webinars/overview)
-  + [GenStudio for Performance Marketing Events](https://experienceleague.adobe.com/docs/events/genstudio-for-performance-marketing-events/overview.html) 
   + [Learn from your Peers](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
   + [Marketo and Mochas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
   + [Marketo Champion Office Hours](https://experienceleague.adobe.com/docs/events/marketo-champion-office-hours/overview.html)
@@ -56,9 +54,8 @@ user-guide-description: A collection of event recordings forcused on using Adobe
     + [Skill Builder](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
   + Adobe Commerce {#acommerce}
     + [Adobe Commerce Intelligence Webinars](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
-    + [Adobe Commerce Product Updates](https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html)
     + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
-    + [APAC Commerce Events](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
+    + [Adobe Commerce Webinars](https://experienceleague.adobe.com/docs/events/adobe-commerce-webinars/overview.html)
     + [Behind the Brew](https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html)
     + [Commerce and Coffee](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
     + [Experience Cloud Tech Sessions](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
@@ -84,8 +81,6 @@ user-guide-description: A collection of event recordings forcused on using Adobe
     + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
     + [Experience Cloud Tech Sessions](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
     + [The Perfect Blend](https://experienceleague.adobe.com/en/docs/events/the-perfect-blend/overview)
-  + Adobe GenStudio for Performance Marketing {#agspm}
-    + [Adobe GenStudio for Performance Marketing](https://experienceleague.adobe.com/docs/events/genstudio-for-performance-marketing-events/overview.html)
   + Adobe Marketo {#am}
     + [Deep Dives](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
     + [Experience Cloud Tech Sessions](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
