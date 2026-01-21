@@ -175,29 +175,6 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Commerce Product Updates">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html" title="Adobe Commerce Product Updates" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-product-updates.png" alt="Adobe Commerce Product Updates"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html" target="_blank" rel="referrer" title="Adobe Commerce Product Updates">Adobe Commerce Product Updates</a>
-                    </p>
-                    <p class="is-size-6">The latest product innovations in Adobe Commerce, presented by the Adobe Commerce product team.</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">View recordings</span>
-                </a>
-            </div>
-        </div>
-    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Developers Live">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
@@ -221,12 +198,12 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="APAC Adobe Commerce Webinars">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Commerce Webinars">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" title="APAC Adobe Commerce Webinars" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png" alt="APAC Adobe Commerce Webinars"
+                    <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-webinars/overview.html" title="Adobe Commerce Webinars" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png" alt="Adobe Commerce Webinars"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -234,11 +211,11 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" target="_blank" rel="referrer" title="APAC Adobe Commerce Webinars">APAC Adobe Commerce Webinars</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-webinars/overview.html" target="_blank" rel="referrer" title="Adobe Commerce Webinars">Adobe Commerce Webinars</a>
                     </p>
-                    <p class="is-size-6">The APAC Commerce Webinar Series is a monthly cadence of workshops for Adobe Commerce customers that covers a wide range of topics from best practices to product roadmap and industry trends.</p>
+                    <p class="is-size-6">The Adobe Commerce Webinar Series is a monthly cadence of workshops for Adobe Commerce customers that covers a wide range of topics from best practices to product roadmap and industry trends.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-webinars/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">View recordings</span>
                 </a>
             </div>
@@ -359,12 +336,12 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Deep Dives">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Marketo Deep Dives">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html" title="Deep Dives" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png" alt="Deep Dives"
+                    <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html" title="Marketo Deep Dives" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png" alt="Marketo Deep Dives"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -372,9 +349,9 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html" target="_blank" rel="referrer" title="Deep Dives">Deep Dives</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html" target="_blank" rel="referrer" title="Marketo Deep Dives">Marketo Deep Dives</a>
                     </p>
-                    <p class="is-size-6">Deep Dive on-demand events recordings help you gain a better understanding how to use Adobe Marketo to support your business.</p>
+                    <p class="is-size-6">Marketo Deep Dive on-demand events recordings help you gain a better understanding how to use Adobe Marketo to support your business.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">View recordings</span>
@@ -469,29 +446,6 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
                     <p class="is-size-6">Learn from Adobe experts and peers how to get the most from your Adobe solutions. With topics selected for practitioners, by practitioners, these interactive sessions share art of the possible use cases, best practices, and tips & tricks.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">View recordings</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="GenStudio for Performance Marketing Events">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/genstudio-for-performance-marketing-events/overview" title="GenStudio for Performance Marketing Events" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-genstudio-for-performance-marketing-events.png" alt="GenStudio for Performance Marketing Events"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/genstudio-for-performance-marketing-events/overview" target="_blank" rel="referrer" title="GenStudio for Performance Marketing Events">GenStudio for Performance Marketing Events</a>
-                    </p>
-                    <p class="is-size-6">Discover upcoming and past webinars and events designed to help you master GenStudio for Performance Marketing.</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/genstudio-for-performance-marketing-events/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">View recordings</span>
                 </a>
             </div>
