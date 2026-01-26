@@ -1,6 +1,7 @@
 ---
 user-guide-title: Acrobat Sign webinars
 user-guide-description: Learn from Adobe experts how to master new e-signature workflows in Acrobat Sign.
+cloud: Document Cloud
 solution: Document Cloud
 ---
 
