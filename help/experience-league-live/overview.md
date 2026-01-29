@@ -19,14 +19,14 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 
 <table>
 <tr>
-    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-01-28-26.md">
-      <img alt="Experience League LIVE Jan 28 2026" src="episodes/assets/WebBanner-1-28-26.jpg">
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-03-03-26.md">
+      <img alt="Experience League LIVE Mar 3 2026" src="episodes/assets/WebBannerExlLive-Mar03-2026.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-01-28-26.md"><strong>See Audience Agent uncover audience insights and create ready-to-use audiences in minutes. </strong></a>
-      <br/><em>with Shelby Mansuri, Keara Fausett, and Alyssa Espiritu</em>
-      <br/><em>January 28, 2026 at 8:30 PT</em>
-      <br/><br/><b><a href="https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&mv=other">Register today!</a></b>
+      <a href="episodes/exl-live-episode-03-03-26.md"><strong>Join an insightful Q&A session with Anjul Bhambhri, Sr. VP of Adobe Experience Cloud, to learn about Adobe's bold vision for innovative Agentic AI capabilities.</strong></a>
+      <br/><em>with Anjul Bhambhri and Daniel Wright</em>
+      <br/><em>March 3, 2026 at 9:00 PT</em>
+      <br/><br/><b><a href="episodes/exl-live-episode-03-03-26.md">Learn more about this session!</a></b>
     </div>
   </td>
 </tr>
