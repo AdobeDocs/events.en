@@ -15,57 +15,6 @@ This two-day conference featured important Adobe Experience Manager developer up
 
 Connect with fellow devs and join the session conversations in **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
-## Highlights
-
-<table>
-  <tr>
-   <td>
-      <a href="headless-graphql-content-fragments.md">
-      <img alt="Headless - GraphQL with Content Fragments" src="/help/adobe-developers-live/assets/jabran.png"/>
-      </a>
-      <div>
-         <a href="headless-graphql-content-fragments.md"><strong>Headless - GraphQL with Content Fragments</strong></a>         
-         <br/><em>with Jabran Asghar, Sr. Software Engineer</em>
-      </div>
-      <p>
-        <br/>
-         Learn about the new headless capabilities with the most recent Content Fragment enhancements. This session will focus on the GraphQL API for AEM Cloud Service.
-      </p>
-     </td>   
-     <td>
-      <a href="rapid-frontend-devlopment.md">
-      <img alt="Frontend Dev - Your future workflow to rapidly build & deploy the frontend of your site." src="/help/adobe-developers-live/assets/gabriel.png"/>
-      </a>
-      <div>
-         <a href="rapid-frontend-devlopment.md"><strong>Frontend Dev - Your future workflow to rapidly build & deploy the frontend of your site.</strong></a>
-         <br/><em>with Gabriel Walt, Sr. Product Manager</em>
-      </div>
-      <p>
-        <br/>
-         Use Site Templates to create new sites in few clicks, and bring back the fun of frontend development with the rapid deployment of frontend assets like CSS&JS.
-      </p>
-   </td>
-   </td>
-     <td>
-      <a href="get-ready-aem-cloud.md">
-      <img alt="Get ready for the Cloud Service - Migration best practices" src="/help/adobe-developers-live/assets/andreea.png"/>
-      </a>
-      <div>
-         <a href="get-ready-aem-cloud.md"><strong>Get ready for the Cloud Service - Migration best practices</strong></a>
-         <br/><em>with Andreea Moise, Sr. Software Engineer</em>
-      </div>
-      <p>
-        <br/>
-         Adapting your code base to make it cloud-friendly and bulletproof against future upgrades handled under the hood is key to maximize AEM Cloud Service benefits.
-      </p>
-   </td>
-  </tr>
-</table>
-
->[!TIP]
->
->**All sessions are listed in the navigation on the left**.
-
 ## Additional Resources
 
 * [Experience League - Explore AEM](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
