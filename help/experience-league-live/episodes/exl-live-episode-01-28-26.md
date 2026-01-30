@@ -16,3 +16,5 @@ Modern marketing is moving at the speed of a prompt. In this live webinar, Adobe
 See Audience Agent uncover audience insights and create ready-to-use audiences in minutes. Then, watch Journey Agent turn natural‑language prompts into multi‑step journeys from audience qualification to cross‑channel activation.  You'll see how agents within Real-Time CDP and Journey Optimizer reduce the friction of delivering customer experiences at scale for both business and technical users.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479512/?quality=12&learn=on)
+
+Have any questions about this show? Continue the discussion in the [Experience League Conversation.](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-agents-at-work-creating-and-activating-audiences-and-journeys-aep-247707?postid=745171#post745171){target="_blank"}
