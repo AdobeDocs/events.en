@@ -15,6 +15,7 @@ doc-type: live event
 
 + [Overview](overview.md)
 + Episodes {#episodes}
+  + [Get to Know Campaign Orchestration in Adobe Journey Optimizer](episodes/exl-live-episode-03-12-26.md)
   + [Adobe Experience Platform Agents for improved marketing efficiency and better business outcomes](episodes/exl-live-episode-03-03-26.md)
   + [Agents at work: Creating and activating audiences and journeys](episodes/exl-live-episode-01-28-26.md)
   + [Simplify troubleshooting and support case management with Product Support Agent](episodes/exl-live-episode-12-16-25.md)
