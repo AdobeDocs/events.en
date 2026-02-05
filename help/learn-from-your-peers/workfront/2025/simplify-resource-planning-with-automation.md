@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3587
 last-substantial-update: 2025-10-20
 jira: KT-19421
+exl-id: b059479a-bc5b-417d-a2c7-6ce6ea6b0c5e
 ---
-
 # Simplify Resource Planning with Automation
 
 Does resource planning and time-off tracking feel like a constant headache? In this Learn from Your Peers on-demand session, Tim Brooks from Deloitte shares how his team uses Fusion to make work planning and PTO tracking simpler and more accurate. He demonstrates how he replaced free-text fields and rigid sizing tiers with an intuitive, automated solution that improves accuracy and reduces planning anxiety.
@@ -33,4 +33,3 @@ Discover how leading teams are streamlining resource planning by leveraging auto
 * **Stakeholder Engagement** Collaboration and creative problem-solving were crucial for tailoring solutions to team needs.
 
 Embracing automation not only reduces manual effort but also empowers teams to manage resources more effectively and adapt to evolving project demands.
-

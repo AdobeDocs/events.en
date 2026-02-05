@@ -7,8 +7,8 @@ doc-type: Event
 duration: 114
 last-substantial-update: 2025-12-10
 jira: KT-19740
+exl-id: e51b38a7-4d2e-4f58-8345-87b77bc23587
 ---
-
 # Top 3 Reasons to Use Layout Templates in Adobe Workfront
 
 It's no surprise, layout templates make your Adobe Workfront instances more tailored to your specific needs as a System Admin, so check out my top 3 reasons why you should use layout templates!
@@ -18,4 +18,3 @@ It's no surprise, layout templates make your Adobe Workfront instances more tail
 For more resources check out the [Experience League Community post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-layout-templates-in-adobe-workfront/m-p/575531#M313)!
 
 If you like learning about new ideas and creative approaches, then don't forget to register for upcoming workshops on the [Experience League Events page](https://experienceleague.adobe.com/en/events).
-

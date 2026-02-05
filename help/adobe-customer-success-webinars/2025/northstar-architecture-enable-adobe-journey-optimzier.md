@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3226
 last-substantial-update: 2025-10-28
 jira: KT-19522
+exl-id: 19046906-cc6f-41bc-86dd-535dcd3641ad
 ---
-
 # Leveraging a NorthStar Architecture to Enable the Adobe Journey Optimizer Vision
 
 Learn how leveraging a NorthStar Architecture can help diagnose gaps in your implementation and maintain organizational alignment around AJO and your entire Adobe solution stack.
@@ -39,4 +39,3 @@ Northstar architecture diagrams map out the essential technology components and 
 * **Destinations** Specifies channels like email, SMS, web, and in-app messaging.
 
 Each component is tailored to the organization's industry and use cases, ensuring the architecture supports both current and future business needs.
-

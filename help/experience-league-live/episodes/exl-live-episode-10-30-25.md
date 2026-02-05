@@ -1,14 +1,14 @@
 ---
 title: The Next Era of Experimentation - How Agentic AI is Fueling Smarter Testing and Growth
-description: Join us for an Experience League Live session as we unveil Adobe Journey Optimizer Experimentation Accelerator — a new AI-first application built to transform how experimentation, product and growth teams test, learn, and optimize campaigns and customer journeys.  
+description: Join us for an Experience League Live session as we unveil Adobe Journey Optimizer Experimentation Accelerator — a new AI-first application built to transform how experimentation, product and growth teams test, learn, and optimize campaigns and customer journeys.
 kt: KT-18493
 solution: Journey Optimizer, Target
 feature: AI Assistant, Experimentation
 event-cta-url-live: https://youtube.com/live/w8eWsKuwyzI
 event-start-time: 2025-10-30 08:30-8
 event-guests: Sandra Hausmann, Brent Kostak, Justin Grover, David Arbour
+exl-id: 64f71d9a-79cc-4d80-a8a0-88bb274417b3
 ---
-
 # The Next Era of Experimentation: How Agentic AI is Fueling Smarter Testing and Growth
 
 In this Experience League Live session, we unveil **Adobe Journey Optimizer Experimentation Accelerator** — a new AI-first application built to transform how experimentation, product and growth teams test, learn, and optimize campaigns and customer journeys.  
@@ -33,4 +33,3 @@ We'll be answering your questions during this live chat.
 ## Additional resources
 
 * [Inside Adobe’s AI experimentation accelerator - Podcast](https://conversion.com/podcast/the-conversion-podcast-adobe-ai/)
-  

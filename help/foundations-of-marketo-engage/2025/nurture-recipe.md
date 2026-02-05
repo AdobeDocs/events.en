@@ -14,8 +14,8 @@ doc-type: Event
 duration: 3123
 last-substantial-update: 2025-09-24
 jira: KT-19288
+exl-id: 8f65f7e0-e90d-4be7-be0d-3ecedafdfcfe
 ---
-
 # Create Your Nurture Recipe
 
 Join us for an in-depth session designed to elevate your nurturing strategy in Marketo. Whether you're just getting started or looking to refine your approach.
@@ -36,5 +36,3 @@ This session covered the essentials and beyond,
 * **Performance Measurement** Gain insights into how to track, analyze, and optimize the performance of your nurture campaigns.
 
 This session is perfect for marketers looking to build a strong foundation in Marketo and drive measurable results through smarter nurturing.
-
-

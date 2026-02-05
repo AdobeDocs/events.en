@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2589
 last-substantial-update: 2025-11-13
 jira: KT-19689
+exl-id: 43fcdd6f-5cc7-4cac-9f04-073d05233e06
 ---
-
 # Change Management Strategies for Adobe Journey Optimizer Adoption
 
 This Adobe Journey Optimizer (AJO) seminar explores how change management drives success. Learn to build leadership strategies, foster cross-functional collaboration, and shift to real-time, data-driven engagement, empowering your teams to unlock the full value of AJO.
@@ -49,4 +49,3 @@ Transitioning from static, siloed operations to real-time, data-driven engagemen
 * Unlock the full potential of AJO by responding instantly to customer needs.
 
 Real-time responsiveness empowers teams to deliver more relevant and impactful customer experiences.
-

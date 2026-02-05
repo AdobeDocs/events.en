@@ -7,8 +7,8 @@ doc-type: Event
 duration: 1703
 last-substantial-update: 2025-12-12
 jira: KT-19988
+exl-id: 9b25161b-09ea-4ce2-b688-c692f43d3dcf
 ---
-
 # Bringing Intelligence on Content in Adobe Experience Manager with Content AI 
 
 Adobe Experience Manager Content AI transforms digital experiences by utilizing existing content for semantic search, generative discovery, and automatic content variations. Learn how Content AI's architecture and enrichment pipelines deliver intelligent digital experiences. Discover its capabilities to efficiently manage content and unlock AI opportunities, enhancing your business's digital transformation.

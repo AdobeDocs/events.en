@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3455
 last-substantial-update: 2025-10-28
 jira: KT-19502
+exl-id: 59540237-f65f-46bf-a53f-1612fb64a069
 ---
-
 # Marketo & Mochas: Harnessing GenAI in Adobe Marketo Engage
 
 Generative AI is redefining what's possible for B2B marketers—turning time-intensive tasks into moments of impact. In this webinar, you'll discover how Adobe Marketo Engage's GenAI capabilities help you build campaigns faster and personalize at scale. Empower your teams to focus on strategy and creativity, not repetitive production tasks. You'll learn how to: - Use the AI Assistant Content Accelerator in the new Email Designer to generate copy, images, and subject lines in seconds. - Create and adapt on-brand visuals directly in Marketo Engage with Adobe Express, streamlining content production. -Engage audiences across more channels including email, webinars, and AI-based chat directly from Marketo Engage.
@@ -35,5 +35,3 @@ AI is rapidly reshaping B2B marketing, driving a shift toward smarter, more effi
 * **Agentic AI** New agentic capabilities in Adobe Experience Platform and Marketo Engage automate tasks, remove bottlenecks, and enable real-time, intent-driven interactions.
 
 Understanding these trends helps organizations stay competitive and unlock the full potential of AI in marketing.
-
-

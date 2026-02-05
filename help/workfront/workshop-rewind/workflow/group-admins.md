@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3512
 last-substantial-update: 2025-12-17
 jira: KT-19763
+exl-id: 7a55ea8d-2e5e-4c74-9beb-d99366a850a0
 ---
-
 # Group Admin Essentials
 
 Explore the importance and benefits of group administrators in Adobe Workfront. Learn how to identify potential group admins, establish trust, and implement effective governance structures. This session offers insights into the roles and responsibilities of group admins, documentation strategies, and how they can enhance organizational efficiency and collaboration. A video discussion with experts provides practical examples and guidance.

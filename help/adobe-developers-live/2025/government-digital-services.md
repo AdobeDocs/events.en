@@ -7,8 +7,8 @@ doc-type: Event
 duration: 725
 last-substantial-update: 2025-12-12
 jira: KT-19989
+exl-id: 3d03e6c3-4ed2-45cc-9cea-2cb4a4094985
 ---
-
 # Leveraging AI and Adobe–Microsoft Integration to Streamline Government Digital Services 
 
 Discover how AI transforms government digital services by integrating Adobe Experience Manager and Microsoft SharePoint. Learn how adaptive forms simplify submission, validation, and service delivery, enhancing citizen experience and efficiency.

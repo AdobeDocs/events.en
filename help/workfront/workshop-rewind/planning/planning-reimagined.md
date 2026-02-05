@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3273
 last-substantial-update: 2025-12-03
 jira: KT-19779
+exl-id: 278e94c9-ecb5-47ba-a9c7-640bfc0cb98a
 ---
-
 # Workfront Planning, Reimagined: SNHU's Creative Use Cases
 
 Join Heather MacDonald, Associate Vice President, Marketing Operations, Southern New Hampshire University as she shares how her SNHU team navigated out-of-the-box (OOTB) challenges and used Workfront Planning features in creative, unexpected ways to drive visibility, alignment, and better decision-making in Marketing Operations. From unique portfolio setups to inventive timeline strategies, she offered real-life examples and practical tips you can apply in your own environment. 
@@ -23,6 +23,3 @@ For more information on what's coming next for Workfront Planning, be sure to bo
 Do you have ideas to share or have follow-up questions from the event? Feel free to drop them in the comments on the [Experience League Community post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-planning-reimagined-snhu-s-creative/td-p/771019)!
 
 New events are added every month, so make sure to check out the [Experience League Events page](https://experienceleague.adobe.com/en/events) for the latest sessions.
-
-
-

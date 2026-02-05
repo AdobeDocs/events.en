@@ -7,8 +7,8 @@ doc-type: Event
 duration: 208
 last-substantial-update: 2025-12-17
 jira: KT-18644
+exl-id: be789393-37e5-477c-b836-7e289e6cb17b
 ---
-
 # Top 3 - How to get started with Milestones
 
 Let's talk about Milestone Paths! It's your "On-Demand Workfront CSM" Cynthia Boon, and I thought I'd share my love of Milestone Reports, and how easy it is to get started.
@@ -26,5 +26,3 @@ For more information on milestones, check out these free resources:
 *   [Create a milestone path and milestone steps](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones)
 *   [Use the Milestone view](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/report-elements/use-milestone-view)
 *   [Send and share reports](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports)
-
-

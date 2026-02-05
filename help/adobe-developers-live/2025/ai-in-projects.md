@@ -7,8 +7,8 @@ doc-type: Event
 duration: 1138
 last-substantial-update: 2025-12-10
 jira: KT-19972
+exl-id: 6230722b-2cf7-45fd-9c5f-0a06d475309f
 ---
-
 # AI in Adobe Projects: Practical Stories
 
 Discover how AI transforms digital experiences in Adobe projects through real-world applications. Learn how AI enhances content creation, site validation, and project planning, driving efficiency and reducing costs. Dive into stories that showcase innovative uses of AI tools in Adobe Experience Manager, Adobe Commerce, and Edge Delivery Services.

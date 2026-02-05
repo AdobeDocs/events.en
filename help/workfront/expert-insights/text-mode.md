@@ -7,8 +7,8 @@ doc-type: Event
 duration: 1892
 last-substantial-update: 2025-12-10
 jira: KT-19738
+exl-id: 42008579-3f8d-4b10-bfdd-96fb77b1d48e
 ---
-
 # Workfront Expert Insights: Text Mode with Katherine Lanning
 
 Welcome to the latest Expert Insights!  I'm Cynthia Boon, your "On-Demand" Workfront CSM and for this episode we have Workfront Text Mode Jedi, Katherine Lanning, Workfront Solutions Engineer from IQVIQ!  During this episode, Katherine shares her story, her passion for all things Text Mode Reporting, and demos how she built her "Sanity Management" Dashboard!

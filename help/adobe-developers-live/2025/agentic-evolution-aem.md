@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3254
 last-substantial-update: 2025-12-10
 jira: KT-19970
+exl-id: 12d908ad-d962-4d49-9fa8-a13e170b76b8
 ---
-
 # Agentic Evolution of Adobe Experience Manager
 
 Discover how Adobe Experience Manager is evolving beyond cloud-native to become truly agentic. Learn about AEM Agents, Content AI Foundational Services, and API integrations that automate content workflows and enhance developer productivity. Join industry experts Cedric Huesler and Martin Buergi as they unveil these innovations, recorded live from San Jose.

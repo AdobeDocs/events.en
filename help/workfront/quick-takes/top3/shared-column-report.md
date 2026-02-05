@@ -7,8 +7,8 @@ doc-type: Event
 duration: 743
 last-substantial-update: 2025-12-17
 jira: KT-18653
+exl-id: 952bbc23-692e-4af0-99ff-51b3f079d2ee
 ---
-
 # Top 3 reasons to create a Shared Column Report
 
 Howdy folks!  Your "On-Demand Workfront CSM" Cynthia Boon is back with another "Top 3" video!   
@@ -20,5 +20,3 @@ We get lots of questions on how to use Text Mode to combine information into a r
 >[!VIDEO](https://video.tv.adobe.com/v/3470076/?learn=on&enablevpops)
 
 Looking for more? We have **Three Bonus Tips** on the [Experience League Community post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641)!
-
-

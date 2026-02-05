@@ -7,8 +7,8 @@ doc-type: Event
 duration: 308
 last-substantial-update: 2025-12-10
 jira: KT-19742
+exl-id: 7deb5697-b729-41dc-b418-bc613e5cac9c
 ---
-
 # Top 3 Fave Calendar Hacks
 
 It's your "On-Demand Workfront CSM" again with examples of my personal favorite Workfront Calendar hacks, including,

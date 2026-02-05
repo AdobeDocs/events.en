@@ -9,8 +9,8 @@ doc-type: Feature Video
 duration: 2559
 last-substantial-update: 2025-10-01
 jira: KT-19310
+exl-id: 2658c383-7957-4db6-807c-664a6bcd69fc
 ---
-
 # AI Agents in AEP: An Overview
 
 Discover how Adobe's Agentic AI vision comes to life in AEP, exploring the different types of AI Agents within the Platform and applied value- Understand Adobe's overall Agentic AI vision, intended purpose and market differentiators- Learn how AI Agents specific to AEP applications can be applied to use cases and drive efficiencies- Get a practical overview of what's available now, what's on the roadmap, and how to get started
@@ -27,4 +27,3 @@ Adobe Experience Platform features several specialized agents, each designed to 
 * **Product Support Agent** Streamlines troubleshooting, ticket creation, and status tracking, pulling from both documentation and live data.
 
 Agents are accessed via AI Assistant, which coordinates tasks and ensures seamless integration across AEP solutions. These tools drive efficiency, reduce manual effort, and support smarter marketing decisions.
-

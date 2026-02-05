@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3555
 last-substantial-update: 2025-11-13
 jira: KT-19684
+exl-id: 2d4de79e-426b-4b3a-b90c-99e095b1226e
 ---
-
 # Learn from your peers webinar: Adobe Commerce & App Builder Essentials - From Basics to Impact
 
 Join Adobe Commerce Champion Alex Lyzun for an educational session exploring the future of Adobe Commerce and the essentials of extensibility with App Builder. In this session, Alex shares expert insights from his personal experience into how running cloud-native applications for Adobe Commerce can help lower cost of ownership & upgrades, integrate with all of your enterprise systems, and empower your business by offering flexibility, agility, and customization to meet your unique business needs.

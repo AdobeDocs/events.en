@@ -9,8 +9,8 @@ doc-type: Event
 duration: 3232
 last-substantial-update: 2025-09-24
 jira: KT-19286
+exl-id: ffe6ced7-998c-4e40-a91f-e34e5174dc2c
 ---
-
 # Identity Graph Use Cases and Troubleshooting
 
 This webinar will give an in-depth understanding of how the Adobe Experience Platform Identity Service works to equip digital marketing managers with the knowledge to devise segmentation and activation scenarios. By understanding exactly how multi-device and other use cases work, realistic real-world solutions are possible.
@@ -40,4 +40,3 @@ Discover how Adobe Experience Platform's identity graph rules unify customer dat
 * **Graph Collapse & Remediation** Shared devices, unvalidated data, or implementation errors can fragment profiles; simulation tools and repair jobs help restore accuracy.
 
 Understanding these concepts empowers organizations to maximize data value, ensure compliance, and deliver personalized experiences.
-

@@ -7,8 +7,8 @@ doc-type: Event
 duration: 1242
 last-substantial-update: 2025-12-12
 jira: KT-19979
+exl-id: daf252a3-0b81-4e1e-9a03-be9c13d35fe3
 ---
-
 # ransform Adobe Experience Manager with AI Agents: Play, Build, Retrieve with Algolia
 
 Discover how Algolia's AI-powered search and retrieval capabilities transform Adobe Experience Manager, Adobe Commerce, and Edge Delivery Services. Learn how these tools enhance personalization and improve user experiences across the Adobe ecosystem.

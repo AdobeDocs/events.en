@@ -7,8 +7,8 @@ doc-type: Event
 duration: 2501
 last-substantial-update: 2025-12-11
 jira: KT-19985
+exl-id: e8998e51-b661-42ab-a6c4-1cb85e3d9386
 ---
-
 # Freeze, Restore, Innovate: Hands-On with Rapid Development Environment Snapshots for Cloud Development
 
 Discover how Rapid Development Environments (RDEs) in Adobe Experience Manager Cloud Service enable swift, cloud-native iterations. Learn how snapshot capabilities allow developers to freeze, restore, and reuse complete RDE states. This empowers you to streamline testing, rollback instantly, and accelerate development cycles using the Adobe I/O CLI RDE plugin. Enhance your cloud development efficiency and align with corporate governance policies.

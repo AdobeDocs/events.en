@@ -14,8 +14,8 @@ doc-type: Event
 duration: 3900
 last-substantial-update: 2025-09-24
 jira: KT-19208
+exl-id: ff824962-ee50-4fb5-8cee-74da47d46523
 ---
-
 # Foundational Marketo User Group: Score Smarter, Not Harder
 
 Welcome to part 4 of our 5 part series of the Foundations of Marketo Engage.
@@ -48,4 +48,3 @@ Lead scoring transforms raw marketing data into actionable insights, helping org
 * Marketo offers flexible tools for building, testing, and refining scoring models, with templates and community support.
 
 Understanding and applying these principles can drive more efficient lead management and higher revenue velocity.
-

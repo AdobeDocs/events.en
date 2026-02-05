@@ -1,14 +1,14 @@
 ---
 title: Agents at work - Creating and activating audiences and journeys
-description: See Audience Agent uncover audience insights and create ready-to-use audiences in minutes. Then, watch Journey Agent turn natural‑language prompts into multi‑step journeys from audience qualification to cross‑channel activation. 
+description: See Audience Agent uncover audience insights and create ready-to-use audiences in minutes. Then, watch Journey Agent turn natural‑language prompts into multi‑step journeys from audience qualification to cross‑channel activation.
 kt: KT-19993
 solution: Experience Platform
 feature: Agentic AI
 event-cta-url-live: https://www.youtube.com/live/V7n2KuhrhqQ
 event-start-time: 2026-01-28 08:30-8
 event-guests: Daniel Wright, Shelby Mansuri, Keara Fausett, Alyssa Espiritu
+exl-id: 564cd92e-bb1a-441b-88ac-7aaa87ad5930
 ---
-
 # Agents at work: Creating and activating audiences and journeys
 
 Modern marketing is moving at the speed of a prompt. In this live webinar, Adobe product teams will showcase how Adobe Experience Platform brings agentic AI to everyday workflows - so marketers can ideate, build, and activate faster with confidence.

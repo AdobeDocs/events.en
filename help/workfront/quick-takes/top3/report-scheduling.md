@@ -7,8 +7,8 @@ doc-type: Event
 duration: 312
 last-substantial-update: 2025-12-10
 jira: KT-19743
+exl-id: dfd5e71e-7356-4f70-914e-931b43619dd9
 ---
-
 # Top 3 Ways to get the most from Report Scheduling
 
 It's me again, your "On-Demand Workfront CSM" Cynthia Boon with another "Top 3" video! 

@@ -9,8 +9,8 @@ doc-type: Event
 duration: 2793
 last-substantial-update: 2025-10-01
 jira: KT-19335
+exl-id: b3e5a7bd-2440-442b-a92e-248f19409381
 ---
-
 # Enriching Adobe Commerce with Adobe Experience Platform
 
 This session overviews how to enrich Adobe Commerce with Adobe Experience Platform. Learn how these tools integrate to deliver personalized and data-driven customer experiences. Key features and use cases discussed include real-time customer profiles, personalized content, and omni-channel journey orchestration. 

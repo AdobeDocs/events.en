@@ -7,8 +7,8 @@ doc-type: Event
 duration: 1372
 last-substantial-update: 2025-12-11
 jira: KT-19986
+exl-id: ff1da36d-31ae-4feb-9d1d-87be65b7307e
 ---
-
 # Dynamic Publishing at the Edge with BYOM and App Builder 
 
 Explore dynamic publishing at the edge using Bring Your Own Markup and Adobe App Builder. Learn how this innovative approach delivers dynamic content directly at the edge without traditional CMS authoring. Discover how to fetch and transform external data into semantic HTML, ensuring fast and styled delivery. This session provides insights into real-world implementations, unlocking new publishing models for projects. Continue the conversation on Experience League and discover upcoming events.

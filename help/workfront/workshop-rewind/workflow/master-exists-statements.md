@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3755
 last-substantial-update: 2025-12-02
 jira: KT-19787
+exl-id: 3b5deff5-6732-427a-bc6b-d08abecd6cdc
 ---
-
 # Your dream Workfront report EXISTS! Two Approaches to Mastering EXISTS Statements
 
 Ready to take your Workfront reports to the next level?  Watch how Skye Hansen and Nathan Johnson offered two perspectives on creating EXISTS statements that can make your reporting dreams come true. 
@@ -22,4 +22,3 @@ Did you miss the live session? No worries! Review Skye & Nathan's [presentation 
 Do you have ideas to share or have follow-up questions from the event? Feel free to drop them in the comments on the [Experience League Community post](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/10.28.25+EXISTS+Class.pdf)!
 
 New events are added every month, so make sure to check out the [Experience League Events page](https://experienceleague.adobe.com/en/events) for the latest sessions.
-

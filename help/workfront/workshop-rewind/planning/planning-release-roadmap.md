@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3704
 last-substantial-update: 2025-11-20
 jira: KT-19790
+exl-id: 34e900a0-a6c9-4b14-923e-9f830ff5bf1d
 ---
-
 # From Vision to Value: Workfront Planning Release & Roadmap
 
 Join our Adobe Workfront Product Management team as they share an exclusive look at the latest enhancements in Workfront Planning and a first peek at what's coming next!
@@ -24,6 +24,3 @@ See how new features are designed to make it easier to connect strategy to execu
 - [Workfront Planning API Overview](https://developer.adobe.com/wf-planning/api/v1/)
 - [Workfront Workflow API Explorer](https://developer.adobe.com/workfront/api-explorer/)
 - Do you have ideas to share or have follow-up questions from the event? Feel free to drop them in the comments on the [Experience League Community post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-vision-to-value-workfront-planning-release/td-p/785666!) New events are added every month, so make sure to check out the Experience League Events page for the latest sessions.
-
-
-

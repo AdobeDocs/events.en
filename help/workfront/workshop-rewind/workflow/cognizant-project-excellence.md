@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3488
 last-substantial-update: 2025-12-17
 jira: KT-19753
+exl-id: 86835da4-c642-4d41-b92f-aca476c8b8f6
 ---
-
 # Boost Efficiency with Adobe Workfront
 
 Explore how Cognizant leverages Adobe Workfront to enhance project management and streamline workflows. Learn how optimizing resources and improving collaboration can drive project excellence. This workshop provides insights into best practices and strategies that can help your team achieve greater efficiency and alignment with business goals. Watch the video below to dive deeper into the methodologies and success stories shared by Cognizant.

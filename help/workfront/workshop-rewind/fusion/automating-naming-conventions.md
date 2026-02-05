@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3552
 last-substantial-update: 2025-11-20
 jira: KT-19791
+exl-id: 26883731-1cae-4119-8c12-0d7e39f455ce
 ---
-
 # 5 Tips for Automating Naming Conventions Using Workfront Fusion
 
 Keeping your Workfront environment organized starts with consistent naming conventions but enforcing them manually can be time-consuming and error prone. In this webinar hosted in partnership with Adobe Professional Services and Field Engineering, learn how to leverage Workfront Fusion to automatically apply naming standards across projects, tasks, issues, and more.
@@ -27,4 +27,4 @@ Whether you're just getting started with Fusion or looking to expand your automa
 
 - [Slide deck PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+-+Fusion+Naming+Conventions+-+Nov+19.pdf)
 - [Zip file](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Webinar+-+Naming+Conventions+-+111825.zip) with follow-along materials
-- New events are added every month, so make sure to check out the [Experience League Events page](https://experienceleague.adobe.com/en/events) for the latest sessions.  
+- New events are added every month, so make sure to check out the [Experience League Events page](https://experienceleague.adobe.com/en/events) for the latest sessions.

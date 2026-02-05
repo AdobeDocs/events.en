@@ -8,6 +8,7 @@ doc-type: Event
 duration: 2871
 last-substantial-update: 2025-10-02
 jira: KT-17227
+exl-id: 730453c4-e712-4330-90c1-a36fa6ba5c14
 ---
 # AEM GEMs - Mastering Cache Efficiency for Optimal Page Performance    
 

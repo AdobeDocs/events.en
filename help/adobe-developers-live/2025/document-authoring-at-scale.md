@@ -7,8 +7,8 @@ doc-type: Event
 duration: 1012
 last-substantial-update: 2025-12-11
 jira: KT-19990
+exl-id: 8cd6e066-5887-49dc-b80a-59fc417c5e3b
 ---
-
 # Document Authoring at Scale: The Foundation for Intelligent, AI-Optimized Experiences
 
 Discover how Adobe Experience Manager enables scalable, AI-ready document authoring across global enterprise ecosystems. Learn how integrating AEM Assets, Workfront, and translation workflows creates content variations for markets and languages, forming a foundation for semantic enrichment and AI optimization. This session features insights from Andreas Haller, Principal Solution Architect at Cognizant Netcentric, recorded live from Basel. Explore how Adobe's ecosystem supports intelligent experiences, ensuring alignment with corporate governance and enhancing digital transformation strategies.

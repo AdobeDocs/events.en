@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3208
 last-substantial-update: 2025-12-17
 jira: KT-19773
+exl-id: 77645fa5-3e51-4d33-83f0-30adcb67a17f
 ---
-
 # Upgrade to Event Subscriptions V2
 
 Discover how to smoothly transition your Fusion scenarios during the Event Subscriptions V2 upgrade. This session covers essential steps to preserve your workflows and ensure compatibility. Learn about new features, increased reliability, and how to manage changes effectively to achieve your business goals.

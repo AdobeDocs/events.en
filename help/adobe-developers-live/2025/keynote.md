@@ -7,8 +7,8 @@ doc-type: Event
 duration: 4240
 last-substantial-update: 2025-12-10
 jira: KT-19962
+exl-id: e0f0188d-c97c-4541-993e-cb88e3081eba
 ---
-
 # Keynote: Building the Agentic Web
 
 Discover how AI transforms digital experiences in this keynote from Adobe Developers Live 2025. Learn about Adobe's vision for the agentic web, featuring insights into AEM Agents, Content AI Foundational Services, Brand Concierge, and more. This event brings together experts to discuss innovative solutions for developers and architects worldwide.
@@ -23,4 +23,3 @@ Special thanks to our sponsors Algolia and Ensemble for supporting Adobe Develop
 
 * Continue the conversation on [Experience League](https://adobe.ly/47ss08A) 
 * Discover [upcoming events](https://developerevents.adobe.com)
-

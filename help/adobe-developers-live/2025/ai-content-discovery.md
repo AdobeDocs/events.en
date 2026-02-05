@@ -7,8 +7,8 @@ doc-type: Event
 duration: 1398
 last-substantial-update: 2025-12-12
 jira: KT-19978
+exl-id: 3b5a815a-98bd-41bb-a3d7-81c696015693
 ---
-
 # AI Driven Content Discovery with Channel Ready Renditions
 
 Discover how AI transforms content discovery with Adobe Experience Manager. Learn to use Content Advisor for semantic search and AI-powered asset recommendations. This session covers campaign brief-based discovery and rapid access to Dynamic Media renditions, simplifying content reuse and delivery through an OpenAPI stack.

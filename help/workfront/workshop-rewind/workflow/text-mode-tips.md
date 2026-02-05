@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3786
 last-substantial-update: 2025-12-17
 jira: KT-19769
+exl-id: 13e6de8c-df90-4979-a837-ba020c6b50f2
 ---
-
 # 10 Text Mode Tips in Adobe Workfront
 
 Explore ten essential text mode tips that enhance your reporting capabilities in Adobe Workfront. Learn how to manipulate views, filters, and groupings to extend your reporting beyond standard builder limitations. This workshop provides practical demonstrations and real-world examples, helping you to apply text mode effectively in your projects and tasks. Gain insights on using text mode for cost calculations, task management, and more, ensuring you align with your corporate governance policies and improve your workflow efficiency. The video below offers a comprehensive guide on these tips.

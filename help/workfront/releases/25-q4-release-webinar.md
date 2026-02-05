@@ -6,8 +6,8 @@ doc-type: Event
 duration: 3447
 last-substantial-update: 2025-12-02
 jira: KT-19784
+exl-id: 32b3a3ff-358e-4c1c-be15-19d9a79f9c2d
 ---
-
 # Adobe Workfront Fourth Quarter 2025 Release Webinar
 
 The Workfront Fourth Quarter Release was deployed on October 16th, 2025.   Hosted in partnership with the Adobe Product Management team, this webinar highlighted the new enhancements, including the New Requesting Experience, AI Reviewer, Workload Balancer updates, as well as Planning and Fusion features, and so much more! 
@@ -21,6 +21,3 @@ Also, make sure to review the [release notes](https://experienceleague.adobe.com
 Looking for the Q&A and Transcripts from the session? Check out the [Experience League Community post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-fourth-quarter-2025-release/td-p/780946)!
 
 New events are added every month, so make sure to check out the [Experience League Events page](https://experienceleague.adobe.com/en/events) for the latest sessions.
-
-
-

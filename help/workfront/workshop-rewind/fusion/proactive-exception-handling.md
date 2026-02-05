@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3539
 last-substantial-update: 2025-12-17
 jira: KT-19765
+exl-id: c6933b1b-3dce-40c6-a5f7-4312025054f7
 ---
-
 # Proactive Exception Handling Framework in Workfront Fusion
 
 Discover how proactive exception handling in Adobe Workfront Fusion can transform your automation processes. This framework helps identify, track, and resolve errors efficiently, minimizing disruptions and improving operational performance. Gain real-time visibility into automation health, utilize centralized error reporting, and optimize processes for better business outcomes. This video workshop provides insights into leveraging Workfront's capabilities for enhanced exception management.

@@ -7,8 +7,8 @@ doc-type: Event
 duration: 271
 last-substantial-update: 2025-12-17
 jira: KT-18648
+exl-id: f0f8a3ea-d7db-47b0-ba63-b25cbfb7ca15
 ---
-
 # Top 3 Reasons for Resource Pools
 
 Your "On-Demand Workfront CSM" is back with a new Top 3 video! This time we're talking about Resource Pools, and some creative ways to use them. This topic always inspires discussion, so check out the video.
@@ -25,5 +25,3 @@ Just getting started with Resource Pools? First things first, what are they?
 
 * For more info, check out the [Resource pools overview article](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-pools/work-with-resource-pools).
 * Looking for more? Check out the [Experience League Community post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-for-resource-pools/td-p/663866)!
-
-

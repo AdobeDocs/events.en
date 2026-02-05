@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3566
 last-substantial-update: 2025-12-17
 jira: KT-19758
+exl-id: f9d40c97-67af-420e-8519-9a6a068faa3a
 ---
-
 # 10 More Text Mode Tips in Adobe Workfront
 
 Join our workshop to delve into 10 practical text mode tips for Adobe Workfront. Whether you're a beginner or experienced user, these tips will help you optimize your workflow and improve project management efficiency. Learn how to manipulate filters, views, and groupings using text mode to customize reports and enhance productivity. This session is ideal for admins, developers, leaders, and users looking to master text mode in Workfront.

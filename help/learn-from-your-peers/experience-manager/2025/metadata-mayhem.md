@@ -9,8 +9,8 @@ doc-type: Event
 duration: 3613
 last-substantial-update: 2025-11-14
 jira: KT-19693
+exl-id: 5de073f2-ae5c-49b8-968b-f0b1447f665b
 ---
-
 # Metadata Mayhem to Mastery
 
 On this webinar, Adobe experts Autumn Earle and John Lemme will share their best practices for an effective implementation of the AEM Assets and Workfront native connector. You'll also get access to a number of valuable planning resources that will help you align stakeholders, refine your integration strategy, and get to value more quickly.

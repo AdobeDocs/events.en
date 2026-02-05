@@ -7,8 +7,8 @@ doc-type: Event
 duration: 714
 last-substantial-update: 2025-12-12
 jira: KT-19980
+exl-id: ebe4558d-a2ca-4ea0-bad0-d44fd3a32ec9
 ---
-
 # Inside the Engine: Code Optimization with Adobe Experience Manager Sites Optimizer 
 
 Discover how Adobe Experience Manager Sites Optimizer helps developers enhance code quality by detecting redundant scripts and heavy DOM structures. This session demonstrates how to use the tool to improve Core Web Vitals, reduce technical debt, and boost performance. Learn to apply recommendations seamlessly within your workflow for faster fixes, stronger SEO, and smoother user experiences.

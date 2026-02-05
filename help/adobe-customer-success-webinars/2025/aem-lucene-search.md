@@ -9,8 +9,8 @@ doc-type: Event
 duration: 3630
 last-substantial-update: 2025-11-13
 jira: KT-19550
+exl-id: 53d83139-90f4-4e6c-ba6d-66638c02b4c3
 ---
-
 # Essential Tips and Best Practices for AEM Lucene Search
 
 Discover how to enhance your digital presence and improve customer engagement with cutting-edge search features, including filters, facets, auto-suggest, NGram, and spell check. Learn from real-world demos and gain insights into optimising your search capabilities with AEM and Lucene. This webinar provides you the opportunity to elevate your search experience and stay ahead in the digital landscape.
@@ -54,4 +54,3 @@ Effective search optimization in AEM Lucene involves strategic configuration and
 * **Sorting & Facets** Enable propertyIndex and order for sorting; set facet** true for count-based filtering.
 
 Applying these strategies leads to faster queries, reduced resource usage, and more relevant results.
-

@@ -7,8 +7,8 @@ doc-type: Event
 duration: 247
 last-substantial-update: 2025-12-17
 jira: KT-18650
+exl-id: fc003618-897e-4944-9914-68d7137f2cd7
 ---
-
 # Top 3 Special Edition! Watch Me Work – 3 Ways [2nd Video]
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470073/?learn=on&enablevpops)

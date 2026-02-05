@@ -7,8 +7,8 @@ doc-type: Event
 duration: 1170
 last-substantial-update: 2025-12-10
 jira: KT-19974
+exl-id: fb65b8a2-149b-4cb7-bb69-2605ad4b79f3
 ---
-
 # Introducing Adobe Experience Manager Agents
 
 Adobe Developers Live 2025: Building the Agentic Web brought together developers, architects, and technologists across San Jose, Sydney, Bangalore, and Basel to explore how AI and Edge Delivery Services are redefining digital experiences with Adobe Experience Manager and Commerce.

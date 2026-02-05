@@ -7,13 +7,12 @@ doc-type: Event
 duration: 90
 last-substantial-update: 2025-12-10
 jira: KT-19739
+exl-id: b24df8f4-5a62-4163-93bd-c29fb9f108a0
 ---
-
 # Top 3 Reasons to Attend Adobe Workfront Workshops
 
 Adobe Workfront Workshops are an excellent way to get familiarized with our product. Watch a quick video on the top 3 reasons why you should attend our workshops!
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477025/?learn=on&enablevpops)
 
-Once you're done, head over to the [Experience League Events page](https://experienceleague.adobe.com/en/events?filters=Workfront) to sign up for future workshops. 
-
+Once you're done, head over to the [Experience League Events page](https://experienceleague.adobe.com/en/events?filters=Workfront) to sign up for future workshops.

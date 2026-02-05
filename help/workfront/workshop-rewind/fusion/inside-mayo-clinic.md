@@ -1,14 +1,14 @@
 ---
 title: Inside Mayo Clinic - How Workfront Fusion helps the Humans
-description: Inside look at 6 different use cases for how Mayo Clinic is using Workfront Fusion to transform the way they work. 
+description: Inside look at 6 different use cases for how Mayo Clinic is using Workfront Fusion to transform the way they work.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3504
 last-substantial-update: 2025-12-02
 jira: KT-19785
+exl-id: 7c64182d-4e0e-43fd-bc7a-bb94880641db
 ---
-
 # Inside Mayo Clinic: How Workfront Fusion helps the Humans
 
 Hosted in partnership with Tia Calvert and Matt Lien of Mayo Clinic, this session provided an inside look at 6 different use cases for how Mayo Clinic is using Workfront Fusion to transform the way they work. 
@@ -22,4 +22,3 @@ Fusion takes time and practice, so if you're just getting started, learn more ab
 For more resources and an inside look at their use cases, check out the [Experience League Community post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-inside-mayo-clinic-how-workfront-fusion-helps/td-p/781981)!
 
 New events are added every month, so make sure to check out the [Experience League Events page](https://experienceleague.adobe.com/en/events) for the latest sessions.
-

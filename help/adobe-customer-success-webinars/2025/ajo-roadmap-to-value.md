@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2860
 last-substantial-update: 2025-10-22
 jira: KT-19457
+exl-id: dc476481-677b-4b60-ada9-9ca27212edea
 ---
-
 # Adobe Journey Optimizer (AJO) Value Realization Series - Session 1 Roadmap to Value with AJO
 
 In our opening session of the series, we review why a strategy to roll out use cases is so critical in realizing value with Adobe Journey Optimizer (AJO). This webinar will provide practical guidance and real-world examples to help you build your AJO use case roadmap.The objective is for you and your team to unlock measurable outcomes and ensures alignment on value delivery. AJO provides immense potential, and having a clear roadmap will allow you & your team identify the quick wins, developing meaningful use cases aligned with your KBOs in order to get the most of your investment.
@@ -27,4 +27,3 @@ Implementing Adobe Journey Optimizer (AJO) effectively requires a disciplined, c
 * **Continuous Improvement** Monitor, optimize, and adapt use cases based on results and feedback.
 
 Following these steps ensures each initiative delivers tangible business value and supports long-term success.
-

@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2422
 last-substantial-update: 2025-11-13
 jira: KT-19625
+exl-id: 2524ce6c-d654-4b17-aa0f-ecefe17aa2ee
 ---
-
 # VRA Session #4: Building Executive Sponsorship for Support of Adobe Journey Optimizer (AJO) Success
 
 Explore the critical role of executive leaders in championing Adobe Journey Optimizer (AJO) programs, aligning cross-functional teams, and driving measurable business outcomes, with practical strategies to identify and engage sponsors.
@@ -44,4 +44,3 @@ Effective stakeholder mapping is essential for driving experience-led transforma
 * **Relationship Building** Foster transparency, set clear expectations, and maintain ongoing communication to transform executive support into strategic partnership.
 
 Using a stakeholder strategy map helps organizations select the right executive sponsor and allies, ensuring successful implementation and sustained change.
-

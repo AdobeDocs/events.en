@@ -7,8 +7,8 @@ doc-type: Event
 duration: 223
 last-substantial-update: 2025-12-17
 jira: KT-18652
+exl-id: 3eba141f-fda3-4688-a82a-91e8ebc543d9
 ---
-
 # Top 3 Reasons to Use Boards for Adoption
 
 It's me again, your "On-Demand Workfront CSM" Cynthia Boon with another "Top 3" video!
@@ -27,5 +27,3 @@ As promised in the video, we have loads of resources to share, including article
 * [Early feature opt-in for Adobe Workfront Boards](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=en)
 * [Create or edit a board - includes descriptions of each Boards template](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en)
 * [Adobe Workfront Boards - short video demonstrations](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=en)
-
-

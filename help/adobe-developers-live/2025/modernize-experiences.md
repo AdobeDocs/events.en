@@ -7,8 +7,8 @@ doc-type: Event
 duration: 975
 last-substantial-update: 2025-12-11
 jira: KT-19987
+exl-id: 34d729aa-6eb8-48f7-a9ea-66d6f179eb39
 ---
-
 # Migrate and Modernize Experiences with Adobe Experience Manager for User Engagement and AI-native Discovery
 
 Explore how Adobe Experience Manager transforms enterprise websites for the AI era. Learn how AI agents automate site migration, enrich content, and improve discoverability, reducing time-to-launch. Gain insights into integrating conversational interfaces, creating new pages, and enhancing design for better user engagement.

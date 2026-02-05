@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2515
 last-substantial-update: 2026-01-09
 jira: KT-20063
+exl-id: 6a4502e0-494f-466c-9290-afab570111f0
 ---
-
 # Beyond the Launch: How Marketo Engage's Email Designer Has Evolved
 
 Building emails in Adobe Marketo Engage just got easier with the new Email Designer, replacing the need for manual HTML coding with marketer friendly design tools. Join three-time Marketo Engage Champion Katja Keesom, where she will share honest practical tips and demonstrate how she has adopted the new Email Designer at her organization.

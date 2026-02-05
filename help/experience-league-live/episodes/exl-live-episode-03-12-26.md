@@ -7,8 +7,8 @@ feature: Audiences
 event-cta-url-live: https://www.youtube.com/live/mPVvZIbkJq8
 event-start-time: 2026-03-03 08:30-8
 event-guests: Sandra Hausmann, Bridgette Darling, Chakravarthy Kalva, Lee Henderson
+exl-id: 5ad4e649-d00a-4934-bfee-13d358fdad11
 ---
-
 # Get to Know Campaign Orchestration in Adobe Journey Optimizer
 
 See how Campaign Orchestration in Journey Optimizer manages your large, one‑to‑many multi-channel marketing programs—from audience creation to launch.

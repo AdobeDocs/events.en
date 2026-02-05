@@ -7,8 +7,8 @@ doc-type: Event
 duration: 1303
 last-substantial-update: 2025-12-12
 jira: KT-19977
+exl-id: ed604d3b-e694-48b3-bc5b-393947a360b4
 ---
-
 # AI-Powered Development for Adobe App Builder Extensions in Commerce
 
 Discover how Adobe Commerce leverages AI to transform app development and streamline customizations. Learn about automated code analysis, intelligent migration reports, and natural-language prompts that generate JavaScript code quickly. This session highlights the innovations in Adobe Commerce's tooling ecosystem, helping teams modernize legacy systems efficiently and reduce technical debt. Join the conversation and explore upcoming events to stay updated with the latest advancements.

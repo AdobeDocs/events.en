@@ -7,7 +7,7 @@ feature: AI Assistant
 event-cta-url-live: https://youtube.com/live/WS_DzRmYNzw
 event-start-time: 2025-10-22 08:30-7
 event-guests: Daniel Wright, Namita Krishnan, Huong Vu, Cole Connelly
-
+exl-id: a728adaa-4cbb-4c7f-9587-4d5e3b92d28f
 ---
 # Next-Gen customer experiences & efficiency with Adobe Experience Platform Agent Orchestrator
 

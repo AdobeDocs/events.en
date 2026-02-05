@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3415
 last-substantial-update: 2025-10-28
 jira: KT-19501
+exl-id: f7fa9b2a-5a1f-4d19-86e3-23c01c4d6c36
 ---
-
 # Commerce & Coffee: Preparing for Peak Season
 
 Join Sr. Commerce Strategy Consultant, Corey Gelato, and Business Advisor, Agbi Bajrushi, for a look at how to strengthen every layer of your commerce experience ahead of peak season. From scaling your infrastructure and streamlining checkout to optimizing inventory, fulfillment, and search, this session will show you how to improve both performance and personalization across the entire customer journey. This year's session will also explore new capabilities across Adobe Commerce, including enhanced B2B support, scheduled content and promotions, and our growing SaaS solutions like Adobe Commerce Optimizer (ACO) and Commerce Cloud Service (CCS). You'll walk away with actionable strategies to drive conversion, mitigate fraud, and get the most out of live search, recommendations, and post-peak analytics.
@@ -38,4 +38,3 @@ Delivering tailored experiences is a proven driver of revenue.
 * **Iterative Improvement** Monitor analytics and adjust strategies throughout the season for optimal results.
 
 Personalization builds loyalty and increases sales by making shopping easier and more engaging.
-

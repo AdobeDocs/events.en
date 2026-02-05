@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3115
 last-substantial-update: 2025-10-28
 jira: KT-19483
+exl-id: dc33d6a9-1675-4791-a9f2-a64251f346bd
 ---
-
 # Foundational Marketo User Group: Professional Exam Preparation
 
 Ready to take your Marketo skills to the next level? Join our final Foundational Marketo User Group session, where we'll focus on Professional Exam Preparation. We'll cover everything you need to succeed, including- Targeted study guides- The latest Adobe resources- Practical advice to help you pass with confidence. Plus, you'll get tips on leveraging LLM support for smarter studying, and we'll wrap up with an open Q&A to address your toughest questions. Whether you're just starting your prep or looking for that final boost, this session is designed to set you up for success.
@@ -34,4 +34,3 @@ Combining these strategies ensures a well-rounded preparation, boosting confiden
 * **Champion & User Group Content** Review blogs, recordings, and discussions for practical tips and exam-level explanations.
 
 These resources provide a strong foundation and ongoing support throughout your certification journey.
-

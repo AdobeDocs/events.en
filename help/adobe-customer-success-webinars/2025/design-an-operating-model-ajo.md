@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3581
 last-substantial-update: 2025-11-13
 jira: KT-19551
+exl-id: 7c10159b-9ae3-447d-8cfa-e46802e63ea8
 ---
-
 # Designing an Operating Model for AJO Success
 
 In the third session of our AJO VRA Series, learn why establishing a cohesive operating model to support your marketing program is so critical in avoiding future resourcing challenges, enhancing efficiencies, and maximising your ability to scale.
@@ -45,4 +45,3 @@ Robust governance and evolving team structures are key to operational excellence
   * **Embedded** 15-20 specialized members, high scalability, ongoing training.
 
 Clear governance and team maturity drive consistent delivery and measurable results.
-

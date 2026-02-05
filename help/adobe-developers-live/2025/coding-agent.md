@@ -7,8 +7,8 @@ doc-type: Event
 duration: 1603
 last-substantial-update: 2025-12-10
 jira: KT-19973
+exl-id: 9ef082f9-5051-4a04-9559-cef70a6d7e31
 ---
-
 # AI Coding Showdown: The Good, Bad, and Ugly
 
 Discover how AI coding agents perform in real-world Edge Delivery Services projects. Learn about their strengths, challenges, and the impact on developer experience. This session from Adobe Developers Live 2025 showcases practical automation versus 'vibe coding,' highlighting where AI excels and where it struggles. Join Lars Trieloff as he tests agentic engineering, comparing leading AI coding agents to reveal insights into the future of digital experiences.

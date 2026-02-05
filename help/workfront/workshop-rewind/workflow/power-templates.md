@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3385
 last-substantial-update: 2025-12-03
 jira: KT-19777
+exl-id: 7c68dd9e-106d-40ad-9bb4-7d3491e361d7
 ---
-
 # Power Templates: How IDEXX Reconfigured Project Templates for Global Success
 
 Join Lyndsy Denk, Marketing Training and Enablement Manager at IDEXX, as she shares her templated approach for global campaigns with localization scenarios! 
@@ -20,5 +20,3 @@ Watch the on-demand recording and take a peek "under the hood" of her real proce
 Looking for more resources that were shared during the event?  Check out the [Experience League Community post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-power-templates-how-idexx-reconfigured-project/td-p/768981)!
 
 New events are added every month, so make sure to check out the [Experience League Events page](https://experienceleague.adobe.com/en/events) for the latest sessions.
-
-

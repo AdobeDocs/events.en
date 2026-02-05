@@ -9,8 +9,8 @@ doc-type: Event
 duration: 2491
 last-substantial-update: 2025-11-13
 jira: KT-19626
+exl-id: 5334e833-d83a-4c78-a1e1-901a9cec1e14
 ---
-
 # AI Assistant in AEM
 
 Explore the capabilities of the AI Assistant in AEM, including configuration and a live demo, to understand how it can streamline authoring and administration tasks.
@@ -43,4 +43,3 @@ Understanding these capabilities empowers teams to leverage AEM AI Assistant for
 * **No Content Generation** Currently, the assistant does not generate or author content—focus is on knowledge and support.
 
 Future Enhancements: Additional features and broader capabilities are under consideration, with updates expected as the product evolves.
-

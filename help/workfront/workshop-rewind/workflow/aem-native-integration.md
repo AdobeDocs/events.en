@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3559
 last-substantial-update: 2025-12-02
 jira: KT-19786
+exl-id: 2014eb76-2218-4979-9f56-864be531c590
 ---
-
 # Leveraging the Workfront + AEM Native Integration
 
 Join Myka Bohnsack and Warren Barton as they share their expertise on the Workfront + AEM Native Integration event! 
@@ -21,6 +21,3 @@ If you missed the live event, review the [slide deck](https://workfront-experien
 Do you have ideas to share or have follow-up questions from the event? Feel free to drop them in the comments on the [Experience League Community post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-leveraging-the-workfront-aem-native-integration/td-p/783361)!
 
 New events are added every month, so make sure to check out the [Experience League Events page](https://experienceleague.adobe.com/en/events) for the latest sessions.
-
-
-

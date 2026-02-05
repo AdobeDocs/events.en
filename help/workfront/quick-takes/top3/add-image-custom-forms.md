@@ -7,8 +7,8 @@ doc-type: Event
 duration: 171
 last-substantial-update: 2025-12-10
 jira: KT-19741
+exl-id: 03c34c86-8662-4be9-921e-2ee2fa97b04b
 ---
-
 # Top 3 Reasons to Add an Image to Custom Forms
 
 Check out this Top 3 video edition highlighting reasons why you should include images, videos, or PDFs in your Custom Form for your Request Queue.

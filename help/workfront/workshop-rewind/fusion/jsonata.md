@@ -1,14 +1,14 @@
 ---
 title: Making JSON sing with Workfront Fusion + JSONata
-description: This session walked through the basics of reading JSON path notation, understanding data types, and choosing the right starting path in Fusion. 
+description: This session walked through the basics of reading JSON path notation, understanding data types, and choosing the right starting path in Fusion.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3618
 last-substantial-update: 2025-12-03
 jira: KT-19780
+exl-id: 28081dcd-a5d1-4444-850a-237e2378e308
 ---
-
 # Making JSON sing with Workfront Fusion + JSONata
 
 Hosted in partnership with Steve Watts and Brian Haight of Adobe Professional Services, this session walked through the basics of reading JSON path notation, understanding data types, and choosing the right starting path in Fusion. 
@@ -22,4 +22,3 @@ If you weren't able to attend live, no worries - review the [slide deck](https:/
 Check out the [Experience League Community post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-making-json-sing-with-workfront-fusion-jsonata/td-p/776029) for a downloadable, follow along zip file of training materials!
 
 New events are added every month, so make sure to check out the [Experience League Events page](https://experienceleague.adobe.com/en/events) for the latest sessions.
-

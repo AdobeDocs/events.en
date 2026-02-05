@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3217
 last-substantial-update: 2025-10-28
 jira: KT-19500
+exl-id: e7a85278-aa6a-41d8-aed5-88249bd9193e
 ---
-
 # Data Drip: Benefits of Migrating from an Old System to Web SDK
 
 Join us for this Data Drip webinar where Adobe Customer Technical Advisor, Arindam Agarwal, will guide us through the systemic benefits of the Adobe Web Software Development Kit. Adobe Web SDK is a client-side solution that leverages its services through the Adobe Experience Platform Edge Network - creating sustained competitive advantages, lowering operation costs, and improving performance compared to older libraries. Arindam will provide an in-depth overview of Web SDK, its features and advantages such as: - Ease of implementation - Simplified integration - Smarter tracking enablement - Liability reductions - Event side forwarding - Website traffic flows
@@ -48,4 +48,3 @@ Adobe Web SDK consolidates multiple tracking libraries (Analytics, Target, Audie
 * Supports standardized Experience Data Model (XDM) schemas for consistent data across platforms.
 
 This approach simplifies maintenance, improves performance, and enables seamless collaboration between teams.
-

@@ -9,8 +9,8 @@ doc-type: Event
 duration: 3055
 last-substantial-update: 2025-10-28
 jira: KT-19499
+exl-id: c454f585-e553-4427-9126-ede95540779c
 ---
-
 # Espressos & Experience Manager: Content Hub vs. Brand Portal
 
 Join us for an inside look at Content Hub, the next evolution of Brand Portal within Adobe Experience Manager (AEM). The AEM product team gathered customer feedback to build Content Hub and deliver a modern, streamlined experience for asset distribution—free to all Asset Cloud Service customers. Whether you're currently using Brand Portal or exploring solutions for asset sharing, migrating to Content Hub is a clear win: 
@@ -31,4 +31,3 @@ Digital asset management (DAM) is evolving, and Adobe's Content Hub offers a str
 * **Migration Made Simple** Transitioning from Brand Portal is straightforward, with engineering support and new features like attribute-based access control and improved sharing.
 
 Understanding these capabilities empowers teams to optimize asset distribution and collaboration, paving the way for faster content activation and better ROI.
-

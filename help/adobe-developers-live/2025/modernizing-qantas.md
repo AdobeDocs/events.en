@@ -7,8 +7,8 @@ doc-type: Event
 duration: 1810
 last-substantial-update: 2025-12-12
 jira: KT-19984
+exl-id: 95c84a15-4c4d-4f0c-a221-11b12b82ec3d
 ---
-
 # Modernizing Qantas.com with Edge Delivery Services (EDS)
 
 Discover how Qantas revamped its website using Adobe Experience Manager Edge Delivery Services. This transformation reduced publishing time from weeks to minutes, simplified development, and improved SEO with cleaner semantic markup. Learn about the shift from on-prem deployments to edge architecture and how it expanded the talent pool with JavaScript-based workflows. Gain insights into how this modern approach enhanced authoring speed and supported corporate governance goals. Join the conversation and explore upcoming Adobe events for deeper insights.

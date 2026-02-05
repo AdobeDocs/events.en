@@ -1,6 +1,6 @@
 ---
 title: Fusion Decoded - What It Is and Why Every Org Can Use It
-description: Workfront Fusion and walks us through some live examples to help demystify Fusion. 
+description: Workfront Fusion and walks us through some live examples to help demystify Fusion.
 feature: Workfront Fusion
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3199
 last-substantial-update: 2025-12-02
 jira: KT-19788
+exl-id: 17044e9c-9a18-4873-9368-accb7351734d
 ---
-
 # Fusion Decoded: What It Is and Why Every Org Can Use It
 
 Watch how Jen Desmond breaks down Workfront Fusion and walks us through some live examples to help demystify Fusion.  

@@ -7,8 +7,8 @@ doc-type: Event
 duration: 2862
 last-substantial-update: 2025-11-20
 jira: KT-19789
+exl-id: 565e805e-03de-42b1-ab0d-11da895c7abf
 ---
-
 # From Self-Taught to Success: How Kyndryl Scaled Workfront to Power $7B
 
 Hosted in partnership with Rachel Small and Bill McCandless of Kyndryl, this session provided an overview of how Kyndryl's in-house creative team took a self-taught approach to building a Workfront model that could support a $7B global business. They designed and scaled a content operations framework using native Workfront features like project templates, custom forms, reports and dashboards to balance speed, visibility, and governance.  
