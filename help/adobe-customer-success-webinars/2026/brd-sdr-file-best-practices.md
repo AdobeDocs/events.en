@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2770
 last-substantial-update: 2026-02-05
 jira: KT-20252
+exl-id: aad025d5-d427-46a3-bac3-044c7674b9f7
 ---
-
 # Best practices for BRD-SDR file creation in Adobe Analytics and Customer Journey Analytics
 
 Discover essential strategies for compiling and maintaining solution design documents for Adobe Analytics and CJA projects. Improve implementation efficiency and streamline tracking expansions or debugging. Gain insights on mapping business requirements to technical needs, utilizing out-of-the-box components, and navigating Adobe Analytics to CJA migration.
