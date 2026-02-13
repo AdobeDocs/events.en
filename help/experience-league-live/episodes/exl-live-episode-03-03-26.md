@@ -17,4 +17,4 @@ This exclusive session features an insightful Q&A session with Anjul Bhambhri, S
 
 <img alt="Experience League LIVE Mar 3 2026" src="./assets/WebBannerExlLive-Mar03-2026.jpg">
 
-[Set a Reminder](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"}
+[Register now!](https://engage.adobe.com/ExpLeagueLive-260303.html){target="_blank"}
