@@ -17,4 +17,4 @@ We'll cover the campaign orchestration canvas and relational schemas the foundat
 
 <img alt="Experience League LIVE Mar 3 2026" src="./assets/WebBannerExlLive-Mar12-2026.jpg">
 
-[Set a Reminder](https://www.youtube.com/live/mPVvZIbkJq8){target="_blank"}
+[Register today!](https://engage.adobe.com/ExpLeagueLive-260312.html){target="_blank"}
