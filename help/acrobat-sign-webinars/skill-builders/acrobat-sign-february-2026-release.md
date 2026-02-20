@@ -10,8 +10,8 @@ doc-type: Event
 duration: 3434
 last-substantial-update: 2026-02-20
 jira: KT-20367
+exl-id: 9c5aae8a-26e1-4745-a6d4-3531e0499a67
 ---
-
 # Stay Up to Date with Adobe's Latest Innovations - Acrobat Sign February 2026 Release
 
 Join us for the first Release Webinar of the year, showcasing exciting new features in Acrobat Sign, including:
