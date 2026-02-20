@@ -20,6 +20,7 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
   + General {#general2026}
     + [AI Strategies for Holiday Success](2026/2025-holiday-results.md)
     + [Content Supply Chain Change Management Strategies](2026/csc-change-management.md)
+    + [Content Supply Chain Executive Sponsorship](2026/csc-executive-sponsorship.md)
     + [Foundational Architecture for Content Supply Chain](2026/csc-architecture.md)
     + [Operating Model for Content Supply Chain](2026/csc-operating-model.md)
 + 2025 {#2025}

@@ -22,6 +22,7 @@ solution: Document Cloud
   + [Creating and Using Workflows](./skill-builders/create-use-workflows.md)
 + 101 - Get Started for Admins {#getstartedadmins}
   + [Power Up Your Acrobat Sign Admin Experience](./skill-builders/acrobat-sign-admin-experience.md)
+  + [Administrators on ETLA](./skill-builders/acrobat-sign-admin-etla.md)
   + [Advanced Reporting](./skill-builders/advanced-reporting.md)
 + 102 - Advanced Tasks {#advancedtasks}
   + [Advanced Tips for Sending Documents for Signature](./skill-builders/advanced-sending-documents-signature.md)
