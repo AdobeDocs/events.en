@@ -11,6 +11,7 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
   + Customer Journey Analytics {#cja2026}
     + [BRD-SDR File Creation for Customer Journey Analytics](2026/brd-sdr-file-best-practices.md)
   + Experience Manager {#aem2026}
+    + [Authoring in Edge Delivery Services](2026/authoring-eds.md)
     + [Maximize Content Supply Chains](2026/value-with-content-supply-chain.md)
     + [Modern Delivery Models for AEM Sites](2026/modern-delivery-model-aem.md)
     + [Strategic Benefits of AEM Cloud Service](2026/moving-to-aemcs.md)
@@ -18,7 +19,9 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
     + [Embedded Intelligence Shift](2026/embedded-intelligence.md)
   + General {#general2026}
     + [AI Strategies for Holiday Success](2026/2025-holiday-results.md)
+    + [Content Supply Chain Change Management Strategies](2026/csc-change-management.md)
     + [Foundational Architecture for Content Supply Chain](2026/csc-architecture.md)
+    + [Operating Model for Content Supply Chain](2026/csc-operating-model.md)
 + 2025 {#2025}
   + Commerce {#commerce2025}
     + [Enriching Adobe Commerce with Adobe Experience Platform](2025/enriching-adobe-commerce.md)
