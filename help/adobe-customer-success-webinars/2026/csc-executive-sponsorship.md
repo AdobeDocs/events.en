@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2502
 last-substantial-update: 2026-02-20
 jira: KT-20311
+exl-id: e84d484b-3b00-4073-8781-3671449c207c
 ---
-
 # Establishing Executive Sponsorship to Drive Success throughout the Content Supply Chain
 
 This session explores how executive sponsorship drives success in the content supply chain, guiding viewers through practical strategies to secure leadership support, align cross-functional teams, and implement efficient processes.

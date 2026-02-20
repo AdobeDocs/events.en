@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2363
 last-substantial-update: 2026-02-20
 jira: KT-20301
+exl-id: b5887dae-a6cd-4ad6-b762-6ddfccd72bd2
 ---
-
 # VRA Session 5: Change Management Strategies to Operate your Content Supply Chain
 
 Discover how to lead your organization into a data driven Content Supply Chain using a proven change management lens. This session will show how to align leaders, equip teams, and hard‑wire new ways of working so teams, automation, and shared data actually translate into faster time‑to‑market, higher asset reuse, and stronger governance.

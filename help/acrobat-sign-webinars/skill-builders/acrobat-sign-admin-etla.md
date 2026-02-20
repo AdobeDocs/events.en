@@ -10,8 +10,8 @@ doc-type: Event
 duration: 3508
 last-substantial-update: 2026-02-20
 jira: KT-20345
+exl-id: 1056ece4-0060-4bcd-95a9-9a0f7fee3ec7
 ---
-
 # Acrobat Sign 101 for Administrators on ETLA
 
 Are you new to being an Administrator in Acrobat Sign, or looking to re-visit the first steps?

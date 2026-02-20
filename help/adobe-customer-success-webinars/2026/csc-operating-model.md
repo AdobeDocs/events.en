@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3736
 last-substantial-update: 2026-02-20
 jira: KT-20312
+exl-id: 52dbf621-de61-428b-921b-84f249fd2823
 ---
-
 # Designing an Operating Model for Content Supply Chain Success
 
 This session covers how to design an effective operating model for content supply chain success, focusing on team structure, governance, and process optimization. It provides practical guidance for building a Center of Excellence and demonstrates how to leverage technology and cross-functional collaboration to drive efficiency and value.  
