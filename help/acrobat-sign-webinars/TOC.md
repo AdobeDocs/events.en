@@ -9,6 +9,7 @@ solution: Document Cloud
 
 + [Overview](overview.md)
 + Release webinars {#releases}
+  + [February 2026](skill-builders/acrobat-july-release.md)
   + [October 2025](skill-builders/acrobat-sign-october-2025-release.md)
   + [July 2025](skill-builders/acrobat-july-release.md)
 + Innovation - New Feature Highlights {#newfeatures}
