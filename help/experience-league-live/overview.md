@@ -20,7 +20,7 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 <table>
 <tr>
     <td style="vertical-align: top;"><a href="episodes/exl-live-episode-03-03-26.md">
-      <img alt="Experience League LIVE Mar 3 2026" src="episodes/assets/WebBannerExlLive-Mar03-2026.jpg">
+      <img alt="Experience League LIVE Mar 3 2026" src="episodes/assets/WebBanner_Mar03_2026-v2.jpg">
     </a>
     <div>
       <a href="episodes/exl-live-episode-03-03-26.md"><strong>Join an insightful Q&A session with Anjul Bhambhri, Sr. VP of Adobe Experience Cloud, to learn about Adobe's bold vision for innovative Agentic AI capabilities.</strong></a>
