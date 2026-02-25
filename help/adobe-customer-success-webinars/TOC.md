@@ -10,6 +10,7 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
 + 2026 {#2026}
   + Customer Journey Analytics {#cja2026}
     + [BRD-SDR File Creation for Customer Journey Analytics](2026/brd-sdr-file-best-practices.md)
+    + [Unlocking Identity](2026/unlock-identities.md)
   + Experience Manager {#aem2026}
     + [Authoring in Edge Delivery Services](2026/authoring-eds.md)
     + [Maximize Content Supply Chains](2026/value-with-content-supply-chain.md)
