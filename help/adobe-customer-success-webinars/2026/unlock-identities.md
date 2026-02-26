@@ -9,8 +9,8 @@ doc-type: Event
 duration: 1809
 last-substantial-update: 2026-02-25
 jira: KT-20378
+exl-id: 0c3e5e2f-542f-4517-a17b-80179850d521
 ---
-
 # Seamless Journeys: Unlocking Identity with CJA
 
 This session explores how Customer Journey Analytics (CJA) unlocks unified customer insights by breaking down data silos and enabling identity stitching across channels and devices. Recommended for anyone seeking to understand practical strategies for connecting customer data, improving attribution accuracy, and driving smarter business decisions.
