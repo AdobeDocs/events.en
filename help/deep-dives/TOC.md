@@ -19,6 +19,7 @@ doc-type: live event
   + [Admin Console Migration](admin-console.md)
   + [APIs](api.md)
   + [Applying AI in Marketo](applying-ai.md)
+  + [Smarter Flows with Webhooks & Self-Service Flow Steps](building-smarter-flows.md)
   + [Automating & Streamlining Campaign Operations Using the Marketo API](campaign-operations.md)
   + [Certification](certification.md)
   + [Discover the New Email Designer in Marketo Engage](email-designer.md)
