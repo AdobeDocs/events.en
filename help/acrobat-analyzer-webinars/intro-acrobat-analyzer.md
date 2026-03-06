@@ -13,7 +13,7 @@ jira: KT-20491
 
 Join us for an introduction to Adobe Acrobat Analyzer – a new GenAI capability with Acrobat Sign designed to extract structured, auditable insights from large volumes of documents, helping business teams automate workflows, reduce risk, and make faster decisions at scale.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480892/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3480894/?learn=on&enablevpops)
 
 This webinar will show how Adobe Acrobat Analyzer makes document intelligence accessible to every function within the enterprise. In this Webinar, you will learn:
 
