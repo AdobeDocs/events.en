@@ -1,6 +1,7 @@
 ---
 title: Acrobat Analyzer webinars
 description: Explore Adobe Acrobat Analyzer webinars to see how Generative AI extracts structured, auditable insights from documents to automate workflows, reduce risk, and accelerate enterprise decision-making at scale.
+exl-id: cbc929b5-3673-4118-826f-763dacff987b
 ---
 # Acrobat Analyzer webinars {#acrobat-analyzer-webinars}
 
@@ -40,7 +41,3 @@ Discover how Adobe Acrobat Analyzer uses Generative AI to extract structured, au
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-
-
-
