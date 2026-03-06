@@ -7,7 +7,7 @@ duration: 334
 ---
 # Adobe Experience League Event Recordings {#events}
 
-## With Experience League, learning is an event.
+## With Experience League, learning is an event.****
 
 Stay in the loop on exclusive events and webinars to expand your learning. Visit this space often to view recordings of past events like Experience League LIVE, Skill Builders, Developers Live, and more. If you want to register for an upcoming event, take a look at the [upcoming events](https://%65xperienceleague.adobe.com/events/?lang=en) on Experience League.
 
@@ -152,6 +152,29 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
                     <p class="is-size-6">A library of recorded Workfront events where experts and peers share thoughts on how to use Workfront.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">View recordings</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Acrobat Analyzer Webinars">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html" title="Acrobat Analyzer Webinars" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-analyzer-webinars.png" alt="Acrobat Analyzer Webinars"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html" target="_blank" rel="referrer" title="Acrobat Analyzer Webinars">Acrobat Analyzer Webinars</a>
+                    </p>
+                    <p class="is-size-6">Join Adobe Acrobat Analyzer webinars to learn how Generative AI turns documents into structured insights that automate workflows and accelerate decision-making.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">View recordings</span>
                 </a>
             </div>
