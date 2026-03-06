@@ -8,6 +8,7 @@ user-guide-description: A collection of event recordings forcused on using Adobe
 
 + [Overview](overview.md)
 + By series {#series}
+  + [Acrobat Analyzer Webinars](https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html)
   + [Acrobat Sign Webinars](https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html)
   + [Adobe Commerce Intelligence Webinars](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
   + [Adobe Customer Success Webinars](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html)
@@ -33,6 +34,8 @@ user-guide-description: A collection of event recordings forcused on using Adobe
   + [Wake up with Workfront](https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html)
   + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
 + By solution {#solution}
+  + Acrobat Analyzer {#aaa}
+    + [Acrobat Analyzer Webinars](https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html)
   + Acrobat Sign {#as}
     + [Acrobat Sign Webinars](https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html)
   + Adobe Acrobat Services {#aas}
