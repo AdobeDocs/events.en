@@ -31,3 +31,5 @@ solution: Document Cloud
   + [Document Builder](./skill-builders/document-builder.md)
   + [Post a Fillable, Signable Web Form](./skill-builders/fillable-signable-web-form.md)
   + [Workflow Automations](./skill-builders/workflow-automations.md)
++ Acrobat Analyzer
+  + [Introducing Acrobat Analyzer](./skill-builders/intro-acrobat-analyzer.md)
