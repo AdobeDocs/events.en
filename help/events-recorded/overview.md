@@ -20,6 +20,11 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
   {description = A library of recorded Workfront events where experts and peers share thoughts on how to use Workfront.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png}
   {cta  = View recordings}
+* https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html
+  {title = Acrobat Analyzer Webinars}
+  {description = Join Adobe Acrobat Analyzer webinars to learn how Generative AI turns documents into structured insights that automate workflows and accelerate decision-making.}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-analyzer-webinars.png}
+  {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html
   {title = Acrobat Sign Webinars}
   {description = Learn from Adobe experts how to master new e-signature workflows in Acrobat Sign.}
