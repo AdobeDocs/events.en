@@ -30,4 +30,4 @@ Whether you're getting started or aiming to optimize with AI-native capabilities
 
 ## Additional resources
 
-* [Presentation slides](../../assets/commerce/Adobe-Commerce-Product-Recommendations-Slides.pdf).
+* [Presentation slides](../../assets/commerce/Adobe-Commerce-Product-Recommendations-Slides.pdf)
