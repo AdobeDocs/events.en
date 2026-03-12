@@ -19,15 +19,8 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 
 <table>
 <tr>
-    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-03-12-26.md">
-      <img alt="Experience League LIVE Mar 3 2026" src="episodes/assets/WebBannerExlLive-Mar12-2026.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-03-12-26.md"><strong>See how Campaign Orchestration in Journey Optimizer manages your large, one‑to‑many multi-channel marketing programs—from audience creation to launch.</strong></a>
-      <br/><em>with Sandra Hausmann, Bridgette Darling, Chakravarthy Kalva and Lee Henderson</em>
-      <br/><em>March 12, 2026 at 8:30 PT</em>
-      <br/><br/><b><a href="episodes/exl-live-episode-03-12-26.md">Learn more about this session!</a></b>
-    </div>
+    <td style="vertical-align: top;">
+      Come back to this page soon for upcoming Experience League LIVE shows!
   </td>
 </tr>
 </table>

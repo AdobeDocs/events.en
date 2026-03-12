@@ -13,8 +13,8 @@ exl-id: 5ad4e649-d00a-4934-bfee-13d358fdad11
 
 See how campaign orchestration in Journey Optimizer manages your large, one‑to‑many multi-channel marketing programs—from audience creation to launch.
 
-We'll cover the campaign orchestration canvas and relational schemas the foundation for managing complex campaigns and customer relationships, multi‑entity segmentation to target the right audiences across complex data, on‑demand audience refinement & pre-send counts for accuracy, and how this seamlessly works within Journey Optimizer today.
+We covered the campaign orchestration canvas and relational schemas the foundation for managing complex campaigns and customer relationships, multi‑entity segmentation to target the right audiences across complex data, on‑demand audience refinement & pre-send counts for accuracy, and how this seamlessly works within Journey Optimizer today.
 
-<img alt="Experience League LIVE Mar 3 2026" src="./assets/WebBannerExlLive-Mar12-2026.jpg">
+>[!VIDEO](https://video.tv.adobe.com/v/3481409/?quality=12&learn=on)
 
-[Register today!](https://engage.adobe.com/ExpLeagueLive-260312.html){target="_blank"}
+To continue the conversation about this topic, please visit the [Experience League Community discussion.](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/post-session-discussion-experience-league-live-get-to-know-campaign-orchestration-in-adobe-journey-optimizer-249161){target="_blank"}
