@@ -9,7 +9,7 @@ last-substantial-update: 2026-03-12
 jira: KT-20526
 exl-id: bb3a9675-562a-4614-80bd-c2d164b47968
 ---
-# Learn from your peers webinar: AAdobe Commerce Product Recommendations - From Setup to Strategic Growth
+# Learn from your peers webinar: Adobe Commerce Product Recommendations - From Setup to Strategic Growth
 
 Join Adobe Commerce Champions Manav Padhariya and Michael Schenck for an educational session on transforming Adobe Commerce product pecommendations from a basic feature into a powerful AI-native strategic driver for business growth.
 
@@ -31,3 +31,6 @@ Whether you're getting started or aiming to optimize with AI-native capabilities
 ## Additional resources
 
 * [Presentation slides](../../assets/commerce/Adobe-Commerce-Product-Recommendations-Slides.pdf)
+* [Post-Webinar Office Hours with Manav Padhariya and Michael Schenck](https://commerce-augs.adobe.com/events/details/adobe-commerce-adobe-commerce-champion-office-hours-presents-adobe-commerce-product-recommendations-from-setup-to-strategic-growth-webinar-office-hours/)
+* [Adobe Commerce User Groups](https://commerce-augs.adobe.com/)
+* [Adobe Summit Skill Exchange for Adobe Commerce](https://reg.adobe.com/flow/adobe/as26/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&search.sessiontype=option_1672965503153&search.product=1615933990427001wslv)
