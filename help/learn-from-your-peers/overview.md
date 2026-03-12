@@ -24,7 +24,7 @@ Learn from Adobe experts and peers how to get the most from your Adobe solutions
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./adobe-user-groups.md" title="Explore Adobe User Groups across Experience Cloud" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470396/?format=jpeg&nocache=1763596773702" alt="Explore Adobe User Groups across Experience Cloud"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470396/?format=jpeg&nocache=1773334467947" alt="Explore Adobe User Groups across Experience Cloud"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -47,7 +47,7 @@ Learn from Adobe experts and peers how to get the most from your Adobe solutions
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./adobe-champion-application.md" title="Learn how to apply and stand out as a Champion" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458989/?format=jpeg&nocache=1763596773709" alt="Learn how to apply and stand out as a Champion"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458989/?format=jpeg&nocache=1773334467959" alt="Learn how to apply and stand out as a Champion"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -57,7 +57,7 @@ Learn from Adobe experts and peers how to get the most from your Adobe solutions
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./adobe-champion-application.md" target="_blank" rel="referrer" title="Learn how to apply and stand out as a Champion">Learn how to apply and stand out as a Champion</a>
                     </p>
-                    <p class="is-size-6">Join Adobe's Adoption Marketing team and current Adobe Champions for an exclusive webinar where we'll guide you through the program and share tips on submitting a standout application.</p>
+                    <p class="is-size-6">Join Adobe’s Adoption Marketing team and current Adobe Champions for an exclusive webinar where we'll guide you through the program and share tips on submitting a standout application.</p>
                 </div>
                 <a href="./adobe-champion-application.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch event</span>
@@ -82,7 +82,7 @@ Learn from Adobe experts and peers how to get the most from your Adobe solutions
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="genai/2025/scale-ai-adoption-a-playbook-for-approvals.md" title="Scale AI Adoption - A Playbook for Approvals" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475270/?format=jpeg&nocache=1763596774047" alt="Scale AI Adoption - A Playbook for Approvals"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475270/?format=jpeg&nocache=1773334468178" alt="Scale AI Adoption - A Playbook for Approvals"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -108,17 +108,41 @@ Learn from Adobe experts and peers how to get the most from your Adobe solutions
 
 <!-- CARDS
 
+* commerce/2026/product-recommendations-from-setup-to-strategic-growth.md {cta  = Watch event}
 * commerce/2025/commerce-and-app-builder.md {cta  = Watch event}
 * commerce/2024/agile-sdlc.md {cta  = Watch event}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Commerce Recommendations - From Setup to Strategic Growth">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="commerce/2026/product-recommendations-from-setup-to-strategic-growth.md" title="Adobe Commerce Recommendations - From Setup to Strategic Growth" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481370/?format=jpeg&nocache=1773334468328" alt="Adobe Commerce Recommendations - From Setup to Strategic Growth"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="commerce/2026/product-recommendations-from-setup-to-strategic-growth.md" target="_blank" rel="referrer" title="Adobe Commerce Recommendations - From Setup to Strategic Growth">Adobe Commerce Recommendations - From Setup to Strategic Growth</a>
+                    </p>
+                    <p class="is-size-6">Discover how to optimize Adobe Commerce product recommendations to drive KPIs like AOV, inventory clearance, and customer retention.</p>
+                </div>
+                <a href="commerce/2026/product-recommendations-from-setup-to-strategic-growth.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch event</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Commerce & App Builder Essentials - From Basics to Impact">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="commerce/2025/commerce-and-app-builder.md" title="Adobe Commerce & App Builder Essentials - From Basics to Impact" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476691/?format=jpeg&nocache=1763596774316" alt="Adobe Commerce & App Builder Essentials - From Basics to Impact"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476691/?format=jpeg&nocache=1773334468337" alt="Adobe Commerce & App Builder Essentials - From Basics to Impact"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -141,7 +165,7 @@ Learn from Adobe experts and peers how to get the most from your Adobe solutions
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="commerce/2024/agile-sdlc.md" title="A Focused Approach on Communication, Requirements, and Testing in Agile SDLC" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427501/?format=jpeg&nocache=1763596774312" alt="A Focused Approach on Communication, Requirements, and Testing in Agile SDLC"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427501/?format=jpeg&nocache=1773334468347" alt="A Focused Approach on Communication, Requirements, and Testing in Agile SDLC"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -180,7 +204,7 @@ Learn from Adobe experts and peers how to get the most from your Adobe solutions
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="experience-manager/2025/metadata-mayhem.md" title="Metadata Mayhem to Mastery" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476712/?format=jpeg&nocache=1763596774528" alt="Metadata Mayhem to Mastery"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476712/?format=jpeg&nocache=1773334468502" alt="Metadata Mayhem to Mastery"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -203,7 +227,7 @@ Learn from Adobe experts and peers how to get the most from your Adobe solutions
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="experience-manager/2025/smart-tags.md" title="AEM Smart Tags - Streamlining Content & Enhancing Discoverability" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471511/?format=jpeg&nocache=1763596774526" alt="AEM Smart Tags - Streamlining Content & Enhancing Discoverability"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471511/?format=jpeg&nocache=1773334468513" alt="AEM Smart Tags - Streamlining Content & Enhancing Discoverability"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -226,7 +250,7 @@ Learn from Adobe experts and peers how to get the most from your Adobe solutions
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="experience-manager/2024/global-digital-presence.md" title="Unlocking Success at Scale with a Global Combination" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457918/?format=jpeg&nocache=1763596774524" alt="Unlocking Success at Scale with a Global Combination"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457918/?format=jpeg&nocache=1773334468538" alt="Unlocking Success at Scale with a Global Combination"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -268,7 +292,7 @@ Learn from Adobe experts and peers how to get the most from your Adobe solutions
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/data-hygiene-strategy.md" title="Building a data hygiene strategy for Marketo Engage and CRM Sync" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476321/?format=jpeg&nocache=1763596774782" alt="Building a data hygiene strategy for Marketo Engage and CRM Sync"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476321/?format=jpeg&nocache=1773334468773" alt="Building a data hygiene strategy for Marketo Engage and CRM Sync"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -291,7 +315,7 @@ Learn from Adobe experts and peers how to get the most from your Adobe solutions
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/interactive-webinars.md" title="Revolutionizing Your Webinar Experience - Discover the Impact of Interactive Webinars" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458099/?format=jpeg&nocache=1763596774788" alt="Revolutionizing Your Webinar Experience - Discover the Impact of Interactive Webinars"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458099/?format=jpeg&nocache=1773334468762" alt="Revolutionizing Your Webinar Experience - Discover the Impact of Interactive Webinars"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -314,7 +338,7 @@ Learn from Adobe experts and peers how to get the most from your Adobe solutions
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2024/advanced-segmentation.md" title="Advanced Segmentation Audits - Ensuring Precision and Performance in Marketo Engage" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439383/?format=jpeg&nocache=1763596774793" alt="Advanced Segmentation Audits - Ensuring Precision and Performance in Marketo Engage"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439383/?format=jpeg&nocache=1773334468876" alt="Advanced Segmentation Audits - Ensuring Precision and Performance in Marketo Engage"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -337,7 +361,7 @@ Learn from Adobe experts and peers how to get the most from your Adobe solutions
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2024/multi-stream-engagement-programs.md" title="Master complex customer journeys with Multi-Stream Engagement Programs" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434490/?format=jpeg&nocache=1763596774808" alt="Master complex customer journeys with Multi-Stream Engagement Programs"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434490/?format=jpeg&nocache=1773334468863" alt="Master complex customer journeys with Multi-Stream Engagement Programs"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -360,7 +384,7 @@ Learn from Adobe experts and peers how to get the most from your Adobe solutions
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2024/marketers-map-marketo-campaigns.md" title="The Marketer's Map - A Comprehensive Guide to Strategizing, Building and Analyzing Marketo Campaigns" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432223/?format=jpeg&nocache=1763596774797" alt="The Marketer's Map - A Comprehensive Guide to Strategizing, Building and Analyzing Marketo Campaigns"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432223/?format=jpeg&nocache=1773334468783" alt="The Marketer's Map - A Comprehensive Guide to Strategizing, Building and Analyzing Marketo Campaigns"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -383,7 +407,7 @@ Learn from Adobe experts and peers how to get the most from your Adobe solutions
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2024/practical-applications-of-marketo-engage-rest-api.md" title="Unlocking Powerful Workflow Automation - Practical Applications of Marketo Engage REST API" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428435/?format=jpeg&nocache=1763596774818" alt="Unlocking Powerful Workflow Automation - Practical Applications of Marketo Engage REST API"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428435/?format=jpeg&nocache=1773334468838" alt="Unlocking Powerful Workflow Automation - Practical Applications of Marketo Engage REST API"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -406,7 +430,7 @@ Learn from Adobe experts and peers how to get the most from your Adobe solutions
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2024/person-scoring-mastery.md" title="Person Scoring Mastery with Marketo Engage - Localized Nuances in a Global Framework" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426914/?format=jpeg&nocache=1763596774826" alt="Person Scoring Mastery with Marketo Engage - Localized Nuances in a Global Framework"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426914/?format=jpeg&nocache=1773334468851" alt="Person Scoring Mastery with Marketo Engage - Localized Nuances in a Global Framework"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -446,7 +470,7 @@ Learn from Adobe experts and peers how to get the most from your Adobe solutions
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="experience-manager/2025/metadata-mayhem.md" title="Metadata Mayhem to Mastery" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476712/?format=jpeg&nocache=1763596775287" alt="Metadata Mayhem to Mastery"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476712/?format=jpeg&nocache=1773334469198" alt="Metadata Mayhem to Mastery"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -469,7 +493,7 @@ Learn from Adobe experts and peers how to get the most from your Adobe solutions
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/simplify-resource-planning-with-automation.md" title="Simplify Resource Planning with Automation" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475907/?format=jpeg&nocache=1763596775293" alt="Simplify Resource Planning with Automation"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475907/?format=jpeg&nocache=1773334469165" alt="Simplify Resource Planning with Automation"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -492,7 +516,7 @@ Learn from Adobe experts and peers how to get the most from your Adobe solutions
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/how-to-measure-and-share-workfront-value.md" title="Articulating Impact - How to Measure and Share Workfront Value" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3447501/?format=jpeg&nocache=1763596775297" alt="Articulating Impact - How to Measure and Share Workfront Value"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3447501/?format=jpeg&nocache=1773334469180" alt="Articulating Impact - How to Measure and Share Workfront Value"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -515,7 +539,32 @@ Learn from Adobe experts and peers how to get the most from your Adobe solutions
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2024/staffing-your-workfront-system-admin-practice.md" title="Staffing your Workfront system admin practice webinar" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431021/?format=jpeg&nocache=1763596775302" alt="Staffing your Workfront system admin practice webinar"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431021/?format=jpeg&nocache=1773334469189" alt="Staffing your Workfront system admin practice webinar"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="workfront/2024/staffing-your-workfront-system-admin-practice.md" target="_blank" rel="referrer" title="Staffing your Workfront system admin practice webinar">Staffing your Workfront system admin practice webinar</a>
+                    </p>
+                    <p class="is-size-6">Learn from Dell and Adobe Workfront experts about the strategic importance of System Administrators in our on-demand webinar. Discover tips on securing full-time headcount, leveraging the Group Admin role, and defining role profiles for effective setup and scalability in Adobe Workfront.</p>
+                </div>
+                <a href="workfront/2024/staffing-your-workfront-system-admin-practice.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch event</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+webinar">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="workfront/2024/staffing-your-workfront-system-admin-practice.md" title="Staffing your Workfront system admin practice webinar" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431021/?format=jpeg&nocache=1773334468288" alt="Staffing your Workfront system admin practice webinar"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
