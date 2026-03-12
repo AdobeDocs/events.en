@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3633
 last-substantial-update: 2026-03-12
 jira: KT-20526
+exl-id: bb3a9675-562a-4614-80bd-c2d164b47968
 ---
-
 # Learn from your peers webinar: AAdobe Commerce Product Recommendations - From Setup to Strategic Growth
 
 Join Adobe Commerce Champions Manav Padhariya and Michael Schenck for an educational session on transforming Adobe Commerce product pecommendations from a basic feature into a powerful AI-native strategic driver for business growth.
