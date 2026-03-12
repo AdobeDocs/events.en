@@ -20,6 +20,8 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
     + [Documentation Mission Possible](analytics/2022/mission-possible.md)
     + [Telling Impactful Stories with Data](analytics/2022/stories-with-data.md)
 + Commerce {#commerce}
+  + 2026 {#2026}
+    + [Adobe Commerce Product Recommendations - From Setup to Strategic Growth](commerce/2026/product-recommendations-from-setup-to-strategic-growth.md)
   + 2025 {#2025}
     + [Adobe Commerce and App Builder Essentials - From Basics to Impact](commerce/2025/commerce-and-app-builder.md)
   + 2024 {#2024}
