@@ -7,7 +7,7 @@ duration: 334
 ---
 # Adobe Experience League Event Recordings {#events}
 
-## With Experience League, learning is an event.****
+## With Experience League, learning is an event.
 
 Stay in the loop on exclusive events and webinars to expand your learning. Visit this space often to view recordings of past events like Experience League LIVE, Skill Builders, Developers Live, and more. If you want to register for an upcoming event, take a look at the [upcoming events](https://%65xperienceleague.adobe.com/events/?lang=en) on Experience League.
 
