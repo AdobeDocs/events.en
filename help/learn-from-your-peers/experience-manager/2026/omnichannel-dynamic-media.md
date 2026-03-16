@@ -12,8 +12,8 @@ last-substantial-update: 2026-03-16
 jira: KT-20547
 hidefromtoc: Yes
 hide: Yes
+exl-id: 7da8a2b0-3821-4401-a2da-5531c5f494c4
 ---
-
 # Deliver Once, Delight Everywhere: Scaling Omnichannel Experiences with Adobe Dynamic Media
 
 Are you wondering how to streamline the transformation and optimization of your images and videos in AEM Assets?
@@ -28,5 +28,3 @@ Join Adobe Experience Manager Champion Vengadesh Shanmugavelu for insights into 
 Whether you're a marketer, architect, or developer, this webinar will show you how to deliver once and scale everywhere with performance, consistency, and control.
 
 Vengadesh Shanmugavelu is Senior Manager Engineering at Publicis Sapient. He has 15+ years of experience in content management solution architecture, design, development, implementation, training, and support on AEM and Interwoven product suites as well as 7+ years of Experience in AEM and Adobe marketing cloud solutions. He is an Adobe certified expert as Architect and Lead developer in AEM, Adobe certified expert as Architect in Adobe Target and Adobe Qualified experience platform engineer. He has been an AEM Champion since 2022.
-
-
