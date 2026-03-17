@@ -1,5 +1,5 @@
 ---
-title: New Use Cases for Customer Engagement: iOS Live Activities, Web Push, and Persistent Messaging
+title: New Use Cases for Customer Engagement - iOS Live Activities, Web Push, and Persistent Messaging
 description: Explore new, persistent customer engagement with Journey Optimizer using iOS Live Activities, web push, and Message Inbox across channels.
 kt: KT-20538
 solution: Journey Optimizer
