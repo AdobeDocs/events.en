@@ -15,6 +15,7 @@ doc-type: live event
 
 + [Overview](overview.md)
 + Episodes {#episodes}
+  + [New Use Cases for Customer Engagement: iOS Live Activities, Web Push, and Persistent Messaging](episodes/exl-live-episode-04-08-26.md)
   + [Get to Know Campaign Orchestration in Adobe Journey Optimizer](episodes/exl-live-episode-03-12-26.md)
   + [Adobe Experience Platform Agents for improved marketing efficiency and better business outcomes](episodes/exl-live-episode-03-03-26.md)
   + [Agents at work: Creating and activating audiences and journeys](episodes/exl-live-episode-01-28-26.md)
