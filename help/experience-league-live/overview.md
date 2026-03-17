@@ -19,8 +19,16 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 
 <table>
 <tr>
-    <td style="vertical-align: top;">
-      Come back to this page soon for upcoming Experience League LIVE shows!
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-08-26.md">
+      <img alt="Experience League LIVE Apr 21" src="episodes/assets/April-8-2026-WebBanner.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-06-26-24.md">
+        <strong>New Use Cases for Customer Engagement: iOS Live Activities, Web Push, and Persistent Messaging</strong>
+      </a>
+      <br/><em>with Don Huynh, Robert Calangiu, Brent Kostak</em>
+      <br/><em>April 8, 2026</em>
+    </div>
   </td>
 </tr>
 </table>
