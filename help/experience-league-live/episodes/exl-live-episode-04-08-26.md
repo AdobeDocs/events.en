@@ -7,6 +7,7 @@ feature: Channel Configuration
 event-cta-url-live: https://youtube.com/live/hLVIIul_2_g
 event-start-time: 2026-04-08 08:30-8
 event-guests: Sandra Hausmann, Don Huynh, Robert Calangiu, Brent Kostak
+exl-id: a9541062-a3d7-4b14-b93a-d3231bc11362
 ---
 # New Use Cases for Customer Engagement: iOS Live Activities, Web Push, and Persistent Messaging
 
@@ -30,4 +31,3 @@ We’ll cover:
 - Web Push Notifications: Expand engagement beyond mobile apps by reaching customers directly in their web browser, directly engaging visitors even when websites are not actively open using the same user workflows as mobile push in Journey Optimizer  
  
 - Message Inbox: Create a persistent, branded inbox where customers can revisit important messages, personalized content, and offers — reducing missed notifications while improving relevance and user experience.
-
