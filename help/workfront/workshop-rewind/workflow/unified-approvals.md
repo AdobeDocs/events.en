@@ -7,8 +7,8 @@ doc-type: Event
 duration: 13
 last-substantial-update: 2026-03-26
 jira: KT-20612
+exl-id: 4eaa0277-5f45-4a6e-a552-cf46691cafe4
 ---
-
 # Understanding Unified Approvals - Direction, Reporting, and What's Next
 
 Discover the key aspects of unified approvals, including direction, reporting, and upcoming features. This workshop rewind provides valuable insights to help you stay informed and optimize your workflow.

@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3737
 last-substantial-update: 2026-03-26
 jira: KT-20605
+exl-id: 6b94eb86-8246-41b2-9ac4-52ed65ab6b84
 ---
-
 # Maximize Fusion with Tips, Tricks, and Release Highlights
 
 Join Senior Product Manager, Sam Taylor, as he shares new features, updates, and future roadmap plans. Key topics include design experience enhancements, chained scenarios for reusable logic, alerting/monitoring, event priorities, utilizing technical accounts, and instance performance monitoring dashboards. 
@@ -21,5 +21,3 @@ If you missed the session, no worries! Review the [slide deck](https://workfront
 Looking for more resources or the Q&A from the event? Check out the [Experience League Community post](https://experienceleaguecommunities.adobe.com/adobe-workfront-fusion-24/event-follow-up-maximize-fusion-tips-tricks-and-release-highlights-1-29-26-248111)!
 
 New events are added every month, so make sure to check out the [Experience League Events page](https://experienceleague.adobe.com/en/events) for the latest sessions.
-
-

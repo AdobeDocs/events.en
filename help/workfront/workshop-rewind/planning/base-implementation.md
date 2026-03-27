@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3567
 last-substantial-update: 2026-03-26
 jira: KT-19775
+exl-id: fa433105-f33e-4aa6-b241-e9b5a9312537
 ---
-
 # Workfront Planning Smart Start - Building Your Base Implementation
 
 Join our Adobe Product Management team as they share best practices for starting your Workfront Planning implementation.  For more information on what's coming next for Workfront Planning, be sure to bookmark the [Adobe Workfront Planning Release Activity](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index) page on Experience League. 
@@ -20,4 +20,3 @@ If you missed the session, no worries! Review the [slide deck](https://workfront
 Do you have ideas to share or have follow-up questions from the event? Feel free to drop them in the comments on the [Experience League Community post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-planning-the-smart-start-building-your/td-p/767049)!
 
 New events are added every month, so make sure to check out the [Experience League Events page](https://experienceleague.adobe.com/en/events) for the latest sessions.
-

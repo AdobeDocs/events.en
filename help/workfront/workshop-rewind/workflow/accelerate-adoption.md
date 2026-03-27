@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3282
 last-substantial-update: 2026-03-26
 jira: KT-20606
+exl-id: 9ace3404-e1b2-4bc8-8e8e-9029bd5e4072
 ---
-
 # Your Workfront Success Toolkit - Resources to Accelerate Adoption and Value
 
 Join Nichole Vargas as she highlights the tools, programs, and expertise available to help you adopt, optimize, and scale Workfront with confidence.
@@ -22,5 +22,3 @@ If you missed the session, no worries! Review the [slide deck](https://workfront
 Looking for more resources from the event? Check out the [Experience League Community post](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-your-workfront-success-toolkit-resources-to-accelerate-adoption-february-12-2026-248480)!
 
 New events are added every month, so make sure to check out the [Experience League Events page](https://experienceleague.adobe.com/en/events) for the latest sessions.
-
-

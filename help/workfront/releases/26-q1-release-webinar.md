@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3475
 last-substantial-update: 2026-03-26
 jira: KT-20598
+exl-id: 7c3a6e5a-dbe8-46d6-98be-37b7ebb190ee
 ---
-
 # Adobe Workfront First Quarter 2026 Release Webinar
 
 The Workfront First Quarter Release was deployed on January 15th, 2026. Hosted in partnership with the Adobe Product Management team, this webinar highlighted the new enhancements, including functionality in the New Requesting Experience, updates in Canvas Dashboards, and improvements to the Home page Mentions widget, along with new Planning and Fusion features.
@@ -18,4 +18,3 @@ The Workfront First Quarter Release was deployed on January 15th, 2026. Hosted i
 Review the [release notes](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q1/26-q1-release-overview) on Experience League, as not all features are covered during the webinar.
 
 New events are added every month, so make sure to check out the [Experience League Events page](https://experienceleague.adobe.com/en/events) for the latest sessions.
-

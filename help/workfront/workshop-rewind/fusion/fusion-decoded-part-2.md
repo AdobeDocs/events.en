@@ -8,8 +8,8 @@ doc-type: Event
 duration: 13
 last-substantial-update: 2026-03-26
 jira: KT-20611
+exl-id: 4ffc94ab-8e8f-46d4-b1b6-fe47626cd86e
 ---
-
 # Fusion Decoded Part 2 – Start Building
 
 Dive into Fusion Decoded Part 2 to understand foundational building strategies for Fusion workflows and systems. This session is designed for admins, developers, and leaders who seek to enhance their knowledge and improve their Fusion implementations. Watch the workshop rewind to gain actionable insights and techniques.
@@ -17,4 +17,3 @@ Dive into Fusion Decoded Part 2 to understand foundational building strategies f
 >[!VIDEO](https://video.tv.adobe.com/v/3481833/?learn=on&enablevpops)
 
 New events are added every month, so make sure to check out the [Experience League Events page](https://experienceleague.adobe.com/en/events) for the latest sessions.
-

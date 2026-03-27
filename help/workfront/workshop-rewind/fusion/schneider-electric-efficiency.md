@@ -7,8 +7,8 @@ doc-type: Event
 duration: 2920
 last-substantial-update: 2026-03-26
 jira: KT-20602
+exl-id: baebbf5a-be97-4dc3-956b-4669fb8d11ee
 ---
-
 # Measuring What Matters - How Schneider Electric Drives Workfront Efficiency with Fusion
 
 Join Kimberly Rea, Creative Operations expert at Schneider Electric and Adobe Workfront Champion, as she shares how Schneider Electric uses Custom Forms and Fusion Scenarios to automate workflows and track the volume of automated touch points, helping quantify impact and build the case for scaling automation.  
@@ -18,8 +18,3 @@ Join Kimberly Rea, Creative Operations expert at Schneider Electric and Adobe Wo
 If you missed the session, no worries! Review the [slide deck](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/120325+-+Measuring+What+Matters+-+How+Schneider+Electric+Drives+Workfront+Efficiency+with+Fusion.pdf) and watch the on-demand recording to follow along.
 
 New events are added every month, so make sure to check out the [Experience League Events page](https://experienceleague.adobe.com/en/events) for the latest sessions.
-
-
-
-
-

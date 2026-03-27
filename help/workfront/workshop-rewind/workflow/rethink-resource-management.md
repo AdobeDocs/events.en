@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3497
 last-substantial-update: 2026-03-26
 jira: KT-20610
+exl-id: bc6198fe-caf9-4a2f-bb00-506adb96cc97
 ---
-
 # Rethinking Resource Management the Agile Way at Advisors Excel
 
 See how the creative operations team at Advisors Excel discovered a practical, agile way to manage resources - using queues, tiers, and priority scoring, entirely within Workfront, over their 3-year transformation from a manual, rigid resource management approach to a queue-based system in Workfront. Join Lindsey Brown, Creative Operations Product Manager, and Cathy Clifton, Project Coordinator Director, explain how shifting work into shared queues, introducing structured backlogs, and redefining team roles improved flexibility, scalability, and visibility while reducing stress and bottlenecks.  
@@ -20,5 +20,3 @@ If you missed the session, no worries! Review the [slide deck](https://workfront
 Looking for more resources from the event? Check out the [Experience League Community post](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-rethinking-resource-management-the-agile-way-at-advisors-excel-march-19-2026-249316)!
 
 New events are added every month, so make sure to check out the [Experience League Events page](https://experienceleague.adobe.com/en/events) for the latest sessions.
-
-
