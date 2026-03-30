@@ -15,10 +15,10 @@ Explore new surfaces and use cases for customer engagement as brands move beyond
 <br>
 </br>
 
-[![April 8 ExL Live Event Banner](assets/April-8-2026-WebBanner.jpg)](https://youtube.com/live/hLVIIul_2_g){target=“_blank”}
+[![April 8 ExL Live Event Banner](assets/April-8-2026-WebBanner.jpg)](https://engage.adobe.com/ExpLeagueLive-260408.html?sdid=HCS3X75V&mv=other){target=“_blank”}
 <br>
 </br>
-<b>[Set a reminder for the show!](https://youtube.com/live/hLVIIul_2_g)</b>
+<b>[Register now!](https://engage.adobe.com/ExpLeagueLive-260408.html?sdid=HCS3X75V&mv=other)</b>
 
 <br>
 </br>
