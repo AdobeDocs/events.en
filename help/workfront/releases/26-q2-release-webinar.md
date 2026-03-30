@@ -8,6 +8,8 @@ duration: 13
 last-substantial-update: 2026-03-26
 jira: KT-20613
 exl-id: d82886e6-c6e3-49aa-95b3-257b0cd4f9ad
+hide: yes
+hidefromtoc: yes
 ---
 # Adobe Workfront Second Quarter 2026 Release Webinar
 
