@@ -13,6 +13,7 @@ solution: Document Cloud
   + [October 2025](skill-builders/acrobat-sign-october-2025-release.md)
   + [July 2025](skill-builders/acrobat-july-release.md)
 + Innovation - New Feature Highlights {#newfeatures}
+  + [Identity Verification and Security](./skill-builders/identity-verification-security.md)
   + [Optimize Mobile E-Signing](./skill-builders/mobile-e-signing.md)
 + 101 - Get Started for Users {#getstartedusers}
   + [Acrobat Sign 101](./skill-builders/getting-started.md)
