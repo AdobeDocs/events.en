@@ -9,6 +9,8 @@ duration: 13
 last-substantial-update: 2026-03-26
 jira: KT-20611
 exl-id: 4ffc94ab-8e8f-46d4-b1b6-fe47626cd86e
+hide: yes
+hidefromtoc: yes
 ---
 # Fusion Decoded Part 2 – Start Building
 
