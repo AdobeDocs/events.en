@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3528
 last-substantial-update: 2026-03-30
 jira: KT-20657
+exl-id: c0911ab2-fb5a-4051-95d7-0052cdcea26c
 ---
-
 # Establishing Digital Trust at Scale: Identity Verification and Security with Acrobat Sign
 
 Stay up to date with Adobe's latest innovations focused on identity verification, trust, and compliance in Acrobat Sign. Watch how recent Acrobat Sign releases strengthen confidence in every agreement through enhanced security controls and modern identity capabilities. Includes:
