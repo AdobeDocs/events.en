@@ -8,6 +8,8 @@ solution: Marketo Engage
 # Foundations of Marketo Engage Webinars {#foundations-of-marketo-engage-webinars}
 
 + [Foundations of Marketo Engage Webinars](overview.md)
++ 2026 {#2026}
+  + [Fundamentals of Marketo Engage](2026/fundamentals.md)
 + 2025 {#2025}
   + [Create Your Nurture Recipe](2025/nurture-recipe.md)
   + [Professional Exam Preparation](2025/professional-exam-preparation.md)
