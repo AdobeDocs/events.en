@@ -7,8 +7,8 @@ doc-type: Event
 duration: 1201
 last-substantial-update: 2026-04-03
 jira: KT-20745
+exl-id: b4f70c4f-9d01-4b06-afcf-ec963f3604c5
 ---
-
 # Workfront Expert Insights - Evolution of a Instance with Jen Desmond 
 
 Welcome to the latest Expert Insights episode! I'm Cynthia Boon, your "On-Demand" Workfront CSM. Ever wonder how other customers evolve their Workfront instance over time—or how to navigate change without it feeling overwhelming? 
