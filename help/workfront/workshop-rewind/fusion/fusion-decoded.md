@@ -19,7 +19,9 @@ and watch the on-demand recording to follow along as Jen gives an overview of Wo
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477159/?learn=on&enablevpops)
 
-Check out the currently available Adobe Workfront [Fusion templates](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates). 
+Did you love this session and want to learn more from Jen? Make sure to watch the second session in the series, [Fusion Decoded Part 2 - Let's Start Building](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/fusion/fusion-decoded-part-2)!
+
+And don't forget to review the list of currently available Adobe Workfront [Fusion templates](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates). 
 
 More resource links are available on the [Experience League Community post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958)!
 

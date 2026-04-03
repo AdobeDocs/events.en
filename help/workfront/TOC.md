@@ -108,6 +108,7 @@ solution: Workfront
   + [Adoption Surveys](expert-insights/adoption-surveys.md)
   + [Agile](expert-insights/agile.md)
   + [Content Supply Chain](expert-insights/content-supply-chain.md)
+  + [Evolution of an Instance](expert-insights/evolution-of-an-instance.md)
   + [Fusion](expert-insights/fusion.md)
   + [Governance & Centers of Excellence](expert-insights/centers-of-excellence.md)
   + [Master Text Mode](expert-insights/text-mode.md)
