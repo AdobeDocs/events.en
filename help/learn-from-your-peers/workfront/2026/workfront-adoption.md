@@ -9,8 +9,8 @@ last-substantial-update: 2026-04-08
 hidefromtoc: Yes
 hide: Yes
 jira: KT-20786
+exl-id: d751d2d8-0779-451f-a2bf-351d26a56eab
 ---
-
 # Configuring Sustainable Workfront Adoption: From Architecture to Everyday Use
 
 Workfront adoption isn't a one-time launch—it's a long-term strategy. Because Workfront changes how work actually flows (not just where it's tracked), teams often need to shift processes, roles, and long-standing habits.
@@ -27,6 +27,3 @@ Together, they discussed how they moved teams from sporadic usage and ad hoc con
 * Tips for standardizing intake and workflow so work enters the system consistently, moves efficiently, and gives leaders the visibility they need without creating friction for teams
 * Practical ways to use automation to drive engagement and accountability
 * A clear, actionable framework for assessing and improving adoption, helping teams identify risk areas and prioritize the right improvements
-
-
-
