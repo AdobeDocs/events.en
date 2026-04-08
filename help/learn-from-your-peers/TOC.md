@@ -61,6 +61,8 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
     + [Cracking the Personalization at Scale Code using [!DNL Marketo Engage]](marketo/2023/personalization-at-scale.md)
     + [How to Make Your [!DNL Adobe Marketo Engage] Content Scalable](marketo/2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
+  + 2026 {#2026}
+    + [Sustainable Workfront Adoption](workfront/2026/workfront-adoption.md)
   + 2025 {#2025}
     + [Metadata Mayhem](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
     + [Articulating Impact - How to Measure and Share Workfront Value](workfront/2025/how-to-measure-and-share-workfront-value.md)

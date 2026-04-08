@@ -11,7 +11,7 @@ exl-id: bb3a9675-562a-4614-80bd-c2d164b47968
 ---
 # Learn from your peers webinar: Adobe Commerce Product Recommendations - From Setup to Strategic Growth
 
-Join Adobe Commerce Champions Manav Padhariya and Michael Schenck for an educational session on transforming Adobe Commerce product pecommendations from a basic feature into a powerful AI-native strategic driver for business growth.
+Join Adobe Commerce Champions Manav Padhariya and Michael Schenck for an educational session on transforming Adobe Commerce product recommendations from a basic feature into a powerful AI-native strategic driver for business growth.
 
 Recognized as top practitioners driving innovation across the commerce ecosystem, Michael and Manav demonstrate how strategic orchestration of product recommendations by aligning them with business goals can directly improve inventory sell through, AOV, and customer retention.
 
@@ -21,7 +21,7 @@ Recognized as top practitioners driving innovation across the commerce ecosystem
 
 * Drive strategic recommendations: align recommendation type to real KPIs (clearance, AOV, retention)
 * Clear inventory: how to increase exposure and cross‑sell slow‑moving stock
-* Increase AOV: pair “frequently bought together” with a UI tweak to boost attachment rates
+* Increase AOV: pair "frequently bought together" with a UI tweak to boost attachment rates
 * Improve customer retention: personalize modules with behavioral data to engage returning customers
 * Blend AI with human strategy: leverage manual product relationship rules for launches and branded campaigns
 * Move from setup to optimization: understand setup basics (configuration, inclusions/exclusions, and CMS/Page Builder placement), avoid common pitfalls, and use admin controls and analytics to continuously improve.
