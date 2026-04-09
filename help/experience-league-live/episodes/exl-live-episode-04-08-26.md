@@ -11,23 +11,20 @@ exl-id: a9541062-a3d7-4b14-b93a-d3231bc11362
 ---
 # New Use Cases for Customer Engagement: iOS Live Activities, Web Push, and Persistent Messaging
 
-Explore new surfaces and use cases for customer engagement as brands move beyond one-way, single-channel messaging. Discover how marketing and product teams can create more visible, contextual, and persistent experiences—driving continuous engagement and richer, real-time interactions across channels.
-<br>
-</br>
+Explore new surfaces and use cases for customer engagement as brands move beyond one-way, single-channel messaging. Discover how marketing and product teams can create more visible, contextual, and persistent experiences-driving continuous engagement and richer, real-time interactions across channels.
 
-[![April 8 ExL Live Event Banner](assets/April-8-2026-WebBanner.jpg)](https://engage.adobe.com/ExpLeagueLive-260408.html?sdid=HCS3X75V&mv=other){target=“_blank”}
-<br>
-</br>
-<b>[Register now!](https://engage.adobe.com/ExpLeagueLive-260408.html?sdid=HCS3X75V&mv=other)</b>
+>[!VIDEO](https://video.tv.adobe.com/v/3483389/?quality=12&learn=on)
+
+Continue the discussion about the show in the [Experience League Community Post.](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/experience-league-live-new-use-cases-for-customer-engagement-ios-live-activities-web-push-and-persistent-messaging-249581){target="_blank"}
 
 <br>
 </br>
-We’ll explore how organizations using Adobe Journey Optimizer can expand their customer engagement strategies with iOS Live Activities, Web Push Notifications, and Message Inbox. Together, these new channels and capabilities enable teams to deliver real‑time updates, extend engagement beyond the mobile app, and ensure important messages are always available - creating more consistent, customer‑centric journeys. 
+In the show we explored how organizations using Adobe Journey Optimizer can expand their customer engagement strategies with iOS Live Activities, Web Push Notifications, and Message Inbox. Together, these new channels and capabilities enable teams to deliver real-time updates, extend engagement beyond the mobile app, and ensure important messages are always available - creating more consistent, customer-centric journeys. 
 
-We’ll cover:  
+We covered:  
 
-- iOS Live Activities: Deliver real-time updates on the iPhone Lock Screen and Dynamic Island for high‑value moments like order tracking, flight status, and live scores — keeping customers continuously informed as events unfold.  
+- iOS Live Activities: Deliver real-time updates on the iPhone Lock Screen and Dynamic Island for high-value moments like order tracking, flight status, and live scores - keeping customers continuously informed as events unfold.  
  
 - Web Push Notifications: Expand engagement beyond mobile apps by reaching customers directly in their web browser, directly engaging visitors even when websites are not actively open using the same user workflows as mobile push in Journey Optimizer  
  
-- Message Inbox: Create a persistent, branded inbox where customers can revisit important messages, personalized content, and offers — reducing missed notifications while improving relevance and user experience.
+- Message Inbox: Create a persistent, branded inbox where customers can revisit important messages, personalized content, and offers - reducing missed notifications while improving relevance and user experience.
