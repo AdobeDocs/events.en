@@ -6,7 +6,7 @@ short-description: Watch this webinar to learn about some of the powerful featur
 kt: 10410
 solution: Commerce, Commerce Intelligence
 feature-set: Commerce Intelligence
-feature: Integration, Edge Delivery Services, Data Integration, Reports
+feature: Data Integration, Reports
 topic: Commerce
 role: Leader, User, Data Architect
 level: Beginner

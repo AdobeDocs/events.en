@@ -5,7 +5,7 @@ landing-page-description: Watch this recorded webinar for a guided tour of the f
 short-description: Watch this recorded webinar for a guided tour of the four dashboards included at setup with every Commerce Intelligence account.
 kt: 10496
 solution: Commerce, Commerce Intelligence
-feature: Integration, Edge Delivery Services, Data Integration, Reports
+feature: Data Integration, Reports
 feature-set: Commerce Intelligence
 topic: Commerce
 role: Leader, User, Data Architect

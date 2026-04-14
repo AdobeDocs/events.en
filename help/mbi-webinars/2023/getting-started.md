@@ -6,7 +6,7 @@ short-description: Watch this recorded webinar to learn about the core functiona
 kt: 10408
 solution: Commerce, Commerce Intelligence
 feature-set: Commerce Intelligence
-feature: Integration, Edge Delivery Services, Data Integration, Reports
+feature: Data Integration, Reports
 topic: Commerce, Performance
 role: Leader, User, Data Architect
 level: Beginner

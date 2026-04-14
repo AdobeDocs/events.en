@@ -5,7 +5,7 @@ landing-page-description: Watch this recorded webinar to learn how to use your e
 short-description: Watch this recorded webinar to learn how to use your eCommerce data for success during the holiday season.
 kt: 10409
 solution: Commerce, Commerce Intelligence
-feature: Integration, Edge Delivery Services, Data Integration, Reports
+feature: Data Integration, Reports
 feature-set: Commerce Intelligence
 topic: Headless, Performance, Commerce
 role: Leader, User, Data Architect

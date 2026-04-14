@@ -3,7 +3,7 @@ title: FAQs in Commerce Intelligence
 description: Get to know the answers to some frequently asked questions in Commerce Intelligence covering topics like self-service configurations, integrations, security, best practices and more.
 solution: Commerce, Commerce Intelligence
 feature-set: Commerce Intelligence
-feature: Integration, Data Integration, Reports
+feature: Data Integration, Reports
 topic: Integrations, Security
 role: Admin, User
 level: Intermediate
