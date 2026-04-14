@@ -4,6 +4,7 @@ description: Basic Analytics user interface, start your first project in Analysi
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics, Analysis Workspace, Visualizations, Panels
+topic: Migration, Integrations
 role: User
 level: Beginner
 kt: 10475

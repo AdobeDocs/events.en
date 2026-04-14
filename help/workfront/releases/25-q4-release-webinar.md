@@ -1,6 +1,8 @@
 ---
 title: Adobe Workfront Fourth Quarter 2025 Release Webinar
 description: This webinar highlighted the new enhancements, including the New Requesting Experience, AI Reviewer, Workload Balancer updates, as well as Planning and Fusion features
+feature: Workfront Fusion, Resource Management, Strategic Planning
+topic: Performance
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3447

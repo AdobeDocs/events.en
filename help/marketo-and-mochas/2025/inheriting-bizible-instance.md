@@ -1,6 +1,8 @@
 ---
 title: Marketo Measure and Mochas - Inheriting a New or Current Bizible Instance
 description: Join Carly Gaver and Kate Colbert in our Marketo Measure & Mochas webinar to learn best practices for auditing and optimizing your Marketo Measure (Bizible) instance setup, config, channels, and reports.
+feature: Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

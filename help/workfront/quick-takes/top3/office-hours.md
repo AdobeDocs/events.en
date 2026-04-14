@@ -2,6 +2,7 @@
 title: Top 3 Approaches to Office Hours
 description: Discover tips, resources, and community best practices for running effective Adobe Workfront Office Hours to boost adoption and engagement.
 feature: Get Started with Workfront
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

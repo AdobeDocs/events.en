@@ -1,6 +1,8 @@
 ---
 title: Digital Agility with AEM
 description: Improve Your Organization's Digital Agility with AEM Sites and Assets Innovations and Best Practices
+feature: Edge Delivery Services, Release Information, Authoring
+topic: Headless, Personalization, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

@@ -2,6 +2,7 @@
 title: 7 ways to grow an eCommerce business organically
 description: This webinar provided valuable insights and practical tips for growing an e-commerce business organically through SEO strategies. The strategies covered various aspects such as website optimization, keyword research, technical SEO improvements, content creation, social media presence, customer satisfaction, and diversifying marketing channels. Attendees were introduced to native capabilities within the Adobe Commerce platform and were encouraged to join the upcoming Adobe Summit for further learning opportunities. Overall, the webinar emphasized the importance of consistent effort and adaptability in achieving long-term success in the e-commerce industry.
 solution: Commerce
+feature: Integration, Edge Delivery Services
 topic: Commerce
 role: User
 level: Beginner, Intermediate

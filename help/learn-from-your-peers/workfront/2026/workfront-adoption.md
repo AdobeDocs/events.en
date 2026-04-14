@@ -1,6 +1,8 @@
 ---
 title: Configuring Sustainable Workfront Adoption - From Architecture to Everyday Use
 description: Discover strategies for sustainable Workfront adoption, including governance, templates, automation, and user engagement for long-term success.
+feature: Workfront Fusion, System Setup and Administration
+topic: Performance, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

@@ -2,6 +2,8 @@
 title: Understanding Objects in Workfront
 description: We'll introduce you to the nuances of Project objects such as portfolios, programs, projects, tasks, issues/requests, and People objects such as companies, groups and teams.
 solution: Workfront
+feature: System Setup and Administration
+topic: Administration, Integrations
 role: User
 level: Beginner
 kt: 10309

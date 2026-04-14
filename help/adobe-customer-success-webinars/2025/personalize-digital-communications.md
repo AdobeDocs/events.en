@@ -2,6 +2,8 @@
 title: Personalizing digital communications in Financial Services with AEM Forms
 description: See how AEM Forms helps financial services deliver personalized, scalable communications that boost engagement, efficiency, and compliance.
 solution: Experience Manager Forms
+feature: Edge Delivery Services, Core Components
+topic: Personalization, Integrations, Performance
 role: Developer, User
 level: Intermediate
 doc-type: Event

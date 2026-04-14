@@ -2,6 +2,8 @@
 title: Templates, tokens, and teamwork - Make your content scalable
 description: Learn about using tokens and templates in [!DNL Marketo Engage]. Discover tips on getting the most from your existing content library.
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, User
 level: Intermediate, Experienced
 doc-type: Event

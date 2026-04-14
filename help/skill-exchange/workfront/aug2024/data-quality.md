@@ -2,6 +2,8 @@
 title: From Chaos to Clarity - Level Up Your Data Quality
 description: In this session, you'll discover practical tips and strategies for Developing and executing a plan for data cleanup  Example reports you can use to uncover data quality issues Empowering users of all personas to tidy up and maintain data  Bonus! Preparing your data for Canvas Dashboards' growing functionality
 solution: Workfront
+feature: Reports and Dashboards, Work Management
+topic: Development
 role: User
 level: Beginner
 doc-type: Event

@@ -1,6 +1,8 @@
 ---
 title: Marketo & Mochas - Laying the Foundation for Lead Nurture Success
 description: Join Business Advisors Cynthia Chang and Carly Gaver to learn how to maximize lead nurturing in Adobe Marketo Engage, explore Engagement Programs for content distribution, and see a live demonstration on setting up an Engagement Program using the Best Practice Template, with live Q&A.
+feature: Programs
+topic: Personalization, Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

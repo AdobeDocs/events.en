@@ -2,6 +2,8 @@
 title: The Power of a Smart Campaign
 description: In this session you will learn all about Smart Campaigns including Smart List - Triggers & Filters, Flow, Schedule and Results.
 solution: Marketo Engage
+feature: Smart Lists
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 kt: 10326

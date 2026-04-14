@@ -1,6 +1,8 @@
 ---
 title: Adobe [!DNL Marketo Engage] Champion Deep Dive Email Nurture
 description: Unlock the potential of lead nurturing and drip marketing in this session, where you'll learn key factors for creating effective strategies, explore successful examples, and discover how to apply these techniques across your organization to achieve your unique goals.
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

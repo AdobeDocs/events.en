@@ -5,6 +5,7 @@ solution: Experience Manager Assets
 version: Experience Manager as a Cloud Service
 feature-set: Experience Manager, Experience Manager Assets
 feature: Asset Management
+topic: Artificial Intelligence, Performance
 role: User
 level: Intermediate, Experienced
 doc-type: Event

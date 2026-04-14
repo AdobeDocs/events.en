@@ -1,6 +1,8 @@
 ---
 title: Innovating with Headless Integrations
 description: Take a closer look how our partners have  innovated and created  experiences by unlocking and extending the potential of the Adobe commerce APIs.
+feature: Edge Delivery Services, Release Information
+topic: Headless, Integrations, Development
 role: User
 level: Beginner
 kt: 9790

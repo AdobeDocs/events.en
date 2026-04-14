@@ -1,6 +1,8 @@
 ---
 title: Commerce & Coffee - Driving Growth with SEO
 description: In this session, Corey Gelato and Agbi Bajrushi explore SEO types, key principles, and Adobe Commerce tools like Meta Fields, Page Builder, and media best practices for eCommerce.
+feature: Integration, Edge Delivery Services
+topic: Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

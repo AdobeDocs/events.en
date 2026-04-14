@@ -2,6 +2,8 @@
 title: AEM GEMs - Maximize the impact of your web experience with AEM Sites Optimizer
 description: Discover how Sites Optimizer uses AI to boost site performance, SEO, and user engagement with real-time insights and recommendations for marketing and dev teams.
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
+topic: Performance, Development
 version: Experience Manager as a Cloud Service
 role: Admin, Developer, Leader, User
 level: Intermediate

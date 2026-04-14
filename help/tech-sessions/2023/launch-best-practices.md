@@ -4,6 +4,7 @@ description: In this session, you will learn about - configurations, settings, &
 solution: Analytics
 feature-set: Analytics
 feature: Tags
+topic: Migration, Integrations
 role: Admin, User
 level: Beginner
 doc-type: Event

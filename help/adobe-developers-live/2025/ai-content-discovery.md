@@ -1,6 +1,8 @@
 ---
 title: AI Content Discovery with Adobe Experience Manager
 description: Explore AI-driven content discovery and dynamic media renditions with Adobe Experience Manager for effortless asset reuse and delivery.
+feature: Edge Delivery Services, Release Information
+topic: Integrations, Development
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event

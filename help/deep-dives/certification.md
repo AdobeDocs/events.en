@@ -1,6 +1,8 @@
 ---
 title: Investing in Yourself - Adobe [!DNL Marketo Engage] Certification
 description: Curious about how certification can boost your marketing career? Join Adobe Marketo Engage Champions as they share their experiences and tips on studying, preparing, and taking the exam to become a Marketo Certified Expert or Architect!
+feature: Programs, Reporting
+topic: Certification
 role: Admin, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

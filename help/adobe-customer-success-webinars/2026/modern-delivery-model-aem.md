@@ -2,6 +2,8 @@
 title: Modern Delivery Models for AEM Sites
 description: Explore modern delivery models for AEM Sites to ensure scalable, agile content delivery and optimized authoring experiences.
 solution: Experience Manager as a Cloud Service
+feature: Edge Delivery Services, Migration
+topic: Headless
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2175

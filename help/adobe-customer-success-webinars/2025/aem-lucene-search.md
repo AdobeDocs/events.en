@@ -3,6 +3,7 @@ title: Essential Tips and Best Practices for AEM Lucene Search
 description: Boost digital engagement with advanced AEM search tools like filters, facets, auto-suggest, NGram, and spell check. Learn from real-world demos.
 solution: Experience Manager
 feature: Search
+topic: Performance
 role: Admin, Developer
 level: Intermediate, Experienced
 doc-type: Event

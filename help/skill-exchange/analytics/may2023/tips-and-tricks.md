@@ -4,6 +4,7 @@ description: Join us as we spotlight Bhagyesh Patel and Victoria Xiao, two exper
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event

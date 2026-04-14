@@ -4,6 +4,7 @@ description: Join us for an exclusive live session with Adobe product experts to
 kt: KT-17230
 solution: Experience Platform
 feature: AI Assistant
+topic: Security, Performance
 event-cta-url-live: https://www.youtube.com/live/fGgFwAOZle8
 event-start-time: 2025-02-27 08:30-8
 event-guests: Daniel Wright, Rudi Shumpert, Namita Krishnan, Huong Vu

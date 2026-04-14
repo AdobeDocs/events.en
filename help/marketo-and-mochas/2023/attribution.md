@@ -1,6 +1,8 @@
 ---
 title: Marketo and Mochas - Marketo Measure Attribution
 description: Join Elizabeth Lundberg and Kate Colbert in this Marketo & Mochas session to explore attribution in Marketo Measure, including stock models, best practices for selecting the right one, and live Q&A to enhance your marketing insights.
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

@@ -2,6 +2,8 @@
 title: Experience Makers Spotlight - Get the Most Out of AEM - A Practitioner's Guide to Efficiency
 description: Gain invaluable insights to optimize your digital asset management strategies within AEM. In this session, AEM Champions will share crucial knowledge on implementing robust asset governance strategies. By ensuring compliance, security, and version control, you’ll be able to empower your teams to work seamlessly while safeguarding their valuable digital resources Lifecycles, Versioning and features for Governance in Adobe AEM
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
+topic: Artificial Intelligence, Security, Administration
 role: User
 level: Intermediate, Experienced
 doc-type: Event

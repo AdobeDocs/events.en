@@ -4,6 +4,7 @@ description: Learn about how Federated Audience Composition provides a comprehen
 kt: KT-15473
 solution: Real-Time Customer Data Platform, Experience Platform, Journey Optimizer
 feature: Audiences
+topic: Personalization, Performance
 event-cta-url-live: https://youtube.com/live/ghN-XWdBLvg
 event-start-time: 2024-10-24 08:30-7
 event-guests: Doug Moore,Alyssa Espiritu,Abhijit Ghosh,Arthur Lacroix

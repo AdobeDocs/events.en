@@ -1,6 +1,8 @@
 ---
 title: Workfront Reporting - Year-End Strategies
 description: Explore effective year-end reporting strategies with Adobe Workfront. Learn to plan, execute, and optimize your reporting for business success.
+feature: Reports and Dashboards, Strategic Planning
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

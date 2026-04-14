@@ -2,6 +2,8 @@
 title: Lightning Speed - Adobe’s Edge Delivery Service
 description: In the August instalment of the APAC Commerce Webinar Series, we will welcome Kamalesh Radhakrishnan, Senior Solutions Consultant, to share an overview of Lightning Speed with Adobe’s Edge Delivery Service.Empower everyone to create content with AI and experimentation and deliver exceptional digital experiences at lightning speed.
 solution: Commerce
+feature: Integration, Edge Delivery Services
+topic: Integrations, Performance, Commerce
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event

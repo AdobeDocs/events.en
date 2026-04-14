@@ -2,6 +2,8 @@
 title: Adobe Journey Optimizer Value Realization Series - Session 1 Roadmap to Value with Adobe Journey Optimizer
 description: Learn how to design an Adobe Journey Optimizer use case rollout strategy that drives measurable outcomes. Discover practical tips and real-world examples to unlock business value.
 solution: Journey Optimizer
+feature: Journeys
+topic: Development
 role: Leader, User
 level: Beginner
 doc-type: Event

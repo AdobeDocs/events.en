@@ -1,6 +1,8 @@
 ---
 title: Mastering Digital Asset Management - Best Practices with Adobe ContentHub
 description: Explore how Adobe ContentHub integrates with AEM Assets to streamline workflows, boost access, and improve asset management across teams and industries.
+feature: Edge Delivery Services, Release Information
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event

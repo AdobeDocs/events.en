@@ -1,6 +1,7 @@
 ---
 title: Understand GraphQL API performance options and query optimizations
 description: Understand GraphQL API performance options and query optimizationsLearn how to create performant GraphQL queries, based on the best practices we recently published. Headless content delivery based on GraphQL can be fast, but might also cause performance bottlenecks in some cases. All depends upon how you develop your GraphQL queries. In this session, you will discover details of the latest AEM GraphQL features, and how to exploit those to fine-tune your GraphQL queries for a performant delivery of your contents!
+feature: Edge Delivery Services, Release Information
 product: experience manager
 sub-product: sites
 topic: Development

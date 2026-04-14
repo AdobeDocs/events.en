@@ -2,6 +2,7 @@
 title: Foundational Architecture to Support Your Content Supply Chain
 description: Explore foundational architecture for content supply chain, focusing on the North Star strategy for aligning business and technical teams.
 solution: General
+feature: Strategic Planning
 topic: Content Supply Chain
 role: Developer, Leader, User
 level: Beginner, Intermediate, Experienced

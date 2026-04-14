@@ -1,6 +1,8 @@
 ---
 title: Optimize Your Commerce Storefront
 description: Optimize Your Commerce Instance with Adobe's Expert Tips on Maintenance, Bot Activity, and Data Management
+feature: Integration, Edge Delivery Services
+topic: Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

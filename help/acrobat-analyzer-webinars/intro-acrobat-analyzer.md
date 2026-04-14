@@ -1,6 +1,9 @@
 ---
 title: Introducing Acrobat Analyzer
+solution: Acrobat Sign
+feature: Generative AI, Sign
 description: Discover Adobe Acrobat Analyzer, a GenAI tool for Acrobat Sign that automates document workflows, reduces risks, and improves decision-making efficiency.
+topic: Artificial Intelligence, Performance
 role: Admin, Leader, User
 level: Beginner
 doc-type: Event

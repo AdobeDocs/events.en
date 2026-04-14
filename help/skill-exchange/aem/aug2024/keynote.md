@@ -2,6 +2,8 @@
 title: Opening Keynote
 description: AEM Opening Keynote
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
+topic: Development, Headless
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

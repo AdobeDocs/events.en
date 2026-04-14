@@ -1,6 +1,8 @@
 ---
 title: Workfront Pro Tips - Next-level Data Collection Opportunities in Workfront
 description: Explore advanced techniques for optimizing data collection in Workfront, enhancing efficiency and governance.
+feature: Reports and Dashboards, Strategic Planning
+topic: Integrations, Performance, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

@@ -1,6 +1,8 @@
 ---
 title: Top Reasons to Use Images in Custom Forms
 description: Discover why adding images, PDFs, or videos to custom forms enhances user engagement and communication.
+feature: Work Management, Workfront Fusion
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

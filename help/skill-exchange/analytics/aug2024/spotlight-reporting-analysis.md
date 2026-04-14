@@ -2,6 +2,8 @@
 title: Experience Makers Spotlight
 description: Learn about a few Workspace features that you may not be using in your projects Find out how you can use these features to provide insights to you and your Workspace project end-users Get some use-case examples that you may be able to apply to your organization's Workspace projects.
 solution: Analytics
+feature: Analysis Workspace, Visualizations
+topic: Security
 role: User
 level: Intermediate, Experienced
 doc-type: Event

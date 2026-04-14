@@ -2,6 +2,7 @@
 title: Aug 2023 Learn Track - Adobe Analytics  Putting it all together
 description: This session will wrap things up by understanding how Adobe Analytics tracks website data and utilize Visualizations to gain further insight.
 feature: Visualizations
+topic: Migration, Integrations
 role: User
 level: Beginner
 doc-type: Event

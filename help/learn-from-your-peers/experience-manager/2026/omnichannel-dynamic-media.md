@@ -4,6 +4,7 @@ description: Discover how Adobe Dynamic Media in AEM Assets streamlines image an
 solution: Experience Manager, Experience Manager Assets
 version: Experience Manager as a Cloud Service
 feature: Dynamic Media
+topic: Performance, Certification, Development
 role: Admin, Developer
 level: Beginner, Intermediate
 doc-type: Event

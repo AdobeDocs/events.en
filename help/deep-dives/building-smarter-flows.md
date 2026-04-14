@@ -2,6 +2,7 @@
 title: Automate & Innovate Building Smarter Flows with Webhooks & Self-Service Flow Steps (SSFS)
 description: This Marketo deep dive covers Webhooks and Self-Service Flow Steps (SSFS) to help you build smarter, AI-ready marketing automation. Learn setup best practices, real-time integration techniques, and practical use cases including CRM updates, data enrichment, custom flow logic, and AI-powered workflows. Perfect for Marketo users, MOPs teams, and admins focused on stronger data quality and campaign results.
 feature: Webhooks
+topic: Integrations, Security, Development
 role: Admin, Developer, User
 level: Intermediate, Experienced
 doc-type: Event

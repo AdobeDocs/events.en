@@ -1,6 +1,8 @@
 ---
 title: Expert Insights with Jen Desmond
 description: Join Jen Desmond as she discusses the evolution of an instance and shares insights on change management and user engagement.
+feature: Workfront Fusion, System Setup and Administration
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

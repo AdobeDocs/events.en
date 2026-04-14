@@ -2,6 +2,8 @@
 title: Espressos & Experience Manager - AEM Forms
 description: AEM Forms boosts performance with omnichannel forms, AI-powered personalization, and cloud-native scalability—driving 2.5x conversions, 85% faster edits, and 50% fewer errors.
 solution: Experience Manager Forms
+feature: Edge Delivery Services, Core Components
+topic: Artificial Intelligence, Personalization, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

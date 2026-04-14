@@ -1,6 +1,8 @@
 ---
 title: What's New - Acrobat Sign October 2025 Release
 description: Explore Acrobat Sign's latest features from the October 2025 release, enhancing user experience and compliance.
+feature: Sign
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

@@ -1,6 +1,7 @@
 ---
 title: Lightning Speed - Adobe's Edge Delivery Services
 description: The latest details and demonstration on Adobe's lightning fast Edge Delivery Services through Adobe Experience Manager and Adobe Commerce.
+feature: Edge Delivery Services
 topic: Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate

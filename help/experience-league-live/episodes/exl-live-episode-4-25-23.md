@@ -3,6 +3,7 @@ title: Get data collection and event forwarding up and running with just a few c
 description: With a few clicks, Adobe's data collection quick start workflows will set up multiple things on the backend to save you time and make sure your setup is correct.
 solution: Data Collection,Experience Platform,Analytics,Real-Time Customer Data Platform,Customer Journey Analytics
 feature: Data Collection
+topic: Development
 kt: 13041
 event-cta-url-live: https://www.youtube.com/watch?v=jGjIKIWFNsM
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-230425.html

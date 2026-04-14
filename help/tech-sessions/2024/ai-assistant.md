@@ -5,6 +5,8 @@ role: Admin
 level: Beginner
 doc-type: Event
 solution: Experience Platform, Real-Time Customer Data Platform, Journey Optimizer, Customer Journey Analytics
+feature: AI Assistant, Audiences, Journeys, Use Cases
+topic: Artificial Intelligence, Personalization, Integrations
 duration: 2813
 last-substantial-update: 2024-10-30
 jira: KT-16367

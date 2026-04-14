@@ -3,6 +3,7 @@ title: Marketo & Mochas - Fundamentals of Attribution Dashboards Recording
 description: Join Adobe’s Sr. Business Advisor, Cynthia Chang, and Technical Advisor, James Leedom, for an in-depth session on mastering Marketo's attribution model and Performance Insights (MPI) dashboards, covering setup, program tracking, data syncing, and showcasing marketing's impact on revenue and customer acquisition.
 feature-set: Marketo Engage
 feature: Performance Insights
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

@@ -4,6 +4,7 @@ description: Discover the robust functionalities of the Commerce Intelligence Da
 solution: Commerce, Commerce Intelligence
 feature-set: Commerce Intelligence
 feature: Data Integration, Reports, Data Warehouse Manager
+topic: Integrations
 role: Admin
 level: Intermediate
 doc-type: Event

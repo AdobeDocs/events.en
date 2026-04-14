@@ -2,6 +2,8 @@
 title: Adobe Analytics - Putting it All Together
 description: Wrap things up by understanding how Adobe Analytics tracks website data, how to save, share and collaborate. Leave this session with tips to increase your productivity.
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Beginner
 kt: 10319

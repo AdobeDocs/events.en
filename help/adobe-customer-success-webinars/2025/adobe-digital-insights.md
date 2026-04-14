@@ -2,6 +2,8 @@
 title: Adobe Digital Insights - Unwrapping 2024 holiday results and early 2025 trends
 description: Join Adobe’s webinar to gain insights into 2024 holiday shopping trends and early 2025 market forecasts, explore high-growth product categories, and learn best practices for creating personalized shopping experiences using AI and advanced technologies.
 solution: General
+feature: Generative AI, Personalization
+topic: Artificial Intelligence, Personalization, Performance
 role: Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

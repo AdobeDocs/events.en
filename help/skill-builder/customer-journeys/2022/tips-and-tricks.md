@@ -2,6 +2,8 @@
 title: Top Tips and Tricks for Adobe Campaign Standard
 description: Plug into your Adobe Campaign Standard instance and discover best practices around targeting, personalisation and marketing fatigue to have a better usage of A… (Descriptions should be between 60 and 160 characters)
 solution: Campaign Standard
+feature: Personalization
+topic: Personalization
 role: Admin, User
 level: Beginner, Intermediate, Experienced
 kt: 10579

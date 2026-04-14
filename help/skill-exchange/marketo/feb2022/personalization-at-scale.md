@@ -2,6 +2,8 @@
 title: Personalization At Scale
 description: Harness the power of Adobe [!DNL Marketo Engage], personalize beyond tokens.
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Personalization, Performance
 role: User
 level: Beginner
 kt: 9769

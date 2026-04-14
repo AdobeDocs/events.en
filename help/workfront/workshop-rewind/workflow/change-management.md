@@ -1,6 +1,8 @@
 ---
 title: Change Management in Workfront
 description: Discover how change management can enhance your Workfront journey with practical strategies and insights.
+feature: Work Management, Workfront Fusion
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

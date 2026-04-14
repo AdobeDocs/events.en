@@ -2,6 +2,8 @@
 title: Designing an Operating Model for AJO Success
 description: Learn how a cohesive operating model boosts efficiency, avoids resourcing challenges, and scales your marketing program for long-term success.
 solution: Journey Optimizer
+feature: Email Design
+topic: Personalization, Performance, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

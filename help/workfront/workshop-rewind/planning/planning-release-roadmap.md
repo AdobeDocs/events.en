@@ -1,6 +1,8 @@
 ---
 title: From Vision to Value - Workfront Planning Release & Roadmap
 description: Workshop Rewind - Planning
+feature: Strategic Planning
+topic: Integrations, Performance, Content Supply Chain
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

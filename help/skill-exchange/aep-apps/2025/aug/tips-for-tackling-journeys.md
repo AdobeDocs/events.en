@@ -3,6 +3,7 @@ title: Calming Customer Chaos - Tips for Tackling Complex Journeys in Adobe Jour
 description: Learn practical tips to break down complex journeys, use tags, and streamline data management for seamless orchestration in Adobe Journey Optimizer.
 solution: Experience Platform, Journey Optimizer
 feature: Journeys
+topic: Administration
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

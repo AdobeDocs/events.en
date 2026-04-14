@@ -2,6 +2,7 @@
 title: Person Scoring Mastery with Marketo Engage - Localized Nuances in a Global Framework
 description: As an administrator, you develop the Marketo Engage person scoring model based on the real business value of the scoring elements compared to each other. But what if that business value varies in different markets? How do you allow for local influences without losing consistency across your organization? Learn how finds balance by building local flexibility into the scoring model.
 feature: Person Scoring
+topic: Development
 role: Admin
 level: Intermediate
 doc-type: Event

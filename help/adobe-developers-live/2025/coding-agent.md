@@ -1,6 +1,8 @@
 ---
 title: AI Coding Showdown - The Good, Bad & Ugly
 description: Explore AI coding agents in action with Adobe Experience Manager, revealing strengths and challenges in real-world scenarios.
+feature: Edge Delivery Services
+topic: Artificial Intelligence, Development
 role: Developer
 level: Beginner, Intermediate, Experienced
 doc-type: Event

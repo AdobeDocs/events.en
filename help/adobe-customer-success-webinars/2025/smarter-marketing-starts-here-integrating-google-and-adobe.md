@@ -3,6 +3,7 @@ title: Smarter Marketing Starts Here - Integrating Google & Adobe
 description: Join Adswerve's VP of Digital Strategy, Charles Farina, and Adobe Principal Product Marketer, Danielle Doolin, for an insightful webinar exploring the transformative power of integrating industry-leading platforms.
 solution: Customer Journey Analytics
 feature: Use Cases
+topic: Personalization, Integrations, Security
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Value Video

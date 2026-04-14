@@ -1,6 +1,8 @@
 ---
 title: Marketo Measure & Mochas Activities and Custom Models
 description: Join Adobe Business Advisor Kate Colbert and Customer Technical Advisor James Leedom as they explore strategies for leveraging Custom Attribution Models and Activities Attribution in Adobe Marketo Measure, demonstrating real-life examples and concluding with a live Q&A session.
+feature: Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

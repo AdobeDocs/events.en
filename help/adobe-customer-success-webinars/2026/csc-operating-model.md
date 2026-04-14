@@ -1,6 +1,7 @@
 ---
 title: Designing an Operating Model for Content Supply Chain Success
 description: Design an effective operating model for content supply chain success. Learn about team structure, governance, and process optimization.
+feature: Strategic Planning
 topic: Content Supply Chain
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced

@@ -4,6 +4,8 @@ description: During the [!DNL Adobe Analytics] Building a Data Driven Culture We
 role: User
 doc-type: Event
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 last-substantial-update: 2023-02-16
 jira: KT-11881
 thumbnail: 3415614.jpeg

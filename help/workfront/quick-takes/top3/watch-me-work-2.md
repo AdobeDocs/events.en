@@ -1,6 +1,8 @@
 ---
 title: Top Project Management Features
 description: Discover top project management features in Adobe Workfront to enhance productivity and streamline tasks.
+feature: Work Management, Workfront Fusion
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

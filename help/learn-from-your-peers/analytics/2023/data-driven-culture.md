@@ -4,6 +4,8 @@ description: Join [!DNL Adobe Analytics] Champion Gitai Ben-Ammi as he discusses
 role: User
 doc-type: Event
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 last-substantial-update: 2023-02-09
 kt: 11836
 thumbnail: 3414131.jpeg

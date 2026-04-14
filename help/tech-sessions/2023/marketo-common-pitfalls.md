@@ -3,6 +3,7 @@ title: Advanced Smart List Logic & Common Pitfalls
 description: overview of complex and advanced smart list logic, ALL, ANY and Advanced Filters, multiple triggers, negative filters and negative constraints, common issues, and troubleshooting tips
 feature-set: Marketo Engage
 feature: Smart Lists
+topic: Artificial Intelligence, Personalization
 role: Admin, User
 level: Beginner
 doc-type: Event

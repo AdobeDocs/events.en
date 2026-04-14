@@ -3,6 +3,7 @@ title: Metadata Mayhem to Mastery
 description: Learn expert tips for implementing AEM Assets and Workfront connector, mapping metadata, and aligning roles for a successful rollout.
 solution: Experience Manager, Workfront, Experience Manager Assets
 feature: Metadata
+topic: Integrations
 role: Admin, User
 level: Beginner, Intermediate
 doc-type: Event

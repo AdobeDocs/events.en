@@ -2,6 +2,8 @@
 title: Innovations in Content Personalization that deliver Business Value
 description: learn about recent innovations in Adobe's content solution, and how Adobe is driving innovation in Commerce solutions
 solution: Experience Manager, Commerce
+feature: Release Information, Authoring, Integration, Edge Delivery Services
+topic: Personalization, Performance
 role: Admin, Leader, User
 level: Beginner
 kt: 10577

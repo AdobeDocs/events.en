@@ -1,6 +1,8 @@
 ---
 title: Rapid Development Environment (RDE) Snapshots for Fast Cloud Development
 description: Explore rapid development with RDE snapshots in AEM Cloud. Learn to freeze, restore, and innovate your development cycles efficiently.
+feature: Edge Delivery Services, Release Information
+topic: Administration, Development
 role: Developer
 level: Beginner, Intermediate
 doc-type: Event

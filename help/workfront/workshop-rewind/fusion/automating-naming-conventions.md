@@ -1,6 +1,8 @@
 ---
 title: 5 Tips for Automating Naming Conventions Using Workfront Fusion
 description: Workshop Rewind - Fusion
+feature: Workfront Fusion, Reports and Dashboards, System Setup and Administration
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

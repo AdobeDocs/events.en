@@ -1,6 +1,7 @@
 ---
 title: Navigating tomorrow - Commerce roadmap, insights & innovations
 description: A recap of Adobe Commerce sessions at Summit 2024, some of the new innovations Coming to the Adobe Commerce platform on the near term roadmap.
+feature: Integration, Edge Delivery Services
 topic: Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate

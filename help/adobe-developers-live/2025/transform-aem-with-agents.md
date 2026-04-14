@@ -1,6 +1,8 @@
 ---
 title: Unlock AI in Adobe Experience Manager
 description: Explore how AI enhances Adobe Experience Manager with Algolia's advanced search and retrieval capabilities.
+feature: Edge Delivery Services
+topic: Artificial Intelligence, Personalization, Development
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event

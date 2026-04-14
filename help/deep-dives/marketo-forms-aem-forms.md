@@ -1,6 +1,8 @@
 ---
 title: Whose form is it anyway? Deep dive on Marketo forms compared to AEM Forms
 description: Integrate Marketo and AEM Forms for personalized experiences like custom PDFs. AEM Forms handles complex forms with real-time validation and centralized management.
+feature: Programs, Reporting
+topic: Personalization, Integrations
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event

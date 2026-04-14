@@ -1,6 +1,8 @@
 ---
 title: Power Up Your Acrobat Sign Admin Experience
 description: Discover new admin features to streamline onboarding and maximize Acrobat Sign's potential.
+feature: Sign
+topic: Integrations, Migration, Administration
 role: Admin
 level: Beginner
 doc-type: Event

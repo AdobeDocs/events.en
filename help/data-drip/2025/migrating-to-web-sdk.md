@@ -1,6 +1,7 @@
 ---
 title: Data Drip - Benefits of Migrating from an Old System to Web SDK
 description: Learn how Adobe Web SDK streamlines implementation, boosts performance, and cuts costs with smarter tracking and simplified integrations via the Edge Network.
+feature: Data Governance, Data Configuration and Collection
 topic: Migration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced

@@ -4,6 +4,7 @@ description: Naomi Robichaud offers a detailed look at integrating Adobe Commerc
 solution: Commerce
 feature-set: Commerce
 feature: Integration, Eventing, Extensibility
+topic: Integrations, Development
 role: Developer
 level: Beginner
 doc-type: Event

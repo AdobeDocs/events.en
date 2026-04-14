@@ -1,6 +1,8 @@
 ---
 title: Master Text Mode with Katherine Lanning
 description: Discover the power of text mode in Workfront with expert insights from Katherine Lanning.
+feature: Reports and Dashboards, System Setup and Administration, Work Management
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

@@ -2,6 +2,8 @@
 title: Maximizing Efficiency - Lean Teams and Customer Journey Analytics
 description: The webinar will demonstrate how integrating these concepts can drive efficiency, enhance customer experiences, and support data-driven decision-making within organizations.
 solution: Customer Journey Analytics
+feature: Basics, Use Cases
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event

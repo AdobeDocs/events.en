@@ -2,6 +2,7 @@
 title: Opening Keynote
 description: In this keynote session, recorded at Adobe Developers Live Content and Commerce on November 6, 2023, industry experts Nishant Kapoor and Cedric Huesler unveil the latest advancements in Adobe Commerce and Experience Manager. Explore the evolution and future of these powerful platforms, with a focus on real-world applications, low-code development tools, and strategies for maintaining high-performance websites. Ron Nagy hosts this insightful session, offering a deep dive into the tools that enable engaging, personalized digital experiences.
 solution: Commerce, Experience Manager as a Cloud Service
+feature: Integration, Edge Delivery Services, Migration
 topic: Development
 role: Developer
 level: Beginner

@@ -1,6 +1,8 @@
 ---
 title: Fusion Benefits & Best Practices
 description: Discover Fusion's benefits and best practices from experts. Learn how to streamline processes and enhance efficiency with Adobe Fusion.
+feature: Workfront Fusion
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

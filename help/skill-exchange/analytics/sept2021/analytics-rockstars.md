@@ -2,6 +2,8 @@
 title: Rockstar Segment
 description: Three "Rockstar" customers will each present their best Adobe Analytics tip or trick.
 solution: Analytics
+feature: Segmentation
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10459

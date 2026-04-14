@@ -4,13 +4,13 @@ description: Create, Collaborate, and Activate with Adobe Journey Optimizer, Ado
 kt: KT-18093
 solution: Journey Optimizer
 feature: Integrations, Email Design, Personalization
+topic: Personalization, Integrations, Security
 event-cta-url-live: https://youtube.com/live/tyXesNYv-eM
 event-start-time: 2025-06-05 08:30-7
 event-guests: Sandra Hausmann, Chris Ivory, Amarnath Vannarath, Rohan Bhatt
 last-substantial-update: 2025-06-06
 exl-id: 0f8157a2-b0d1-4d46-a682-0268dadb65c5
 ---
-
 # Agile Workflows for Personalized Content at Scale
 
 In this session, Adobe experts Chris Ivory, Amarnath Vannarath, and Rohan Bhatt showcase how Adobe Journey Optimizer (AJO) seamlessly integrates with Adobe Express and GenStudio for Performance Marketing. Learn how these tools bring unparalleled flexibility, collaboration, and AI-powered creativity to your marketing workflows.

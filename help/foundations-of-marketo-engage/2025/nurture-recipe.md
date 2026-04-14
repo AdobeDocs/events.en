@@ -1,6 +1,7 @@
 ---
 title: Create Your Nurture Recipe
 description: Master nurturing in Marketo Engage—learn strategy, automation, personalization, and performance tracking to boost engagement and results.
+feature: Programs, Reporting
 speaker-name-1: Amanda Thomas
 speaker-title-1: Senior Marketing Operations Manager
 speaker-company-1: Iron Horse

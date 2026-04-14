@@ -1,6 +1,8 @@
 ---
 title: Session 1 of 2026 - Fundamentals of Marketo Engage
 description: Learn the basics of Marketo Engage, including navigation, core features, and automation tools to confidently manage your marketing campaigns.
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 doc-type: Event

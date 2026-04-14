@@ -8,6 +8,7 @@ speaker-name-2: Jeremy Evans
 speaker-title-2: Senior Adoption Specialist
 speaker-company-2: Adobe
 feature: Person Scoring
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 doc-type: Event

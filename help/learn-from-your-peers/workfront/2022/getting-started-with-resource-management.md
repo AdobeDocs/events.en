@@ -2,6 +2,7 @@
 title: Getting started with resource management webinar
 description: Learn from your peers about using Adobe Workfront for resource management. Discover tips from experts on the Resource Planner, Workload Balancer, and successful implementation in our on-demand webinar.
 feature: Get Started with Workfront
+topic: Administration, Integrations
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event

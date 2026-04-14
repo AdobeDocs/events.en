@@ -2,6 +2,8 @@
 title: Establishing an Effective Measurement Strategy
 description: Elements of an Effective Measurement Strategy Common Challenges & Solutions  Examples of Strategic Frameworks
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: Admin, Data Architect, Data Engineer, Leader, User
 level: Intermediate
 doc-type: Event

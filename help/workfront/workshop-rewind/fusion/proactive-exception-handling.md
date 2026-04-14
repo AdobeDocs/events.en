@@ -1,6 +1,8 @@
 ---
 title: Proactive Exception Handling in Workfront Fusion
 description: Learn how to proactively manage exceptions in Workfront Fusion, ensuring seamless automation and improved user experience.
+feature: Workfront Fusion, Reports and Dashboards
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

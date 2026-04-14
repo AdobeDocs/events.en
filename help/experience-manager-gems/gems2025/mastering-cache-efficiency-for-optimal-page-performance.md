@@ -4,6 +4,7 @@ description: Learn proven strategies to boost cache performance and deliver fast
 role: Developer
 level: Intermediate
 feature: Edge Delivery Services
+topic: Performance
 doc-type: Event
 duration: 2871
 last-substantial-update: 2025-10-02

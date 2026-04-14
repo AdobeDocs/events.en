@@ -2,6 +2,8 @@
 title: Beyond the Launch - How Marketo Engage's Email Designer Has Evolved
 description: Discover how Marketo Engage's Email Designer has transformed, offering marketer-friendly tools to enhance email creation without HTML coding.
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Migration, Administration
 role: Admin, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

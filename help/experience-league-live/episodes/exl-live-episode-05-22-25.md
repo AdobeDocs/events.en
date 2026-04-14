@@ -4,6 +4,7 @@ description: Join us for an insightful one-hour webinar where we dive into the t
 kt: KT-17641
 solution: Customer Journey Analytics
 feature: Content Analytics
+topic: Performance
 event-cta-url-live: https://www.youtube.com/live/0ApnRRtZxeY
 event-start-time: 2025-05-22 09:00-8
 event-guests: Doug Moore, Shay O'Reilly, Jennifer Werkmeister

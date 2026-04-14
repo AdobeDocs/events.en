@@ -2,6 +2,8 @@
 title: Opening Keynote
 description: Opening Keynote featuring Raj Patel
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

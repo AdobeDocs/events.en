@@ -3,6 +3,7 @@ title: Seamless Journeys - Unlocking Identity with CJA
 description: This webinar explains how Customer Journey Analytics (CJA) delivers unified customer insights by removing data silos and using identity stitching across channels and devices. Learn the difference between field-based vs. graph-based stitching, how CJA improves cross-channel attribution, and see demos showing more identified events and actionable analytics.
 solution: Customer Journey Analytics
 feature: Identity
+topic: Integrations, Migration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event

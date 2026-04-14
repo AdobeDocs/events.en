@@ -2,6 +2,8 @@
 title: Adobe Commerce & App Builder Essentials - From Basics to Impact
 description: Explore App Builder's role in Adobe Commerce for flexibility, agility, and cost savings. Learn best practices, integrations, and cloud-native benefits.
 solution: Commerce
+feature: Integration
+topic: Integrations, Performance, Migration
 role: Admin, Developer, Leader, User
 level: Intermediate, Experienced
 doc-type: Event

@@ -1,6 +1,8 @@
 ---
 title: Opening Keynote
 description: The developer ecosystem has always been critical to the success of Magento, and that's no different for Adobe Commerce and Magento Open Source today. Kick off … (Descriptions should be between 60 and 160 characters)
+feature: Developer Tools
+topic: Development
 role: User
 level: Beginner
 kt: 9791

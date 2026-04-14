@@ -4,6 +4,7 @@ description: Discover how Customer Journey Analytics B2B Edition empowers organi
 kt: KT-19012
 solution: Customer Journey Analytics
 feature: Basics
+topic: Performance, Development
 event-cta-url-live: https://youtube.com/live/kiJfaedHSVw
 event-start-time: 2025-10-16 09:00-7
 event-guests: Doug Moore, Kari Olson, Caitlin Baunach

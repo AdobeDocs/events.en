@@ -2,6 +2,7 @@
 title: Content Supply Chain Integration
 description: Discover how Citibank optimized their content supply chain using Workfront, Creative Cloud, and AEM, enhancing efficiency and collaboration.
 solution: Experience Manager, Workfront, Creative Cloud
+feature: Edge Delivery Services, Release Information, Strategic Planning, Workfront Integrations and Apps
 topic: Content Supply Chain
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced

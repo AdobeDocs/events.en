@@ -3,6 +3,7 @@ title: AEP Web SDK Troubleshooting, Assurance, and Tips and Tricks
 description: Join Garrett Hartley for a comprehensive session on troubleshooting AEP Web SDK workflows, focusing on data collection for RTCDP, Adobe Analytics, and addressing common implementation challenges.
 solution: Experience Platform
 feature: Web SDK
+topic: Migration
 role: Admin
 level: Beginner, Intermediate
 doc-type: Event

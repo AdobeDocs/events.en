@@ -4,6 +4,7 @@ description: In this Experience League Live episode, we talk about the common us
 solution: Journey Optimizer
 kt: 10407
 feature: Push
+topic: Development
 role: Developer
 event-start-time: 2022-05-12 09:30-7
 event-guests: Sandra Hausmann,Archana Chaudhary,Don Huynh

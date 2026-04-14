@@ -3,6 +3,7 @@ title: Authoring in Edge Delivery Services
 description: Discover authoring strategies in Edge Delivery Services, comparing Document-Based Authoring and Universal Editor with AEM Sites.
 solution: Experience Manager
 feature: Universal Editor, Edge Delivery Services
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event

@@ -2,6 +2,8 @@
 title: Ask Me Anything
 description: Commerce and Coffee answers participant questions on Adobe Commerce, exploring company hierarchy, website performance metrics, B2B personalization, live search best practices, and upcoming product enhancements.
 solution: Commerce
+feature: B2B, Payments
+topic: Personalization, Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

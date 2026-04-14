@@ -1,6 +1,8 @@
 ---
 title: Your dream Workfront report EXISTS! Two Approaches to Mastering EXISTS Statements
 description: Technical know-how and practical applications to show us how to use EXISTS statements to build smarter reports
+feature: Reports and Dashboards
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

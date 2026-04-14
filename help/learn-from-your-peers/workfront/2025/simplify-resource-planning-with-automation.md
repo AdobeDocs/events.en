@@ -2,6 +2,7 @@
 title: Simplify Resource Planning with Automation
 description: Learn how Deloitte uses Fusion to automate resource planning and PTO tracking in Workfront. Discover real-world tips to boost accuracy, visibility, and team adoption.
 feature: Resource Management, Strategic Planning
+topic: Administration, Integrations
 role: Admin
 level: Intermediate
 doc-type: Event

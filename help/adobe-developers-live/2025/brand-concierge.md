@@ -1,6 +1,8 @@
 ---
 title: Enhance Onsite Experience
 description: Discover how Adobe Brand Concierge transforms digital experiences with AI-driven, personalized interactions to boost engagement and conversions.
+feature: Edge Delivery Services, Release Information
+topic: Personalization, Integrations, Security
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event

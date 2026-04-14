@@ -3,6 +3,7 @@ title: Experience League LIVE, Episode 1 - My Three Favorite Adobe [!DNL Analyti
 description: You've seen him on-stage at Summit. You've heard him share expert advice at Adobe Insider Tours. You may have even had the benefit of working with him on your own Adobe [!DNL Analytics] implementation. Now, Eric Matisoff is bringing his Three Favorite Adobe [!DNL Analytics] Implementation Tips to this exclusive Experience League Live discussion.
 solution: Analytics
 feature: Implementation Basics
+topic: Migration, Integrations
 kt: 8553
 event-start-time: 2021-07-29 09:00-7
 event-guests: Eric Matisoff,Dasha Fitzpatrick

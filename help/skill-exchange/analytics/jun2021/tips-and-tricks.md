@@ -2,6 +2,8 @@
 title: Adobe Analytics Tips & Tricks
 description: Join Jen Lasser, Principal Product Manager, Adobe Analytics, as she shares tips to improve your analysis workflow & highlight recent innovations
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10321

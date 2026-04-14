@@ -2,6 +2,7 @@
 title: Unlocking the Power of Adobe GenStudio Organizational Readiness to address Content Supply Chain challenges
 description: The session highlighted the importance of a connected content supply chain for enhanced performance, Adobe's Gen Studio vision for optimizing content workflows, and the AI capabilities of Adobe Experience Manager, Workfront, and Experience Platform to improve content creation, planning, and operational efficiency.
 solution: Experience Manager, Workfront, Experience Platform, GenStudio for Performance Marketing
+feature: Edge Delivery Services, Release Information, Reports and Dashboards, Strategic Planning
 topic: Content Supply Chain
 role: Admin, Developer, Leader, User
 level: Intermediate

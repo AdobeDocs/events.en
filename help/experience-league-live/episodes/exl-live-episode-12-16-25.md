@@ -4,6 +4,7 @@ description: Powered by Adobe Experience Platform Agent Orchestrator, Product Su
 kt: KT-19794
 solution: Experience Platform
 feature: AI Assistant
+topic: Artificial Intelligence, Personalization
 event-cta-url-live: https://www.youtube.com/live/MW2Ba7HJNbA
 event-start-time: 2025-12-16 09:00-8
 event-guests: Daniel Wright, Huong Vu, Shreya Anantha Raman

@@ -2,6 +2,8 @@
 title: Real-time CDP Data Readiness
 description: Learn the strategy behind organizational preparedness from a data readiness perspective for a streamlined real-time CDP launch. Understand real-time CDP data readiness & Learn how to align on business use cases as an organizationKey resources & actions for real time CDP readiness
 solution: Real-Time Customer Data Platform
+feature: Data Governance, Identities
+topic: Personalization, Artificial Intelligence
 role: Admin, Architect, Data Architect, Data Engineer, Developer
 level: Intermediate
 doc-type: Event

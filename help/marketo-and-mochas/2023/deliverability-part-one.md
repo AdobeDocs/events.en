@@ -1,6 +1,8 @@
 ---
 title: Marketo and Mochas - Deliverability (Part 1)
 description: Join Marketo & Mochas to explore email deliverability best practices with Sean Wirt and Cynthia Chang, covering reputation management, data quality, shared vs. dedicated IPs, and a demo of the Deliverability Program in Marketo Engage.
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

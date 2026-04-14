@@ -2,6 +2,7 @@
 title: Empowering B2B Success
 description: Explore Adobe Commerce's advanced B2B features with Corey Gelato, including Shared Catalog, Quotes, requisition lists, and approval workflows, while learning strategies to drive growth and stay competitive in the evolving B2B commerce landscape.
 solution: Commerce
+feature: B2B
 topic: Commerce
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced

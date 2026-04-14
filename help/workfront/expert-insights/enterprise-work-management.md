@@ -2,6 +2,7 @@
 title: Expert Insights – Enterprise Work Management with Daniel Clarke
 description: Hear Daniel Clarke share Workfront best practices on enterprise work management, adoption, leadership metrics, and Fusion strategies for success.
 feature: Workfront Fusion
+topic: Performance
 speaker-name-1: Daniel Clarke
 speaker-title-1: Senior Manager of Restaurant Solutions
 speaker-company-1: Sysco Corporation

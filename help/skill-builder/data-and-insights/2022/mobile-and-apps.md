@@ -2,6 +2,8 @@
 title: Analytics and Target applications for Mobile and Apps
 description: In this session you will learn about best practice on how to use Analytics dashboards on mobile devices, as well as how to personalize apps via Target.
 solution: Analytics, Target
+feature: Analytics Basics, Analysis Workspace, Integrations, AI Assistant
+topic: Personalization
 role: Admin, Data Architect, Data Engineer, User
 level: Intermediate, Experienced
 kt: 10568

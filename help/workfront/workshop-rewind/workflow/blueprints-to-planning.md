@@ -1,6 +1,8 @@
 ---
 title: Enablement That Scales - Turning Workfront Blueprints into Real-World Training Programs
 description: Learn to turn Workfront Blueprints into practical training programs to scale enablement effectively.
+feature: Work Management
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

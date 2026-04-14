@@ -1,6 +1,8 @@
 ---
 title: Personalization Maturity - The Path to Hyperpersonalization
 description: Inform on the new era of hyperpersonalization. We’ll build a foundation on a personalization maturity model, discuss common blockers, and provide tactical tips for getting started.Key Discussion Points - The Modern Customer Journey​ The Path to Hyperpersonalization​ How to Get Started at Your Organization
+feature: Basics, Use Cases
+topic: Personalization, Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event

@@ -1,6 +1,9 @@
 ---
 title: Navigating Change - A Senior Leadership Webinar on Effective Change Management
+solution: Experience Cloud
+feature: Personalization
 description: Delve into the nuances of Change Management and provide strategic insights to empower you in steering your organization through transformational journeys.
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event

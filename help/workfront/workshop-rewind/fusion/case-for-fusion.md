@@ -1,6 +1,8 @@
 ---
 title: Workfront Fusion Benefits and Use Cases
 description: Discover how Workfront Fusion simplifies processes, enhances efficiency, and supports integration with Adobe platforms.
+feature: Workfront Fusion
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

@@ -2,6 +2,8 @@
 title: Opening Keynote
 description: Adobe Workfront - Opening Keynote
 solution: Workfront
+feature: Work Management, Workfront Fusion
+topic: Administration, Integrations
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

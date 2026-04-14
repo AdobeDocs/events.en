@@ -3,6 +3,8 @@ title: Using Workfront for training and enablement webinar
 description: Discover how Workfront enhances employee training in our on-demand webinar. Gain insights from JPMorgan Chase, IBM, and Adobe Workfront experts on creating tailored paths, organizing materials, and leveraging Workfront for effective onboarding and long-term adoption.
 role: Admin
 solution: Workfront
+feature: System Setup and Administration, Work Management
+topic: Administration, Integrations
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3574

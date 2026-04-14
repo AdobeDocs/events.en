@@ -4,6 +4,7 @@ description: Couldn't come to Vegas? Well Vegas is coming to you! The Rockstar W
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event

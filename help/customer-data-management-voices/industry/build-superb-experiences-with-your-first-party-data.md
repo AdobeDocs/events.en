@@ -3,6 +3,7 @@ title: Build Superb Experiences with your First-Party Data
 description: Find out how to fuse first-party cookie data with consent-based durable identifiers to gain access to the golden customer record.
 solution: Real-Time Customer Data Platform
 feature: Identities
+topic: Security
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 9727

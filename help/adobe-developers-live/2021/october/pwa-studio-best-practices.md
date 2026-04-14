@@ -3,6 +3,7 @@ title: PWA Studio Best Practices for Beginners
 description: This session is a beginner-friendly introduction to what PWA Studio has to offer. Learn about the different PWA Studio libraries and how you can use them effectively in your storefront projects. Join us for examples and demonstrations to see just how easy it is getting started and working with PWA Studio.
 solution: Commerce
 feature: Developer Tools
+topic: Commerce
 role: Developer, Architect
 level: Experienced
 kt: 9199

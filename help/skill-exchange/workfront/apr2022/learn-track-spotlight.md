@@ -2,6 +2,8 @@
 title: Learn Track Experience Makers Spotlight
 description: Have you ever wanted to peek behind the curtain to see how some of the biggest brands in the world manage their work?
 solution: Workfront
+feature: Reports and Dashboards
+topic: Performance
 role: User
 level: Beginner
 kt: 10312

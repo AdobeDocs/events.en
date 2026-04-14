@@ -1,6 +1,8 @@
 ---
 title: Audit trails & Compliance (Jul 1, 2020)
 description: Listen to compliance experts share their ideas on how you might be able to streamline and enhance compliance and regulatory processes in your organization.
+feature: Work Management, Workfront Fusion
+topic: Administration
 role: Admin, User
 level: Intermediate
 kt: 9990

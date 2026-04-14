@@ -1,6 +1,8 @@
 ---
 title: Optimize Code with AEM Sites Optimizer
 description: Explore code optimization with AEM Sites Optimizer to improve performance and SEO. Learn to detect and fix issues efficiently.
+feature: Edge Delivery Services, Release Information
+topic: Security, Performance, Development
 role: Developer
 level: Beginner, Intermediate, Experienced
 doc-type: Event

@@ -1,6 +1,8 @@
 ---
 title: Advanced Training on Authoring Environment
 description: Take a deeper dive into the options available in the Acrobat Sign Authoring Environment.
+feature: Sign
+topic: Development
 role: User
 level: Intermediate
 doc-type: Event

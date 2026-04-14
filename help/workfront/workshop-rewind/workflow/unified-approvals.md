@@ -1,6 +1,8 @@
 ---
 title: Understanding Unified Approvals - Direction, Reporting, and What's Next
 description: Explore unified approvals with insights on direction, reporting, and upcoming features in this comprehensive workshop rewind.
+feature: Reports and Dashboards
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,7 +11,6 @@ last-substantial-update: 2026-03-26
 jira: KT-20612
 exl-id: 4eaa0277-5f45-4a6e-a552-cf46691cafe4
 ---
-
 # Understanding Unified Approvals - Direction, Reporting, and What's Next
 
 Unified Approvals represents the future of approvals in Workfront. Join our Adobe Product Management team for an informative session as they share the product direction for approvals in Workfront, how it differs from Proofing today and what the transition will look like over time.

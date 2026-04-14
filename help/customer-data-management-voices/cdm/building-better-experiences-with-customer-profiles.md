@@ -3,6 +3,7 @@ title: Building better experiences with customer profiles
 description: Providing an excellent customer experience requires merging everything we know about a customer into a real-time customer profile.
 solution: Real-Time Customer Data Platform
 feature: Profiles
+topic: Personalization, Artificial Intelligence
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 thumbnail: 336939.jpg

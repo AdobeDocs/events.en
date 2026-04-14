@@ -2,6 +2,7 @@
 title: Fusion Decoded Part 2 – Start Building
 description: EDiscover advanced features and scenarios in Fusion Decoded Part 2, including automation, project naming, and CSV uploads.
 feature: Workfront Fusion
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,7 +10,6 @@ duration: 3914
 last-substantial-update: 2026-04-03
 jira: KT-20754
 exl-id: 4ffc94ab-8e8f-46d4-b1b6-fe47626cd86e
-
 ---
 # Fusion Decoded Part 2 – Let's Start Building
 

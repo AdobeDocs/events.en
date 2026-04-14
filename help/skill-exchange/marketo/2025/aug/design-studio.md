@@ -3,6 +3,7 @@ title: Unlocking the Full Power of Design Studio for Global Marketing Operations
 description: Learn how to scale with Design Studio in Marketo Engage. Discover encapsulation, templates, forms, and strategies to reduce technical debt and boost efficiency.
 solution: Marketo Engage
 feature: Design Studio
+topic: Integrations, Performance, Administration
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

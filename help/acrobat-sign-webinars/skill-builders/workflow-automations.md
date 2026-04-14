@@ -2,6 +2,7 @@
 title: Workflow Automations Powered by Microsoft Power Automate
 description: Harness all the automation capabilities with Microsoft’s low-code/no-code solution, Power Automate, directly in Adobe Acrobat Sign.
 feature: Integrations
+topic: Integrations, Development
 role: User
 level: Intermediate
 doc-type: Event

@@ -2,6 +2,8 @@
 title: Mastering Sequential Logic in Adobe Analytics and Customer Journey Analytics - Starts and Stops
 description: Master sequential logic in Adobe Analytics with advanced segmentation, scope controls, and derived fields to uncover customer behavior patterns and improve data accuracy.
 solution: Analytics, Customer Journey Analytics
+feature: Segmentation, Basics, Use Cases
+topic: Migration, Integrations
 role: Developer
 level: Intermediate
 doc-type: Event

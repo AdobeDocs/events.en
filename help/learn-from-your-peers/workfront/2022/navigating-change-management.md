@@ -5,6 +5,8 @@ role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 solution: Workfront
+feature: Work Management, Workfront Fusion
+topic: Administration, Integrations
 duration: 3634
 last-substantial-update: 2024-07-16
 jira: KT-15819

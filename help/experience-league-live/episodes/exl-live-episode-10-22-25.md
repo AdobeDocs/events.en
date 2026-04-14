@@ -4,6 +4,7 @@ description: Experience Platform Agent Orchestrator powers the intelligence and 
 kt: KT-19206
 solution: Experience Platform
 feature: AI Assistant
+topic: Artificial Intelligence, Security, Performance
 event-cta-url-live: https://youtube.com/live/WS_DzRmYNzw
 event-start-time: 2025-10-22 08:30-7
 event-guests: Daniel Wright, Namita Krishnan, Huong Vu, Cole Connelly

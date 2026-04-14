@@ -4,6 +4,7 @@ description: We will wrap things up by understanding how Adobe Analytics tracks 
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics, Data Governance, Data Sources, Data Configuration and Collection
+topic: Migration, Integrations
 doc-type: Event
 last-substantial-update: 2022-11-11
 kt: 11437

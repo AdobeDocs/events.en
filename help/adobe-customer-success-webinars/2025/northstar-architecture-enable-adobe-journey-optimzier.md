@@ -2,6 +2,8 @@
 title: Leveraging a NorthStar Architecture to Enable the Adobe Journey Optimizer Vision
 description: Learn how leveraging a NorthStar Architecture can help diagnose gaps in your implementation and maintain organizational alignment around AJO and your entire Adobe solution stack.
 solution: Journey Optimizer
+feature: Journeys, Email Design, Audiences
+topic: Personalization, Content Supply Chain, Development
 role: Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event

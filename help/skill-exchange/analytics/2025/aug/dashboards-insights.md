@@ -3,6 +3,7 @@ title: Why Dashboards Don’t Deliver Insights (And What Actually Does)
 description: Learn how to move beyond dashboards and build a system for insights with narrative reports, hypothesis testing, and actionable analytics strategies.
 solution: Analytics
 feature: Workspace Basics, Analytics Basics, Analytics Dashboards
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event

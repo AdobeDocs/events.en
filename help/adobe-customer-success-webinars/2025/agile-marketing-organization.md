@@ -2,6 +2,8 @@
 title: Cultivating an Agile Marketing Organization
 description: The session on cultivating an agile marketing organization highlighted the principles of agile marketing, its benefits, challenges with the traditional waterfall approach, the need for a cultural shift and change management, and the roles and structure essential for successful agile marketing.
 solution: General
+feature: Personalization, Analytics Basics
+topic: Personalization, Performance, Development
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Event

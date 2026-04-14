@@ -4,6 +4,7 @@ description: Discover exciting new features in Acrobat Sign's February 2026 rele
 solution: Acrobat Sign
 feature-set: Document Cloud
 feature: Sign
+topic: Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

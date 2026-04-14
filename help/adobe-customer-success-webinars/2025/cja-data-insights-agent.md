@@ -1,6 +1,8 @@
 ---
 title: Conversations with Your Data - CJA Data Insights Agent
 description: Discover how Adobe CJA leverages AI for actionable insights and efficient decision-making through natural language data analysis.
+feature: Basics, Use Cases
+topic: Integrations, Migration
 role: Admin, Developer, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

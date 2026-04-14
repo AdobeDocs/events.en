@@ -1,6 +1,7 @@
 ---
 title: The art of commerce
 description: Showcase of live customer examples on Adobe Commerce, demonstrating the cutting edge of what is possible, with Solution Partner innovations at the forefront.
+feature: Integration, Edge Delivery Services
 topic: Commerce
 role: Admin, Leader, User
 level: Beginner, Intermediate

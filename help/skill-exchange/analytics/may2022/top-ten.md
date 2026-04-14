@@ -1,6 +1,8 @@
 ---
 title: Top 10 Digital Analytics Doctrines to Live By
 description: 10 Adobe /Digital Analytics management strategies and discuss problem statement, common practices, and provide an effective solution for each.
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10468

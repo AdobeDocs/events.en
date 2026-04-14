@@ -3,6 +3,7 @@ title: Edge Delivery Services - One Year In, Six Ways Better
 description: Enhance user experience and conversion rates with Adobe Experience Manager (AEM) Edge Delivery Services, which offers high speed, simplicity, high availability, composability, repo sites for efficient development, and robust data insights without collecting PII.
 solution: Experience Manager, Experience Manager Sites
 feature: Edge Delivery Services
+topic: Performance, Development
 role: Developer
 level: Beginner, Intermediate
 doc-type: Event

@@ -1,6 +1,8 @@
 ---
 title: Lead Lifecycles
 description: Learn how to effectively engage and nurture leads with a strategic lead lifecycle model in this deep dive session, featuring advice from a Marketo Champion on avoiding common pitfalls when inheriting, refining, or designing a new model.
+feature: Programs, Reporting
+topic: Development
 role: Admin, User
 level: Intermediate
 doc-type: Event

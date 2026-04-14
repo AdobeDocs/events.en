@@ -2,6 +2,7 @@
 title: Document Builder for Adobe Acrobat Sign
 description: Give your sales team an edge with pre-populated proposals, contracts, invoices, and more in seconds by automating everyday tasks like preparing data-driven docs right in Salesforce. Document Builder allows you to dynamically generate a document using Salesforce data prior to sending for signature, making a once cumbersome process more simplistic and streamlined.
 feature: Integrations
+topic: Security
 role: User
 level: Intermediate
 doc-type: Event

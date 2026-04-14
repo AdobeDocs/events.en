@@ -2,6 +2,7 @@
 title: AI Assistant in AEM
 description: Learn how AEM's AI Assistant streamlines authoring and admin tasks. Explore its scope, setup, and see it in action with a live demo.
 solution: Experience Manager
+feature: Authoring
 topic: Artificial Intelligence
 role: Developer, User
 level: Beginner, Intermediate, Experienced

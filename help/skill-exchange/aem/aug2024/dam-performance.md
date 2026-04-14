@@ -2,6 +2,8 @@
 title: The Bedrock of Success with Your DAM - Metadata, Content Structure, and Taxonomy
 description: Leave with a better understanding of the challenges customers often face when metadata and taxonomy practices are built with gravel and soil Learn ways to reinforce your business practices with bedrock strength through a holistic approach to metadata, content structure, and taxonomy
 solution: Experience Manager Assets
+feature: Metadata, Asset Management
+topic: Performance
 role: User
 level: Intermediate, Experienced
 doc-type: Event

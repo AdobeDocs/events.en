@@ -7,6 +7,7 @@ doc-type: Event
 duration: 3348
 last-substantial-update: 2025-06-27
 feature: Product Announcements
+topic: Performance
 jira: KT-18441
 exl-id: 7bffe22e-d321-4a38-ab1b-a8566cbdd9a2
 ---

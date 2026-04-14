@@ -1,6 +1,8 @@
 ---
 title: Adobe Workfront Second Quarter 2026 Release Webinar
 description: Discover the latest updates in Adobe Workfront's Q2 2026 release, including enhancements in planning, workflow, and more.
+feature: Strategic Planning
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

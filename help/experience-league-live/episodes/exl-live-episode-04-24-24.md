@@ -4,6 +4,7 @@ description: Activate inbound surfaces and granular personalization control with
 kt: KT-14776
 solution: Journey Optimizer
 feature: Code-based Experiences
+topic: Personalization, Integrations, Performance
 event-cta-url-live: https://www.youtube.com/watch?v=ZKa4OatgQjk
 event-start-time: 2024-04-24 08:30-7
 event-guests: Sandra Hausmann,Robert Calangiu,Brent Kostak

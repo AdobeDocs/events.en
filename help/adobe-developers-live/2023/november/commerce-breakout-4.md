@@ -4,6 +4,7 @@ description: Cristian Partica addresses the challenges of API integration within
 solution: Commerce
 feature-set: Commerce
 feature: API Mesh, Integration
+topic: Integrations, Development
 role: Developer
 level: Beginner
 doc-type: Event

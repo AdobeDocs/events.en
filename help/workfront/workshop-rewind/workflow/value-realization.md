@@ -1,6 +1,8 @@
 ---
 title: Maximize Workfront Value
 description: Discover strategies to maximize your Workfront investment. Learn how to align goals, measure outcomes, and communicate value effectively.
+feature: Work Management, Workfront Fusion
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

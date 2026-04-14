@@ -3,6 +3,7 @@ title: Notating Complex Processes in the Activity Log
 description: Join Beth Massura, Jimmy Spencer, and moderator Corey Bayless in this Deep Dive session to discover innovative troubleshooting techniques for complex multi-leg processes in Marketo, using activity log notes to track where processes begin, end, fail, and succeed.
 solution: Marketo Engage
 feature: Audit Trail
+topic: Artificial Intelligence, Personalization
 role: Admin, Developer, Leader, User
 level: Intermediate, Experienced
 doc-type: Event

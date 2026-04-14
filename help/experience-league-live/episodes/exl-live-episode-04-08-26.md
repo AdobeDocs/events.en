@@ -4,6 +4,7 @@ description: Explore new, persistent customer engagement with Journey Optimizer 
 kt: KT-20538
 solution: Journey Optimizer
 feature: Channel Configuration
+topic: Personalization
 event-cta-url-live: https://youtube.com/live/hLVIIul_2_g
 event-start-time: 2026-04-08 08:30-8
 event-guests: Sandra Hausmann, Don Huynh, Robert Calangiu, Brent Kostak

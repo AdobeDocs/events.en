@@ -2,6 +2,8 @@
 title: All you need to know about Cross Device Analytics and Customer Journey Analytics
 description: Get a better understanding on how to use Adobe Analytics and Customer Journey Analytics to analyze user behavior that crosses Browsers/Devices/Apps and multiple Channels.
 solution: Customer Journey Analytics, Analytics
+feature: Basics, Use Cases, Analytics Basics, Analysis Workspace
+topic: Integrations, Migration
 role: Admin, Data Architect, Data Engineer, User
 level: Intermediate, Experienced
 kt: 10565

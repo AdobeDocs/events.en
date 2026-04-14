@@ -1,6 +1,8 @@
 ---
 title: Aug 2023 Grow Track - Using Adobe Analytics to Fix Your Navigation
 description: Navigation is key for your visitors to find their way around your site and to get into your conversion funnels. Learn how you can track the effectiveness of your navigation and how to improve it with Adobe Analytics.
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event

@@ -1,6 +1,8 @@
 ---
 title: Marketo and Mochas - Lead Scoring
 description: Learn the benefits of lead scoring with Cynthia Chang and Kelvin Ieng in Marketo & Mochas, featuring strategies, setup, and a live demo in Marketo Engage, plus key takeaways and live Q&A.
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

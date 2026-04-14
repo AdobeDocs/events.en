@@ -2,6 +2,7 @@
 title: Adobe Developers Live - NOV 22- Efficient Development on Adobe Experience Manager as a Cloud Service
 description: Efficient Development on Adobe Experience Manager as a Cloud ServiceCloud Manager provides different types of pipelines to improve the developer experience and streamline their workflow including a front-end code deployment pipeline.In this session you will learn how to setup an existing website for quick front-end code deployment.
 solution: Experience Manager,Experience Manager Sites
+feature: Edge Delivery Services, Release Information, Authoring
 product: experience manager
 sub-product: sites
 topic: Development, Headless

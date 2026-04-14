@@ -1,6 +1,9 @@
 ---
 title: AI Strategies for Holiday Success
+solution: Experience Cloud
+feature: Generative AI, Personalization
 description: Discover how AI-driven strategies are transforming holiday shopping success, offering insights to forecast demand and personalize experiences.
+topic: Personalization
 role: Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

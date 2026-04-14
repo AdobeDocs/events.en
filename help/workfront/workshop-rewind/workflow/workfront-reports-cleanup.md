@@ -1,6 +1,8 @@
 ---
 title: Spring Cleanup with Workfront Reports
 description: Discover how Workfront Reports can streamline your spring cleanup and enhance productivity with efficient data management.
+feature: Reports and Dashboards, System Setup and Administration
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

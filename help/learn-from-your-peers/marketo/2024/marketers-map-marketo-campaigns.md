@@ -2,6 +2,7 @@
 title: The Marketer's Map - A Comprehensive Guide to Strategizing, Building and Analyzing Marketo Campaigns
 description: Learn efficient ways to create Marketo Engage programs, including importing, cloning, and building from scratch. Customize Marketo Engage templates to meet brand standards and manage assets and period costs.
 feature: Smart Campaigns, Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, Developer, User
 level: Intermediate, Experienced
 doc-type: Event

@@ -1,6 +1,8 @@
 ---
 title: Agile in Marketing (Sep 15, 2020)
 description: Hear about agile marketing and how it works in Workfront. (Between 60 and 160 characters)
+feature: Work Management
+topic: Administration, Integrations
 role: Admin, User
 level: Intermediate
 kt: 9989

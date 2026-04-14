@@ -3,6 +3,7 @@ title: Analyzing the data
 description: Freeform Tables are the flexible foundation of Analysis Workspace - mastering these powerful tables will take you far in your Workspace journeySegments are a highly flexible way to filter and dig deep into your data, and can be applied globally, at the metric level, or can be used as standalone dimensions. Panels offer shortcuts to complex analyses - the quick insights panel in particular is a great option to simply answer questions facing your business
 feature-set: Analytics
 feature: Freeform Tables, Metrics
+topic: Migration, Integrations
 role: User
 level: Beginner
 doc-type: Event

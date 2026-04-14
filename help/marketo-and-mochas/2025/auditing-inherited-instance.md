@@ -1,6 +1,8 @@
 ---
 title: Marketo & Mochas - Auditing an Inherited or Current Instance
 description: Did you inherit or want to audit your Marketo instance? Join Adobe Advisors Cynthia Chang & Carly Gaver to learn 5 key steps for auditing and optimizing your Marketo Engage.
+feature: Programs, Reporting
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

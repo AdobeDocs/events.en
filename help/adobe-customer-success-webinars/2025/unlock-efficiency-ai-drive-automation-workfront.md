@@ -1,6 +1,8 @@
 ---
 title: Unlock Efficiency - AI-Driven Automation in Adobe Workfront
 description: Discover how AI-driven automation in Adobe Workfront streamlines project management, boosts efficiency, and supports smarter, data-driven decisions.
+feature: Resource Management
+topic: Administration, Integrations
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Event

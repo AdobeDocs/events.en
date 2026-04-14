@@ -1,6 +1,8 @@
 ---
 title: Manage Agreements - Get Real-Time Visibility into Agreement Status
 description: Come learn about the ins and outs of agreement management tools and best practices so you can know the status of your agreements at any time.
+feature: Sign
+topic: Development
 role: User
 level: Beginner
 doc-type: Event

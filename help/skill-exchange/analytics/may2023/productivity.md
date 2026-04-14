@@ -4,6 +4,7 @@ description: We will wrap things up by understanding how Adobe Analytics tracks 
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics
+topic: Migration, Integrations
 role: User
 level: Beginner
 doc-type: Event

@@ -2,6 +2,8 @@
 title: Tell impactful stories with data
 description: Join [!DNL Adobe Analytics] Champion Amy Ard as she explains how art and science can come together to tell a powerful story and help your company make data-driven decisions.
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-09

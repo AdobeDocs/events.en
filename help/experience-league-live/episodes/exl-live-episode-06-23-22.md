@@ -3,6 +3,7 @@ title: Ask the experts - Real-Time CDP Connections
 description: In this session, experts will provide an extensive look at Adobe's RTCDP Connections product, where customers can forward events to non-Adobe destinations using a server-side tag management system.
 solution: Data Collection,Experience Platform
 feature: Event Forwarding
+topic: Development
 kt: 10490
 event-cta-text: Watch the replay
 event-start-time: 2022-06-23 09:00-7

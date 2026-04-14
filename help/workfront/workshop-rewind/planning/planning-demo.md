@@ -1,6 +1,8 @@
 ---
 title: Adobe Workfront Planning Demo
 description: Discover how to streamline project planning with Adobe Workfront. Learn to create workspaces, manage deliverables, and automate workflows effectively.
+feature: Strategic Planning
+topic: Content Supply Chain
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

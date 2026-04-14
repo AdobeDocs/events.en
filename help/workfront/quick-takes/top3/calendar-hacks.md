@@ -1,6 +1,8 @@
 ---
 title: Top 3 Calendar Hacks for Workfront
 description: Discover top calendar hacks in Workfront for better organization and efficiency.
+feature: Work Management
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

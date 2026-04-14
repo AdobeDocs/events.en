@@ -1,6 +1,7 @@
 ---
 title: Beyond borders - Projections for future commerce
 description: Panel discussion hosted by Allyce Truscott from Adobe on the challenges and solutions for running an online business in the current economic climate.
+feature: Integration, Edge Delivery Services
 topic: Commerce
 role: Admin, Leader, User
 level: Beginner, Intermediate

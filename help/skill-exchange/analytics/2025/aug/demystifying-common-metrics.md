@@ -3,6 +3,7 @@ title: Demystifying Common Metrics
 description: Learn how to interpret Adobe Analytics metrics—visits, visitors, page views, bounces, conversion rates, and more—to improve reporting accuracy and insights.
 solution: Analytics
 feature: Metrics, Analytics Basics
+topic: Security
 role: User
 level: Beginner
 doc-type: Event

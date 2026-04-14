@@ -2,6 +2,7 @@
 title: Building Effective Web Pages in AEM Sites
 description: Join our beginner-friendly AEM Sites webinar to learn page creation, basic components, content structuring, and responsive design, with key points on AEM authoring, editable templates, core components, and page publishing.
 feature: Authoring, Editable Templates, Core Components
+topic: Development, Headless
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event

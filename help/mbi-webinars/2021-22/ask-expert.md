@@ -5,6 +5,8 @@ landing-page-description: Watch these recorded webinars for a deep dive with the
 short-description: Watch these recorded webinars for a deep dive with the Commerce Intelligence product team, including business transformation through intelligent data.
 kt: 10404
 solution: Commerce, Commerce Intelligence
+feature: Integration, Edge Delivery Services, Data Integration, Reports
+topic: Commerce, Performance
 role: Leader,User,Data Architect
 level: Beginner,Intermediate
 thumbnail: 342409.jpeg

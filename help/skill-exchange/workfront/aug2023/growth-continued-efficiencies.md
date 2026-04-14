@@ -3,6 +3,7 @@ title: Experience Makers Spotlight - Prepare for Growth & Continued Efficiencies
 description: Join our Experience Makers Spotlight session to hear from three very different organizations about how they have approached growing and scaling their Workfront instances.
 solution: Workfront
 feature: System Setup and Administration
+topic: Administration
 role: User, Admin
 level: Intermediate, Experienced
 doc-type: Event

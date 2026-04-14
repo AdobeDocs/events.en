@@ -2,6 +2,7 @@
 title: Adobe Developers Live Headless Rock Star Results and What's Next for Developers
 description: Closing - Rock Star Results and What's Next for DevelopersJoin Cedric Huesler, Director of Product Management, to recap the key takeaways and action items from today as well as to find out who is the winner of the 2022 Adobe Experience Manager Rock Star challenge!
 solution: Experience Manager,Experience Manager Sites
+feature: Edge Delivery Services, Release Information, Authoring
 product: experience manager
 sub-product: sites
 topic: Development, Headless

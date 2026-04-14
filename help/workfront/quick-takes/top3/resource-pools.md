@@ -1,6 +1,8 @@
 ---
 title: Top Reasons for Resource Pools
 description: Explore creative ways to use resource pools in Adobe Workfront for efficient project management and reporting.
+feature: Reports and Dashboards, Strategic Planning
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

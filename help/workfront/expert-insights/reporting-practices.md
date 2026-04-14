@@ -2,6 +2,7 @@
 title: Expert Insights – Reporting Practices with Nichole Vargas
 description: Learn top reporting practices from Nichole Vargas—boost your Workfront reporting skills with calculated fields, storytelling tips, and community-driven resources.
 feature: Reports and Dashboards
+topic: Performance
 speaker-name-1: Nichole Vargas
 speaker-title-1: Senior Customer Success Manager
 speaker-company-1: Adobe

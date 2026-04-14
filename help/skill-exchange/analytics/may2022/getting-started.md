@@ -4,6 +4,7 @@ description: basic Analytics user interface and start your first project in Anal
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics, Analysis Workspace, Workspace Basics
+topic: Migration, Integrations
 doc-type: Event
 role: User
 level: Beginner

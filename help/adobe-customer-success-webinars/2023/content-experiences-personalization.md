@@ -2,6 +2,7 @@
 title: Content & Experiences - The Beating Heart of Personalization
 description: Identifying & overcoming common challenges to building a content & experiences capability  Building out use cases to drive content across the customer journey
 solution: General
+feature: Personalization
 topic: Personalization
 role: Admin, Architect, Data Architect, Data Engineer, Leader
 level: Intermediate

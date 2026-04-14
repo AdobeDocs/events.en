@@ -2,6 +2,7 @@
 title: The Creative Edge - How Visionary Thinking is Transforming Commerce
 description: This webinar explores the integration of creativity and commerce, showcasing how Adobe's tools and technologies can help manage assets, scale content creation, and streamline the content supply chain. It discusses the importance of bringing creativity and commerce together and covers topics such as personalized experiences, managing assets, and using tools like Adobe Workfront, Adobe Experience Manager, and Adobe Stock to streamline the content creation process.
 solution: Commerce
+feature: Integration
 topic: Commerce
 role: Leader, User
 level: Beginner, Intermediate

@@ -1,6 +1,8 @@
 ---
 title: Top Reasons to Use Layout Templates
 description: Discover why layout templates in Adobe Workfront enhance project management efficiency with customizable views and fields.
+feature: System Setup and Administration
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

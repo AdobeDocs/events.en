@@ -1,6 +1,8 @@
 ---
 title: Your Workfront Success Toolkit - Resources to Accelerate Adoption and Value
 description: Discover resources and tools to optimize Workfront adoption and value. Access workshops, community forums, and professional services insights.
+feature: Work Management, Workfront Fusion
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

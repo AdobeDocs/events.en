@@ -4,6 +4,7 @@ description: Discover Acrobat Sign's July 2025 updates - PDF/A compliance, Whats
 solution: Acrobat Sign
 feature-set: Document Cloud
 feature: Sign
+topic: Integrations, Security, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

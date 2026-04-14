@@ -2,6 +2,7 @@
 title: Best practices migrating to Adobe Customer Journey Analytics from Adobe Analytics
 description: Learn the essential steps and best practices for migrating from Adobe Analytics to Customer Journey Analytics (CJA), including XDM schema design, data mapping, and data view setup.
 solution: Analytics, Customer Journey Analytics
+feature: Segmentation, Basics, Use Cases, Identity
 topic: Migration
 role: Developer
 level: Beginner, Intermediate

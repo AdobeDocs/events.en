@@ -2,6 +2,8 @@
 title: Headless for Commerce and PWA Studio
 description: learn more about building deploy and optimize PWAs quickly and cost effectively with PWA studio in Adobe Commerce
 solution: Commerce
+feature: Headless
+topic: Headless
 role: Admin, Architect, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 kt: 10562

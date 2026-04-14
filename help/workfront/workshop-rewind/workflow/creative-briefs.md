@@ -3,6 +3,7 @@ title: Reimagining Creative Briefs in Workfront
 description: Discover how Kohler transformed creative briefs using Workfront to streamline processes and enhance efficiency.
 solution: Workfront
 feature: Projects
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

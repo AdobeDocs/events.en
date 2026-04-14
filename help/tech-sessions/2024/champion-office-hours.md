@@ -2,6 +2,8 @@
 title: Marketo Engage Champion Tech Sessions - May 2024
 description: Join our May Marketo Champion Tech Sessions, with our panel of Champions Chris Kelley, Sarah Ryan, Jimmy Spencer, and Briney Young, with Moderator Courtny Edwards-Jones.Whether you're new to Marketo or just looking to enhance your skills, our champions are here to share their expertise.
 feature-set: Marketo Engage
+feature: Programs, Reporting
+topic: Migration, Certification
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

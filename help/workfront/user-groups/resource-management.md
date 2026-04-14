@@ -1,6 +1,8 @@
 ---
 title: Resource Management (May 18, 2021)
 description: Listen to Samantha Isin share what she is doing at Melaleuca with Workfront's resource management and reporting tools. Also hear Aaron Behr, from VaynerMedia, … (Descriptions should be between 60 and 160 characters)
+feature: Resource Management, Reports and Dashboards
+topic: Administration, Integrations
 role: Admin, User
 level: Intermediate, Experienced
 kt: 10008

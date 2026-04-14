@@ -1,6 +1,8 @@
 ---
 title: Adobe Commerce Intelligence (fka MBI)
 description: Transform Your eCommerce Data into Actionable Insights with Adobe Commerce Intelligence Custom Dashboards and Reports
+feature: Integration
+topic: Integrations, Performance, Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

@@ -2,6 +2,8 @@
 title: Commerce & Coffee - Peak Season Preparation
 description: Corey Gelato's session provides strategies for eCommerce businesses to excel during peak seasons by optimizing website performance, managing inventory, enhancing customer engagement with AI tools, and leveraging post-season analytics to improve retention and loyalty.
 solution: Commerce
+feature: Integration, Edge Delivery Services
+topic: Personalization, Performance, Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

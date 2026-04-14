@@ -2,6 +2,8 @@
 title: Supercharge your Print Production Using AEM
 description: Still using the traditional method for creating PDF documents with AEM Forms? Discover how this outdated approach is hindering your business. Learn how to combine the power of AEM Sites and Assets to supercharge your document creation process, giving your marketers full control and maximum agility to achieve the fastest speed to market.
 solution: Experience Manager Forms
+feature: Edge Delivery Services, Core Components
+topic: Development, Headless
 role: Developer
 level: Intermediate, Experienced
 doc-type: Event

@@ -4,6 +4,7 @@ description: See how AJO expands mobile engagement with WhatsApp, RCS & SMS—ri
 kt: KT-18688
 solution: Journey Optimizer
 feature: Fragments, Integrations, Email Design, Personalization
+topic: Personalization, Integrations
 event-cta-url-live: https://www.youtube.com/live/Pf5O5b0Ehig
 event-start-time: 2025-09-30 09:00-7
 event-guests: Sandra Hausmann, Travis Jordan, Nikhil Sharma

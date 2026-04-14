@@ -2,6 +2,8 @@
 title: Change Management Strategies for Adobe Journey Optimizer Adoption
 description: Discover strategies for leadership, collaboration, and real-time engagement to unlock the full value of Adobe Journey Optimizer.
 solution: Journey Optimizer
+feature: Journeys
+topic: Security, Development
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

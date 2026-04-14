@@ -1,6 +1,8 @@
 ---
 title: Simplifying Upgrades and the Upgrade Compatibility Tool
 description: Why and how to updgrade to Adobe Commerce and Magento Open Source 2.4.4
+feature: Edge Delivery Services, Release Information
+topic: Development
 role: User
 level: Beginner
 kt: 9789

@@ -3,6 +3,7 @@ title: Purpose Driven Automations
 description: Practical examples of automations proven to create a more efficient workflow.
 solution: Workfront
 feature: Workfront Fusion, Work Management
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event

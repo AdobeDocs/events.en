@@ -2,6 +2,8 @@
 title: Creating Programs Within Adobe [!DNL Marketo Engage]
 description: This session will teach you all about Program Structure including - Program Types, Channels & Statuses and Tags.
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 kt: 9706

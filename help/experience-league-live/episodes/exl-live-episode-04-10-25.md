@@ -4,6 +4,7 @@ description: Discover Real-Time CDP Collaboration, offering privacy-centric data
 kt: KT-17139
 solution: Experience Platform
 feature: Collaboration
+topic: Security
 event-cta-url-live: https://www.youtube.com/live/OPRzvdLUu7E
 event-start-time: 2025-04-10 09:00-8
 event-guests: Doug Moore, Nina Caruso, Clayton Smith

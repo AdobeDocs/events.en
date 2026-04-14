@@ -1,6 +1,8 @@
 ---
 title: 10 Communication Tips with Adobe Workfront
 description: Discover top communication strategies with Adobe Workfront to enhance collaboration, efficiency, and team alignment. Ideal for admins and users.
+feature: System Setup and Administration
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

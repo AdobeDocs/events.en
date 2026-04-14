@@ -2,6 +2,7 @@
 title: Workflow and process design webinar
 description: Learn from your peers about scaling processes in Workfront. Discover why documenting and designing workflows outside Workfront is crucial, and get tips from T-Mobile experts in our on-demand webinar.
 feature: Work Management
+topic: Administration, Integrations
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event

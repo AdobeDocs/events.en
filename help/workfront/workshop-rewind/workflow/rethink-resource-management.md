@@ -1,6 +1,8 @@
 ---
 title: Rethinking Resource Management the Agile Way at Advisors Excel
 description: Discover how Advisors Excel transformed resource management using agile practices in Adobe Workfront.
+feature: Resource Management, Work Management
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

@@ -2,6 +2,7 @@
 title: Skill Exchange Keynote - The Future of Experience Making with AI, Adobe Experience Platform
 description: Klaasjan Tukker shares insights on data, personalization, organizational readiness, and the role of AI Assistants in accelerating experience creation. Learn how practitioners can master prompting, leverage agent orchestration, and grow their skills to stay ahead.
 solution: Experience Platform, Customer Journey Analytics, Journey Optimizer, Real-Time Customer Data Platform
+feature: AI Assistant, Agentic AI, Audiences, Basics
 topic: Personalization, Artificial Intelligence
 role: User
 level: Beginner, Intermediate, Experienced

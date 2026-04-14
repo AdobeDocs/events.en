@@ -5,6 +5,8 @@ landing-page-description: Watch this recorded webinar to
 short-description: Watch this recorded webinar to
 kt: 10403
 solution: Commerce, Commerce Intelligence
+feature: Integration, Edge Delivery Services, Data Integration, Reports
+topic: Commerce, Performance
 role: Leader, User, Data Architect
 level: Intermediate, Experienced
 thumbnail: 342562.jpeg

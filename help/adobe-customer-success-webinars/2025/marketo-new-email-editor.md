@@ -2,6 +2,8 @@
 title: Marketo New Email Editor
 description: Explore Marketo's new email editor features, best practices, migration tips, and common pitfalls with Q&A.
 solution: Marketo Engage
+feature: Design Studio
+topic: Migration, Administration
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event

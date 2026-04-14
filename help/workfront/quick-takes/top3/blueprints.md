@@ -2,6 +2,7 @@
 title: Top 3 – Creative Approaches with Blueprints
 description: Discover how Workfront Blueprints fast-track setup, with new templates, dashboards & sandbox testing tips.
 feature: Work Management
+topic: Administration, Integrations
 role: Admin, Developer, Leader
 level: Beginner, Intermediate
 doc-type: Event

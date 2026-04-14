@@ -2,6 +2,8 @@
 title: Change Management
 description: Overview of change management strategies that include stakeholder engagement, learning & enablement, and communications that provide a structured approach for transitioning from current state to a desired future state. What is Change Management  Change Management Strategies  Resistance Mitigation  Measuring Change Success
 solution: General
+feature: Developer Tools
+topic: Development
 role: Architect, Data Architect, Data Engineer, Developer, Leader
 level: Intermediate
 doc-type: Event

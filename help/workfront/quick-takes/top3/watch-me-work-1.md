@@ -1,6 +1,8 @@
 ---
 title: Top Workfront Tips
 description: Explore top features for system admins, project managers, and workers in Workfront. Learn how Cynthia Boone uses these tools effectively.
+feature: System Setup and Administration
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

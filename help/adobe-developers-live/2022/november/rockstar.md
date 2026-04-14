@@ -2,6 +2,7 @@
 title: Adobe Developers Live - NOV 22- AEM Rockstar Headless
 description: Adobe Experience Manager Rock Star - The Headless ChallengeOur presenters will 'compete' to be the Adobe Experience Manager Rock Star 2022 by presenting a solution to a pre-provided problem statement that each must solve. The audience is given the opportunity to ask questions and vote who is the next Rock Star!
 solution: Experience Manager,Experience Manager Sites
+feature: Edge Delivery Services, Release Information, Authoring
 product: experience manager
 sub-product: sites
 topic: Development, Headless

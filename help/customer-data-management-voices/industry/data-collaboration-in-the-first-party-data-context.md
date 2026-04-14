@@ -3,6 +3,7 @@ title: Data Collaboration in the First-party Data Context
 description: This webinar will help unlock the opportunities for data collaboration in a future without third-party cookies.
 solution: Real-Time Customer Data Platform
 feature: Data Management
+topic: Security
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 type: Event

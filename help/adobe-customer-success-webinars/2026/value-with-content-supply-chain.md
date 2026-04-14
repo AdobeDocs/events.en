@@ -2,6 +2,8 @@
 title: Maximize Content Supply Chains
 description: Discover how to optimize content supply chains with Adobe solutions for impactful results. Learn industry patterns and map objectives effectively.
 solution: Experience Manager as a Cloud Service
+feature: Edge Delivery Services, Migration
+topic: Integrations, Content Supply Chain
 role: Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event

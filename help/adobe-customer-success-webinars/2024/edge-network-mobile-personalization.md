@@ -1,6 +1,8 @@
 ---
 title: Insights into Edge Network & Mobile Personalization with Adobe Solutions
 description: Understand how to enhance mobile strategies, improve user engagement, and deliver personalized experiences effectively using Adobe Solutions.
+feature: Data Configuration and Collection
+topic: Personalization, Security, Migration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event

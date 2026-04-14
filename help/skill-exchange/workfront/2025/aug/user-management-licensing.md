@@ -2,6 +2,8 @@
 title: Maximize Your Workfront License – Pro Tips for User Management & Licensing
 description: Unlock expert tips for smarter Workfront user setup, streamlined license management, and improved governance to maximize value and efficiency.
 solution: Workfront
+feature: Reports and Dashboards, System Setup and Administration
+topic: Performance, Administration
 role: Leader
 level: Intermediate, Experienced
 doc-type: Event

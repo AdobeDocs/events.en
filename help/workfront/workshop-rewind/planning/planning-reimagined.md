@@ -1,6 +1,8 @@
 ---
 title: Workfront Planning, Reimagined - SNHU's Creative Use Cases
 description: How SNHU navigated out-of-the-box challenges and used Workfront Planning features in creative ways to drive visibility, alignment, and better decision-making in Marketing Operations
+feature: System Setup and Administration, Strategic Planning
+topic: Performance, Content Supply Chain
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

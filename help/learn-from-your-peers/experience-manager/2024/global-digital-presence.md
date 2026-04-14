@@ -2,6 +2,8 @@
 title: Unlocking Success at Scale with a Global Combination
 description: Scale global content with AEM using custom components, blueprints, workflows, and fragments for efficient control, approval, and regional flexibility.
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
+topic: Performance
 version: Experience Manager as a Cloud Service
 role: Admin, User
 level: Intermediate

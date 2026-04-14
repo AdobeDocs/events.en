@@ -1,6 +1,8 @@
 ---
 title: Top Reasons to Attend Workfront Workshops
 description: Discover the top 3 reasons to attend Adobe Workfront workshops. Learn new tips, enjoy live demos, and connect with other users.
+feature: Work Management, Workfront Fusion
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

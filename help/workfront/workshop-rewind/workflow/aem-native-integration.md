@@ -1,6 +1,7 @@
 ---
 title: Leveraging the Workfront + AEM Native Integration
 description: The event offers an overview of the integration, insights on how to prepare (including mapping processes, aligning metadata, ensuring proper permissions, etc.) and a walkthrough demonstration of setting it up.
+feature: Work Management, Workfront Fusion
 topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced

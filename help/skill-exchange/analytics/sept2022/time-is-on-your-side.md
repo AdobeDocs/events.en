@@ -2,6 +2,8 @@
 title: Time is on Your Side
 description: Adobe's pre-defined date ranges and calendar selection are great for quick insights and standard reports... but sometimes we need to take our insights to the next level. From configuring your suite's calendar definitions, to creating customized rolling date ranges, and even to bounding your alerts to core hours to prevent overnight false alarms; there are many ways to take control and use time to your advantage.
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event

@@ -1,6 +1,7 @@
 ---
 title: Expert Insights – Content Supply Chain with Corre Kombol
 description: Learn expert strategies from Corre Kombol on optimizing your content supply chain with Adobe solutions. Boost efficiency, collaboration, and results.
+feature: Strategic Planning
 topic: Content Supply Chain
 speaker-name-1: Corre Kombol
 speaker-title-1: Principal Customer Success Manager
