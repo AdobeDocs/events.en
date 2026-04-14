@@ -3,6 +3,7 @@ title: Data Storytelling With Analysis Workspace
 description: Learn 5 strategies to transform Adobe Analysis Workspace dashboards into compelling data stories that drive impact, insight, and stakeholder action.
 solution: Analytics
 feature: Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Beginner
 doc-type: Event

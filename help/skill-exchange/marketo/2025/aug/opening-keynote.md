@@ -2,6 +2,7 @@
 title: Opening Keynote
 description: Discover how AI agents are transforming B2B marketing into B2B 3.0. Learn strategies to boost efficiency, personalization, and customer journeys with Marketo Engage.
 solution: Marketo Engage
+feature: Programs, Reporting
 topic: Personalization
 role: User
 level: Beginner, Intermediate, Experienced

@@ -1,6 +1,8 @@
 ---
 title: Power Templates - How IDEXX Reconfigured Project Templates for Global Success
 description: Templated approach for global campaigns with localization scenarios!
+feature: Workfront Fusion
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

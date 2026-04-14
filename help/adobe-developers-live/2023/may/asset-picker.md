@@ -1,6 +1,7 @@
 ---
 title: How to embed our latest Assets picker into other UI/products and integrate with 3rd party applications using API
 description: How to embed our latest Assets picker into other UI/products and integrate with 3rd party applications using APILearn how to benefit from all options you have when it comes to integrating assets into other applications. Are you finding it super hard to integrate AEM Assets Cloud Services with these CMSes? Do you want to know how to write stable, testable, and maintainable AEM Assets Integrations in minutes instead of hours/days? We will demonstrate the power and versatility of micro-frontends through our experiences converting two React projects - Destination Selector and Asset Selector - into modular, independent, and easily implementable frontend components.
+feature: Edge Delivery Services, Release Information
 product: experience manager
 sub-product: assets
 topic: Development

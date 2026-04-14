@@ -1,6 +1,8 @@
 ---
 title: Troubleshooting Workfront Calculated Fields
 description: Discover how to troubleshoot common issues with calculated fields and columns in Workfront for better workflow management.
+feature: Reports and Dashboards
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

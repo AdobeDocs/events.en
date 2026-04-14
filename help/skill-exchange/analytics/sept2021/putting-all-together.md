@@ -4,6 +4,7 @@ description: How Adobe Analytics tracks website data, how to save, share and col
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics, Data Governance, Data Sources, Data Configuration and Collection
+topic: Migration, Integrations
 doc-type: Event
 role: User
 level: Beginner

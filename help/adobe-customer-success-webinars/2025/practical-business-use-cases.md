@@ -1,6 +1,8 @@
 ---
 title: Develop Practical B2B Use Cases
 description: Learn to develop practical B2B use cases with Adobe solutions.
+feature: B2B
+topic: Development
 role: Leader, User
 level: Beginner, Intermediate
 doc-type: Event

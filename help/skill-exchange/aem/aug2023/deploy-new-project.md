@@ -4,6 +4,7 @@ description: This skill exchange focuses on how a new AEM developer can start an
 solution: Experience Manager as a Cloud Service
 feature-set: Experience Manager, Experience Manager Sites
 feature: AEM Project Archetype, Developing
+topic: Development
 role: User
 level: Intermediate, Experienced
 doc-type: Event

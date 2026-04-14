@@ -2,6 +2,8 @@
 title: Marketing Channels, Please Use Responsibly
 description: Understand the impact each of your brand’s touch points has along your clients’ journey with Marketing Channels and attribution models.In this session, you wil… (Descriptions should be between 60 and 160 characters)
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10322

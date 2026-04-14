@@ -2,6 +2,7 @@
 title: Strategic Benefits of AEM Cloud Service
 description: Discover the strategic and operational advantages of Adobe's AEM Cloud Service for modern digital foundations.
 solution: Experience Manager as a Cloud Service
+feature: Edge Delivery Services, Migration
 topic: Migration
 role: Admin, Developer, User
 level: Beginner, Intermediate

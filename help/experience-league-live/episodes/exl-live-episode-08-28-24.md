@@ -4,6 +4,7 @@ description: Supercharge your customer engagement this summer with Adobe Journey
 kt: 15471
 solution: Journey Optimizer
 feature: Experimentation, Frequency Rules
+topic: Artificial Intelligence, Personalization
 event-cta-url-live: https://www.youtube.com/live/u_UEsl2Nw3M
 event-start-time: 2024-08-28 09:00-7
 event-guests: Sandra Hausmann, Keara Fausett, Aaron Forrest, Justin Grover

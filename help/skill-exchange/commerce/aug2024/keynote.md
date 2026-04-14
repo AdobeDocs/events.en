@@ -2,6 +2,8 @@
 title: Adobe Commerce Opening Keynote
 description: Adobe Commerce Opening Keynote
 solution: Commerce
+feature: Integration, Edge Delivery Services
+topic: Commerce, Performance
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

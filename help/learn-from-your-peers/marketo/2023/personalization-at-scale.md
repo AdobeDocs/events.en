@@ -2,6 +2,8 @@
 title: Cracking the Personalization at Scale Code using [!DNL Marketo Engage]
 description: Covers personalization features available within Adobe [!DNL Marketo Engage]; Tokens, Segmentations, Dynamic Content & Snippets, and Velocity Scripting.  Advanced velocity scripting use cases including personalizing content using data sourced from custom objects.
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Personalization, Performance, Development
 role: Admin, User
 level: Intermediate, Experienced
 doc-type: Event

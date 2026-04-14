@@ -2,6 +2,8 @@
 title: Experience Makers Spotlight - Streamlining Follow-Ups in Customer Lifecycle
 description: Learn how executable vs. request campaigns streamline workflows, improve data accuracy, and boost engagement with real-time multi-channel strategies.
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Integrations, Commerce
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

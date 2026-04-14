@@ -2,6 +2,8 @@
 title: Your Marketo Roadmap
 description: Marketo is so customizable and extensible that there’s so much opportunity. But at the same time, poor planning, or the lack of planning, could leave you with … (Descriptions should be between 60 and 160 characters)
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Development
 role: User
 level: Intermediate, Experienced
 kt: 10329

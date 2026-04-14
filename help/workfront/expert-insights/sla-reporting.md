@@ -2,6 +2,7 @@
 title: SLA Reporting in Workfront with Madalyn Destafney
 description: Learn how to implement and measure Service Level Agreements (SLAs) in Adobe Workfront with expert tips from Madalyn Destafney, including step-by-step guidance, calculated field examples, and custom form best practices.
 feature: Reports and Dashboards
+topic: Performance, Certification
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 speaker-name-1: Madalyn Destafney

@@ -3,6 +3,7 @@ title: CDP Best Practices - People and Process
 description: Learn how to get the most out of your CDP by investing in the people and processes behind the tech. Adobe’s Nina Caruso shares how to set up your organization … (Descriptions should be between 60 and 160 characters)
 solution: Real-Time Customer Data Platform
 feature: Data Governance
+topic: Security
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 10634

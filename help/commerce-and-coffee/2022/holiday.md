@@ -2,6 +2,7 @@
 title: Commerce and Coffee - 2021 Holiday Retrospective
 description: During this session, we take a look at how the eCommerce landscape succeeded during the unique 2021 holiday season. Using these learnings we discuss methods to better influence your Adobe Commerce strategy in 2022. Corey then demonstrates product stock alerts, BOPIS / Curbside pickup, rewards & loyalty and much more. The presentation and demo are accompanied by a live Q&A with Corey.
 solution: Commerce
+feature: Integration, Edge Delivery Services
 topic: Commerce
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced

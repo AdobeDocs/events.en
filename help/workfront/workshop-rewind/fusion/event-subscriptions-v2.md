@@ -1,6 +1,8 @@
 ---
 title: Upgrade to Event Subscriptions V2
 description: Learn how to upgrade your Fusion scenarios to Event Subscriptions V2 and preserve your workflows efficiently.
+feature: Workfront Fusion
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

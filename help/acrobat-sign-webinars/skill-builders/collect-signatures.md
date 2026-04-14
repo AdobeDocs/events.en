@@ -2,6 +2,7 @@
 title: Collect Many Signatures with One Click
 description: Learn how the Send in Bulk feature in Acrobat Sign can save you time.
 feature: Sign
+topic: Personalization
 role: User
 level: Beginner
 doc-type: Event

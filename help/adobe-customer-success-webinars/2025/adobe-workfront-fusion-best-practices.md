@@ -3,6 +3,7 @@ title: Adobe Workfront Fusion Basics & Best Practices
 description: Learn Workfront Fusion basics to automate workflows, boost productivity, and integrate tools with low-code solutions, templates, and best practices.
 solution: Workfront
 feature: Workfront Fusion
+topic: Integrations, Development
 role: Developer
 level: Intermediate
 doc-type: Event

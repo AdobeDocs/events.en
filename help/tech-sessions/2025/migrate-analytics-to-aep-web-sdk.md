@@ -5,6 +5,8 @@ role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 solution: Analytics, Target
+feature: Data Configuration and Collection, Profiles
+topic: Integrations, Security, Performance
 duration: 4381
 last-substantial-update: 2025-06-27
 jira: KT-18368

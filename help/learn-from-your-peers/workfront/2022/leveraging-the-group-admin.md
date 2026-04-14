@@ -4,6 +4,7 @@ description: Learn from your peers about the evolving roles of Workfront System 
 topic: Administration
 role: Admin
 solution: Workfront
+feature: System Setup and Administration
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3667

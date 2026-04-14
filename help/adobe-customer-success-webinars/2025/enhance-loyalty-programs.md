@@ -1,6 +1,8 @@
 ---
 title: Enhancing Loyalty Programs Through Personalization and Data with the Power of Adobe Solutions
 description: Discover how Adobe solutions enhance loyalty programs through personalization and data, supporting customer journeys from awareness to retention across various industries.
+feature: Work Management, Strategic Planning
+topic: Personalization, Content Supply Chain
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event

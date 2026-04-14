@@ -1,6 +1,8 @@
 ---
 title: Commerce & Coffee - Preparing for Peak Season
 description: Discover strategies to scale, personalize, and optimize your commerce experience with Adobe Commerce — covering B2B, SaaS tools, search, and post-peak analytics.
+feature: B2B, Payments
+topic: Personalization, Performance, Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

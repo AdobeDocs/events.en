@@ -3,6 +3,7 @@ title: A Tale of Two Perceptions - Brands vs. Consumers
 description: Adobe unpacks the understanding and readiness level of advertisers and publishers for a cookieless future, the impact to their use cases, and their perception of the wider ecosystem.
 solution: Real-Time Customer Data Platform
 feature: Identities
+topic: Security
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event

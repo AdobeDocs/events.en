@@ -2,6 +2,8 @@
 title: Mastering AEM Sites - Templates, Navigation, and SEO
 description: Learn AEM Sites fundamentals - how to use page templates, design intuitive navigation, and apply key SEO practices to boost visibility and site performance.
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
+topic: Performance
 version: Experience Manager as a Cloud Service
 role: Admin, Developer, User
 level: Beginner, Intermediate

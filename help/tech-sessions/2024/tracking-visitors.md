@@ -1,6 +1,8 @@
 ---
 title: Tracking Visitors in the Ever-Changing Landscape of Cookies, Browsers, and Libraries
 description: Join us for an informative webinar featuring Garrett Hartley, Senior Technical Support Engineer from Adobe’s Customer Experience team. In this session, Garrett will share best practices for tracking visitors in today’s evolving landscape of cookies, browsers, and libraries.We’ll review previous implementation strategies and explore effective migration paths to adopt modern visitor tracking methods. Expect to debunk outdated myths and learn about cutting-edge approaches to improve your tracking systems.
+feature: Analytics Basics, Analysis Workspace
+topic: Security, Migration
 role: Admin
 level: Beginner
 doc-type: Event

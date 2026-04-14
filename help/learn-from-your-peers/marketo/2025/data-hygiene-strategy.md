@@ -2,6 +2,7 @@
 title: Building a data hygiene strategy for Marketo Engage and CRM Sync
 description: Learn proven data hygiene tactics from Marketo Champion Miray Vu to ensure clean CRM data, accelerate pipeline velocity, and drive reliable revenue growth.
 feature: CRM Sync
+topic: Integrations, Development
 role: Admin
 level: Beginner, Intermediate
 doc-type: Event

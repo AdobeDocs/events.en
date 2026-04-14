@@ -3,6 +3,8 @@ title: Get the most from your behavioral event data in Real-Time CDP and Journey
 description: Learn how you can create aggregates of event data with computed attributes to improve your segmentation, personalization, and journeys!
 kt: KT-14069
 solution: Real-Time Customer Data Platform,Journey Optimizer
+feature: Profiles, Journeys
+topic: Personalization
 event-cta-url-live: https://www.youtube.com/watch?v=xQ-yydkLeHc
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-231114.html
 event-start-time: 2023-11-14 09:00-7

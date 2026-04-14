@@ -1,6 +1,8 @@
 ---
 title: Enabling diverse business models with Commerce & Composability
 description: The meeting primarily focused on enabling diverse business models in Adobe Commerce, Highlighting B2B commerce growth trends, Emphasizing the importance of simplifying integrations for seamless upgrades, Showcasing personalized B2B to B2C interactions through a demo, discussing Adobe Commerce capabilities like omnichannel support and API mesh integration, stressing the benefits of composable commerce services, introducing the App Builder for scalable customizations and subscription management within the platform.
+feature: Integration, Headless, B2B
+topic: Headless, Personalization, Integrations
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event

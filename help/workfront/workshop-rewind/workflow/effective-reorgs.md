@@ -1,6 +1,8 @@
 ---
 title: Using Workfront for Effective Reorgs
 description: Learn how Workfront can streamline reorg processes, ensuring smooth transitions and maintaining productivity.
+feature: System Setup and Administration
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

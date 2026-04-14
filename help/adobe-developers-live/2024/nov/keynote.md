@@ -3,6 +3,7 @@ title: Keynote - Adobe Experience Manager Update
 description: Adobe emphasizes the crucial role of developers in its Experience Manager and Commerce business, highlights the hybrid event format, celebrates milestones, and focuses on innovation, performance, community engagement, and future developments in web performance, generative UI, and advanced search functionalities.
 solution: Experience Manager, Commerce
 feature: Release Information
+topic: Artificial Intelligence, Personalization, Performance
 role: Developer
 level: Beginner, Intermediate
 doc-type: Event

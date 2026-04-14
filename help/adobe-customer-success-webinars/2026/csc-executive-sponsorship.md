@@ -1,6 +1,7 @@
 ---
 title: Establishing Executive Sponsorship to Drive Success throughout the Content Supply Chain
 description: Learn how executive sponsorship drives success in the content supply chain with practical strategies to secure leadership support and align teams.
+feature: Strategic Planning
 topic: Content Supply Chain
 role: Developer, Leader, User
 level: Beginner, Intermediate, Experienced

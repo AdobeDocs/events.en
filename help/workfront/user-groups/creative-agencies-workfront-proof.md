@@ -1,6 +1,8 @@
 ---
 title: Creative Agencies - Workfront Proof (August 11, 2020)
 description: Listen to Cindy Reichert talk about how Brown-Forman leverages Workfront Proof.
+feature: Work Management, Workfront Fusion
+topic: Administration, Integrations
 role: User
 level: Beginner, Intermediate
 kt: 9999

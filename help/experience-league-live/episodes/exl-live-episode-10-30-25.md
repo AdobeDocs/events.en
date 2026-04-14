@@ -4,6 +4,7 @@ description: Join us for an Experience League Live session as we unveil Adobe Jo
 kt: KT-18493
 solution: Journey Optimizer, Target
 feature: AI Assistant, Experimentation
+topic: Artificial Intelligence, Integrations, Security
 event-cta-url-live: https://youtube.com/live/w8eWsKuwyzI
 event-start-time: 2025-10-30 08:30-8
 event-guests: Sandra Hausmann, Brent Kostak, Justin Grover, David Arbour

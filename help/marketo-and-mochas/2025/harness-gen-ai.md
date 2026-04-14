@@ -1,6 +1,7 @@
 ---
 title: Marketo & Mochas - Harnessing GenAI in Adobe Marketo Engage
 description: Discover how GenAI in Adobe Marketo Engage accelerates campaign creation, boosts personalization, and empowers teams to focus on strategy and creativity.
+feature: Programs, Reporting
 topic: Artificial Intelligence, Personalization
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced

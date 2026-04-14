@@ -1,6 +1,8 @@
 ---
 title: Maximize Report Scheduling in Workfront
 description: Discover top ways to optimize report scheduling in Workfront for improved project management and communication.
+feature: Reports and Dashboards
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

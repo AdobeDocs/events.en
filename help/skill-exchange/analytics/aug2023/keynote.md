@@ -1,6 +1,8 @@
 ---
 title: Aug 2023 Opening Keynote
 description: Curious about where Adobe Analytics is headed? Ben Gaines, Director of Product Management for Customer Journey Analytics and Adobe Analytics, will tell you a little bit about what to expect.
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

@@ -2,6 +2,8 @@
 title: BRD-SDR File Creation for Analytics and Customer Journey Analytics
 description: Learn best practices for creating BRD-SDR files in Adobe Analytics and CJA, optimizing performance and facilitating migrations.
 solution: Analytics, Customer Journey Analytics
+feature: Analytics Basics, Analysis Workspace, Basics, Use Cases
+topic: Performance, Migration
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event

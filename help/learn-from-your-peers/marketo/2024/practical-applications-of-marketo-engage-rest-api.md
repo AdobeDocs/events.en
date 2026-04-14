@@ -3,6 +3,7 @@ title: Unlocking Powerful Workflow Automation - Practical Applications of Market
 description: Unlock the potential of the Marketo Engage REST API to automate marketing workflows, integrate tools like Zapier, leverage Python for bulk actions, and streamline tasks such as lead merging, UTM tracking, and activity data extraction.
 solution: Marketo Engage
 feature: REST API
+topic: Integrations
 role: Admin
 level: Beginner, Intermediate
 doc-type: Event

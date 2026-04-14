@@ -1,6 +1,8 @@
 ---
 title: Group Admin Essentials
 description: Discover the roles, benefits, and trust-building strategies for effective group administration in Adobe Workfront.
+feature: System Setup and Administration
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

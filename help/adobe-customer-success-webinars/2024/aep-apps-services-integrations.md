@@ -2,6 +2,8 @@
 title: Learn about AEP App Services Integrations for Customer Use Cases
 description: This session covers an introduction to AEP Blueprints, four integration use cases involving AJO, Marketo, and Target, and the architecture of AEP and AJO API Triggered Campaigns.
 solution: Experience Platform
+feature: AI Assistant, Personalization
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event

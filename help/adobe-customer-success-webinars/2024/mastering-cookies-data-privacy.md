@@ -2,6 +2,8 @@
 title: Privacy-First Analytics - Mastering Cookies and Data Privacy in Adobe Analytics and Customer Journey Analytics
 description: In today’s world of data privacy, managing data consumption and cookie consent is of major importance. In this video you will learn Adobe best practices for Analytics and Customer Journey Analytics out-of-the-box tools.
 solution: Analytics, Customer Journey Analytics
+feature: Data Governance, Data Configuration and Collection, Basics, Use Cases
+topic: Security, Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event

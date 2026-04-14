@@ -1,6 +1,8 @@
 ---
 title: Effective Communication Tips in Workfront
 description: Discover 10 communication tips to enhance workflow efficiency in Adobe Workfront, fostering better collaboration and productivity.
+feature: Workfront Fusion
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

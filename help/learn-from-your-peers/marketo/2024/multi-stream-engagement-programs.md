@@ -2,6 +2,8 @@
 title: Master complex customer journeys with Multi-Stream Engagement Programs
 description: Explore how to systematically engage and nurture customer relationships with multi-touch, multi-stream Engagement Programs at every step of their journey. Engagement programs give you the power to listen to the needs and behavior of your customers and provide them with the relevant journey and necessary content.
 solution: Marketo Engage
+feature: Smart Lists, Reporting
+topic: Performance
 role: Admin, User
 level: Experienced
 doc-type: Event

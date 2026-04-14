@@ -4,6 +4,7 @@ description: Explore AEM Dispatcher best practices for caching, security, and pe
 solution: Experience Manager as a Cloud Service
 version: Experience Manager as a Cloud Service
 feature: Dispatcher
+topic: Security, Performance, Development
 role: Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

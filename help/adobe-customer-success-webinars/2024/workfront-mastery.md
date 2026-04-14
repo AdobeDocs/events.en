@@ -2,6 +2,8 @@
 title: Workfront Mastery - Strategies for Success
 description: Empower your team with strategies for leveraging Adobe Workfront to its fullest potential. In this session, our experts will guide you through best practices that deliver value, simplify governance and drive adoption.
 solution: Workfront
+feature: Reports and Dashboards, Work Management
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event

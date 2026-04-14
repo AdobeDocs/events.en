@@ -2,6 +2,8 @@
 title: Resourcing Excellence - Customizing the Workload Balancer
 description: When you might choose one tool over another (Workload Balancer or Resource Planner), or situations where you could use both  How to customize filters and views to see exactly the data you need in reporting  Why entering time off is critical for accurate capacity planning  How using Workfront’s resource management tools has allowed Steve and his team to determine day-to-day resource capacity AND future resource planning for the upcoming 3 months
 solution: Workfront
+feature: Resource Management, Reports and Dashboards, Strategic Planning
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event

@@ -4,6 +4,7 @@ description: In this session, you learn how to use the Edge Bridge extension to 
 kt: KT-16047
 solution: Analytics, Customer Journey Analytics
 feature: Data Configuration and Collection
+topic: Migration
 event-cta-url-live: https://www.youtube.com/live/QKz1slMT36Y
 event-start-time: 2024-09-18 08:30-7
 event-guests: Daniel Wright,Mitch Rice,Kevin Lind

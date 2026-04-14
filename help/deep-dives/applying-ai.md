@@ -1,6 +1,8 @@
 ---
 title: Applying AI in Marketo
 description: Join Lucas, AJ & Darshil to learn how to use AI in Marketo—from lead scoring to conversion—with practical tips and new tools to boost your campaigns.
+feature: Programs, Reporting
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate, Experienced
 doc-type: Event

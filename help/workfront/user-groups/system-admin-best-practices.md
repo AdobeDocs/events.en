@@ -1,6 +1,8 @@
 ---
 title: System Admin Best Practices (September 29, 2020)
 description: Listen to Anthony Imgrund at FCB share some best practices when being a global system administrator for your organization.
+feature: System Setup and Administration
+topic: Administration, Integrations
 role: Admin
 level: Beginner, Intermediate, Experienced
 kt: 10009

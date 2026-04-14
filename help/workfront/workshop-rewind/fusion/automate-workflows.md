@@ -1,6 +1,8 @@
 ---
 title: Streamline Workflows with Workfront Fusion
 description: Discover unique use cases for automating workflows with Workfront Fusion, enhancing productivity and efficiency.
+feature: Workfront Fusion
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

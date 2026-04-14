@@ -3,6 +3,7 @@ title: Data in Motion - Scalable Analytics Workflows for Insight-Driven Teams
 description: Learn how to streamline Adobe Analytics workflows, strengthen governance, and empower teams with insights that drive activation, collaboration, and growth.
 solution: Analytics
 feature: Data Governance, Analytics Basics
+topic: Administration, Content Supply Chain, Development
 role: User
 level: Intermediate, Experienced
 doc-type: Event

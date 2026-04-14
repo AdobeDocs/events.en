@@ -1,6 +1,8 @@
 ---
 title: Tips & Tricks
 description: Tips to improve your analysis workflow and highlights recent innovations within the product.
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10467

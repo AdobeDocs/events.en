@@ -1,6 +1,8 @@
 ---
 title: Creative Ways to Use Workfront Boards
 description: Discover creative approaches to using Workfront Boards for effective project management and collaboration, as showcased by the Mattel team.
+feature: Work Management
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event

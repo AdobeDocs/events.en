@@ -4,6 +4,7 @@ description: The value of adding conversations to your marketing automation stra
 solution: Marketo Engage
 feature-set: Marketo Engage
 feature: Dynamic Chat, Events, Programs
+topic: Integrations
 role: Admin, User
 level: Beginner, Intermediate
 doc-type: Event

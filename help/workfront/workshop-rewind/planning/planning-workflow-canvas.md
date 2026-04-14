@@ -1,6 +1,8 @@
 ---
 title: Workfront's Power Trio - Connecting Planning, Workflow and Canvas Dashboards
 description: Discover how to integrate planning, workflow, and Canvas dashboards in Workfront for streamlined project management.
+feature: Reports and Dashboards, Work Management, Strategic Planning
+topic: Integrations, Security, Content Supply Chain
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

@@ -1,6 +1,8 @@
 ---
 title: Workfront Planning - The Smart Start - Building Your Base Implementation
 description: Learn best practices for implementing Workfront Planning to build a solid foundation and enable long-term business success.
+feature: Strategic Planning
+topic: Performance, Content Supply Chain
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

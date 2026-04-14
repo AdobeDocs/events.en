@@ -1,6 +1,8 @@
 ---
 title: Secure Executive Sponsorship for Workfront
 description: Learn strategies to secure executive sponsorship for Adobe Workfront and drive change and adoption within your organization.
+feature: Work Management, Workfront Fusion
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

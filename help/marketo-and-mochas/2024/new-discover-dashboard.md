@@ -1,6 +1,8 @@
 ---
 title: New Discover Dashboards
 description: Join Adobe's Senior Business Advisor, Kate Colbert, and Technical Advisor, James Leedom, as they explore the 9 new Discover Dashboards in Marketo Measure, offering dynamic insights into metrics like Revenue, ROI, Engagement, and Lead Velocity, with a live demonstration and Q&A session.
+feature: Reporting
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

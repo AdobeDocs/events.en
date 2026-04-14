@@ -1,6 +1,8 @@
 ---
 title: Creative Agencies - Reporting & Dashboards (Jun 14, 2020)
 description: Listen to Sophy Regelous from Cella share examples and strategies on how to use Workfront reporting for agencies.
+feature: Reports and Dashboards, Work Management
+topic: Administration, Integrations
 role: Admin, User
 level: Beginner, Intermediate
 kt: 9992

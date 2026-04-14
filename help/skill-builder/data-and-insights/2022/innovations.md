@@ -2,6 +2,8 @@
 title: Data and Insight - 2022 Innovations and trends
 description: make relevant use of your data by fully maximizing your Experience Cloud investments, and peek into new innovations.
 solution: Analytics, Customer Journey Analytics, Target
+feature: Analytics Basics, Analysis Workspace, Basics, Use Cases
+topic: Migration, Integrations
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 kt: 10581

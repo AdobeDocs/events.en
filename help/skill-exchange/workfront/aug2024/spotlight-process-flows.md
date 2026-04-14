@@ -2,6 +2,8 @@
 title: Experience Makers Spotlight - Transforming Process Flows to Workfront Wins
 description: How Victoria Linn, Adobe Workfront Solution Architect at Accenture, translates business requirements into effective request queues tailored to creative and operations teams in marketing.  Expert tips from Madalyn Destafney, Workfront Consultant at Quad, on what to consider and common pitfalls to avoid when creating templates, as there is no one-size-fits-all approach, even within a single instance.
 solution: Workfront
+feature: System Setup and Administration
+topic: Administration, Integrations
 role: User
 level: Beginner
 doc-type: Event

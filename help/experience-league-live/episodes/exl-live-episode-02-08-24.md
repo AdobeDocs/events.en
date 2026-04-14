@@ -4,6 +4,7 @@ description: Learn how Use Case Playbooks in Adobe Real-Time CDP and Adobe Journ
 jira: KT-14791
 solution: Experience Platform, Real-Time Customer Data Platform
 feature: Playbooks
+topic: Personalization, Commerce
 event-cta-url-live: https://www.youtube.com/watch?v=EZGQ--J2M9I
 event-start-time: 2024-02-08 09:00-7
 event-guests: Daniel Wright,Josée Monette-Healey,Rohit Basuri

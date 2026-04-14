@@ -2,6 +2,8 @@
 title: Create Offers in 30 Minutes with CJA
 description: Discover how CJA enables marketers to create actionable audiences and offers in just 30 minutes.
 solution: Customer Journey Analytics
+feature: Basics, Use Cases
+topic: Personalization
 role: Admin, Developer, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

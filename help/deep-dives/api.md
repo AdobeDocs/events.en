@@ -2,6 +2,8 @@
 title: APIs
 description: Join us to unlock the full potential of Adobe Marketo's API, from making your first API calls to leveraging bulk API for import/export tasks, exploring webhooks vs. API, and learning best practices for data security and cloud integration, with endless possibilities to revolutionize your marketing strategies.
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Integrations, Security
 role: Admin, Architect, Developer, User
 level: Intermediate
 doc-type: Value Video

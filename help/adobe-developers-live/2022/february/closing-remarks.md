@@ -1,6 +1,8 @@
 ---
 title: Closing Remarks
 description: Close out Adobe Developers Live Commerce with Sr. Director, Product Management Chris Hedge.
+feature: Edge Delivery Services, Release Information
+topic: Development
 role: User
 level: Beginner
 kt: 9787

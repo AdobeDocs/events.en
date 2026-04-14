@@ -1,6 +1,8 @@
 ---
 title: Modernizing Qantas with Edge Delivery Services
 description: Explore how Qantas transformed its website using Adobe Edge Delivery Services to enhance speed, SEO, and authoring capabilities.
+feature: Edge Delivery Services, Authoring
+topic: Administration, Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event

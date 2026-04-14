@@ -4,6 +4,7 @@ description: Why migrate to EDDL/WebSDK and what should be considered before sta
 solution: Analytics
 feature-set: Analytics
 feature: Tags
+topic: Migration
 role: User
 level: Intermediate, Experienced
 doc-type: Event

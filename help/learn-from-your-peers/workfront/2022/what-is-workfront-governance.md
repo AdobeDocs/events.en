@@ -4,6 +4,8 @@ description: Explore governance in Workfront with our on-demand webinar. Learn f
 role: Admin
 level: Beginner, Intermediate, Experienced
 solution: Workfront
+feature: System Setup and Administration
+topic: Performance, Administration
 doc-type: Event
 duration: 3713
 last-substantial-update: 2024-07-16

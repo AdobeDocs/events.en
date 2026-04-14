@@ -1,6 +1,8 @@
 ---
 title: Resource Management
 description: Unlock the full potential of Workfront's Resource Management with Samantha Miller and Mary Ann Erickson's expert guidance on setup, best practices, and tools.
+feature: Resource Management, Reports and Dashboards, System Setup and Administration
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

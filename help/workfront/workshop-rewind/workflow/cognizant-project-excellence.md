@@ -1,6 +1,8 @@
 ---
 title: Boost Efficiency with Adobe Workfront
 description: Discover how Cognizant uses Adobe Workfront to streamline project management and achieve excellence in workflow efficiency.
+feature: Work Management, Workfront Fusion
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

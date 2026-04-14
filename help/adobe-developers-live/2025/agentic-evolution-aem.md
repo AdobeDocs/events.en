@@ -1,6 +1,8 @@
 ---
 title: Agentic Evolution of AEM
 description: Explore how AI transforms digital experiences with Adobe Experience Manager, enhancing content workflows and boosting developer productivity.
+feature: Release Information
+topic: Artificial Intelligence, Integrations, Development
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event

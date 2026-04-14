@@ -2,6 +2,8 @@
 title: Real-time Customer Data Platform Migration Readiness
 description: Find out how to migrate to Adobe Real-time CDP (RTCDP) and what level of effort is required:- Migrate from an existing CDP- Impact on existing use cases (Personalization and Optimization)- Organizational changes required to support real-time customer data management.
 solution: Real-Time Customer Data Platform
+feature: Audiences
+topic: Personalization, Security, Migration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event

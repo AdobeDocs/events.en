@@ -2,6 +2,8 @@
 title: Experience Makers Spotlight
 description: Unleash the power of visualizations with Analysis WorkspaceIn the first half of this spotlight session, Judolene will explore techniques for easily creating powerful data visualizations in Analysis Workspace. Learn how to transform your workspaces into clear and impactful visual data stories to drive data informed decision making and action.  1. Learn how to avoid clutter and label your visualizations for impact. 2. Explore innovative applications of the great visualizations in Analysis Workspace. 3. Make your beautiful visualizations accessible for more. Thriving in Adobe Analytics as a BeginnerKatie will finish the spotlight session by discussing some quick tips and tricks you can use as you begin your Adobe Analytics journey. You can customize these tips to work for you and your organization. 1. Learn different ways to build segments & measures 2. Dynamic dropdown filters and examples for use 3. Quick data summaries to help you tell your story.
 solution: Analytics
+feature: Analysis Workspace, Segmentation, Visualizations
+topic: Migration, Integrations
 role: User
 level: Beginner
 doc-type: Event

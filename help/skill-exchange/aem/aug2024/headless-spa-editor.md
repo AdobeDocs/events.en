@@ -2,6 +2,8 @@
 title: Unlock the Power of Modern SPAs in AEM - Master Headless and SPA Editor Approaches
 description: Understanding the fundamentals of Single Page Applications  Exploring headless AEM and its integration with front-end frameworks Utilizing the AEM SPA Editor for a streamlined development process  Best practices for building, deploying, and managing SPAs in AEMDon't miss this opportunity to gain insights from an expert and elevate your digital strategy with modern SPA techniques in AEM.
 solution: Experience Manager
+feature: Authoring
+topic: Headless, Integrations, Development
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event

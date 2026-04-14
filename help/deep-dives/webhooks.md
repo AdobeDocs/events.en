@@ -2,6 +2,7 @@
 title: Adobe Marketo Engage Champion Deep Dive - Using Webhooks to Transfer Data
 description: Learn how to efficiently transfer data using webhooks in Marketo with Darshil Shah and Josh Arrington, covering structured data handling, error management, authentication methods, and practical use cases like CRM integration and e-commerce, moderated by John Grundy.
 feature: Webhooks, Integrations
+topic: Integrations, Security, Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

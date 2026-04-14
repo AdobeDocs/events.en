@@ -2,6 +2,8 @@
 title: The Hidden Gem In Your Database - Re-Engaged Records
 description: Join our session where we would walk you through the steps we took to operationalize the re-engagement process at Alma and what we learned along the way.
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 kt: 9771

@@ -1,6 +1,8 @@
 ---
 title: Utilizing Timesheets in Workfront (November 17, 2020)
 description: Listen to Nicholas Twillie and Alma Martinez from Walgreens talk about tracking time, through timesheets, in Workfront. Then watch as Christian Barnes shows yo… (Descriptions should be between 60 and 160 characters)
+feature: Work Management, Workfront Fusion
+topic: Administration, Integrations
 role: Admin, Leader, User
 level: Beginner, Intermediate
 kt: 10010

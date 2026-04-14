@@ -3,6 +3,8 @@ title: Adobe Pass - new REST API v2
 description: This session focuses on introducing Adobe's new REST API v2 and guiding users through its migration process.
 role: Developer
 solution: Pass
+feature: APIs
+topic: Integrations, Migration
 level: Beginner, Intermediate, Experienced
 doc-type: Technical Video
 duration: 3230

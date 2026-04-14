@@ -3,6 +3,7 @@ title: Revolutionizing Your Webinar Experience - Discover the Impact of Interact
 description: Learn how Marketo Champion Maria Cruz uses Interactive Webinars to boost engagement, gain insights, and enhance marketing at MRM. Watch on-demand now!
 solution: Marketo Engage
 feature: Interactive Webinars
+topic: Artificial Intelligence, Personalization, Integrations
 role: Admin, User
 level: Intermediate
 doc-type: Event

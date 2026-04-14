@@ -3,6 +3,8 @@ title: AI Assistant – Beyond the Basics
 description: Learn to confidently use AI Assistant in AEP—covering setup, key use cases, practical tips, and upcoming features to boost workflow efficiency and marketing impact.
 role: Developer, Leader, User
 solution: Experience Platform
+feature: AI Assistant
+topic: Performance
 level: Intermediate
 doc-type: Event
 duration: 2324

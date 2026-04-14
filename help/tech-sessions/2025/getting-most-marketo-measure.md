@@ -3,6 +3,7 @@ title: Getting the Most out of Marketo Measure
 description: Optimize Marketo Measure with best practices for channel mapping, segmentation, custom stage mapping, and touchpoint suppression. Use specific rules, categorize data, and prioritize stages logically. Suppress unwanted touchpoints for cleaner data. Leverage tools like boomerang stages and submit support cases for complex configurations. Access the session recording on Adobe's Experience page.
 solution: Marketo Measure
 feature: Touchpoints, Channels, Segmentation
+topic: Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

@@ -2,6 +2,8 @@
 title: The Proof Positive Way to Enhance your Approval Experience
 description: How to find and set up the ideal Proof permissions in your instance to minimize notifications to your users  Practical examples for training your users how to use Proof consistently  How to use Workfront reporting to track the approval process and keep stakeholders informed every step of the way A look ahead to how Monique hopes to evolve their process even more with the integration of Frame.io
 solution: Workfront
+feature: Reports and Dashboards, System Setup and Administration
+topic: Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event

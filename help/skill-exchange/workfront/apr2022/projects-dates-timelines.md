@@ -2,6 +2,8 @@
 title: Mastering Projects Dates & Timelines
 description: Whether you are process-oriented by nature, or an ‘accidental project manager’, having a solid understanding of timelines and date constraints is key to planning and executing work in Workfront.
 solution: Workfront
+feature: Strategic Planning
+topic: Administration, Integrations
 role: User
 level: Beginner
 kt: 10310

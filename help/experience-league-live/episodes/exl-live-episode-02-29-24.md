@@ -4,6 +4,7 @@ description: Learn to be more efficient when it comes to planning, launching and
 jira: KT-14433
 solution: Campaign v8 Web User Interface
 feature: Configuration
+topic: Integrations
 event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann

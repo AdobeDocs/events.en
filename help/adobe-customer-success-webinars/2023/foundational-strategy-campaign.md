@@ -4,6 +4,7 @@ description: Foundations of Campaign Orchestration  The Role of Campaign Orchest
 solution: Campaign
 feature-set: Campaign
 feature: Personalization
+topic: Personalization, Performance
 role: Admin, Architect, Data Architect, Data Engineer, Leader, User
 level: Intermediate
 doc-type: Event

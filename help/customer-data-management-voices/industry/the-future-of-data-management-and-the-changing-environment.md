@@ -3,6 +3,7 @@ title: The Future of Data Management and the Changing Environment
 description: See how Adobe and 451 Research are thinking about the future of technology and data to address the new marketing environment and begin preparing your business for the future of data management.
 solution: Real-Time Customer Data Platform
 feature: Data Management
+topic: Performance, Administration
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event

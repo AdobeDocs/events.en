@@ -2,6 +2,7 @@
 title: Building the Foundation for Personalization at Scale
 description: This webinar focuses on understanding the groundwork needed to orchestrate personalization at scale
 solution: Experience Cloud
+feature: Personalization, Analytics Basics
 topic: Personalization
 role: Admin, Architect, Data Architect, Data Engineer, Leader
 level: Intermediate

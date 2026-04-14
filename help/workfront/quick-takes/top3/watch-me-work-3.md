@@ -1,6 +1,8 @@
 ---
 title: Top 3 Features for Workers in Workfront
 description: Discover the top 3 features in Workfront for optimizing workflow and enhancing productivity as a worker or requester.
+feature: Work Management
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

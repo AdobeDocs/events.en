@@ -1,6 +1,8 @@
 ---
 title: Top 3 Reasons to Use Workfront Boards
 description: Discover how Workfront Boards boost user adoption with easy setup, templates, and tracking. Engage your teams effortlessly.
+feature: System Setup and Administration, Work Management
+topic: Security
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

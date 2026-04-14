@@ -2,6 +2,7 @@
 title: Embedded Intelligence Shift
 description: Explore how Adobe Experience Cloud introduces assistive intelligence to enhance decision-making and accelerate insight-to-action cycles.
 solution: Experience Platform
+feature: AI Assistant, Personalization
 topic: Artificial Intelligence
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced

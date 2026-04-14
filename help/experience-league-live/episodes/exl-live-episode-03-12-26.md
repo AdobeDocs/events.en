@@ -4,6 +4,7 @@ description: See how campaign orchestration in Journey Optimizer manages your la
 kt: KT-19994
 solution: Journey Optimizer
 feature: Audiences
+topic: Security
 event-cta-url-live: https://www.youtube.com/live/mPVvZIbkJq8
 event-start-time: 2026-03-03 08:30-8
 event-guests: Sandra Hausmann, Bridgette Darling, Chakravarthy Kalva, Lee Henderson

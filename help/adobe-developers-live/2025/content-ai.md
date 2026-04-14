@@ -1,6 +1,8 @@
 ---
 title: Content AI in Adobe Experience Manager
 description: Explore how Content AI in Adobe Experience Manager enhances digital experiences with semantic search and intelligent workflows.
+feature: Edge Delivery Services, Release Information
+topic: Artificial Intelligence, Development
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event

@@ -1,6 +1,8 @@
 ---
 title: AI in Adobe Projects - Practical Stories
 description: Explore real-world AI applications in Adobe projects, enhancing digital experiences and reducing costs.
+feature: Edge Delivery Services
+topic: Artificial Intelligence, Migration, Content Supply Chain
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event

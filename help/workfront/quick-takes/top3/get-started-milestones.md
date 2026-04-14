@@ -1,6 +1,8 @@
 ---
 title: Start with Milestones
 description: Discover easy steps to implement Milestone Reports in Workfront for efficient project tracking and reporting.
+feature: Reports and Dashboards, System Setup and Administration, Work Management
+topic: Administration, Integrations
 role: Admin, Leader, User
 level: Beginner, Intermediate
 doc-type: Event

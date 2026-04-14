@@ -1,6 +1,8 @@
 ---
 title: 10 Text Mode Tips
 description: Discover essential text mode tips in Adobe Workfront to enhance your reporting capabilities and streamline workflows.
+feature: Reports and Dashboards
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

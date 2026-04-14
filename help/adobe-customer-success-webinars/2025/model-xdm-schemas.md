@@ -2,6 +2,7 @@
 title: Best Practices and Insights for Modeling XDM Schemas
 description: Master data modeling in AEP with XDM schemas, identity management, and best practices for scalable, real-time personalization and segmentation.
 solution: Experience Platform
+feature: Personalization
 topic: Personalization
 role: Developer
 level: Intermediate

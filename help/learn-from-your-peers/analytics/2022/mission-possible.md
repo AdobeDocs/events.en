@@ -7,6 +7,8 @@ last-substantial-update: 2023-02-09
 kt: 11847
 thumbnail: 3414194.jpeg
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 exl-id: 90c84e11-75fb-40bb-bcb0-78a0a1c20279
 duration: 3525
 ---

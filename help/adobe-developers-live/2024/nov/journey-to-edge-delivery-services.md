@@ -3,6 +3,7 @@ title: A Real-World Journey to Edge Delivery Services
 description: Ensemble's collaboration with the PGA Tour leverages Adobe Experience Manager headless and edge delivery services to efficiently manage and update 16 active sites, emphasizing modularity, reusability, and quick deployment, with future plans to enhance content management using Helix 5 and the universal editor.
 solution: Experience Manager, Experience Manager Sites
 feature: Edge Delivery Services
+topic: Headless, Integrations, Development
 role: Developer
 level: Beginner, Intermediate
 doc-type: Event

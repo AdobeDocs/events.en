@@ -1,6 +1,8 @@
 ---
 title: Getting Started with Workfront Boards Templates
 description: Discover how Workfront Boards templates enhance productivity and team collaboration, even if you're not on an agile team.
+feature: Work Management
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner
 doc-type: Event

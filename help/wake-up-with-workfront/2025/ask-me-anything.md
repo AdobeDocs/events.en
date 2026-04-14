@@ -1,6 +1,8 @@
 ---
 title: Wake Up With Workfront - Ask Me Anything Recording
 description: Maximize productivity with Workfront! Use best practices, milestones, blueprints, and integrations. Manage resources, proofing, and system settings. Encourage user adoption and streamline communication.
+feature: Resource Management, Reports and Dashboards, System Setup and Administration
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

@@ -1,6 +1,8 @@
 ---
 title: Scale AI Adoption - A Playbook for Approvals
 description: Discover proven strategies from Adobe Experience Maker Award winner Anish Raul on safely adopting AI in regulated enterprises without slowing innovation.
+feature: Analytics Basics, Analysis Workspace
+topic: Personalization, Security, Performance
 role: Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

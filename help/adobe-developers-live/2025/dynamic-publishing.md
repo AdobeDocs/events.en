@@ -1,6 +1,8 @@
 ---
 title: Dynamic Publishing at the Edge with BYOM
 description: Discover how BYOM and App Builder enable dynamic content delivery at the edge, enhancing digital experiences with Adobe Experience Manager and Edge Delivery.
+feature: Edge Delivery Services, Developer Tools, Authoring
+topic: Development
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event

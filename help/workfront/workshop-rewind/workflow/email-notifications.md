@@ -2,6 +2,7 @@
 title: Mastering Email Notifications in Adobe Workfront
 description: Discover best practices for managing Adobe Workfront email notifications to keep teams informed, reduce noise, and improve communication efficiency.
 feature: Updates and Notifications
+topic: Performance
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

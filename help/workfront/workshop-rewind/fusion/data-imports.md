@@ -1,6 +1,8 @@
 ---
 title: Fast Track Efficiency - Data Imports with Workfront Fusion
 description: This session covered 3 main CSV import/export scenarios - importing tasks from CSV files, creating custom form field values for dropdowns, and exporting project data to CSV files.
+feature: Workfront Fusion
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

@@ -3,6 +3,7 @@ title: Unlocking the power of Processing Rules in Adobe Analytics
 description: Learn from an Adobe Analytics Champion how to efficiently optimize data processing and analysis with Adobe Analytics' hidden gem - processing rules. This invaluable tool addresses a wide range of issues, fine-tunes data flow, and enables precise data assignment or correction before further processing.
 feature-set: Analytics
 feature: Processing Rules
+topic: Migration, Integrations
 role: User
 level: Beginner
 solution: Analytics

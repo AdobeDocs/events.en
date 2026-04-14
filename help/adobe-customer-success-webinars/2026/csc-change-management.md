@@ -1,6 +1,7 @@
 ---
 title: VRA Session 5 - Change Management Strategies to Operate your Content Supply Chain
 description: Learn change management strategies to enhance your content supply chain and improve efficiency with Adobe's proven methods.
+feature: Strategic Planning
 topic: Content Supply Chain
 role: Leader, User
 level: Beginner

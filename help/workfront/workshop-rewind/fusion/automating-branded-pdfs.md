@@ -2,6 +2,7 @@
 title: From Data to Design - Automating Branded PDFs with Workfront Fusion
 description: Discover how to automate branded PDF creation using Workfront Fusion. Streamline processes and enhance productivity with this comprehensive guide.
 feature: Workfront Fusion
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

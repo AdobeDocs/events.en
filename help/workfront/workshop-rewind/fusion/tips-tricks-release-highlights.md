@@ -2,6 +2,7 @@
 title: Maximize Fusion with Tips, Tricks, and Release Highlights
 description: Discover tips, tricks, and release highlights for Adobe Workfront Fusion. Learn about new features to enhance your workflows and governance.
 feature: Workfront Fusion
+topic: Performance, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

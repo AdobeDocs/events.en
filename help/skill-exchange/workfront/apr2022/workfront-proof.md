@@ -2,6 +2,8 @@
 title: The Future of Adobe Workfront Proof
 description: Do you use Workfront Proof for review and approval workflows at your organization? Curious how to get the most from the tool and what we have planned for the future.
 solution: Workfront
+feature: Work Management, Workfront Fusion
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10315

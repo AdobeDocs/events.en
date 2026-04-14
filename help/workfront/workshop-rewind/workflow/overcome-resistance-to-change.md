@@ -1,6 +1,8 @@
 ---
 title: Overcome Resistance to Change
 description: Learn strategies to tackle resistance to change using Adobe Workfront for smoother transitions and effective change management.
+feature: Work Management, Workfront Fusion
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

@@ -2,6 +2,7 @@
 title: Programs, Campaigns & Beyond
 description: Gain practical Marketo Engage skills to build scalable programs, streamline campaign management, and apply reporting best practices-perfect for new and early-stage users.
 feature: Programs, Reporting, Templates
+topic: Performance
 speaker-name-1: AJ Navarro
 speaker-title-1: Marketing Operations Manager
 speaker-company-1: Sprout Social

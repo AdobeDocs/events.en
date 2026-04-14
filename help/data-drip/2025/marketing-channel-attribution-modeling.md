@@ -1,6 +1,8 @@
 ---
 title: Marketing Channels & Attribution Modeling
 description: Unlock the Power of Adobe Analytics Set Up Marketing Channels and Leverage Attribution Modeling with Expert Guidance
+feature: Segmentation
+topic: Personalization, Security
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3494

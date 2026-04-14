@@ -1,6 +1,8 @@
 ---
 title: Create Shared Column Reports
 description: Discover the top 3 reasons to use shared column reports in Adobe Workfront. Enhance report aesthetics and communication with step-by-step guidance.
+feature: Reports and Dashboards
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

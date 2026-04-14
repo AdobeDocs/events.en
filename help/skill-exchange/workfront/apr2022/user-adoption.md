@@ -2,6 +2,8 @@
 title: Considerations for Conquering User Adoption
 description: Adoption of a work management solution like Workfront has many facets, but one of the most foundational is to understand who in your organization will be using it.
 solution: Workfront
+feature: Work Management, Workfront Fusion
+topic: Administration, Integrations
 role: User
 level: Beginner
 kt: 10311

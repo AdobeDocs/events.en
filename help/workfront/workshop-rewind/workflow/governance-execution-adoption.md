@@ -1,6 +1,8 @@
 ---
 title: Workfront Pro Tips for Governance, Execution, and Adoption
 description: Best practices, tips, tricks, and secrets to improve the oversight and operations of your Workfront instance.
+feature: System Setup and Administration
+topic: Performance, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

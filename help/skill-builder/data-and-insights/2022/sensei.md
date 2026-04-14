@@ -2,6 +2,8 @@
 title: Using Sensei to take Analysis Workspace to the next level
 description: Discover how to take advantage of Sensei, the Artificial Intelligence framework provided by Adobe, to intelligently analyze customers and audience segments to … (Descriptions should be between 60 and 160 characters)
 solution: Analytics, Customer Journey Analytics
+feature: Analysis Workspace, Segmentation, Basics, Use Cases
+topic: Personalization
 role: Admin, Data Architect, Data Engineer, User
 level: Intermediate, Experienced
 kt: 10580

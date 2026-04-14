@@ -1,6 +1,8 @@
 ---
 title: The Relationship Builder - How Syracuse University leverages Workfront Planning to Connect Work
 description: Discover how Syracuse University utilizes Workfront Planning to enhance collaboration and operational efficiency.
+feature: Strategic Planning
+topic: Performance, Content Supply Chain
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

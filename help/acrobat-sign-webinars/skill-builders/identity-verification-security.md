@@ -1,6 +1,7 @@
 ---
 title: Establishing Digital Trust at Scale - Identity Verification and Security with Acrobat Sign
 description: Discover how Acrobat Sign enhances trust, compliance, and security through digital signatures, global identity verification, and regulation-ready solutions.
+feature: Sign
 topic: Security
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced

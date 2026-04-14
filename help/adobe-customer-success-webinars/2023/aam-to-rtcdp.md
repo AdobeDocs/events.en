@@ -3,6 +3,7 @@ title: Maximizing Value with Adobe Audience Manager | Navigating Industry Change
 description: With shifting timelines for industry changes, learn how you can continue to unlock value with Adobe Audience Manager and prepare for the transition to RTCDP from both a use case and organizational readiness perspective.
 solution: Audience Manager
 feature-set: Audience Manager
+feature: Segments, Traits
 topic: Migration
 role: Admin, Leader
 level: Intermediate

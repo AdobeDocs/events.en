@@ -2,6 +2,7 @@
 title: Fusion Decoded - What It Is and Why Every Org Can Use It
 description: Workfront Fusion and walks us through some live examples to help demystify Fusion.
 feature: Workfront Fusion
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

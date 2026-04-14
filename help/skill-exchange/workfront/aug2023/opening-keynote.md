@@ -1,6 +1,8 @@
 ---
 title: Opening Keynote
 description: In this session, Director of Product Marketing, Richard Whitehead will walk you through the evolution of Workfront, including highlights, new & available capabilities, and finish with product innovations.
+feature: Work Management, Workfront Fusion
+topic: Administration, Integrations
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

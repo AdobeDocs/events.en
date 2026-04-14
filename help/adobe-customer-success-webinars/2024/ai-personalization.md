@@ -2,6 +2,7 @@
 title: Maximizing User Experiences with Adobe Target's AI-Driven Personalization
 description: John Magnusson's session on Adobe Target's AI-driven personalization highlighted key features and examples, emphasizing the Engage, Expand, and Embed framework.
 solution: Target
+feature: Segments, Profiles
 topic: Personalization, Artificial Intelligence
 role: Admin, Developer, Leader, User
 level: Intermediate

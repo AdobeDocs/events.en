@@ -1,6 +1,8 @@
 ---
 title: Lessons from Workfront Admins
 description: Discover insights from veteran Workfront admins on managing workflows and driving system adoption effectively.
+feature: System Setup and Administration
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

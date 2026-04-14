@@ -3,6 +3,7 @@ title: Aug 2023 Grow Track - Experience Makers Spotlight
 description: Leveling Up - Educating the Casual Workspace User
 feature-set: Analytics
 feature: Workspace Basics
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event

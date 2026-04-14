@@ -2,6 +2,7 @@
 title: Adobe Commerce Innovation Spotlight Webinar
 description: Join us for inspiration on how to adopt the latest features and architecture to deliver the best experience to your customers and grow your business!In this webinar.
 solution: Commerce
+feature: Integration, B2B
 topic: Commerce
 role: Admin, Developer, User
 level: Intermediate

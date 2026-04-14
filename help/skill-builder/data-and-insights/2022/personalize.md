@@ -2,6 +2,8 @@
 title: Personalize and automate with Adobe Target
 description: optimizing Adobe Target capabilities using Auto Target and Auto Personalizations
 solution: Target
+feature: Integrations, AI Assistant
+topic: Personalization
 role: Admin, Data Architect, Data Engineer, User
 level: Intermediate, Experienced
 kt: 10578

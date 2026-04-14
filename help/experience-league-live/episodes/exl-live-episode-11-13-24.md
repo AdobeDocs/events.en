@@ -4,6 +4,7 @@ description: Join us for an exciting live session where Adobe product and engine
 kt: KT-16450
 solution: Experience Platform
 feature: AI Assistant
+topic: Personalization, Artificial Intelligence
 event-cta-url-live: https://www.youtube.com/live/DYsyii7ldck
 event-start-time: 2024-11-13 09:00-8
 event-guests: Doug Moore,Shivakumar Vaithyanathan,Ali Nazer,Horia Galatanu

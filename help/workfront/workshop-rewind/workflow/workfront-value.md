@@ -1,6 +1,8 @@
 ---
 title: Pitch Perfect - Defining & Communicating Workfront Value
 description: We worked through slides together to create a customizable deck to help define your organization's Workfront "why," report your results, and communicate your wins in a way that resonates with executives, peers, and end users.
+feature: Reports and Dashboards, System Setup and Administration
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

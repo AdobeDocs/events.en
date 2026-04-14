@@ -1,6 +1,9 @@
 ---
 title: Behind the Brew - A Full Breakdown on Proactive Monitoring Tools
+solution: Commerce
+feature: Security, Cache
 description: Join us to learn how SWAT, Fastly, and New Relic enable proactive monitoring, efficient problem diagnosis, and continuous system health tracking for optimal performance.
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

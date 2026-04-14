@@ -1,6 +1,8 @@
 ---
 title: Measuring What Matters - How Schneider Electric Drives Workfront Efficiency with Fusion
 description: Discover how Schneider Electric uses Workfront Fusion to streamline processes, save time, and enhance efficiency in their creative studios.
+feature: Workfront Fusion
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

@@ -1,6 +1,8 @@
 ---
 title: Fast and Functional - Blueprints in Adobe Workfront
 description: Everything you need to know about Blueprints - what they are, how they work, and how you can start using them today to maximize value
+feature: Reports and Dashboards, System Setup and Administration, Work Management
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

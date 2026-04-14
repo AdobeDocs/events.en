@@ -2,6 +2,7 @@
 title: Building Executive Sponsorship for support of Adobe Customer Journey Analytics Success
 description: Learn strategies to gain executive sponsorship for Adobe Customer Journey Analytics success. Drive alignment, secure budgets, and foster data-driven decision-making.
 feature: Data Governance
+topic: Development
 role: Leader, User
 level: Beginner, Intermediate
 doc-type: Event

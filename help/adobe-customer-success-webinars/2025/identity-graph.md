@@ -2,6 +2,7 @@
 title: Identity Graph Use Cases and Troubleshooting
 description: Learn how Adobe Experience Platform Identity Service powers segmentation, activation, and profile merge insights to solve real-world marketing challenges.
 feature: Identities, Profiles, Segments
+topic: Personalization, Security, Administration
 solution: Experience Platform
 role: Admin, Developer, User
 level: Beginner, Intermediate, Experienced

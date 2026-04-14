@@ -2,6 +2,8 @@
 title: All you need to know about the Adobe Commerce 2.4.4 Upgrade
 description: As the 2.4.4. Commerce Service Pack became available, learn the benefits and all you need to know to plan and deliver the upgrade.
 solution: Commerce
+feature: Integration, Edge Delivery Services
+topic: Commerce, Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 kt: 10567

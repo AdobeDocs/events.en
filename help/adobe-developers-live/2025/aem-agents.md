@@ -1,6 +1,8 @@
 ---
 title: Explore Adobe Experience Manager Agents
 description: Discover how AEM Agents streamline site migrations with AI and GitHub integration, enhancing digital experiences and reducing delivery time.
+feature: Edge Delivery Services
+topic: Artificial Intelligence, Integrations, Migration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

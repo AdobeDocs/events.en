@@ -2,6 +2,8 @@
 title: New Relic Essentials for AEM Cloud
 description: Learn to use New Relic to monitor, troubleshoot, and optimize AEM Cloud performance with key metrics, real-world tips, and actionable best practices.
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
+topic: Performance
 version: Experience Manager as a Cloud Service
 role: Admin, Developer, Leader, User
 level: Intermediate

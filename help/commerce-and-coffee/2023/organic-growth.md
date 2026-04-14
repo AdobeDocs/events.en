@@ -2,6 +2,7 @@
 title: Commerce & Coffee - Organic Growth
 description: Discover 7 strategies for driving organic eCommerce growth with Corey Gelato, including SEO, social media, and on-site optimization, plus Adobe Commerce tools like URL rewrites, sitemap generation, and metadata management.
 solution: Commerce
+feature: Integration, Edge Delivery Services
 topic: Commerce
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced

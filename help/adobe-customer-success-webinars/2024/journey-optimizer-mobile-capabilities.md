@@ -2,6 +2,8 @@
 title: Journey Optimizer Mobile Capabilities
 description: This introductory session to Adobe Journey Optimizer will empower beginners to create SMS and Push channel customer experiences that drive results using personalization. We will discuss fragment usage and personalization.
 solution: Journey Optimizer
+feature: Journeys, Email Design, Audiences
+topic: Artificial Intelligence, Personalization, Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event

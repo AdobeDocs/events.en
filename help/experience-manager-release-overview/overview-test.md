@@ -1,6 +1,8 @@
 ---
 title: Adobe Experience Manager as a Cloud Service release overview
 description: Get a quick overview of the latest features on Adobe Experience Manager as a Cloud Service
+feature: Edge Delivery Services, Release Information, Developer Tools
+topic: Development, Headless
 user-guide-breadcrumb: AEM Release Events
 duration: 91
 hidefromtoc: true

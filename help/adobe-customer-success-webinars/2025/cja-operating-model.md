@@ -3,6 +3,7 @@ title: Designing an Operating Model for CJA Success
 description: Learn how to build a scalable, cross-functional operating model that aligns your CJA measurement program with strategic goals and drives long-term efficiency and impact.
 solution: Customer Journey Analytics
 feature: Basics
+topic: Performance, Administration, Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event

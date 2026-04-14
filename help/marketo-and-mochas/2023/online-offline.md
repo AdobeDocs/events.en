@@ -2,6 +2,8 @@
 title: Online vs Offline Channels
 description: Join Adobe's Marketing Automation Business Advisors, Kate Colbert and Elizabeth Lundberg, for an in-depth 90-minute session on optimizing Online and Offline channels with Marketo Measure Attribution, featuring strategic configurations, best practices, and live Q&A.
 solution: Marketo Measure
+feature: Touchpoints, Channels
+topic: Development
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

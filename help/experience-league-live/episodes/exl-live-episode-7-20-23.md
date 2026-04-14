@@ -3,6 +3,7 @@ title: Actionable audiences, in one place​, from any source, with standard con
 description: The new Audience Portal and Composition features have taken segmentation and audience management in Real-Time CDP to a whole new level. Ingestion of pre-built audiences, centralized audience management, and a new composition canvas provide a place where you can build, organize, and distribute your key audiences across marketing channels.
 solution: Journey Optimizer, Real-Time Customer Data Platform, Experience Platform
 feature: Audiences
+topic: Artificial Intelligence, Personalization
 kt: KT-13220
 event-cta-url-live: https://www.youtube.com/watch?v=QaJy9Tp-vTE
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-230720.html

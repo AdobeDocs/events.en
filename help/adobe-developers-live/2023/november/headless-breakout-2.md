@@ -2,6 +2,7 @@
 title: Adobe Developers Live - NOV 23 - Headless Breakout 2
 description: In this informative session from Adobe Developers Live, Gabriel Walt and Alex Tondo share insights on how Adobe.com uses the Universal Editor in Adobe Experience Manager to enhance their content strategy. Recorded on November 6, 2023, they discuss the capabilities of this WYSIWYG editor in streamlining content delivery processes and its role in simplifying content authoring. This session is perfect for those looking to understand how to effectively use content tools in AEM for dynamic and engaging digital experiences.
 solution: Experience Manager,Experience Manager Sites
+feature: Authoring
 product: experience manager
 sub-product: sites
 topic: Development, Headless

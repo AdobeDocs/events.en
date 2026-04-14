@@ -1,6 +1,8 @@
 ---
 title: Streamline Government Services with AI
 description: Explore how AI and Adobe–Microsoft integration enhance government digital services, improving citizen access and simplifying workflows.
+feature: Edge Delivery Services, Release Information
+topic: Integrations, Administration, Development
 role: Developer, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

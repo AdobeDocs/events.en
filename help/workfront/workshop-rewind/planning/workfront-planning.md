@@ -2,6 +2,7 @@
 title: Summoning Success - Unlocking the Latest in Workfront Planning
 description: Watch the latest workshop to explore new Workfront Planning features, roadmap insights, and resources to guide your planning success.
 feature: Workfront Planning, Product Announcements
+topic: Performance, Content Supply Chain
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

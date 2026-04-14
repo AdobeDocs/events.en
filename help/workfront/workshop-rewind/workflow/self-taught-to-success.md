@@ -1,6 +1,8 @@
 ---
 title: From Self-Taught to Success - How Kyndryl Scaled Workfront to Power $7B
 description: Workshop Rewind - Workflow
+feature: Reports and Dashboards, Work Management
+topic: Performance, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

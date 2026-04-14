@@ -2,6 +2,7 @@
 title: Expert Insights - Non-Traditional Workfront Workflows with Kiersten Kollins
 description: Discover how DSW’s Kiersten Kollins uses non-traditional Adobe Workfront workflows, custom reporting, and Fusion automations to optimize marketing operations and boost team efficiency.
 feature: Work Management
+topic: Performance, Development
 speaker-name-1: Kiersten Kollins
 speaker-title-1: Senior Marketing Ops Technologist
 speaker-company-1: DSW

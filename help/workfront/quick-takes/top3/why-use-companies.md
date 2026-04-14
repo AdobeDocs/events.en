@@ -1,6 +1,8 @@
 ---
 title: Top 3 Reasons to Use Companies
 description: Discover why companies are vital in Workfront for enterprise expansion, secure access, and enhanced reporting.
+feature: Reports and Dashboards
+topic: Administration, Integrations
 role: Admin, Developer, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event

@@ -1,6 +1,8 @@
 ---
 title: Document Authoring at Scale - The Foundation for Intelligent, AI-Optimized Experiences
 description: Explore AI-ready document authoring for scalable global experiences with Adobe Experience Manager.
+feature: Edge Delivery Services, Authoring
+topic: Integrations, Performance, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event

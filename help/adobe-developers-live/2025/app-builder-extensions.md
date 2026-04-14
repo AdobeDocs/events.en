@@ -1,6 +1,8 @@
 ---
 title: AI Commerce Development Innovations
 description: Explore AI-driven tools for Adobe Commerce, enhancing app builder workflows and modernizing customizations.
+feature: Release Information, Developer Tools
+topic: Migration, Development
 role: Developer
 level: Beginner, Intermediate
 doc-type: Event

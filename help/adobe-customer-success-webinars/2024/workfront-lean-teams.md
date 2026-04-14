@@ -2,6 +2,8 @@
 title: Maximizing Efficiency with Adobe Workfront - Lean Teams Webinar
 description: Explore strategies and practical approaches for boosting productivity and streamlining operations using lean methodologies with Adobe Workfront, presented by industry experts.
 solution: Workfront
+feature: Work Management, Workfront Fusion
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event

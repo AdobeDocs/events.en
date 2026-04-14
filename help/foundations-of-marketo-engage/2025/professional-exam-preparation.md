@@ -1,6 +1,8 @@
 ---
 title: Foundational Marketo User Group - Professional Exam Preparation
 description: Get expert guidance, study tips, and AI-powered learning support to ace your Marketo Engage Professional Exam with confidence in this focused prep session.
+feature: Programs, Reporting
+topic: Artificial Intelligence, Performance, Certification
 role: User
 level: Beginner
 doc-type: Event

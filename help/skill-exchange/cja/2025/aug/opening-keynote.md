@@ -1,6 +1,8 @@
 ---
 title: Customer Journey Analytics Opening Keynote
 description: Explore essential skills like contextual fluency, empathy, and storytelling to elevate your impact with Adobe Customer Journey Analytics.
+feature: Basics, Use Cases
+topic: Integrations
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

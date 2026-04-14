@@ -1,6 +1,8 @@
 ---
 title: Supercharge Onsite AI Experiences
 description: Discover how LLM Optimizer enhances AI visibility and future-proofs your website without code changes.
+feature: Edge Delivery Services, Release Information
+topic: Artificial Intelligence, Performance, Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event

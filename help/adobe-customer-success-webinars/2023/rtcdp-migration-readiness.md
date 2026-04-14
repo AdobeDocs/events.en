@@ -2,6 +2,8 @@
 title: Real-time CDP Migration Readiness
 description: The level of effort of migrating to Real-time CDP, organizational shifts with a move, and additional Adobe Resources for Adobe Audience Manager Support
 solution: Real-Time Customer Data Platform
+feature: Audiences
+topic: Migration
 role: Admin, Data Architect, Data Engineer, Leader
 level: Intermediate
 doc-type: Event

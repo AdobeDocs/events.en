@@ -1,6 +1,8 @@
 ---
 title: Adobe Commerce Recommendations - From Setup to Strategic Growth
 description: Discover how to optimize Adobe Commerce product recommendations to drive KPIs like AOV, inventory clearance, and customer retention.
+feature: Integration, Edge Delivery Services
+topic: Personalization, Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event

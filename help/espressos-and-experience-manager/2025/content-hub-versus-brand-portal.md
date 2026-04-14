@@ -3,6 +3,7 @@ title: Espressos & Experience Manager - Content Hub vs. Brand Portal
 description: See how AEM Content Hub transforms asset distribution with faster deployment, zero added cost, and seamless integration for all Asset Cloud Service customers.
 solution: Experience Manager, Experience Manager Assets
 feature: Brand Portal
+topic: Integrations, Performance, Migration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

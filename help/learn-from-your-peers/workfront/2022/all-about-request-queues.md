@@ -3,6 +3,8 @@ title: All about request queues webinar
 description: Learn from your peers about maximizing Workfront Request Queues. Discover diverse uses and best practices from Disney's Yellow Shoes in our on-demand webinar.
 role: Admin
 solution: Workfront
+feature: Reports and Dashboards, System Setup and Administration
+topic: Administration, Integrations
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3611

@@ -2,6 +2,8 @@
 title: Data Quality & Adoption
 description: Learn how you can build data quality into every aspect of Adobe Analytics and create a shared culture around it.
 solution: Analytics
+feature: Data Governance
+topic: Migration, Integrations
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-09

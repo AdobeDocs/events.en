@@ -2,6 +2,8 @@
 title: Adobe Analytics & CJA Quick Start for Basic to Intermediate Analysis Capabilities
 description: The session covered setting up analytical capabilities, comparing Adobe Analytics and Customer Journey Analytics, and key features for marketing reports.
 solution: Customer Journey Analytics, Analytics
+feature: Use Cases, Visualizations, Data Governance, Data Configuration and Collection
+topic: Security, Performance, Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event

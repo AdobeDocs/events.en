@@ -1,6 +1,8 @@
 ---
 title: Adobe Analytics Opening Keynote
 description: Explore essential analyst skills—storytelling, ethics, and empathy—plus how AI and human insight combine to drive meaningful business outcomes.
+feature: Data Governance, Data Configuration and Collection
+topic: Administration
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

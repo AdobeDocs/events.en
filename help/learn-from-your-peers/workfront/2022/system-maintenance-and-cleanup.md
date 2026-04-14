@@ -5,6 +5,8 @@ role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 solution: Workfront
+feature: Reports and Dashboards, System Setup and Administration
+topic: Administration, Integrations
 duration: 3639
 last-substantial-update: 2024-07-16
 jira: KT-15815

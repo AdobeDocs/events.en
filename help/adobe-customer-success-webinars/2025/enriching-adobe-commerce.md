@@ -2,6 +2,7 @@
 title: Enriching Adobe Commerce with Adobe Experience Platform
 description: See how Adobe Commerce + AEP deliver real-time personalization, unified profiles, and omnichannel journeys powered by advanced analytics.
 solution: Commerce, Experience Platform
+feature: Integration, Agentic AI, Data Collection, Personalization
 topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced

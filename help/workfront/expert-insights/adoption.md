@@ -2,6 +2,7 @@
 title: Expert Insights - Adoption with Leslie Spier
 description: Learn adoption strategies from Leslie Spier to boost Workfront engagement, improve processes, and recognize user contributions.
 feature: Strategic Planning
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 speaker-name-1: Leslie Spier
 speaker-title-1: Customer Success Manager

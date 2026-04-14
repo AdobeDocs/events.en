@@ -1,6 +1,8 @@
 ---
 title: IT Workflows & Approvals (June 6, 2020)
 description: Listen to Diane Kubarek and Heather Verschneider share their experience on how they implemented an IT project governance process at Cornell University.
+feature: Work Management, Workfront Fusion
+topic: Administration
 role: User
 level: Beginner, Intermediate
 kt: 10000

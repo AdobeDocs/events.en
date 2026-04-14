@@ -4,6 +4,7 @@ description: See Audience Agent uncover audience insights and create ready-to-us
 kt: KT-19993
 solution: Experience Platform
 feature: Agentic AI
+topic: Artificial Intelligence, Performance
 event-cta-url-live: https://www.youtube.com/live/V7n2KuhrhqQ
 event-start-time: 2026-01-28 08:30-8
 event-guests: Daniel Wright, Shelby Mansuri, Keara Fausett, Alyssa Espiritu

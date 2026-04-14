@@ -1,6 +1,9 @@
 ---
 title: How to unlock business value across the customer journey
+solution: Experience Cloud
+feature: Personalization
 description: Learn how Adobe Consulting helps your creative, marketing, and tech teams evaluate and identify best practices in customer-centric digital marketing to drive quantifiable results and great customer experiences, aligning your organization against the customer journey.
+topic: Development
 role: Leader, User
 level: Intermediate
 kt: 11122

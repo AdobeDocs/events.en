@@ -2,6 +2,8 @@
 title: Getting Started with Adobe Journey Optimizer Analysis in Customer Journey Analytics
 description: This session is intended to demonstrate the way Customer Journey Analytics and Adobe Journey Optimizer work together to streamline the measurement of multiple Adobe Journey Optimizer campaigns and journeys.
 solution: Customer Journey Analytics, Journey Optimizer
+feature: Integrations, Journeys
+topic: Integrations, Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event

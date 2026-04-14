@@ -2,6 +2,8 @@
 title: High-Level Attribution Concepts in Adobe Analytics
 description: Attribution plays a crucial role in understanding the impact of marketing efforts and optimizing resource allocation. In this presentation, we’ll explore key concepts related to attribution within Adobe Analytics at a high level. Understanding attribution models empowers new users to make informed decisions and optimize marketing strategies within Adobe Analytics.
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Beginner
 doc-type: Event

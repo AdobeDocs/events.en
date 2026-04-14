@@ -3,6 +3,8 @@ title: Modernize Campaigns with Adobe Journey Optimizer and Adobe Campaign
 description: Learn to harmonize Adobe Journey Optimizer and Adobe Campaign for seamless, cross-channel experiences and efficient workflows.
 role: Admin, Developer, Leader, User
 solution: Journey Optimizer, Campaign
+feature: Journeys, Email Design, Deliverability
+topic: Personalization, Integrations
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2354

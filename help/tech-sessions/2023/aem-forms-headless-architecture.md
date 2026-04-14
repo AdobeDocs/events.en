@@ -1,6 +1,7 @@
 ---
 title: AEM Forms Headless Architecture
 description: Introduction to Headless Architecture, Benefits of AEM Forms Headless, and Live Demo.
+feature: Edge Delivery Services, Release Information
 topic: Headless
 role: Admin, User
 level: Beginner

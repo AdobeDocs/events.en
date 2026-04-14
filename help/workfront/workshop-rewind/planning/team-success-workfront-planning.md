@@ -2,6 +2,7 @@
 title: Start Fast, Scale Smart - Activating Team-Level Success with Workfront Planning
 description: Learn how a team-first approach to Adobe Workfront Planning accelerates adoption, reduces resistance, and builds a scalable foundation for enterprise-wide success.
 feature: Workfront Planning
+topic: Performance, Administration, Content Supply Chain
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

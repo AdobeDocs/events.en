@@ -1,6 +1,8 @@
 ---
 title: IMS Migration Unpacked - Simplifying the Transition for Marketo Users
 description: The IMS migration for Marketo users to Adobe's platform involves detailed steps, preparation, and communication, with post-migration changes and resources provided for support and upcoming events.
+feature: Reporting
+topic: Performance, Migration
 role: Admin, Developer, Leader, User
 level: Intermediate, Experienced
 doc-type: Event

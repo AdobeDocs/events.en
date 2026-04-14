@@ -1,6 +1,9 @@
 ---
 title: A Deep Dive into Live Search
+solution: Commerce
+feature: Headless, Integration
 description: Customize Your Live Search Experience in Adobe Commerce with Expert Guidance and Practical Implementation Examples
+topic: Headless, Integrations, Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

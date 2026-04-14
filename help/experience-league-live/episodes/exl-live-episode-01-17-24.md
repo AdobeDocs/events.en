@@ -4,6 +4,7 @@ description: Learn how new automated processes can help you move you analytics a
 jira: KT-14746
 solution: Analytics,Customer Journey Analytics
 feature: Experience Cloud Integration
+topic: Integrations, Migration, Administration
 event-cta-url-live: https://www.youtube.com/watch?v=BkAjaMPgpgE
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-240117.html
 event-start-time: 2024-01-17 10:00-7

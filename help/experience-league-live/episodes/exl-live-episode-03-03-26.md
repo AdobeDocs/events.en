@@ -4,6 +4,7 @@ description: See real-world examples of Adobe's Agentic AI in action. Then, watc
 kt: 120175
 solution: Experience Platform
 feature: Agentic AI
+topic: Artificial Intelligence, Security, Performance
 event-cta-url-live: https://www.youtube.com/live/V7n2KuhrhqQ
 event-start-time: 2026-03-03 09:00-8
 event-guests: Daniel Wright, Anjul Bhambhri, Gina Casagrande

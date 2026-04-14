@@ -1,6 +1,7 @@
 ---
 title: Roll Your Own HTML with Web Components
 description: Learn Web Components basics with Raymond Camden, Sr. Developer Evangelist at Adobe, including custom elements, Shadow DOM, and HTML templates, with practical examples like embedding PDFs and building sortable tables to enhance your applications.
+feature: Edge Delivery Services, Release Information
 topic: Development
 role: Developer
 level: Beginner, Intermediate

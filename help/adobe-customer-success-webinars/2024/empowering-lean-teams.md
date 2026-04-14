@@ -1,6 +1,8 @@
 ---
 title: Empowering Lean Teams
 description: Discover how product integrations can streamline digital workflow management, enhance team collaboration, ensure you have an effective team, and scale your business processes.
+feature: Edge Delivery Services, Release Information
+topic: Integrations, Performance, Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event

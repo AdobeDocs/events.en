@@ -1,6 +1,8 @@
 ---
 title: Experience Makers Spotlight
 description: Join us as we spotlight three expert customers and Adobe Analytics users.
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10463

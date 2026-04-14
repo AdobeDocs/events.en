@@ -1,6 +1,8 @@
 ---
 title: Developing a Real-time Data Collection and Activation Strategy
 description: Leverage & activate on your data collection strategy to provide more timely interaction with your customers and prospects.
+feature: Data Governance, Identities
+topic: Development
 role: Admin, Developer, Leader
 level: Intermediate
 doc-type: Event

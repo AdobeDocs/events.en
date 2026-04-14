@@ -2,6 +2,7 @@
 title: Prepare Your Agreements for e-signature
 description: Learn about three easy ways to set up your documents for e-signature.
 feature: Sign
+topic: Integrations
 role: User
 level: Beginner
 doc-type: Event

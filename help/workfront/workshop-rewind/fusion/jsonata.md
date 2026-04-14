@@ -1,6 +1,8 @@
 ---
 title: Making JSON sing with Workfront Fusion + JSONata
 description: This session walked through the basics of reading JSON path notation, understanding data types, and choosing the right starting path in Fusion.
+feature: Workfront Fusion, System Setup and Administration
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

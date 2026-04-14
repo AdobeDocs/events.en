@@ -2,6 +2,8 @@
 title: Develop and customize data models in Adobe [!DNL Campaign Classic]
 description: earn how to develop a data schema inside a data model within [!DNL Campaign Classic]
 solution: Campaign Classic v7
+feature: SMS, Deliverability
+topic: Development
 role: Admin, Data Architect, Data Engineer, User
 level: Intermediate, Experienced
 kt: 10575

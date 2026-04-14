@@ -6,6 +6,7 @@ level: Beginner
 doc-type: Event
 feature-set: Experience Manager
 feature: Cloud Manager, Projects
+topic: Development, Headless
 last-substantial-update: 2023-08-25
 jira: KT-13811
 thumbnail: 3422534.jpeg

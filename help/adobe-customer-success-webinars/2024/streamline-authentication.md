@@ -1,6 +1,9 @@
 ---
 title: Streamline Authentication - Migrating from Service Account (JWT) to OAuth Server-to-Server Credentials
+solution: Experience Manager
+feature: Developer Tools, Security
 description: The Adobe webinar, led by senior field engineers Jeff Homequest and Marco Lara, focused on migrating from service account JWT to OAuth server-to-server credentials, highlighting the deprecation deadline of January 2025, migration steps, benefits of OAuth, and special considerations for AEM, with extensive support and documentation provided for the process.
+topic: Integrations, Security, Migration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event

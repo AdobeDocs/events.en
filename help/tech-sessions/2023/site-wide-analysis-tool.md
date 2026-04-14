@@ -1,6 +1,9 @@
 ---
 title: Site-Wide Analysis Tool
+solution: Commerce
+feature: Best Practices
 description: In this session, you will learn about SWAT overview, and live demo (SWAT Cloud Sandbox)
+topic: Development
 role: Admin, User
 level: Beginner
 doc-type: Event

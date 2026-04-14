@@ -2,6 +2,8 @@
 title: Reporting within [!DNL Marketo Engage]
 description: This session will review all of the Reporting Tools available in [!DNL Marketo Engage] including  Reports  Smart Lists  Analyzers  MPI  Email Insights
 solution: Marketo Engage
+feature: Smart Lists, Reporting
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 kt: 10325

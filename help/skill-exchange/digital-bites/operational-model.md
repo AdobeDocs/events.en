@@ -1,6 +1,9 @@
 ---
 title: Unlock Operational Efficiency with a best-in-class Operational Model
+solution: Experience Cloud
+feature: Personalization
 description: explore how to develop a best in class operational model for the Adobe MarTech Stack, what best practices do we observe
+topic: Development
 role: Leader, User
 level: Intermediate
 kt: 11124

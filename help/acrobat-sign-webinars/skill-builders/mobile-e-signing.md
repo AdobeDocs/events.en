@@ -1,6 +1,8 @@
 ---
 title: Optimize Mobile E-Signing with Acrobat Sign
 description: Discover how Acrobat Sign enhances mobile e-signing with no-code setup for seamless agreements.
+feature: Sign
+topic: Security, Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

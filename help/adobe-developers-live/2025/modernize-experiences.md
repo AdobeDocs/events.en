@@ -1,6 +1,8 @@
 ---
 title: Migrate and Modernize Experiences with Adobe Experience Manager for User Engagement and AI-native Discovery
 description: Discover how Adobe Experience Manager uses AI to modernize and migrate websites efficiently for improved engagement and discovery.
+feature: Edge Delivery Services, Release Information
+topic: Artificial Intelligence, Integrations, Migration
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event

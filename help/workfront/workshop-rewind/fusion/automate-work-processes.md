@@ -1,6 +1,8 @@
 ---
 title: Automate Work Processes with Workfront Fusion
 description: Discover how Workfront Fusion automates your workflows, integrates systems, and optimizes efficiency. Learn from experts in this session.
+feature: Workfront Fusion
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

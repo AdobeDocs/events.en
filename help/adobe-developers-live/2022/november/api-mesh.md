@@ -2,6 +2,7 @@
 title: Adobe Developers Live - NOV 22- How to Build Content and Commerce Experiences Using App Builder and API Mesh
 description: In this session you will learn the end-to-end developer flow building a headless experience driven commerce storefront,  Starting with AppBuilder API Mesh to aggregate different content sources from Adobe Experience Manager & Commerce  Learn how to build headless experience displaying products enriched with Adobe Experience Manager Content Fragments  Use Micro Frontends for to integrate a shopping cart into your application
 solution: Experience Manager,Experience Manager Sites
+feature: Developer Tools, Content Fragments
 product: experience manager
 sub-product: sites
 topic: Development, Headless

@@ -1,6 +1,8 @@
 ---
 title: Resource Management Basics
 description: Explore tools and strategies for effective resource management in Adobe Workfront. Learn to optimize resource planning and workload balancing.
+feature: Resource Management, System Setup and Administration, Strategic Planning
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

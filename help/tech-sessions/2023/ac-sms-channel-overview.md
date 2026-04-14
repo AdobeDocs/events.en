@@ -3,6 +3,7 @@ title: SMS Channel Overview & Troubleshooting Tips
 description: Covers SMS Architecture, Configure SMS Channel, Configure SMPP External Account, Create SMS Delivery, and Troubleshooting.
 feature-set: Campaign
 feature: SMS, Architecture, Troubleshooting, External Account
+topic: Development
 role: Admin, User
 level: Beginner
 doc-type: Event

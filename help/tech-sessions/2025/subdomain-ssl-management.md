@@ -3,6 +3,7 @@ title: Tech Sessions - Adobe Campaign Subdomain and SSL management in the Contro
 description: Learn how to delegate and configure subdomains within Adobe Campaign’s Control Panel, set up SSL certificates, and monitor configuration to ensure secure email deliverability.
 solution: Campaign
 feature: Subdomains and Certificates
+topic: Security, Certification, Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

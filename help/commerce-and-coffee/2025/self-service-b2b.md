@@ -3,6 +3,7 @@ title: Commerce & Coffee - The Rise of Self-Service in B2B
 description: Enhance B2B experiences with Adobe Commerce! Discover features like shared catalogs, company management, quoting, and self-service tools. Learn about AI capabilities and B2B trends. Implement best practices for self-service and improve customer experiences. Join the Adobe Summit for more insights and resources.
 solution: Commerce
 feature: B2B
+topic: Personalization, Integrations, Security
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

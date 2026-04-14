@@ -2,6 +2,7 @@
 title: Workfront Crowdsource Challenge - Project Templates
 description: Learn how Ologie streamlines Adobe Workfront project templates with practical tips for simplifying setup, improving reporting, and maintaining process flexibility.
 feature: System Setup and Administration, Reports and Dashboards
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

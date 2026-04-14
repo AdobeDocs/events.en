@@ -1,6 +1,8 @@
 ---
 title: Modernizing the Payers' Enrollment Journey with AEM Forms
 description: Explore how AEM Forms enables Payers to modernize enrollment journeys, automate processes, and deliver engaging omnichannel customer experiences.
+feature: Release Information, Authoring
+topic: Personalization, Administration
 soluton: Experience Manager Forms
 role: Developer, User
 level: Intermediate, Experienced

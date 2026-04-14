@@ -2,6 +2,8 @@
 title: Mastering Marketing Channels and Attribution
 description: Learn the intricacies of configuring marketing channels in Adobe Analytics. Leverage attribution models to provide actionable insights for your marketing strategy.
 solution: Analytics
+feature: Data Configuration and Collection
+topic: Development
 role: User
 level: Intermediate, Experienced
 doc-type: Event

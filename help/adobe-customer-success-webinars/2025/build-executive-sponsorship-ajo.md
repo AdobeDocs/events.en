@@ -2,6 +2,8 @@
 title: Building Executive Sponsorship for Support of Adobe Journey Optimizer Success
 description: Learn how executive leaders champion AJO programs, align teams, and drive outcomes with strategies for sponsor engagement and leadership.
 solution: Journey Optimizer
+feature: Journeys
+topic: Personalization, Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

@@ -2,6 +2,7 @@
 title: Advanced Tips for Sending Documents for Signature
 description: Learn about sending to multiple recipients Available recipient roles (signer, form filler, delegator, and others) Adding a CC field Password protection, and more.
 feature: Sign
+topic: Security, Administration
 role: User
 level: Intermediate
 doc-type: Event

@@ -1,6 +1,8 @@
 ---
 title: Inside Mayo Clinic - How Workfront Fusion helps the Humans
 description: Inside look at 6 different use cases for how Mayo Clinic is using Workfront Fusion to transform the way they work.
+feature: Workfront Fusion
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

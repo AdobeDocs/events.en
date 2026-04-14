@@ -2,6 +2,7 @@
 title: Expert Insights – Governance & Centers of Excellence with Danielle Johnston
 description: Discover strategies from Danielle Johnston on using Workfront to build governance and centers of excellence that drive adoption and positive change.
 feature: Strategic Planning
+topic: Performance, Administration
 speaker-name-1: Danielle Johnston
 speaker-title-1: Customer Success Manager
 speaker-company-1: Adobe

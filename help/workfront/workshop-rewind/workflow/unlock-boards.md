@@ -1,6 +1,8 @@
 ---
 title: Unlock Workfront Boards
 description: Learn how to use Adobe Workfront Boards to streamline workflows and enhance team collaboration. Perfect for managing tasks and projects efficiently.
+feature: Work Management
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

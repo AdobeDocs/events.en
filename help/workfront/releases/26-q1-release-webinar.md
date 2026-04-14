@@ -1,6 +1,8 @@
 ---
 title: Adobe Workfront First Quarter 2026 Release Webinar
 description: Discover the latest features and updates in Adobe Workfront's Q1 2026 release to enhance workflows and improve productivity.
+feature: Workfront Fusion, Reports and Dashboards, Work Management
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

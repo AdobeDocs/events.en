@@ -1,6 +1,8 @@
 ---
 title: Workfront System Maintenance (July 27, 2021)
 description: Listen to a panel of Workfront system administrator experts share their thoughts and tips on how to keep your system clean and functioning with continual syste… (Descriptions should be between 60 and 160 characters)
+feature: System Setup and Administration
+topic: Administration, Integrations
 role: Admin
 level: Beginner, Intermediate
 kt: 10011
