@@ -17,6 +17,7 @@ user-guide-description: A collection of event recordings forcused on using Adobe
   + [Behind the Brew](https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html)
   + [Commerce and Coffee](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
   + [Customer Data Management Voices](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html)
+  + [CX Analytics On-demand Webinars](https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html)
   + [Data Drip](https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html)
   + [Marketo Deep Dives](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
   + [Espressos & Experience Manager](https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html)
@@ -44,6 +45,7 @@ user-guide-description: A collection of event recordings forcused on using Adobe
     + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
   + Adobe Analytics {#aa}
     + [Adobe Customer Success Webinars](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html)
+    + [CX Analytics On-demand Webinars](https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html)
     + [Data Drip](https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html)
     + [Experience Cloud Tech Sessions](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
     + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
@@ -65,6 +67,7 @@ user-guide-description: A collection of event recordings forcused on using Adobe
     + [Skill Builder](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
   + Adobe Customer Journey Analytics {#cja}
     + [Adobe Customer Success Webinars](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html)
+    + [CX Analytics On-demand Webinars](https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html)
     + [The Perfect Blend](https://experienceleague.adobe.com/en/docs/events/the-perfect-blend/overview)
     + [Skill Builder](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
   + Adobe Experience Manager {#aem}
