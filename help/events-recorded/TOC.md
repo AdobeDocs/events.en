@@ -1,7 +1,7 @@
 ---
 user-guide-title: Adobe Experience League Event Recordings
 user-guide-breadcrumb: Event Recordings
-user-guide-description: A collection of event recordings forcused on using Adobe Enterprise products
+user-guide-description: A collection of event recordings forcused on using Adobe enterprise products
 ---
 
 # Adobe Experience League Event Recordings {#experience-league-recorded-events}
