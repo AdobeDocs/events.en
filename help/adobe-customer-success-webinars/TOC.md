@@ -23,7 +23,10 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
     + [Content Supply Chain Change Management Strategies](2026/csc-change-management.md)
     + [Content Supply Chain Executive Sponsorship](2026/csc-executive-sponsorship.md)
     + [Foundational Architecture for Content Supply Chain](2026/csc-architecture.md)
+    + [GenAI Traffic Update](2026/gen-ai-traffic-update.md)
     + [Operating Model for Content Supply Chain](2026/csc-operating-model.md)
+  + Workfront (#workfront2026)
+    + [Workfront Proof for approvals](2026/workfront-proof-approvals.md)
 + 2025 {#2025}
   + Commerce {#commerce2025}
     + [Enriching Adobe Commerce with Adobe Experience Platform](2025/enriching-adobe-commerce.md)
