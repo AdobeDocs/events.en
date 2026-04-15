@@ -60,6 +60,11 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
   {description = Your destination as a customer data management technical and marketing practice leader and specialist. A one stop shop to hear from your peers, get inspired and learn about developments in martech.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png}
   {cta  = View recordings}
+* https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html  
+  {title = CX Analytics On-demand Webinars}
+  {description = Browse on-demand CX Analytics videos covering product updates, integrations, onboarding, and real-world success stories to stay current and build expertise.}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-cx-analytics-on-demand-webinars.png}
+  {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html
   {title = Data Drip}
   {description = Join Adobe experts in the Data Drip series to explore the latest features and best practices in Adobe Analytics & Target, with live demonstrations ensuring customers maximize product potential and stay competitive.}
@@ -336,6 +341,29 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
                     <p class="is-size-6">Your destination as a customer data management technical and marketing practice leader and specialist. A one stop shop to hear from your peers, get inspired and learn about developments in martech.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">View recordings</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="CX Analytics On-demand Webinars">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html" title="CX Analytics On-demand Webinars" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-cx-analytics-on-demand-webinars.png" alt="CX Analytics On-demand Webinars"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html" target="_blank" rel="referrer" title="CX Analytics On-demand Webinars">CX Analytics On-demand Webinars</a>
+                    </p>
+                    <p class="is-size-6">Browse on-demand CX Analytics videos covering product updates, integrations, onboarding, and real-world success stories to stay current and build expertise.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">View recordings</span>
                 </a>
             </div>
