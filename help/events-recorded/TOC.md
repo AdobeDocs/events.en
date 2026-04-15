@@ -17,6 +17,7 @@ user-guide-description: A collection of event recordings forcused on using Adobe
   + [Behind the Brew](https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html)
   + [Commerce and Coffee](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
   + [Customer Data Management Voices](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html)
+  + [CX Analytics On-demand Webinars](../cx-analytics-webinars/overview.md)
   + [Data Drip](https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html)
   + [Marketo Deep Dives](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
   + [Espressos & Experience Manager](https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html)
