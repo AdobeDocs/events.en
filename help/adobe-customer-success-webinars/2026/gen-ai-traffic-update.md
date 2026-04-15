@@ -10,8 +10,8 @@ doc-type: Event
 duration: 2749
 last-substantial-update: 2026-04-15
 jira: KT-20812
+exl-id: 9efcce51-436e-477b-ad68-3ffdfc0e0b79
 ---
-
 # Adobe Digital Insights: GenAI Traffic Update
 
 In this webinar, Adobe Digital Insights unpacks the latest findings from its Q2 2026 AI‑Sourced Traffic Report, drawing on analysis of over one trillion visits across retail, travel, financial services, media & entertainment, and tech/software. We’ll explore how AI‑referred traffic is growing at triple‑digit rates, why these visitors are consistently more engaged, convert better, and bounce less than traditional traffic, and what this shift means for brands as AI assistants increasingly shape discovery, research, and purchase decisions.

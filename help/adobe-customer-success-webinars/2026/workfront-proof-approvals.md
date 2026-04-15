@@ -10,8 +10,8 @@ doc-type: Event
 duration: 2510
 last-substantial-update: 2026-04-15
 jira: KT-20807
+exl-id: e43a44f5-76bf-4956-8f37-d7efa61a29e0
 ---
-
 # Using Workfront Proof for approvals in GenStudio for Performance Marketing
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483400/?learn=on&enablevpops)
