@@ -10,8 +10,8 @@ doc-type: Event
 duration: 2466
 last-substantial-update: 2026-04-15
 jira: KT-20831
+exl-id: eecafc96-dcf6-41fa-b856-7008660cfed6
 ---
-
 # Getting Started with Adobe Content Analytics
 
 Learn how to track, analyze, and optimize your content performance using Adobe Content Analytics. In this on-demand session, you’ll see how to connect content data directly to business outcomes—so you can make smarter, data-driven decisions that drive engagement and ROI.
@@ -29,4 +29,3 @@ In this session, you’ll learn how to:
 You’ll also get access to curated resources—including additional videos, roadmap highlights, and next steps—to help you continue building momentum.
 
 Whether you’re just getting started or looking to go deeper, this session will help you turn your content data into measurable business impact.
-
