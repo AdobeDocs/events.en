@@ -13,7 +13,7 @@ exl-id: 1d935e6f-f1e6-4093-96b4-289fb779267f
 ---
 # Versus! – Groups vs. Teams
 
-Hey Workfronters, it’s your “On-Demand Workfront CSM”! In this Versus! episode, I share some ideas and recommendations for using Groups vs. Teams.  
+Hey Workfronters, it's your "On-Demand Workfront CSM"! In this Versus! episode, I share some ideas and recommendations for using Groups vs. Teams.  
 
 >[!VIDEO](https://video.tv.adobe.com/v/3465273/?learn=on&enablevpops)
 
