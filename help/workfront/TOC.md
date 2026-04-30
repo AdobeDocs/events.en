@@ -69,6 +69,7 @@ solution: Workfront
     + [Secure Executive Sponsorship](workshop-rewind/workflow/secure-executive-sponsorship.md)
     + [Self-Taught to Success](workshop-rewind/workflow/self-taught-to-success.md)
     + [Spring Cleanup with Workfront Reports](workshop-rewind/workflow/workfront-reports-cleanup.md)
+    + [Team of One](workshop-rewind/workflow/team-of-one.md)
     + [10 Communication Tips](workshop-rewind/workflow/10-communication-tips.md)
     + [10 Text Mode Tips](workshop-rewind/workflow/text-mode-tips.md)
     + [10 More Text Mode Tips](workshop-rewind/workflow/10-more-text-mode-tips.md)
@@ -103,6 +104,7 @@ solution: Workfront
       + [Top 3 Features for Workers in Workfront](quick-takes/top3/watch-me-work-3.md)
   + Versus! {#versus}
     + [Groups vs. Teams](quick-takes/versus/groups-vs-teams.md)
+    + [Issues vs. Projects](quick-takes/versus/issues-vs-projects.md)
 + Expert Insights {#expert-insights}
   + [Adoption](expert-insights/adoption.md)
   + [Adoption Surveys](expert-insights/adoption-surveys.md)
