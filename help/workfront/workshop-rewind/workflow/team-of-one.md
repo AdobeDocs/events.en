@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3333
 last-substantial-update: 2026-04-30
 jira: KT-20987
+exl-id: c96063ff-dc3f-43e8-97f0-4176c5102b17
 ---
-
 # Confessions of a Workfront Team of One
 
 Join Kat Shondeck, Project Manager, Office of Entrepreneurship and Commercialization, Penn State, as she gives you an inside look at how a single Workfront System Administrator can successfully support an entire department, manage all projects, and build innovative workflows that go far beyond traditional project management. 
@@ -20,4 +20,3 @@ Watch the on-demand recording to learn practical strategies, creative Workfront 
 Looking for more resources that were shared during the event?  Check out the [Experience League Community post](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-confessions-of-a-workfront-team-of-one-4-29-26-250238?tid=250238)!
 
 New events are added every month, so make sure to check out the [Experience League Events page](https://experienceleague.adobe.com/en/events) for the latest sessions.
-
