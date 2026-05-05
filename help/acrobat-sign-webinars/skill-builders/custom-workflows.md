@@ -11,8 +11,8 @@ doc-type: Event
 duration: 3332
 last-substantial-update: 2024-05-05
 jira: KT-21109
+exl-id: bb4be61e-6377-4792-a581-4181068bec07
 ---
-
 # Getting started with Custom Workflows in Acrobat Sign
 
 Still manually coordinating who signs what, and in what order? Custom Workflows in Acrobat Sign replace that guesswork with a repeatable, guided process — so every agreement reaches the right people, with the right documents, every time. 
@@ -26,5 +26,3 @@ Watch this hands-on webinar where our experts cover:
 * How to manage them over time — Editing, activating, and deactivating workflows as your business needs evolve.
 
 Whether you're an admin standardizing how your team sends agreements or a business user simplifying a complex signing process, you'll leave ready to create your first Custom Workflow with confidence.
-
-
