@@ -13,6 +13,7 @@ last-substantial-update: 2026-05-07
 jira: KT-20547
 hidefromtoc: No
 hide: No
+exl-id: 7da8a2b0-3821-4401-a2da-5531c5f494c4
 ---
 # Deliver Once, Delight Everywhere: Scaling Omnichannel Experiences with Adobe Dynamic Media
 

@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3620
 last-substantial-update: 2026-05-07
 jira: KT-21135
+exl-id: 008e9d69-15cb-4503-a977-17a13caad85c
 ---
-
 # Mastering Business Rules & Validation Logic in Adobe Workfront
 
 Join Tina Craig, Principal Business Consultant, Adobe Professional Services, for an interactive workshop designed for Workfront administrators and advanced users who want to harness the full power of business rules and validation logic. These features help ensure data integrity, streamline workflows, and enforce organizational policies. 
