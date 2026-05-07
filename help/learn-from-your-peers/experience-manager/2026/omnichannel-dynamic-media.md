@@ -8,11 +8,11 @@ topic: Performance, Certification, Development
 role: Admin, Developer
 level: Beginner, Intermediate
 doc-type: Event
-duration: 9
-last-substantial-update: 2026-03-16
+duration: 3249
+last-substantial-update: 2026-05-07
 jira: KT-20547
-hidefromtoc: Yes
-hide: Yes
+hidefromtoc: No
+hide: No
 exl-id: 7da8a2b0-3821-4401-a2da-5531c5f494c4
 ---
 # Deliver Once, Delight Everywhere: Scaling Omnichannel Experiences with Adobe Dynamic Media
