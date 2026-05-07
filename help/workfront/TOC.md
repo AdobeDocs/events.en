@@ -56,6 +56,7 @@ solution: Workfront
     + [Governance, Execution, and Adoption Tips](workshop-rewind/workflow/governance-execution-adoption.md)
     + [Group Admin Essentials](workshop-rewind/workflow/group-admins.md)
     + [Lessons from Workfront Admins](workshop-rewind/workflow/lessons-learned-admins.md)
+    + [Mastering Business Rules](workshop-rewind/workflow/business-rules.md)
     + [Mastering Email Notifications](workshop-rewind/workflow/email-notifications.md)
     + [Mastering EXISTS Statements](workshop-rewind/workflow/master-exists-statements.md)
     + [Maximize Workfront Value](workshop-rewind/workflow/value-realization.md)
