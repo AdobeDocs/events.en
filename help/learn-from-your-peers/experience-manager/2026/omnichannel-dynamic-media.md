@@ -9,7 +9,7 @@ role: Admin, Developer
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3249
-last-substantial-update: 2026-05-07
+last-substantial-update: 2026-05-08
 jira: KT-20547
 hidefromtoc: No
 hide: No
@@ -20,6 +20,8 @@ exl-id: 7da8a2b0-3821-4401-a2da-5531c5f494c4
 Are you wondering how to streamline the transformation and optimization of your images and videos in AEM Assets?
 
 Join Adobe Experience Manager Champion Vengadesh Shanmugavelu for insights into using Dynamic Media in Adobe Experience Manager Assets. He will cover key elements of scaling digital content creation including:
+
+[Click here to download the session presentation.](../../assets/experience-manager/may2026/AEM_Dynamic_Media_Webinar-May-7-2026.pdf)
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481545/?learn=on&enablevpops)
 
