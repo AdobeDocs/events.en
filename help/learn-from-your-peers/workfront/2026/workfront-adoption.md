@@ -23,6 +23,8 @@ Together, they discussed how they moved teams from sporadic usage and ad hoc con
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483200/?learn=on&enablevpops)
 
+[Download the slides](../../assets/workfront/adoption-wheel-may-13-2026.pdf)
+
 ## Key points
 
 * How to design a Workfront environment for adoption from day one—including governance, templates, and user experiences
