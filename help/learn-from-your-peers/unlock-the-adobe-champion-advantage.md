@@ -7,8 +7,8 @@ doc-type: Event
 duration: 5
 last-substantial-update: 2026-05-15
 jira: KT-21203
+exl-id: 8efb3ecd-aeab-4fae-a0d6-d4d099e5c8b8
 ---
-
 # Unlock the Adobe Champion Advantage: Who It’s For, What It Takes, and How to Apply
 
 In this webinar, Adobe team members, along with four current Adobe Champions, shared an inside look at the Adobe Champion Program. This includes real-world insights on what it takes to become a Champion, the benefits of participation, and how applicants can stand out in the selection process. Watch the on-demand webinar to learn how the Adobe Champion Program can help elevate your expertise, expand your professional network, and grow your influence within the Adobe community, as well as some key tips and tricks for submitting a standout application. 
@@ -27,4 +27,3 @@ In this webinar, Adobe team members, along with four current Adobe Champions,
 * [Apply for the 2026–2027 Adobe Champion Program](https://event.adobe.com/2026-2027championprogramhub?cgen=7JJ162CW&mv=other) 
 * [Visit the Adobe Champion Program page on Adobe Experience League](https://experienceleague.adobe.com/en/champions?cgen=X2PHHJ1W&mv=other) 
 * [Check out Champions’ contributions on Adobe Experience League Perspectives](https://experienceleague.adobe.com/en/perspectives)
-
