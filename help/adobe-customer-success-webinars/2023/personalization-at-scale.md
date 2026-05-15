@@ -4,7 +4,7 @@ description: This webinar focuses on understanding the groundwork needed to orch
 solution: Experience Cloud
 feature: Personalization, Analytics Basics
 topic: Personalization
-role: Admin, Architect, Data Architect, Data Engineer, Leader
+role: Admin, Developer, Leader
 level: Intermediate
 doc-type: Event
 last-substantial-update: 2023-07-22

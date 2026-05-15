@@ -1,10 +1,10 @@
 ---
 title: Adobe Real-Time Customer Data Platform and Healthcare Shield
-description: Delivering on the experience promise, with access to less data. Whether you’re an advertiser, publisher, or agency, this webinar will help unlock the
+description: Delivering on the experience promise, with access to less data. Whether you're an advertiser, publisher, or agency, this webinar will help unlock the
 solution: Real-Time Customer Data Platform
 feature: Identities
 topic: Personalization, Administration
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 kt: 10471

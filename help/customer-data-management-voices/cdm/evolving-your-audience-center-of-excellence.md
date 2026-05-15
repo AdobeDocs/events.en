@@ -4,7 +4,7 @@ description: An Audience Center of Excellence (COE) model has long been establis
 solution: Real-Time Customer Data Platform
 feature: Data Governance
 topic: Personalization, Artificial Intelligence
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 thumbnail: 336938.jpg
 kt: 8864

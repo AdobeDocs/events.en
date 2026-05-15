@@ -4,7 +4,7 @@ description: This webinar will help unlock the opportunities for data collaborat
 solution: Real-Time Customer Data Platform
 feature: Data Management
 topic: Security
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 type: Event
 thumbnail: 337665.jpg
@@ -14,7 +14,7 @@ duration: 2560
 ---
 # Data Collaboration in the First-party Data Context
 
-Delivering on the experience promise, with access to less data. Whether you’re an advertiser, publisher, or agency, this webinar will help unlock the opportunities for data collaboration in a future without third-party cookies.
+Delivering on the experience promise, with access to less data. Whether you're an advertiser, publisher, or agency, this webinar will help unlock the opportunities for data collaboration in a future without third-party cookies.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337665/?quality=12&learn=on)
 
