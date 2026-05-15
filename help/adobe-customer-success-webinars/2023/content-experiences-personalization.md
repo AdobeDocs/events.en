@@ -4,7 +4,7 @@ description: Identifying & overcoming common challenges to building a content & 
 solution: General
 feature: Personalization
 topic: Personalization
-role: Admin, Architect, Data Architect, Data Engineer, Leader
+role: Admin, Developer, Leader
 level: Intermediate
 doc-type: Event
 last-substantial-update: 2023-09-15

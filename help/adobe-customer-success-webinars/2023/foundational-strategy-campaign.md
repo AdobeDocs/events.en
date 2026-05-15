@@ -5,7 +5,7 @@ solution: Campaign
 feature-set: Campaign
 feature: Personalization
 topic: Personalization, Performance
-role: Admin, Architect, Data Architect, Data Engineer, Leader, User
+role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 last-substantial-update: 2023-09-15

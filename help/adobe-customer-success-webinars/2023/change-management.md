@@ -4,7 +4,7 @@ description: Overview of change management strategies that include stakeholder e
 solution: General
 feature: Developer Tools
 topic: Development
-role: Architect, Data Architect, Data Engineer, Developer, Leader
+role: Developer, Leader
 level: Intermediate
 doc-type: Event
 last-substantial-update: 2023-11-15

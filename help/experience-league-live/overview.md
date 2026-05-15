@@ -3,7 +3,7 @@ title: Experience League LIVE Events
 description: A collection of links to previous Experience League LIVE events
 solution: Experience Platform,Real-Time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
 feature: Use Cases
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4

@@ -4,7 +4,7 @@ description: The increasing volume of data makes it very challenging for compani
 solution: Real-Time Customer Data Platform
 feature: Data Governance
 topic: Security
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 10632
 thumbnail: 344311.jpeg
@@ -13,7 +13,7 @@ duration: 3818
 ---
 # Streamlining Your First Mile of Data Management
 
-The increasing volume of data makes it very challenging for companies to efficiently capture digital interaction data and send it to the appropriate marketing channels. The deprecation of 3rd party cookies by browsers adds an additional level of complexity, which requires companies to find server- side solutions to continue to send data to partners. In this webinar, Adobe’s Gabriel Jaquier, Jeff Chasin and Jon Viray share strategies on how to overcome these challenges by leveraging Real-Time CDP Connections.
+The increasing volume of data makes it very challenging for companies to efficiently capture digital interaction data and send it to the appropriate marketing channels. The deprecation of 3rd party cookies by browsers adds an additional level of complexity, which requires companies to find server- side solutions to continue to send data to partners. In this webinar, Adobe's Gabriel Jaquier, Jeff Chasin and Jon Viray share strategies on how to overcome these challenges by leveraging Real-Time CDP Connections.
 
 >[!VIDEO](https://video.tv.adobe.com/v/344311/?quality=12&learn=on)
 

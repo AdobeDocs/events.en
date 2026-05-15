@@ -7,7 +7,7 @@ description: Collection of recordings from the Adobe live-streamed events.
 type: Event
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/events.en
-index: yes
+index: true
 auto-video-transcripts: true
 ---
 

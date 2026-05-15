@@ -4,7 +4,7 @@ description: Learn the strategy behind organizational preparedness from a data r
 solution: Real-Time Customer Data Platform
 feature: Data Governance, Identities
 topic: Personalization, Artificial Intelligence
-role: Admin, Architect, Data Architect, Data Engineer, Developer
+role: Admin, Developer
 level: Intermediate
 doc-type: Event
 last-substantial-update: 2023-11-15

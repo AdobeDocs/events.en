@@ -4,7 +4,7 @@ description: Providing an excellent customer experience requires merging everyth
 solution: Real-Time Customer Data Platform
 feature: Profiles
 topic: Personalization, Artificial Intelligence
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 thumbnail: 336939.jpg
 kt: 8866

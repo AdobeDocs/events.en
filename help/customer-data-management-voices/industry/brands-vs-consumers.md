@@ -4,7 +4,7 @@ description: Adobe unpacks the understanding and readiness level of advertisers 
 solution: Real-Time Customer Data Platform
 feature: Identities
 topic: Security
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 thumbnail: 332060.jpg

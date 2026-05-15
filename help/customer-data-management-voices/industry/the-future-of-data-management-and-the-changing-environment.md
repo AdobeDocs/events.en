@@ -4,7 +4,7 @@ description: See how Adobe and 451 Research are thinking about the future of tec
 solution: Real-Time Customer Data Platform
 feature: Data Management
 topic: Performance, Administration
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 thumbnail: 332077.jpg

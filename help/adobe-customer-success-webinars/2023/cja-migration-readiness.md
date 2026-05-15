@@ -5,7 +5,7 @@ solution: Customer Journey Analytics
 feature-set: Customer Journey Analytics
 feature: Use Cases, Basics
 topic: Migration
-role: Admin, Architect, Data Architect, Data Engineer, Leader
+role: Admin, Developer, Leader
 level: Intermediate
 doc-type: Event
 last-substantial-update: 2023-09-07
