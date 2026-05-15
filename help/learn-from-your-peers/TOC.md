@@ -87,5 +87,6 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
     + [Foundations of operational reporting](workfront/2022/foundations-of-operational-reporting.md)
     + [Leveraging the group admin](workfront/2022/leveraging-the-group-admin.md)
     + [What IS Workfront governance?](workfront/2022/what-is-workfront-governance.md)
-+ [Explore Adobe User Groups across Experience Cloud](./adobe-user-groups.md)
++ [Unlock the Adobe Champion advantage](./unlock-the-adobe-champion-advantage.md)
 + [Learn how to apply and stand out as a Champion](./adobe-champion-application.md)
++ [Explore Adobe User Groups across Experience Cloud](./adobe-user-groups.md)
