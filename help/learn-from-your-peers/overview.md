@@ -10,7 +10,8 @@ Learn from Adobe experts and peers how to get the most from your Adobe solutions
 
 ## General
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta  = Watch event}
 
 * ./adobe-user-groups.md
@@ -70,7 +71,8 @@ Learn from Adobe experts and peers how to get the most from your Adobe solutions
 
 ## GenAI
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta  = Watch event}
 
 * genai/2025/scale-ai-adoption-a-playbook-for-approvals.md
@@ -106,7 +108,8 @@ Learn from Adobe experts and peers how to get the most from your Adobe solutions
 
 ## Commerce
 
-<!-- CARDS
+<!-- 
+CARDS
 
 * commerce/2026/product-recommendations-from-setup-to-strategic-growth.md {cta  = Watch event}
 * commerce/2025/commerce-and-app-builder.md {cta  = Watch event}
@@ -188,7 +191,8 @@ Learn from Adobe experts and peers how to get the most from your Adobe solutions
 
 ## Adobe Experience Manager
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -273,7 +277,8 @@ Learn from Adobe experts and peers how to get the most from your Adobe solutions
 
 ## Marketo
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -453,7 +458,8 @@ Learn from Adobe experts and peers how to get the most from your Adobe solutions
 
 ## Workfront
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 

@@ -10,7 +10,8 @@ Learn from Adobe experts how to master new e-signature workflows in Acrobat Sign
 
 ## Release webinars {#releases}
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -95,7 +96,8 @@ Learn from Adobe experts how to master new e-signature workflows in Acrobat Sign
 
 ## Innovation - New Feature Highlights {#newfeatures}
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -180,7 +182,8 @@ Learn from Adobe experts how to master new e-signature workflows in Acrobat Sign
 
 ## 101 - Get Started for Users {#getstartedusers}
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -245,7 +248,8 @@ Learn from Adobe experts how to master new e-signature workflows in Acrobat Sign
 
 ## 101 - Get Started for Admins {#getstartedadmins}
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -330,7 +334,8 @@ Learn from Adobe experts how to master new e-signature workflows in Acrobat Sign
 
 ## 102 - Advanced Tasks {#advancedtasks}
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 

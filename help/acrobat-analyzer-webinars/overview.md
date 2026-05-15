@@ -7,7 +7,8 @@ exl-id: cbc929b5-3673-4118-826f-763dacff987b
 
 Discover how Adobe Acrobat Analyzer uses Generative AI to extract structured, auditable insights from large volumes of documents. Learn how to automate workflows, reduce risk, and enable faster, smarter decision-making at scale. Browse our upcoming webinars to see how you can transform document intelligence across your organization.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 

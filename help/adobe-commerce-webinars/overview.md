@@ -10,7 +10,8 @@ The Adobe Commerce Webinars is a monthly cadence of workshops for Adobe Commerce
 
 ## 2024 Events
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta = Watch}
 

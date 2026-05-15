@@ -8,7 +8,8 @@ exl-id: dd36b140-d53a-41fd-9c26-4d97ab7740a1
 
 The Data Drip series features Adobe experts and welcomes existing Adobe Analytics & Target customers of all skill levels. The series focuses on some of the latest features and best practices reflective of the event topic. The presentation is followed by a live demonstration or screengrabs showcasing examples of how to action on the best practices utilizing the features within the product. Customers are guaranteed to leave with a better understanding of how to stay competitive and achieve success, all while maximizing what the product has to offer.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 

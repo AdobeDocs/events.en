@@ -28,7 +28,8 @@ The webinars are conducted regularly.  Important tips,
 
 ## 2025
 
-<!-- CARDS
+<!-- 
+CARDS
 
 * gems2025/mastering-cache-efficiency-for-optimal-page-performance.md
 * gems2025/maximize-impact-with-sites-optimizer.md
@@ -88,7 +89,8 @@ The webinars are conducted regularly.  Important tips,
 
 ## 2024
 
-<!-- CARDS
+<!-- 
+CARDS
 * gems2024/aem-authoring-and-edge-delivery.md
 * gems2024/content-management-apis.md
 * gems2024/edge-delivery-for-aem-assets.md

@@ -8,7 +8,8 @@ exl-id: 30dd8695-7fd9-430b-87b6-05f82b6e9732
 
 Behind the Brew is the companion series to Commerce & Coffee. It is designed for customers with a technical background looking to learn about back-end best practices, integrations, and advanced functionality that they can customize to enhance their company's eCommerce experiences.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 

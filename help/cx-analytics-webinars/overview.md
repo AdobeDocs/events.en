@@ -7,7 +7,8 @@ exl-id: daaa107c-522b-4d57-88b8-b2242ebad043
 
 Explore a curated library of CX Analytics videos, including product and feature releases, better together stories across Adobe solutions, getting started webinars, and partner/customer success stories. Watch on demand to sharpen your analytics expertise and stay current on the latest innovations across the CX Analytics portfolio, with new content added regularly.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
