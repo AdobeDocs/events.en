@@ -8,7 +8,8 @@ duration: 15
 
 Welcome to the Deep Dives on-demand events recordings. Using these resources combined with the Adobe Marketo [documentation](https://experienceleague.adobe.com/docs/marketo-engage.html) and [tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html), you will gain a better understanding how to use Adobe Marketo to support your business.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch}
 

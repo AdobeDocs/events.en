@@ -11,7 +11,8 @@ The Commerce & Coffee series is for existing Adobe Commerce customers of all ski
 
 ## 2025 Events
 
-<!-- CARDS
+<!-- 
+CARDS
 * 2025/peak-season.md
 * 2025/seo-growth.md
 * 2025/self-service-b2b.md
@@ -92,7 +93,8 @@ The Commerce & Coffee series is for existing Adobe Commerce customers of all ski
 
 ## 2024 Events
 
-<!-- CARDS
+<!-- 
+CARDS
 * 2024/ask-me-anything.md
 * 2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md
 * 2024/ecommerce-essentials.md
@@ -221,7 +223,8 @@ The Commerce & Coffee series is for existing Adobe Commerce customers of all ski
 
 ## 2023 Events
 
-<!-- CARDS
+<!-- 
+CARDS
 * 2023/ask-me-anything.md
 * 2023/b2b.md
 * 2023/loyalty-retention.md

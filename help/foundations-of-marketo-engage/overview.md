@@ -9,7 +9,8 @@ The Foundational Marketo User Group is designed specifically for individuals who
 
 ## 2026 sessions
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -47,7 +48,8 @@ The Foundational Marketo User Group is designed specifically for individuals who
 
 ## 2025 sessions
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 

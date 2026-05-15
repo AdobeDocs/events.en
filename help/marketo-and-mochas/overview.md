@@ -10,7 +10,8 @@ Welcome to the Marketo and Mochas recordings. Using these resources combined wit
 
 ## 2025 Recordings
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch}
 
@@ -142,7 +143,8 @@ Welcome to the Marketo and Mochas recordings. Using these resources combined wit
 
 ## 2024 Recordings
 
-<!-- CARDS
+<!-- 
+CARDS
 
 * 2024/ask-me-anything.md
 * 2024/attribution-dashboard-recording.md
@@ -345,7 +347,8 @@ Welcome to the Marketo and Mochas recordings. Using these resources combined wit
 
 ## 2023 Recordings
 
-<!-- CARDS
+<!-- 
+CARDS
 
 * 2023/attribution.md
 * 2023/deliverability-part-one.md

@@ -11,7 +11,8 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
 
 ## Latest Updates
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta = Watch}
 
 * 2026/2026-3-0.md
@@ -47,7 +48,8 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
 
 ## Past Updates
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta = Watch}
 
 * 2026/2026-2-0.md

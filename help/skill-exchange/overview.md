@@ -26,7 +26,8 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
 
 ### Analytics
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -255,7 +256,8 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
 
 ### Customer Journey Analytics
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -388,7 +390,8 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
 
 ### Experience Manager
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -521,7 +524,8 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
 
 ### Experience Platform
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -654,7 +658,8 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
 
 ## Marketo
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -787,7 +792,8 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
 
 ## Workfront
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 

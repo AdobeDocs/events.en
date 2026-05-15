@@ -10,7 +10,8 @@ duration: 39
 
 This ongoing video series offers a clear and concise overview of each quarterly Adobe Workfront release. Whether you're a system admin, power user, or just curious about what's new, these sessions are designed to help you stay informed and confident about the latest updates. In partnership with the Product Management team, these events highlight key features, functionality enhancements, and tips to quickly understand what's changing and how those changes can benefit your organization. 
 
-<!-- CARDS 
+<!-- 
+CARDS 
 
 * releases/26-q2-release-webinar.md
  
@@ -52,7 +53,8 @@ The month of May marks the beginning of graduation season, a time for fresh pers
  
   And make sure to join upcoming live events to ask questions, share insights, and collaborate with peers. Visit the [Experience League Workfront Events page](https://experienceleague.adobe.com/en/events?filters=Workfront ) regularly to see what's coming up next! 
 
-<!-- CARDS 
+<!-- 
+CARDS 
 
 * workshop-rewind/workflow/power-templates.md 
 * workshop-rewind/workflow/lessons-learned-admins.md
@@ -143,7 +145,8 @@ The Versus! videos take a side-by-side approach, breaking down Workfront feature
 
 Whether you're a Workfront admin, project manager, or everyday user, this section delivers clear, concise guidance to help you make smarter decisions, optimize your setup, and get more out of Workfront—fast. 
 
-<!-- CARDS
+<!-- 
+CARDS
 
 * quick-takes/top3/office-hours.md
 * quick-takes/versus/issues-vs-projects.md
@@ -207,7 +210,8 @@ The Workfront Expert Insights series is your go-to resource for unlocking practi
 
 These sessions feature real-world solutions, customer examples, and actionable takeaways designed to help Workfront users at all levels optimize their setup, scale operations, and get more value from the platform. Whether you're looking to solve a specific challenge or spark ideas for innovation, Workfront Expert Insights offers a behind-the-scenes look at how experts get it done.
 
-<!-- CARDS 
+<!-- 
+CARDS 
 
 * expert-insights/content-supply-chain.md
 * expert-insights/fusion.md

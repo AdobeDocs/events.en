@@ -13,7 +13,8 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
 
 ## Event Series
 
-<!-- CARDS
+<!-- 
+CARDS
 
 * https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html
   {title = Adobe Workfront}  
