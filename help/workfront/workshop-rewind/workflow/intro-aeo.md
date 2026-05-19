@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3407
 last-substantial-update: 2026-05-19
 jira: KT-21259
+exl-id: a82781ce-a156-4228-ba7f-51a1b8b5b2a4
 ---
-
 # Driving Value - Introducing Advanced Enterprise Operations Capabilities in Workfront
 
 Explore the possibilities of Advanced Enterprise Operations as our Product Management team introduces capabilities that provide the visibility and control that enterprises need to operate profitably and efficiently. In this session, you'll learn what's new, why it matters, and how these innovations will help your organization streamline operations and drive better outcomes.
