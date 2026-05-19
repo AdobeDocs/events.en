@@ -55,6 +55,7 @@ solution: Workfront
     + [Effective Communication Tips in Workfront](workshop-rewind/workflow/communication-tips.md)
     + [Governance, Execution, and Adoption Tips](workshop-rewind/workflow/governance-execution-adoption.md)
     + [Group Admin Essentials](workshop-rewind/workflow/group-admins.md)
+    + [Introducing Advanced Enterprise Operations](workshop-rewind/workflow/intro-aeo.md)
     + [Lessons from Workfront Admins](workshop-rewind/workflow/lessons-learned-admins.md)
     + [Mastering Business Rules](workshop-rewind/workflow/business-rules.md)
     + [Mastering Email Notifications](workshop-rewind/workflow/email-notifications.md)
