@@ -12,6 +12,6 @@ event-guests: Sandra Hausmann, Ariel Sultan, Nicolas Dufau
 
 Test and validate your journeys before launch and learn how to take it further with the brand-new Journey Simulation.
 
-[![ExL LIVE June 17 2026](assets/ExL%20Live%20June%2017%202026%20WebBanner.jpg)](https://www.youtube.com/live/32NMm_z7lRw){target="_blank"}
+[![ExL LIVE June 17 2026](assets/exl-live-june-17-2026-webbanner.jpg)](https://www.youtube.com/live/32NMm_z7lRw){target="_blank"}
 
 [Set a YouTube reminder!](https://www.youtube.com/live/32NMm_z7lRw){target="_blank"}
