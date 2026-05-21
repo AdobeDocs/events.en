@@ -82,6 +82,7 @@ solution: Workfront
     + [Unlock Workfront Boards](workshop-rewind/workflow/unlock-boards.md)
     + [Unlock the Power of Workfront Data Connect](workshop-rewind/workflow/data-connect.md)
     + [Using Workfront for Effective Reorgs](workshop-rewind/workflow/effective-reorgs.md)
+    + [Workfront Admin - 10 Lessons](workshop-rewind/workflow/workfront-admin-10-lessons.md)
     + [Workfront + AEM Native Integration](workshop-rewind/workflow/aem-native-integration.md)
     + [Workfront Reporting - Year-End Strategies](workshop-rewind/workflow/reporting-year-end-strategies.md)
 + Quick Takes {#quicktakes}
