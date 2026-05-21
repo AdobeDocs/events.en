@@ -7,6 +7,7 @@ feature: Deliverability
 event-cta-url-live: https://www.youtube.com/live/32NMm_z7lRw
 event-start-time: 2026-06-17 08:30-8
 event-guests: Sandra Hausmann, Ariel Sultan, Nicolas Dufau
+exl-id: 25df1808-5343-42e3-8c21-1520140defae
 ---
 # How to efficiently test, simulate and validate journeys before going live
 
