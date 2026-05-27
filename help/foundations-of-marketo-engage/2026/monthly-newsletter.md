@@ -1,6 +1,6 @@
 ---
 title: Foundational Marketo User Group - Session 2 - Deploy a Monthly Newsletter
-description: Ready to deploy your first email in Marketo?Learn how to build, schedule, and measure a simple monthly newsletter in Adobe Marketo Engage. This session walks through common newsletter use cases, basic audience selection, email program setup, and safe email authoring practices. Attendees will leave with a working email program and a clear understanding of how to send and measure a newsletter with confidence.Speakers: Andrew Dimmick - Marketing Operations Manager - ObservepointAkande Davis - VP of Operations - GNW ConsultingAgenda:Newsletter use cases and send typesAudience selection basics (static vs. smart lists)Email program structure and schedulingEmail authoring essentials and tokens (intro)Pre-send checklist: approvals and QAMeasuring success (delivery, opens, clicks)Homework and next steps
+description: Learn how to build, schedule, and measure a monthly newsletter in Adobe Marketo Engage. Gain confidence in email program setup, audience selection, and metrics.
 role: Admin, User
 level: Beginner
 doc-type: Event
