@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3614
 last-substantial-update: 2026-05-27
 jira: KT-21410
+exl-id: dc11f14e-8306-425c-b7f1-da0fd9a5a876
 ---
-
 # Session 2 of 2026: Deploy a Monthly Newsletter
 
 Ready to deploy your first email in Marketo?
@@ -31,6 +31,3 @@ Learn how to build, schedule, and measure a simple monthly newsletter in Adobe M
 * Pre-send checklist: approvals and QA  
 * Measuring success (delivery, opens, clicks)  
 * Homework and next steps
-
-
-
