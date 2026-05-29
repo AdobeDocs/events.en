@@ -1,13 +1,11 @@
 ---
 title: How to leverage Target MCP and other major new releases in Adobe Target
 description: Test and validate your journeys before launch and learn how to take it further with the brand-new Journey Simulation.
-kt: 21225
-solution: Journey Optimizer
-feature: Deliverability
-event-cta-url-live: https://www.youtube.com/live/32NMm_z7lRw
-event-start-time: 2026-06-17 08:30-8
-event-guests: Sandra Hausmann, Ariel Sultan, Nicolas Dufau
-exl-id: 25df1808-5343-42e3-8c21-1520140defae
+kt: 21226
+solution: Target
+event-cta-url-live: https://www.youtube.com/watch?v=P71hcKEazY0
+event-start-time: 2026-06-24 08:30-8
+event-guests: Daniel Wright, Drew Burns, James Torio
 ---
 # How to leverage Target MCP and other major new releases in Adobe Target
 
