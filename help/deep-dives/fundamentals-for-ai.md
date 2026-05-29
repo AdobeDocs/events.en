@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3570
 last-substantial-update: 2026-05-28
 jira: KT-21437
+exl-id: e7c70a2f-b760-4c06-bf5d-19e4c724ad50
 ---
-
 # Adobe Marketo Engage Fundamentals for AI
 
 With Adobe announcing a wave of new AI capabilities for Marketo, including Callable Agents, the Marketo MCP Server, and AI-assisted content and segmentation features, the natural question becomes: is my instance actually ready for this? The answer for most teams is not yet. AI features depend heavily on how your instance is structured. If your templates are inconsistent, your tokens are underused, your naming conventions are loose, and your folder hierarchy is hard to navigate, AI tools will struggle to deliver meaningful results, no matter how powerful they are.
@@ -30,5 +30,3 @@ Rather than focusing on the AI features themselves, this session focuses on what
 * **Marketo Administrators** Those managing templates, tokens, channels, folder structures, and overall instance governance.
 * **AI/Automation Adopters** Organizations looking to get maximum value from Marketo's new AI features by building the right foundation first.
 * **Revenue Operations Teams** RevOps professionals who depend on clean Marketo data and consistent structure for reporting and attribution.
-
-
