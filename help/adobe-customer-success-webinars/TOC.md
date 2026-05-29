@@ -7,6 +7,27 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
 # Adobe Customer Success Webinars {#adobe-customer-success-webinar-recordings}
 
 + [Adobe Customer Success Webinars](overview.md)
++ 2026 {#2026}
+  + Customer Journey Analytics {#cja2026}
+    + [BRD-SDR File Creation for Customer Journey Analytics](2026/brd-sdr-file-best-practices.md)
+    + [Unlocking Identity](2026/unlock-identities.md)
+  + Experience Manager {#aem2026}
+    + [Authoring in Edge Delivery Services](2026/authoring-eds.md)
+    + [Maximize Content Supply Chains](2026/value-with-content-supply-chain.md)
+    + [Modern Delivery Models for AEM Sites](2026/modern-delivery-model-aem.md)
+    + [Strategic Benefits of AEM Cloud Service](2026/moving-to-aemcs.md)
+  + Experience Platform {#aep2026}
+    + [Embedded Intelligence Shift](2026/embedded-intelligence.md)
+  + General {#general2026}
+    + [AI Strategies for Holiday Success](2026/2025-holiday-results.md)
+    + [Content Supply Chain Change Management Strategies](2026/csc-change-management.md)
+    + [Content Supply Chain Executive Sponsorship](2026/csc-executive-sponsorship.md)
+    + [Foundational Architecture for Content Supply Chain](2026/csc-architecture.md)
+    + [GenAI Traffic Update Q2 2026](2026/gen-ai-traffic-update-q2.md)
+    + [GenAI Traffic Update](2026/gen-ai-traffic-update.md)
+    + [Operating Model for Content Supply Chain](2026/csc-operating-model.md)
+  + Workfront {#workfront2026}
+    + [Workfront Proof for approvals](2026/workfront-proof-approvals.md)
 + 2025 {#2025}
   + Commerce {#commerce2025}
     + [Enriching Adobe Commerce with Adobe Experience Platform](2025/enriching-adobe-commerce.md)
@@ -14,6 +35,8 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
   + Customer Journey Analytics {#cja2025}
     + [Building Executive Sponsorship](2025/cja-success.md)
     + [Change Management Strategies](2025/cja-adoption.md)
+    + [CJA Data Insights Agent](2025/cja-data-insights-agent.md)
+    + [Create Offers in 30 Minutes with CJA](2025/cja-shared-audiences.md)
     + [Designing an Operating Model for CJA Success](2025/cja-operating-model.md)
     + [Foundational Architecture](2025/cja-vision.md)
     + [Migrating to CJA from Adobe Analytics](2025/analytics-to-cja-migration.md)
@@ -21,8 +44,10 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
     + [Smarter Marketing Starts Here - Integrating Google & Adobe](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
   + Experience Manager {#aem2025}
     + [AEM's Emerging Technology](2025/personalized-experiences-aem.md)
+    + [Essential Tips and Best Practices for AEM Lucene Search](2025/aem-lucene-search.md)
     + [AEM with GenAI](2025/aem-genai.md)
     + [AEM and Workfront integration](2025/aem-workfront-integration.md)
+    + [AI Assistant in AEM](2025/ai-assistant-in-aem.md)
     + [Building Effective Web Pages](2025/build-effective-web-pages.md)
     + [Driving customer engagement](2025/driving-customer-engagement.md)
     + [Enrollment Journey with AEM Forms](2025/payer-enrollment-journey.md)
@@ -44,7 +69,15 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
     + [Content Supply Chain and Adobe GenStudio](2025/csc-gen-studio.md)
     + [GenStudio for Performance Marketing Operating Model](2025/genstudio-for-performance-marketing-operating-model.md)
   + Journey Optimizer {#ajo2025}
+    + [Building Executive Sponsorship](2025/build-executive-sponsorship-ajo.md)
+    + [Change Management Strategies for Adoption](2025/change-management-strategies.md)
+    + [Designing an Operating Model](2025/design-an-operating-model-ajo.md)
     + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
+    + [Leveraging a NorthStar Architecture](2025/northstar-architecture-enable-adobe-journey-optimzier.md)
+    + [Modernize Campaigns](2025/ajo-adobe-campaign.md)
+    + [Roadmap to Value with Adobe Journey Optimizer](2025/ajo-roadmap-to-value.md)
+  + Marketo {#marketo2025}
+    + [New Email Editor](2025/marketo-new-email-editor.md)
   + Multi-solution {#multisolution2025}
     + [Content Supply Chain Basics](2025/content-supply-chain-basics.md)
     + [Digital Experience Optimization with AI Insights](2025/accelerating-digital-experience-optimization.md)
@@ -59,6 +92,7 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
     + [2024 holiday results and 2025 trends](2025/adobe-digital-insights.md)
     + [Crafting Strategies for Effective Measurement](2025/impactful-insights.md)
     + [Cultivating an Agile Marketing Organization](2025/agile-marketing-organization.md)
+    + [Develop Practical B2B Use Cases](2025/practical-business-use-cases.md)
     + [Digital Trends and Preparing for the Future](2025/digital-trends-preparing-future.md)
     + [Northstar Architecture](2025/northstar-architecture.md)
     + [AI-Driven Growth and Top Performer Playbooks](2025/ai-driven-growth.md)

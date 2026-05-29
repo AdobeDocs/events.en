@@ -8,8 +8,12 @@ solution: Marketo Engage
 # Foundations of Marketo Engage Webinars {#foundations-of-marketo-engage-webinars}
 
 + [Foundations of Marketo Engage Webinars](overview.md)
++ 2026 {#2026}
+  + [Deploy a Monthly Newsletter](2026/monthly-newsletter.md)
+  + [Fundamentals of Marketo Engage](2026/fundamentals.md)
 + 2025 {#2025}
   + [Create Your Nurture Recipe](2025/nurture-recipe.md)
+  + [Professional Exam Preparation](2025/professional-exam-preparation.md)
   + [Programs, Campaigns & Beyond](2025/programs-campaigns.md)
   + [Powering Campaigns with Marketo Personalization](2025/campaigns-with-marketo-personalization.md)
   + [Score Smarter, Not Harder](2025/scoring.md)

@@ -2,6 +2,8 @@
 title: Scalability and Efficiency Using Tokens In [!DNL Marketo Engage]
 description: Learn how to use tokens beyond personalization in order to make your program build and operations more efficient in [!DNL Marketo Engage].
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Personalization
 role: User
 level: Beginner
 kt: 9770

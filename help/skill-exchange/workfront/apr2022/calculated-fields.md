@@ -2,6 +2,8 @@
 title: Tips & Tricks - Calculated Fields Everyone Should Know
 description: Have you ever found yourself scrolling through multiple pages of a project update stream just to find the date the project moved into Current? This is a great … (Descriptions should be between 60 and 160 characters)
 solution: Workfront
+feature: Reports and Dashboards
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10316

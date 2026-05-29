@@ -1,6 +1,8 @@
 ---
 title: Inheriting an Instance
 description: Inheriting a Marketo instance can be daunting, whether it's a chaotic mess or a well-oiled machine. Join our Marketo Champions as they share essential tips and best practices to help you navigate and optimize your new instance, ensuring a smooth transition and effective management.
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, User
 level: Beginner
 doc-type: Tutorial

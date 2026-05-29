@@ -1,6 +1,7 @@
 ---
 title: Unlock the Power of Workfront Data Connect
 description: Discover how Adobe Workfront Data Connect integrates with BI tools to unlock insights, track performance, and drive smarter business decisions.
+feature: Resource Management, Reports and Dashboards, Strategic Planning
 topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced

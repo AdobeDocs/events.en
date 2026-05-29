@@ -4,6 +4,7 @@ description: AI-driven tools are transforming the way we engage customers and st
 kt: KT-15472
 solution: Journey Optimizer, Campaign
 feature: Email Design
+topic: Security
 event-cta-url-live: https://www.youtube.com/live/u_UEsl2Nw3M
 event-start-time: 2024-09-26 08:30-7
 event-guests: Sandra Hausmann, Rachel Hanessian, Amarnath Vannararth, Arthur Lacroix

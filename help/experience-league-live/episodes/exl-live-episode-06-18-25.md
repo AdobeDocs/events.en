@@ -4,6 +4,7 @@ description: Learn how to use new features in Adobe Journey Optimizer to govern 
 kt: 17474
 solution: Journey Optimizer
 feature: Frequency Rules
+topic: Administration
 event-cta-url-live: https://youtube.com/live/awYa2dU6TDY
 event-start-time: 2025-06-18 09:00-7
 event-guests: Sandra Hausmann, Ariel Sultan, Aaron Forrest, Keara Fausett

@@ -4,6 +4,7 @@ description: Gain an understanding of basic visitor metrics and adding dimension
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics, Analysis Workspace, Workspace Basics, Segmentation, Metrics
+topic: Migration, Integrations
 doc-type: Event
 role: User
 level: Beginner

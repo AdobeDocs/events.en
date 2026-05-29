@@ -1,6 +1,8 @@
 ---
 title: Ask the Expert - Supercharge Basic Text Mode Reporting using the API Explorer
 description: Learn about the API explorer, how to use it, and how to enhance your reports leveraging basic text mode. This webinar was recorded on January 22, 2020.
+feature: Reports and Dashboards, System Setup and Administration
+topic: Integrations, Development
 doc-type: feature video
 team: Technical Marketing
 kt: 9918

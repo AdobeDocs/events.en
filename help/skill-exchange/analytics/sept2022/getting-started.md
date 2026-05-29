@@ -4,6 +4,7 @@ description: Familiarize yourself with the basic Analytics user interface and st
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics, Analysis Workspace, Workspace Basics, Visualizations, Panels
+topic: Migration, Integrations
 doc-type: Event
 role: User
 level: Beginner

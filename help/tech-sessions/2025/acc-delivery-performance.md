@@ -4,6 +4,7 @@ description: This session covered key strategies to improve email and SMS delive
 solution: Campaign Classic v7
 product: Adobe Campaign
 feature: SMS, Deliverability, Troubleshooting
+topic: Personalization, Performance
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

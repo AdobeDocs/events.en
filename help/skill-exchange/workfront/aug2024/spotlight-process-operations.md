@@ -2,6 +2,8 @@
 title: Experience Maker's Spotlight - Process Enhancements & Operational Efficiencies
 description: How James Hill, Vice President, Operational Excellence at Synchrony estimates the benefits and priority of enhancements, monitors adoption of system changes, and ultimately connect those changes to actual business outcomes  Examples of how Daniel Clarke, Senior Workfront Consultant at EMMsphere, has found efficiencies to ensure team resourcing can stretch as far as possible. He will share several successful Fusion scenarios, the methodology behind how and why they were built, and how he was able to show the value of that work with the leadership team
 solution: Workfront
+feature: Workfront Fusion, System Setup and Administration
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event

@@ -2,6 +2,8 @@
 title: Adobe [!DNL Campaign Classic] V7 vs V8
 description: Join this session to hear about the latest Product updates as well as understand differences between V7 and V8 from our Product Managers.
 solution: Campaign, Campaign Classic v7, Campaign v8 Client Console
+feature: Email Design, Deliverability, SMS
+topic: Development
 role: Admin, User
 level: Intermediate, Experienced
 kt: 10566

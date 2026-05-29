@@ -3,6 +3,7 @@ title: Three Game-Changing Customizations in Adobe Analytics Workspace
 description: Discover how to brand dashboards, set unique visitor IDs, and combat bot traffic in Adobe Analytics with insights from Champions Isha Gupta & Deb William.
 solution: Analytics
 feature: Analysis Workspace, Workspace Basics
+topic: Personalization
 role: User
 level: Intermediate, Experienced
 doc-type: Event

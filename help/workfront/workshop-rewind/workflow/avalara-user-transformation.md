@@ -1,0 +1,18 @@
+---
+title: Transform User Confusion into Confidence
+description: Discover how Avalara turned user confusion into confidence using Adobe Workfront. Learn effective strategies for user engagement and satisfaction.
+feature: Workfront Fusion, System Setup and Administration
+topic: Administration, Integrations
+role: Admin, Developer, Leader, User
+level: Beginner, Intermediate, Experienced
+doc-type: Event
+duration: 3443
+last-substantial-update: 2025-12-17
+jira: KT-19760
+exl-id: fc70c500-e3f4-4cb8-96e5-9ea46f935069
+---
+# Transform User Confusion into Confidence
+
+Explore how Avalara transformed user confusion into confidence with Adobe Workfront. This session covers strategies for improving user engagement, simplifying processes, and empowering users with the group admin model. Discover how these changes led to better user satisfaction and efficiency, helping teams work more effectively and aligning with business goals. Watch the video to learn more.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3477100/?learn=on&enablevpops)

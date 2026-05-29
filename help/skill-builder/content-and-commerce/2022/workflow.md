@@ -1,6 +1,8 @@
 ---
 title: Get the most out of the Enterprise Workflow Management
 description: In this session you will learn the benefits of using workflows for your assets management and how to quickly create them.
+feature: Integration
+topic: Commerce, Performance
 role: Admin, Leader, User
 level: Intermediate, Experienced
 kt: 10564

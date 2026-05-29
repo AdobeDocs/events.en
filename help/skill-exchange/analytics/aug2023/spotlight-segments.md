@@ -2,6 +2,7 @@
 title: Aug 2023 Learn Track - Experience Makers Spotlight
 description: All About Segments - How to Slice and Dice Your Data for Insights
 feature: Segmentation
+topic: Migration, Integrations
 role: User
 level: Beginner
 doc-type: Event

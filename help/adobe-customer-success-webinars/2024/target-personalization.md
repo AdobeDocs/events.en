@@ -2,6 +2,8 @@
 title: Target Personalization - Getting Started with Recommendations & Category Affinity
 description: Learn how to build a strong foundation for getting started with Recommendations. Receive a better understanding of the algorithms that power Recs, and how to leverage Recs successfully.
 solution: Target
+feature: Segments, Profiles
+topic: Personalization, Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event

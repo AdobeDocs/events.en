@@ -7,6 +7,67 @@ exl-id: 0f4ac207-0828-4f35-915b-8ba5715af780
 
 The Foundational Marketo User Group is designed specifically for individuals who are just beginning their journey with Adobe Marketo Engage. This group offers a welcoming, supportive environment where new users can build confidence and core skills through structured, beginner-friendly sessions.
 
+## 2026 sessions
+
+<!-- CARDS  ****
+
+{cta = Watch}
+
+* 2026/monthly-newsletter.md
+* 2026/fundamentals.md
+
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="undefined">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2026/monthly-newsletter.md" title="undefined" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491509/?format=jpeg&nocache=1779897876356" alt="undefined"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2026/monthly-newsletter.md" target="_blank" rel="referrer" title="undefined">undefined</a>
+                    </p>
+                    <p class="is-size-6">undefined</p>
+                </div>
+                <a href="2026/monthly-newsletter.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Session 1 of 2026 - Fundamentals of Marketo Engage">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2026/fundamentals.md" title="Session 1 of 2026 - Fundamentals of Marketo Engage" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3482934/?format=jpeg&nocache=1779897876368" alt="Session 1 of 2026 - Fundamentals of Marketo Engage"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2026/fundamentals.md" target="_blank" rel="referrer" title="Session 1 of 2026 - Fundamentals of Marketo Engage">Session 1 of 2026 - Fundamentals of Marketo Engage</a>
+                    </p>
+                    <p class="is-size-6">Learn the basics of Marketo Engage, including navigation, core features, and automation tools to confidently manage your marketing campaigns.</p>
+                </div>
+                <a href="2026/fundamentals.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
 ## 2025 sessions
 
 <!-- CARDS  ****
@@ -15,10 +76,9 @@ The Foundational Marketo User Group is designed specifically for individuals who
 
 * 2025/campaigns-with-marketo-personalization.md
 * 2025/nurture-recipe.md
+* 2025/professional-exam-preparation.md
 * 2025/programs-campaigns.md
 * 2025/scoring.md
-
-
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -28,7 +88,7 @@ The Foundational Marketo User Group is designed specifically for individuals who
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/campaigns-with-marketo-personalization.md" title="Powering Campaigns with Marketo Personalization" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464791/?format=jpeg&nocache=1758746095385" alt="Powering Campaigns with Marketo Personalization"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464791/?format=jpeg&nocache=1779897876954" alt="Powering Campaigns with Marketo Personalization"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -51,7 +111,7 @@ The Foundational Marketo User Group is designed specifically for individuals who
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/nurture-recipe.md" title="Create Your Nurture Recipe" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475224/?format=jpeg&nocache=1758746095385" alt="Create Your Nurture Recipe"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475224/?format=jpeg&nocache=1779897876943" alt="Create Your Nurture Recipe"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -69,12 +129,35 @@ The Foundational Marketo User Group is designed specifically for individuals who
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Foundational Marketo User Group - Professional Exam Preparation">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/professional-exam-preparation.md" title="Foundational Marketo User Group - Professional Exam Preparation" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476232/?format=jpeg&nocache=1779897876937" alt="Foundational Marketo User Group - Professional Exam Preparation"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/professional-exam-preparation.md" target="_blank" rel="referrer" title="Foundational Marketo User Group - Professional Exam Preparation">Foundational Marketo User Group - Professional Exam Preparation</a>
+                    </p>
+                    <p class="is-size-6">Get expert guidance, study tips, and AI-powered learning support to ace your Marketo Engage Professional Exam with confidence in this focused prep session.</p>
+                </div>
+                <a href="2025/professional-exam-preparation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Programs, Campaigns & Beyond">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/programs-campaigns.md" title="Programs, Campaigns & Beyond" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464499/?format=jpeg&nocache=1758746095396" alt="Programs, Campaigns & Beyond"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464499/?format=jpeg&nocache=1779897876974" alt="Programs, Campaigns & Beyond"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -97,7 +180,7 @@ The Foundational Marketo User Group is designed specifically for individuals who
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/scoring.md" title="Score Smarter, Not Harder" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474961/?format=jpeg&nocache=1758746095373" alt="Score Smarter, Not Harder"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474961/?format=jpeg&nocache=1779897876965" alt="Score Smarter, Not Harder"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -117,3 +200,4 @@ The Foundational Marketo User Group is designed specifically for individuals who
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+

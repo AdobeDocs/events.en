@@ -3,6 +3,7 @@ title: Universal Editor Overview for Modern Adobe Experience Manager Authoring
 description: Explore AEM’s Universal Editor—use cases, cross-architecture support, and key considerations to simplify authoring and boost content delivery.
 solution: Experience Manager
 feature: Authoring
+topic: Headless, Integrations, Security
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event

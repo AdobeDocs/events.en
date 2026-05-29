@@ -2,6 +2,8 @@
 title: Home Sweet Home - Tailoring Workfront Home Pages 101
 description: In this session, you’ll learn -  The possibilities for New Home via Layout Templates  How to assign personalized layouts to users and teams How to simplify work management with intuitive Home arrangement designs for different use cases
 solution: Workfront
+feature: System Setup and Administration
+topic: Personalization
 role: User
 level: Beginner
 doc-type: Event

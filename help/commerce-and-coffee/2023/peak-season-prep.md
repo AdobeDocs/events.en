@@ -4,6 +4,7 @@ description: Join Corey Gelato to explore peak season strategies, including prom
 solution: Commerce
 feature-set: Commerce
 feature: Promotions/Events, Catalog Management, Catalog Service, Checkout, Best Practices, Price Rules
+topic: Commerce
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

@@ -2,6 +2,8 @@
 title: Scaling Efficiency - Leveraging Adobe Dynamic Media Classic for High-Volume Creative Assets
 description: discusses how they've transformed their workflow, significantly reducing manual effort, and ensuring precise adherence to required guidelines.## Key Takeaways  Using Adobe Dynamic Media Classic to create advertising templates to increase speed to marketIntegrating Adobe's solutions with client data and proprietary applications to create a seamless and scalable workflow  Best practices for quality control, ensuring all assets meet industry standards and client expectations for unique creative
 solution: Dynamic Media Classic
+feature: Dynamic Media Classic
+topic: Integrations, Performance
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event

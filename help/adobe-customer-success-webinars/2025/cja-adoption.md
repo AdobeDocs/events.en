@@ -2,6 +2,7 @@
 title: Change Management Strategies for Adobe Customer Journey Analytics Adoption
 description: Discover change management strategies to ensure Customer Journey Analytics adoption success. Overcome resistance, align teams, and track value realization effectively.
 feature: Basics
+topic: Security
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event

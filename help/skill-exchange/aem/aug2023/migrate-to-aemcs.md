@@ -4,6 +4,7 @@ description: Migrate to AEM Cloud Service to get the latest and greatest AEM has
 solution: Experience Manager as a Cloud Service
 feature-set: Experience Manager
 feature: Migration
+topic: Migration
 role: User
 level: Intermediate, Experienced
 doc-type: Event

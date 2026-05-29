@@ -1,6 +1,8 @@
 ---
 title: Workfront and JIRA - Connecting your Marketing Work Management and Development Execution Systems
 description: Learn how to set up and expand Adobe Workfront + JIRA integration to support connected workflows across systems of record for current and future needs.
+feature: Work Management, Workfront Fusion
+topic: Integrations, Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event

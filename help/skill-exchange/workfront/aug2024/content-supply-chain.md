@@ -2,6 +2,8 @@
 title: Marketing Content Supply Chain for Workfront
 description: How Mattel went about mapping their Content Supply Chain process to Workfront  The KPIs they identified to measure end-to-end performance  Their one-to-many relationships setup for asset production   A look ahead to how he hopes to evolve their marketing campaign strategy processes even more with Workfront Planning
 solution: Workfront
+feature: System Setup and Administration, Strategic Planning
+topic: Integrations, Performance, Content Supply Chain
 role: User
 level: Intermediate, Experienced
 doc-type: Event

@@ -3,7 +3,8 @@ title: Streamlining Your First Mile of Data Management
 description: The increasing volume of data makes it very challenging for companies to efficiently capture digital interaction data and send it to the appropriate marketing … (Descriptions should be between 60 and 160 characters)
 solution: Real-Time Customer Data Platform
 feature: Data Governance
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+topic: Security
+role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 10632
 thumbnail: 344311.jpeg
@@ -12,7 +13,7 @@ duration: 3818
 ---
 # Streamlining Your First Mile of Data Management
 
-The increasing volume of data makes it very challenging for companies to efficiently capture digital interaction data and send it to the appropriate marketing channels. The deprecation of 3rd party cookies by browsers adds an additional level of complexity, which requires companies to find server- side solutions to continue to send data to partners. In this webinar, Adobe’s Gabriel Jaquier, Jeff Chasin and Jon Viray share strategies on how to overcome these challenges by leveraging Real-Time CDP Connections.
+The increasing volume of data makes it very challenging for companies to efficiently capture digital interaction data and send it to the appropriate marketing channels. The deprecation of 3rd party cookies by browsers adds an additional level of complexity, which requires companies to find server- side solutions to continue to send data to partners. In this webinar, Adobe's Gabriel Jaquier, Jeff Chasin and Jon Viray share strategies on how to overcome these challenges by leveraging Real-Time CDP Connections.
 
 >[!VIDEO](https://video.tv.adobe.com/v/344311/?quality=12&learn=on)
 

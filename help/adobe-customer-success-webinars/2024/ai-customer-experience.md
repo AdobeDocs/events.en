@@ -2,6 +2,8 @@
 title: RTCDP Insights - Harnessing AI for Customer Experience
 description: The RTCDP Insights webinar showed how Adobe's Real-Time Customer Data Platform uses AI to enhance market analysis, build predictive models, and optimize customer experiences.
 solution: Real-Time Customer Data Platform
+feature: Data Governance
+topic: Personalization, Integrations, Security
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event

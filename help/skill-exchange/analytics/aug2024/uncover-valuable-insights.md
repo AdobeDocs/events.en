@@ -2,6 +2,8 @@
 title: From Data to Action - Uncovering Valuable Insights
 description: In this session, we will explore the fundamentals of Adobe Analytics, focusing on deriving actionable insights from data and understanding user behavior. We will dive into traffic patterns, external factors, error tracking, and customizing tracking while emphasizing the importance of collaboration and catering to stakeholder needs. Three main takeaways for the audience - 1. Learn how to approach user behavior analysis within Analysis Workspace. 2. Understand the importance of context, patterns and error tracking 3. Gain insights on how to effectively share and collaborate on analytics projects, tailoring them to meet the needs of different stakeholders.
 solution: Analytics
+feature: Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Beginner
 doc-type: Event

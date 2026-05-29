@@ -3,6 +3,7 @@ title: Optimizing Content Delivery - Unlocking the Power of Edge Services
 description: The session on Edge Delivery Services (EDS) covered its architecture, integration with document-based and AEM-based authoring, quick site creation, customization options, and best practices for maintaining high performance.
 solution: Experience Manager, Experience Manager as a Cloud Service
 feature: Edge Delivery Services
+topic: Headless, Integrations, Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event

@@ -4,6 +4,7 @@ description: Learn about how Federated Audience Composition provides a comprehen
 kt: KT-15473
 solution: Journey Optimizer
 feature: Audiences
+topic: Security
 event-cta-url-live: https://www.youtube.com/watch?v=xp3WRr4XmWM
 event-start-time: 2024-10-30 08:30-7
 event-guests: Sandra Hausmann, Don Huynh, Pravin Prakash Kumar

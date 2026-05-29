@@ -2,6 +2,8 @@
 title: Searching for Success - Maximizing SEO Throughout Migration Workflows
 description: Unlock the full potential of your site's SEO and streamline migration workflows through Adobe Commerce. See how SEO experts Kelly Rasmussen and Annie Whitney from dentsu work with customers on full platform migrations. Joined by Jon Gossett from Adobe, they will dive deep into SEO best practices, learn how to ensure your content ranks high on search engines, and attract the right audience. Better understand how to handle migration workflows seamlessly, from URL management to structured data and more.In this session you will learn - Uncovering SEO CMS best practices Supporting URL management workflows Transforming schema properties
 solution: Commerce
+feature: Integration, Edge Delivery Services
+topic: Security, Migration
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

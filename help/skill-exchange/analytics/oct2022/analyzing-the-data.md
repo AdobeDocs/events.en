@@ -6,6 +6,7 @@ level: Beginner
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics, Analysis Workspace, Visualizations, Segmentation, Metrics
+topic: Migration, Integrations
 doc-type: Event
 last-substantial-update: 2022-12-01
 kt: 11537

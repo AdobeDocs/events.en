@@ -2,6 +2,8 @@
 title: Maximize Your AEM Implementation
 description: Enable your marketers, deploy sites faster, and continuously improve your experiences.
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
+topic: Administration
 role: User
 level: Beginner, Intermediate, Experienced
 kt: 10949

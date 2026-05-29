@@ -4,6 +4,7 @@ description: Watch our first Espressos & AEM webinar! Experts Casey & Rajan cove
 solution: Experience Manager
 version: Experience Manager as a Cloud Service
 feature: Edge Delivery Services
+topic: Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

@@ -1,6 +1,8 @@
 ---
 title: Why AEM is More Powerful in the Cloud
 description: Transition to the Cloud with Adobe's Expert Guidance on Planning, Migration, and Readiness Assessment Tools
+feature: Release Information
+topic: Security, Performance, Migration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

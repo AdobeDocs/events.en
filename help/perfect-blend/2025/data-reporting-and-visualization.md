@@ -2,6 +2,7 @@
 title: Improve Your Data Reporting & Visualization with Customer Journey Analytics
 description: Learn how Customer Journey Analytics powers cross-channel insights, integrates with Target & Adobe Journey Optimizer, and delivers advanced dashboards for smarter decisions.
 solution: Customer Journey Analytics, Analytics, Target
+feature: Integrations, Identity, Segmentation, Visualizations
 topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced

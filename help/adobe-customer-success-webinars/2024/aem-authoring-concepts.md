@@ -4,6 +4,7 @@ description: The AEM Authoring Basics session covered key concepts, the dual env
 solution: Experience Manager
 version: Experience Manager as a Cloud Service
 feature: Edge Delivery Services
+topic: Headless, Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event

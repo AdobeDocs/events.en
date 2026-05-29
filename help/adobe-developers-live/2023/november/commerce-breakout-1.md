@@ -4,6 +4,7 @@ description: Join Fahd Siddiqui in this enlightening session from Adobe Develope
 solution: Commerce
 feature-set: Commerce
 feature: Catalog Service, Price Indexer, B2B
+topic: Commerce, Development
 role: Developer
 level: Beginner
 doc-type: Event

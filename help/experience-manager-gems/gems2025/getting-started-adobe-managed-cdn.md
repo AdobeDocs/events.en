@@ -4,6 +4,7 @@ description: Learn how to configure Adobe Managed CDN in AEM Cloud Service to en
 role: Developer, User
 level: Intermediate
 feature: Edge Delivery Services
+topic: Security, Performance, Certification
 doc-type: Event
 duration: 3438
 last-substantial-update: 2025-01-30

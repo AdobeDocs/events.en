@@ -4,6 +4,7 @@ description: Explore the essential elements of Marketo Programs, including folde
 solution: Marketo Engage
 feature-set: Marketo Engage
 feature: Programs, Templates
+topic: Artificial Intelligence, Personalization
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

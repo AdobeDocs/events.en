@@ -2,6 +2,8 @@
 title: Conquering Smart List Logic to Reach your Campaign Audience
 description: An overview of Smart Campaigns and how they fit into Marketo Engage’s overall architecture A deep dive into the four levels of logic to configure and customize your audiences  Tricks to troubleshoot your logic and verify that you've correctly targeted your intended audience
 solution: Marketo Engage
+feature: Smart Lists
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 doc-type: Event

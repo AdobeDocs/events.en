@@ -2,6 +2,8 @@
 title: Make Metadata work for your business in Adobe Experience Manager Assets
 description: Learn how to make the most out of your metadata in AEM Assets by reducing the workload to tag assets and by making your assets more searchable.
 solution: Experience Manager, Experience Manager Assets
+feature: Edge Delivery Services, Release Information, Metadata
+topic: Development, Headless
 role: Admin, Leader, User
 level: Intermediate, Experienced
 kt: 10563

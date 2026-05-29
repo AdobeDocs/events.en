@@ -2,6 +2,7 @@
 title: Commerce and Coffee - E-Commerce Trends
 description: This session dives into 5 of the top trends in eCommerce today. We discuss strategies and tactics around the top trends along with the impact they have to your business when implemented. Corey then runs through a demonstration of Event Tickers, Category Permissions, B2B Capabilities and more. The presentation and demo are accompanied by a live Q&A with Corey.
 solution: Commerce
+feature: B2B
 topic: Commerce
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced

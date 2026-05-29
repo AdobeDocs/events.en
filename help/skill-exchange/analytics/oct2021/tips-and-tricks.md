@@ -4,6 +4,7 @@ description: Tips to improve your analysis workflow and highlights recent innova
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10478

@@ -2,6 +2,7 @@
 title: Adobe Developers Live - NOV 23 - Headless Breakout 1
 description: Take a tour of our latest headless APIs, learn about the expanded capabilities of these APIs, including tagging, versioning, and endpoint search. Understand how they facilitate efficient content retrieval for app-like experiences across digital channels, and see real-world applications of these APIs in action. This session is an invaluable resource for developers seeking to leverage headless technology for innovative solutions.
 solution: Experience Manager,Experience Manager Sites
+feature: Edge Delivery Services, Release Information, Authoring
 product: experience manager
 sub-product: sites
 topic: Development, Headless

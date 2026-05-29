@@ -2,6 +2,8 @@
 title: Explore Adobe User Groups across Experience Cloud
 description: Discover how Adobe User Groups foster collaboration, offer peer-led problem-solving, and provide leadership opportunities across AEM, Analytics, Marketo Engage, and Workfront.
 solution: General
+feature: Developer Tools
+topic: Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

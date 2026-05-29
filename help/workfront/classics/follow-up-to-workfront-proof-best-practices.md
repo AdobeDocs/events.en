@@ -1,6 +1,8 @@
 ---
 title: Ask the Expert - Follow Up to Workfront Proof Best Practices
 description: Learn why you should use automated workflow templates, how to create them, and how to adjust proof settings to ensure privacy. This webinar was recorded on March 4, 2020.
+feature: System Setup and Administration
+topic: Security
 doc-type: feature video
 team: Technical Marketing
 kt: 9917

@@ -5,6 +5,9 @@ landing-page-description: Watch this recorded webinar to learn about the core fu
 short-description: Watch this recorded webinar to learn about the core functionality of Commerce Intelligence for your Adobe Commerce or Magento Open Source store.
 kt: 10408
 solution: Commerce, Commerce Intelligence
+feature-set: Commerce Intelligence
+feature: Data Integration, Reports
+topic: Commerce, Performance
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 342501.jpeg

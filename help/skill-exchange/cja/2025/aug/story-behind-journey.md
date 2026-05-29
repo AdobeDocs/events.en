@@ -1,6 +1,8 @@
 ---
 title: Lights, Data, Insight - Uncovering the Story Behind Every Journey
 description: Learn how AEP and CJA unify data, stitch identities, and activate insights for real-time personalization and smarter customer journeys.
+feature: Basics, Use Cases
+topic: Personalization, Integrations, Security
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

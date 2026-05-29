@@ -1,6 +1,8 @@
 ---
 title: Adobe Experience Manager as a Cloud Service release overview
 description: Get a quick overview of the latest features on Adobe Experience Manager as a Cloud Service
+feature: Edge Delivery Services, Release Information, Developer Tools
+topic: Development, Headless
 user-guide-breadcrumb: AEM Release Events
 duration: 91
 hidefromtoc: true
@@ -12,7 +14,8 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
 
 ## Latest Update
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta = More details}
 
@@ -49,7 +52,8 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
 
 ## Past Updates
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta = More details}
 
   * 2024/2024-10-0.md

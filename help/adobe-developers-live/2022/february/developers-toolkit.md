@@ -1,6 +1,8 @@
 ---
 title: A glance into a Commerce Developer’s Toolkit
 description: Covers topics such as local development setup, debugging and profiling tools, leveraging New Relic to your advantage in a production environment, and testing.
+feature: Edge Delivery Services, Release Information
+topic: Development
 role: Developer
 level: Beginner
 kt: 9786

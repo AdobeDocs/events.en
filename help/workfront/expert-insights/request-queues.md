@@ -2,6 +2,7 @@
 title: Expert Insights - Request Queues with Lyndsy Denk
 description: Workfront expert tips on building Help Desk Queues, routing requests, and dashboard insights with Lyndsy Denk.
 feature: Requests
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 speaker-name-1: Lyndsy Dent

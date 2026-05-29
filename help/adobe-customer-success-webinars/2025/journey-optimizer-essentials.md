@@ -1,6 +1,8 @@
 ---
 title: Journey Optimizer Essentials
 description: Join us to explore Adobe Journey Optimizer and learn how to create AI-driven, personalized customer journeys across channels for smarter, streamlined engagement.
+feature: Journeys
+topic: Personalization, Security
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event

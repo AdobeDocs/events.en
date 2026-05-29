@@ -2,6 +2,8 @@
 title: Driving CX Success with Adobe Customer Journey Analytics Journey Canvas
 description: Discover how Journey Canvas helps map ideal vs. actual user paths, uncover friction, and drive measurable CX improvements with Adobe Customer Journey Analytics
 solution: Customer Journey Analytics
+feature: Integrations
+topic: Integrations, Performance
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

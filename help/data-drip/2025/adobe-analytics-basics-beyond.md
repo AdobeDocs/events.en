@@ -1,6 +1,8 @@
 ---
 title: Adobe Analytics Basics and Beyond
 description: Join Taylor Walker and Vishnu Pillai's webinar to master Adobe Analytics, optimize workspaces, export data, and integrate tools. Watch now for expert insights
+feature: Analysis Workspace, Segmentation, Visualizations
+topic: Integrations, Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

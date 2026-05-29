@@ -2,6 +2,8 @@
 title: Dynamic Content and the Power of Personalization
 description: In this session learn how to leverage Dynamic Content to send more targeted, relevant content to your database.
 solution: Marketo Engage
+feature: Reporting
+topic: Personalization
 role: User
 level: Beginner
 kt: 9766

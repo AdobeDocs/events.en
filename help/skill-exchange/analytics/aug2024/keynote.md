@@ -2,6 +2,8 @@
 title: Opening Keynote - Empowering Teams with Data
 description: Understand the importance of data democratization and the problems it solves.Learn best practices for providing the right context and ensuring effective data usage. Discover how Adobe Analytics and Customer Journey Analytics can help empower your teams with data.
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

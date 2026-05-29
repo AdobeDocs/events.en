@@ -2,6 +2,7 @@
 title: 7 Ways to Build Customer Loyalty and Retention
 description: Learn 7 strategies to boost customer loyalty and retention with Corey Gelato, featuring best practices like personalization, rewards programs, and transparency, plus Adobe Commerce tools like Product Recommendations, price rules, and promotions.
 solution: Commerce
+feature: Integration, Edge Delivery Services
 topic: Commerce
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced

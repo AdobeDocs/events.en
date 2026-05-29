@@ -3,6 +3,7 @@ title: Tales from 200 Trenches
 description: Ensure web project success by prioritizing performance, using Google PageSpeed Insights, optimizing key metrics like LCP and TBT, managing resources efficiently, and following best practices for development and image optimization.
 solution: Experience Manager, Experience Manager Sites
 feature: Edge Delivery Services
+topic: Integrations, Performance, Development
 role: Developer
 level: Beginner, Intermediate
 doc-type: Event

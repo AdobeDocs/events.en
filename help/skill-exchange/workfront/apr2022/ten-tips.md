@@ -2,6 +2,8 @@
 title: 10 Tips to Wow Your Workfront
 description: These tips are catered to admins that have been in their instance for a while and hoping for a more efficient way to do things.
 solution: Workfront
+feature: System Setup and Administration
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10313

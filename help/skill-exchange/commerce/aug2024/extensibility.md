@@ -2,6 +2,8 @@
 title: The Modern Approach - Effective Extensibility in Adobe Commerce
 description: Best practices for effective customization of Adobe Commerce without core modifications The importance of reducing technical debt and avoiding direct integrations How to connect Adobe Commerce with other Adobe products for better performance and user experiences
 solution: Commerce
+feature: Integration
+topic: Integrations, Performance, Development
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

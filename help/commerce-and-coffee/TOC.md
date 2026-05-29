@@ -11,6 +11,7 @@ type: Event
 + [Overview](overview.md)
 + 2025 {#2025}
   + [Driving Growth with SEO](2025/seo-growth.md)
+  + [Preparing for Peak Season](2025/peak-season.md)
   + [Self-Service in B2B](2025/self-service-b2b.md)
 + 2024 {#2024}
   + [Ask Me Anything](2024/ask-me-anything.md)

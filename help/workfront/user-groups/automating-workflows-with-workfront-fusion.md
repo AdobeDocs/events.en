@@ -1,6 +1,8 @@
 ---
 title: Automating Workflows with Workfront Fusion (Sep 14, 2021)
 description: Listen to how you can automate workflows with Workfront Fusion.
+feature: Workfront Fusion
+topic: Administration, Integrations
 role: Admin
 level: Experienced
 kt: 9991

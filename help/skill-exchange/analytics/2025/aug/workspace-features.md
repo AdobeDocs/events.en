@@ -3,6 +3,7 @@ title: Workspace Features that you Should be Using
 description: Discover top Adobe Analytics Workspace features—conditional formatting, dropdowns, attribution models, and calculated metrics—to uncover deeper insights.
 solution: Analytics
 feature: Workspace Basics
+topic: Migration, Integrations
 role: User
 level: Beginner
 doc-type: Event

@@ -4,7 +4,8 @@ description: Overview of Customer Journey Analytics Value, highlights by Industr
 solution: Customer Journey Analytics
 feature-set: Customer Journey Analytics
 feature: Use Cases, Basics
-role: Admin, Architect, Data Architect, Data Engineer, Leader
+topic: Migration
+role: Admin, Developer, Leader
 level: Intermediate
 doc-type: Event
 last-substantial-update: 2023-09-07

@@ -3,6 +3,7 @@ title: Getting Started with Review and Approvals
 description: Discover how Workfront review and approval speeds up asset approvals, reduces email loops, and ensures compliance with streamlined collaboration.
 solution: Workfront
 feature: Approvals, Work Management
+topic: Administration
 role: User
 level: Beginner
 doc-type: Event

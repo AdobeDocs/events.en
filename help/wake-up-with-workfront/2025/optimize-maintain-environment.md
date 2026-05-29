@@ -1,6 +1,8 @@
 ---
 title: Optimize and Maintain Your Environment
 description: Optimize Adobe Workfront with expert tips on efficiency, data integrity, and scalability. Learn tools, strategies, and continuous improvement practices.
+feature: Reports and Dashboards, System Setup and Administration, Work Management
+topic: Integrations, Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

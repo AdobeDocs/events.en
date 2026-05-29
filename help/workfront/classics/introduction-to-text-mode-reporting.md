@@ -1,6 +1,8 @@
 ---
 title: Ask the Expert - Introduction to Text Mode Reporting
 description: Text mode can expand your reporting capabilities to create more complex views, filters, groupings and prompts. This webinar was recorded on July 15, 2020.
+feature: Reports and Dashboards
+topic: Integrations
 doc-type: feature video
 team: Technical Marketing
 kt: 9919

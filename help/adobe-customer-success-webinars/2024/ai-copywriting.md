@@ -1,6 +1,9 @@
 ---
 title: Content Acceleration with AI-Empowered Copywriting
+solution: Experience Cloud
+feature: Generative AI, Personalization
 description: This webinar will explore how adopting an AI-empowered copywriting and testing approach with Adobe can enhance content personalization at scale, while addressing the challenges of maintaining trust, brand consistency, and performance.
+topic: Personalization, Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event

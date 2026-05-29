@@ -2,6 +2,8 @@
 title: GenStudio for Performance Marketings - Operating Model & Governance Strategy
 description: The webinar on Adobe GenStudio for Performance Marketing covers building a governance framework to enhance creative processes, collaboration, and efficiency, while providing insights into organizational readiness, best practices for operating models, and Agile Marketing principles to maximize investment.
 solution: GenStudio for Performance Marketing
+feature: Workfront Planning
+topic: Artificial Intelligence, Performance, Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event

@@ -1,6 +1,8 @@
 ---
 title: Mastering Sequential Logic in Adobe Analytics and Customer Journey Analytics - Foundations
 description: Master sequential segmentation and filters in AA and CJA with foundational aspects, practical examples, and business applications, as covered in Andy Powers' session.
+feature: Basics, Use Cases
+topic: Integrations, Migration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event

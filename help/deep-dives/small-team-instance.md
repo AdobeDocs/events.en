@@ -1,6 +1,8 @@
 ---
 title: Learn how a small team maximizes their Adobe [!DNL Marketo Engage] instance
 description: Discuss how to supported instances of Adobe [!DNL Marketo Engage] with a small team or team of one.
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

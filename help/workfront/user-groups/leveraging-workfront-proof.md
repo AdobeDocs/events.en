@@ -1,6 +1,8 @@
 ---
 title: Leveraging Workfront Proof (November 9, 2021)
 description: Listen to different ways to leverage Workfront Proof to enhance the way you do work.
+feature: Work Management, Workfront Fusion
+topic: Administration, Integrations
 role: Admin, User
 level: Beginner, Intermediate
 kt: 10002

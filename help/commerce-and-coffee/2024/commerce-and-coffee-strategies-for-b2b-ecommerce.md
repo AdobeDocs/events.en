@@ -1,6 +1,8 @@
 ---
 title: Commerce & Coffee Strategies for B2B eCommerce
 description: Corey Gelato highlights strategies to maximize Adobe Commerce's native B2B features, including self-service options, Shared Catalog, Quotes, and quick order, while exploring key eCommerce trends to drive growth and position B2B businesses for success.
+feature: B2B
+topic: Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

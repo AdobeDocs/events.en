@@ -1,6 +1,9 @@
 ---
 title: A Roadmap for Value Mapping and Value Realization
+solution: Experience Cloud
+feature: Personalization
 description: learn how organizations can develop, evaluate and prioritize technology use cases in relation to their business value, set and report on KPIs ensuring your organization drives quantifiable results and great customer experiences.
+topic: Development
 role: Leader, User
 level: Intermediate
 kt: 11123

@@ -1,6 +1,8 @@
 ---
 title: Creative Agencies - Workflow & Process (Jul 14, 2020)
 description: Listen to Linnie Ciepolowski from Esri share examples and strategies on how to engineer efficient marketing processes.
+feature: Work Management, Workfront Fusion
+topic: Administration, Integrations
 role: Admin, User
 level: Beginner, Intermediate
 kt: 9993

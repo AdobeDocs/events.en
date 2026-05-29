@@ -2,6 +2,7 @@
 title: Developers Live APAC Keynote
 description: Join Mark Szulc, Principal Product Manager & APAC Regional Evangelist, and Ron Nagy, Senior Evangelist, for the Adobe Experience Manager Keynote during Adobe Developers Live APAC - Content and Commerce on November 14, 2023.
 solution: Commerce, Experience Manager as a Cloud Service
+feature: Integration, Edge Delivery Services, Migration
 topic: Development
 role: Admin, Developer
 level: Beginner

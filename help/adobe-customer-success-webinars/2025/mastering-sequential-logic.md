@@ -2,6 +2,8 @@
 title: Mastering Sequential Logic in AA and CJA - A Visual Framework
 description: Learn to master sequential logic in Adobe Analytics and Customer Journey Analytics with a visual framework for translating scenarios into actionable plans and building effective sequential segments.
 solution: Analytics
+feature: Segmentation, Visualizations
+topic: Migration, Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event

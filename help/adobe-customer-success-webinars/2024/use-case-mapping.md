@@ -2,6 +2,8 @@
 title: Real-Time CDP - Use Case Mapping to Solution Capabilities
 description: This webinar explores key ways to explore and prioritize use cases, map them to specific Real-time CDP features, and ensure alignment to business outcomes and value.
 solution: Real-Time Customer Data Platform
+feature: Audiences, Data Governance
+topic: Personalization, Security, Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event

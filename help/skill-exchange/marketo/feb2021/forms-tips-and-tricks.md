@@ -2,6 +2,8 @@
 title: Get inFORMation - The Ultimate Tips & Tricks For Your Forms
 description: Forms are a critical part of an organization's Demand Generation journey, but there are often questions to answer to make sure they are optimized.
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 kt: 9709

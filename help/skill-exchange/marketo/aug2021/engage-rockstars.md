@@ -2,6 +2,8 @@
 title: Marketo Engage Rockstars
 description: Three "Rockstar" customers will each present their best [!DNL Marketo Engage] tip or trick. Who will dazzle you beyond belief? Watch and vote in real time.
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: User
 level: Intermediate, Experienced
 kt: 10327

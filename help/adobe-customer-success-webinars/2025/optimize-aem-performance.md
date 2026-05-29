@@ -1,6 +1,7 @@
 ---
 title: Optimizing AEM Performance - Caching Strategies and Techniques
 description: The session covered caching strategies and techniques, caching mechanisms and tiers, dynamic content handling, debugging caching issues, and synchronizing cache invalidation between the dispatcher and CDN.
+feature: Edge Delivery Services, Release Information
 topic: Performance
 role: Admin, Developer, Leader, User
 level: Intermediate

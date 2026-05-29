@@ -2,6 +2,8 @@
 title: Grow Track Experience Makers Spotlight
 description: The journey to work management maturity doesn’t happen overnight. It takes strategic planning, deliberate leadership, and a culture ready to embrace change.
 solution: Workfront
+feature: Strategic Planning
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10314

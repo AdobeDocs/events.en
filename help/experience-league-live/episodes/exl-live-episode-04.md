@@ -5,6 +5,7 @@ landing-page-description: Learn how to use Classifications with the Activity Map
 short-description: Learn how to use Classifications with the Activity Map to better understand user behavior and to chart which clicks lead to valuable site activities.
 solution: Analytics
 feature: Activity Map, Classifications
+topic: Migration, Integrations
 kt: 9255
 event-start-time: 2021-10-21 09:00-7
 event-guests: Jenn Kunz,Adam Klintworth

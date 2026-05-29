@@ -4,6 +4,7 @@ description: Unlock the full potential of Marketo Sales Insights (MSI) with Cynt
 solution: Marketo Engage
 feature-set: Marketo Engage
 feature: Marketo Sales Insights
+topic: Integrations
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

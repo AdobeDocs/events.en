@@ -1,6 +1,8 @@
 ---
 title: The Strategic Power of Measurement - Turning Data into Action
 description: Effective measurement strategies build trust and empowerment by involving stakeholders, ensuring data familiarity, and fostering confidence in decision-making, while trust is established through transparency, data governance, and stakeholder alignment, and empowerment is achieved through training, accessible tools, and actionable data, all contributing to demonstrating the value of analytics through business impact and operational efficiencies.
+feature: Metrics, Data Governance
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event

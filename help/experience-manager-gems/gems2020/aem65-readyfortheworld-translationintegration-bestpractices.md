@@ -1,6 +1,8 @@
 ---
 title: AEM 6.5 ready for the world - translation integration & best practices
 description: Learn about current AEM translation capabilities and best practices for managing multilingual web sites. Learn how to structure global websites, use language copies, live copies, and MSM. Achieve easier, faster, and more manageable content translation using advance features.
+feature: Edge Delivery Services, Release Information
+topic: Integrations
 discoiquuid: 0c24228b-b674-47a7-9892-45bb26684ad1
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: 3d12fd42-8b35-4c6d-b1ab-2a0c38f3ca12

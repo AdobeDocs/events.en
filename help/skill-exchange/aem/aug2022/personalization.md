@@ -2,6 +2,7 @@
 title: Drive business value with content personalization in AEM
 description: Learn how you can use personalization capabilities across Adobe Experience Manager and Adobe Target to deliver rich and compelling experiences that are guaranteed to convert.
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
 role: User
 level: Beginner, Intermediate, Experienced
 topic: Personalization

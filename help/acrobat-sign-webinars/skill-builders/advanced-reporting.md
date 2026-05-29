@@ -2,6 +2,7 @@
 title: Advanced Reporting for Acrobat Sign
 description: Learn about the analytics and reports available in Acrobat Sign - and see how you can view data to help deliver the insights you need to drive your business forward.
 feature: Report
+topic: Personalization
 role: User
 level: Intermediate
 doc-type: Event

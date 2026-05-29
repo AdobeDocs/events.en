@@ -2,6 +2,8 @@
 title: Composing Digital Harmony - Building Cohesive Experiences with AEM Customization and Governance
 description: dive deeper into the intricacies of customizing elements within Adobe Experience Manager (AEM) for enhanced design and experience creation. This session uses musical analogies to explore customization of components, templates, content fragments and experience fragments, while adhering to brand and business guidelines. This session aims to provide a comprehensive understanding of creating a cohesive digital experience that resonates with users and supports system architecture maturity.
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
+topic: Administration
 role: User
 level: Intermediate, Experienced
 doc-type: Event

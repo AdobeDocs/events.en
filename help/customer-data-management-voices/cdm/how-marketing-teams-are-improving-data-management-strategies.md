@@ -2,8 +2,9 @@
 title: How Marketing Teams are Improving Data Management Strategies
 description: An infinite amount of user information can be beneficial, but most companies struggle with efficiently capturing data at scale and in real time to inform business decisions.
 feature: Identities
+topic: Performance
 solution: Real-Time Customer Data Platform
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 9726
 thumbnail: 340371.jpg

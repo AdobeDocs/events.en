@@ -2,6 +2,8 @@
 title: Foundational Architecture Needed to Enable the Adobe Customer Journey Analytics Vision
 description: Learn how a NorthStar Architecture can reduce technical debt, streamline Adobe Customer Journey Analytics adoption, and support scalable, aligned Adobe Experience Platform implementations.
 solution: Customer Journey Analytics
+feature: Use Cases
+topic: Integrations, Migration
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event

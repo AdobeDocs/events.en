@@ -4,6 +4,7 @@ description: Amol Anand and Darin Kuntze, in this deep dive session from Adobe D
 solution: Experience Manager,Experience Manager Sites
 feature-set: Experience Manager
 feature: Edge Delivery Services
+topic: Headless, Integrations, Development
 product: experience manager
 sub-product: sites
 role: Developer

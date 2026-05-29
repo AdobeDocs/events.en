@@ -2,6 +2,8 @@
 title: Get the most out of your media investments with Adobe's Real-Time CDP Collaboration
 description: Learn how to use Adobe Real-Time CDP Collaboration to activate, measure, and optimize CTV campaigns with premium publishers and first-party data.
 solution: Experience Platform, Real-Time Customer Data Platform, Real-Time Customer Data Platform Collaboration
+feature: Audiences
+topic: Security, Performance
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

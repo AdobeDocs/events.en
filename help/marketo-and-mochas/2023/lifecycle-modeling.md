@@ -1,6 +1,8 @@
 ---
 title: Customer Journey Management - Lifecycle Modeling
 description: Explore how transparency builds marketing credibility with Cynthia Chang and James Leedom as they share strategies for lifecycle setup, journey segmentation, and demonstrate Marketo Engage's lifecycle modeler, reporting, and analytics tools.
+feature: Reporting
+topic: Development
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

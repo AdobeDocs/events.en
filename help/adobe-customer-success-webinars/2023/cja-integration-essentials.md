@@ -5,7 +5,7 @@ solution: Customer Journey Analytics
 feature-set: Customer Journey Analytics
 feature: Use Cases, Basics, Experience Platform Integration
 topic: Integrations
-role: Admin, Architect, Data Architect, Data Engineer, Developer, Leader, User
+role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 last-substantial-update: 2023-11-08

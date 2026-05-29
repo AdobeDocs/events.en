@@ -3,6 +3,7 @@ title: AEM as a Cloud Service Deployment Failures Analysis
 description: AEM as a Cloud Service deployment internals, and troubleshooting.
 feature-set: Experience Manager Cloud Manager
 feature: Code Deployment
+topic: Development, Headless
 role: Admin, User
 level: Beginner
 doc-type: Event

@@ -13,7 +13,8 @@ Unlock the full potential of Adobe Experience Cloud with live and on-demand Tech
 
 ## 2025 Sessions
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta = Watch}
 
 * 2025/acc-delivery-performance.md
@@ -217,7 +218,8 @@ Unlock the full potential of Adobe Experience Cloud with live and on-demand Tech
 
 ## 2024 Sessions
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta = Watch}
 
 * 2024/aep-web-sdk-troubleshooting.md
@@ -350,7 +352,8 @@ Unlock the full potential of Adobe Experience Cloud with live and on-demand Tech
 
 ## 2023 Sessions
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta = Watch}
 

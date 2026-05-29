@@ -2,6 +2,8 @@
 title: Unlocking the Potential of Program Member Custom Fields
 description: Program Member Customer Fields (PMCFs) are one of the most game-changing pieces of new functionality added to Marketo.
 solution: Marketo Engage
+feature: Reporting
+topic: Artificial Intelligence, Personalization
 role: User
 level: Intermediate, Experienced
 kt: 10328

@@ -2,6 +2,7 @@
 title: The Architecture of Analysis - How to Approach Your Customer Journey Analytics Data Model
 description: Learn how to structure CJA data models with event hierarchies, attribution, and KPIs to unlock deeper customer journey insights.
 feature: Attribution
+topic: Administration
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

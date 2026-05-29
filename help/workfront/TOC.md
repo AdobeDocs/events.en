@@ -10,42 +10,119 @@ solution: Workfront
 + [Workfront On-demand Workshops](overview.md)
 
 + Release Webinars {#releases}
+  + [Second Quarter 2026 Release Webinar](releases/26-q2-release-webinar.md)
+  + [First Quarter 2026 Release Webinar](releases/26-q1-release-webinar.md)
+  + [Fourth Quarter 2025 Release Webinar](releases/25-q4-release-webinar.md)
   + [25.7 Release](releases/25-7-release-webinar.md)
   + [25.4 Release](releases/25-4-release-webinar.md)
   + [25.1 Release](releases/25-1-release-webinar.md)
   + [24.1 Release](releases/24-1-release-webinar.md)
++ Workshop Rewind {#workshop-rewind}
+  + Fusion {#fusion}
+    + [Automating Branded PDFs with Workfront Fusion](workshop-rewind/fusion/automating-branded-pdfs.md)
+    + [Automating Naming Conventions](workshop-rewind/fusion/automating-naming-conventions.md)
+    + [Automate Work Processes](workshop-rewind/fusion/automate-work-processes.md)
+    + [Fusion Benefits & Best Practices](workshop-rewind/fusion/benefits-best-practices.md)
+    + [Data Imports](workshop-rewind/fusion/data-imports.md)
+    + [Fusion Benefits and Use Cases](workshop-rewind/fusion/case-for-fusion.md)
+    + [Fusion Decoded](workshop-rewind/fusion/fusion-decoded.md)
+    + [Fusion Decoded Part 2 – Start Building](workshop-rewind/fusion/fusion-decoded-part-2.md)
+    + [How Workfront Fusion helps the Humans](workshop-rewind/fusion/inside-mayo-clinic.md)
+    + [Navigating Changes for Multi-Select Fields with Ease](workshop-rewind/fusion/mulit-select-fields.md)
+    + [Proactive Exception Handling](workshop-rewind/fusion/proactive-exception-handling.md)
+    + [Schneider Electric Drives Workfront Efficiency](workshop-rewind/fusion/schneider-electric-efficiency.md)
+    + [Streamline Workflows](workshop-rewind/fusion/automate-workflows.md)
+    + [Tips, Tricks, and Release Highlights](workshop-rewind/fusion/tips-tricks-release-highlights.md)
+    + [Unlocking True Event Costs](workshop-rewind/fusion/event-costs.md)
+    + [Upgrade to Event Subscriptions V2](workshop-rewind/fusion/event-subscriptions-v2.md)
+    + [Workfront Fusion + JSONata](workshop-rewind/fusion/jsonata.md)
+  + Planning {#planning}
+    + [Latest in Workfront Planning](workshop-rewind/planning/workfront-planning.md)
+    + [Adobe Workfront Planning Demo](workshop-rewind/planning/planning-demo.md)
+    + [Building Your Base Implementation](workshop-rewind/planning/base-implementation.md)
+    + [Connecting Planning, Workflow and Canvas Dashboards](workshop-rewind/planning/planning-workflow-canvas.md)
+    + [How Syracuse leverages Planning](workshop-rewind/planning/syracuse-planning.md)
+    + [SNHU's Creative Use Cases](workshop-rewind/planning/planning-reimagined.md)
+    + [Team-Level Success with Workfront Planning](workshop-rewind/planning/team-success-workfront-planning.md)
+    + [Workfront Planning Release & Roadmap](workshop-rewind/planning/planning-release-roadmap.md)
+  + Workflow {#workflow}
+    + [Blueprints](workshop-rewind/workflow/blueprints.md)
+    + [Boost Efficiency](workshop-rewind/workflow/cognizant-project-excellence.md)
+    + [Change Management in Workfront](workshop-rewind/workflow/change-management.md)
+    + [Content Supply Chain Integration](workshop-rewind/workflow/content-supply-chain.md)
+    + [Data Collection](workshop-rewind/workflow/data-collection.md)
+    + [Defining & Communicating Workfront Value](workshop-rewind/workflow/workfront-value.md)
+    + [Effective Communication Tips in Workfront](workshop-rewind/workflow/communication-tips.md)
+    + [Governance, Execution, and Adoption Tips](workshop-rewind/workflow/governance-execution-adoption.md)
+    + [Group Admin Essentials](workshop-rewind/workflow/group-admins.md)
+    + [Introducing Advanced Enterprise Operations](workshop-rewind/workflow/intro-aeo.md)
+    + [Lessons from Workfront Admins](workshop-rewind/workflow/lessons-learned-admins.md)
+    + [Mastering Business Rules](workshop-rewind/workflow/business-rules.md)
+    + [Mastering Email Notifications](workshop-rewind/workflow/email-notifications.md)
+    + [Mastering EXISTS Statements](workshop-rewind/workflow/master-exists-statements.md)
+    + [Maximize Workfront Value](workshop-rewind/workflow/value-realization.md)
+    + [Overcome Resistance to Change](workshop-rewind/workflow/overcome-resistance-to-change.md)
+    + [Power Templates](workshop-rewind/workflow/power-templates.md)
+    + [Project Templates](workshop-rewind/workflow/project-templates.md)
+    + [Reimagining Creative Briefs](workshop-rewind/workflow/creative-briefs.md)
+    + [Resource Management Basics](workshop-rewind/workflow/resource-management.md)
+    + [Resources to Accelerate Adoption and Value](workshop-rewind/workflow/accelerate-adoption.md)
+    + [Rethinking Resource Management](workshop-rewind/workflow/rethink-resource-management.md)
+    + [Secure Executive Sponsorship](workshop-rewind/workflow/secure-executive-sponsorship.md)
+    + [Self-Taught to Success](workshop-rewind/workflow/self-taught-to-success.md)
+    + [Spring Cleanup with Workfront Reports](workshop-rewind/workflow/workfront-reports-cleanup.md)
+    + [Team of One](workshop-rewind/workflow/team-of-one.md)
+    + [10 Communication Tips](workshop-rewind/workflow/10-communication-tips.md)
+    + [10 Text Mode Tips](workshop-rewind/workflow/text-mode-tips.md)
+    + [10 More Text Mode Tips](workshop-rewind/workflow/10-more-text-mode-tips.md)
+    + [Transform User Confusion into Confidence](workshop-rewind/workflow/avalara-user-transformation.md)
+    + [Troubleshooting Workfront Calculated Fields](workshop-rewind/workflow/troubleshoot-calculated-expressions.md)
+    + [Turning Blueprints into Training Programs](workshop-rewind/workflow/blueprints-to-planning.md)
+    + [Understanding Unified Approvals](workshop-rewind/workflow/unified-approvals.md)
+    + [Unlock Workfront Boards](workshop-rewind/workflow/unlock-boards.md)
+    + [Unlock the Power of Workfront Data Connect](workshop-rewind/workflow/data-connect.md)
+    + [Using Workfront for Effective Reorgs](workshop-rewind/workflow/effective-reorgs.md)
+    + [Workfront Admin - 10 Lessons](workshop-rewind/workflow/workfront-admin-10-lessons.md)
+    + [Workfront + AEM Native Integration](workshop-rewind/workflow/aem-native-integration.md)
+    + [Workfront Reporting - Year-End Strategies](workshop-rewind/workflow/reporting-year-end-strategies.md)
 + Quick Takes {#quicktakes}
   + Top 3 {#top3}
-    + [Creative Approaches with Blueprints](top3/blueprints.md)
-    + [Top 3 Approaches to Office Hours](top3/office-hours.md)
+    + [Create Shared Column Reports](quick-takes/top3/shared-column-report.md)
+    + [Creative Approaches with Blueprints](quick-takes/top3/blueprints.md)
+    + [Creative Ways to Use Workfront Boards](quick-takes/top3/creative-approaches-boards.md)
+    + [Getting Started with Workfront Boards Templates](quick-takes/top3/get-started-board-templates.md)
+    + [Maximize Report Scheduling in Workfront](quick-takes/top3/report-scheduling.md)
+    + [Reasons to Use Companies](quick-takes/top3/why-use-companies.md)
+    + [Start with Milestones](quick-takes/top3/get-started-milestones.md)
+    + [Top Reasons to Attend Workfront Workshops](quick-takes/top3/reason-attend-workshop.md)
+    + [Top Reasons to Use Layout Templates](quick-takes/top3/layout-templates.md)
+    + [Top Reasons for Resource Pools](quick-takes/top3/resource-pools.md)
+    + [Top 3 Approaches to Office Hours](quick-takes/top3/office-hours.md)
+    + [Top 3 Calendar Hacks](quick-takes/top3/calendar-hacks.md)
+    + [Top 3 Reasons to Use Workfront Boards](quick-takes/top3/boards-for-adoption.md)
+    + [Use Images in Custom Forms](quick-takes/top3/add-image-custom-forms.md)
+    + Watch Me Work {#watchmework}
+      + [Top Workfront Tips](quick-takes/top3/watch-me-work-1.md)
+      + [Top Project Management Features](quick-takes/top3/watch-me-work-2.md)
+      + [Top 3 Features for Workers in Workfront](quick-takes/top3/watch-me-work-3.md)
   + Versus! {#versus}
-    + [Groups vs. Teams](versus/groups-vs-teams.md)
+    + [Groups vs. Teams](quick-takes/versus/groups-vs-teams.md)
+    + [Issues vs. Projects](quick-takes/versus/issues-vs-projects.md)
 + Expert Insights {#expert-insights}
   + [Adoption](expert-insights/adoption.md)
   + [Adoption Surveys](expert-insights/adoption-surveys.md)
   + [Agile](expert-insights/agile.md)
   + [Content Supply Chain](expert-insights/content-supply-chain.md)
+  + [Evolution of an Instance](expert-insights/evolution-of-an-instance.md)
   + [Fusion](expert-insights/fusion.md)
   + [Governance & Centers of Excellence](expert-insights/centers-of-excellence.md)
+  + [Master Text Mode](expert-insights/text-mode.md)
   + [Non-Traditional Workfront Workflows](expert-insights/non-traditional-workfront-workflows.md)
   + [Reporting Practices](expert-insights/reporting-practices.md)
   + [Resource Management ](expert-insights/resource-management.md)
   + [Request Queues with Lyndsy Denk](expert-insights/request-queues.md)
   + [SLA Reporting in Workfront](expert-insights/sla-reporting.md)
   + [Enterprise Work Management](expert-insights/enterprise-work-management.md)
-+ Workshop Rewind {#workshop-rewind}
-  + Integrations {#integrations}
-      + [Navigating Changes for Multi-Select Fields with Ease](workshop-rewind/integrations/mulit-select-fields.md)
-      + [Unlocking True Event Costs](workshop-rewind/integrations/event-costs.md)
-  + Planning {#planning}
-      + [Team-Level Success with Workfront Planning](workshop-rewind/planning/team-success-workfront-planning.md)
-      + [Latest in Workfront Planning](workshop-rewind/planning/workfront-planning.md)
-  + Workflow {#workflow}
-      + [Creative ways of managing resources](classics/creative-ways-of-managing-resources.md)
-      + [Mastering Email Notifications](workshop-rewind/workflow/email-notifications.md)
-      + [Project Templates](workshop-rewind/workflow/project-templates.md)
-      + [Unlock the Power of Workfront Data Connect](workshop-rewind/workflow/data-connect.md)
-
 + Classics {#classics}
   + Administration {#administration}
     + [Audit Trails & Compliance](user-groups/audit-trails-and-compliance.md)
@@ -65,6 +142,7 @@ solution: Workfront
     + [Supercharge Basic Text Mode Reporting using the API Explorer](classics/supercharge-basic-text-mode-reporting-using-the-api-explorer.md)
     + [Understanding mix and capacity](classics/understanding-mix-and-capacity.md)
   + Resource Management {#resource-management}
+    + [Creative ways of managing resources](classics/creative-ways-of-managing-resources.md)
     + [Resource & Capacity Planning](user-groups/resource-and-capacity-planning.md)
     + [Resource Management](user-groups/resource-management.md)
   + Review and Approve Work {#review-and-approve-work}
@@ -79,10 +157,3 @@ solution: Workfront
     + [Leveraging Workfront Proof](user-groups/leveraging-workfront-proof.md)
   + Request Queues and Intake {#request-queues-and-intake}
     + [Request Queues and Intake Forms](user-groups/request-queues-and-intake-forms.md)
-
-
-
-
-<!--  + Planning {#planning}
-  + Integrations {#integrations}
--->

@@ -1,6 +1,8 @@
 ---
 title: Maximize Productivity with Workfront Fusion
 description: Maximize productivity with Workfront Fusion! Automate workflows, integrate systems, and enhance collaboration with tailored notifications, image resizing, and more.
+feature: Workfront Fusion, System Setup and Administration
+topic: Integrations, Security, Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

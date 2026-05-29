@@ -2,6 +2,7 @@
 title: Adobe Experience Manager Opening Keynote
 description: Discover how Adobe Experience Manager is evolving with AI. Explore agentic workflows, AI search, personalization at scale, and smarter content optimization.
 solution: Experience Manager as a Cloud Service
+feature: Edge Delivery Services, Migration
 topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner, Intermediate, Experienced

@@ -3,6 +3,7 @@ title: An Introduction to Boards
 description: Boards allow teams to manage work in a more visual way by creating a virtual board to display tasks, projects, and other work items. Whether you are a System Admin, a Project Manager, or an individual contributor, Boards offers a flexible and intuitive way to manage work.
 solution: Workfront
 feature: Work Management
+topic: Administration, Integrations
 role: User
 level: Beginner
 doc-type: Event

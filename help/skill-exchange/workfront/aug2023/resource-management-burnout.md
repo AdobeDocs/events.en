@@ -3,6 +3,7 @@ title: Tackle Burnout with Resource Management
 description: There are many ways to tackle burnout, but when it comes to work management, organizations need visibility into both the work being planned AND the resources available to execute.
 solution: Workfront
 feature: Resource Management
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event

@@ -4,6 +4,7 @@ description: Learn about the latest features in Adobe Real-Time CDP that have la
 kt: KT-15598
 solution: Real-Time Customer Data Platform, Experience Platform
 feature: Playbooks, Destinations, Sources
+topic: Integrations
 event-cta-url-live: https://www.youtube.com/live/Cw5004YGMbc
 event-start-time: 2024-06-26 09:00-7
 event-guests: Doug Moore,Nina Caruso,Rudi Shumpert

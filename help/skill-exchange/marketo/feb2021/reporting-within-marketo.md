@@ -2,6 +2,8 @@
 title: Reporting within [!DNL Marketo Engage]
 description: Gain an understanding of high level reporting capabilities within [!DNL Marketo Engage], and a deep dive into Reports and Smart Lists.
 solution: Marketo Engage
+feature: Smart Lists, Reporting
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 kt: 9710

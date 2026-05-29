@@ -7,6 +7,7 @@ doc-type: Event
 duration: 2675
 last-substantial-update: 2024-01-17
 feature: Product Announcements
+topic: Administration, Integrations
 jira: KT-14792
 thumbnail: 3426854.jpeg
 exl-id: d665f2fb-113f-49bb-9f66-baab0453cf4b

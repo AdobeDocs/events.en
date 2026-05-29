@@ -3,6 +3,7 @@ title: Adobe Experience Platform - Admin Console Permissions
 description: Admin console and what changed, the new access controls within the RTCDP UI, Adobe.io/developer console, and how to setup permissions for your RTCDP API integration.
 feature-set: Experience Platform
 feature: Access Control, API
+topic: Integrations, Development
 role: Admin, User
 level: Beginner
 doc-type: Event

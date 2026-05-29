@@ -4,6 +4,7 @@ description: If you have been thinking of using Adobe Workfront’s Resource Man
 solution: Workfront
 feature-set: Workfront
 feature: Resource Management
+topic: Administration, Integrations
 role: User
 level: Beginner
 doc-type: Event

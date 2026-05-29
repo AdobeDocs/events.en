@@ -2,6 +2,7 @@
 title: Acrobat Sign 101 - Getting Started
 description: Learn the basics of Acrobat Sign to start getting documents signed fast.
 feature: Sign
+topic: Development
 role: User
 level: Beginner
 doc-type: Event

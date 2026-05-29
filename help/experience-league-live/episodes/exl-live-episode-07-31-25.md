@@ -4,6 +4,7 @@ description: Learn how the latest Adobe Experience Manager integrations in Adobe
 kt: KT-18261
 solution: Journey Optimizer
 feature: Fragments, Integrations, Email Design, Personalization
+topic: Personalization, Integrations, Security
 event-cta-url-live: https://youtube.com/live/tyXesNYv-eM
 event-start-time: 2025-07-31 08:30-7
 event-guests: Sandra Hausmann, Chris Ivory, Jyothitha Chandran, Kaitlin White

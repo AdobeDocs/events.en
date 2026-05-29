@@ -3,6 +3,7 @@ title: Roadmap to Value with CJA
 description: Unlock CJA's full value with use case roadmaps, real examples, and steps to drive strategic, data-led decisions.
 solution: Customer Journey Analytics
 feature: Use Cases
+topic: Integrations, Migration
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event

@@ -2,6 +2,8 @@
 title: Skill Exchange Event Sept 2022 Analytics Grow Making Adobe Analytics Your Own
 description: You have Adobe Analytics; now make it your own by taking advantage of features and strategies unique to your users and business.
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event

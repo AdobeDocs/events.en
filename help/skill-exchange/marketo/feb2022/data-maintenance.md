@@ -2,6 +2,8 @@
 title: Data Maintenance Easy Adopted Methodologies to Keep Your Most Important Asset Clean
 description: Easy Adopted Methodologies to Keep Your Most Important Asset Clean
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 kt: 9765

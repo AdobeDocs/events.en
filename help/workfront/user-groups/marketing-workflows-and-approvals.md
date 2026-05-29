@@ -1,6 +1,8 @@
 ---
 title: Marketing Workflows and Approvals, Leap 2020 (July 1, 2020)
 description: Listen as Catherine Hayes provides insight into how The Channel Company creates and uses marketing workflows in her company.
+feature: Work Management, Workfront Fusion
+topic: Administration, Integrations
 role: Admin, User
 level: Beginner, Intermediate
 kt: 10003

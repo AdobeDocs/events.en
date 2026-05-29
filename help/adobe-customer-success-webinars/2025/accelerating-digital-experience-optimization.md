@@ -1,6 +1,8 @@
 ---
 title: Accelerating Digital Experience Optimization with AI-Powered Insights
 description: See how AI in Adobe Analytics, Target, and CJA boosts insight speed, personalization, and cross-channel optimization for smarter, faster marketing decisions.
+feature: Basics, Use Cases
+topic: Personalization
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Event

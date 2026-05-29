@@ -2,6 +2,8 @@
 title: Adobe Analytics Rockstars
 description: Four "Rockstar" customers will each present their best Adobe Analytics tip or trick. Who will dazzle you beyond belief? Watch and vote in real time.
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10320

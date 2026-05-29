@@ -3,6 +3,7 @@ title: Enabling Users on New Features - Agitation is Life
 description: Learn strategies to boost Workfront adoption—engaging users, aligning features with business goals, and using analytics to improve rollouts.
 solution: Workfront
 feature: Get Started with Workfront, Resource Management
+topic: Integrations, Administration
 role: User
 level: Beginner
 doc-type: Event

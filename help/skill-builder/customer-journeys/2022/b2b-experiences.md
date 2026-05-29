@@ -2,6 +2,8 @@
 title: B2B experiences with [!DNL Marketo Engage] and Adobe Experience Cloud
 description: Power the B2B experiences by connecting [!DNL Marketo Engage] with Adobe applications to simplify processes, streamline audience management and maximize personalization.
 solution: Marketo Engage, Experience Cloud
+feature: Programs, Reporting
+topic: Personalization, Integrations
 role: Admin, User
 level: Beginner, Intermediate, Experienced
 kt: 10569

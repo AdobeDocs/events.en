@@ -4,6 +4,7 @@ description: In this session, recorded live on November 6, 2023, at Adobe Develo
 solution: Commerce
 feature-set: Commerce
 feature: Extensibility, Integration
+topic: Integrations, Development
 role: Developer
 level: Beginner
 doc-type: Event

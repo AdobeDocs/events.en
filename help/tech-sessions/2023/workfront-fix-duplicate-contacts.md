@@ -6,6 +6,7 @@ level: Beginner
 doc-type: Event
 feature-set: Workfront
 feature: Workfront Proof
+topic: Administration, Integrations
 last-substantial-update: 2023-08-25
 jira: KT-13813
 thumbnail: 3422751.jpeg

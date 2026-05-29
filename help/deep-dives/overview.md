@@ -1,26 +1,29 @@
 ---
-title: Deep Dives
+title: Marketo Deep Dives
 description: Deep Dives is a video library where experts and peers have shared their thoughts and ideas on how to best use Adobe Marketo.
 exl-id: 21242f9e-8084-4482-8461-ba8a9e2fbd26
 duration: 15
 ---
-# Deep Dive Events
+# Marketo Deep Dive Events
 
 Welcome to the Deep Dives on-demand events recordings. Using these resources combined with the Adobe Marketo [documentation](https://experienceleague.adobe.com/docs/marketo-engage.html) and [tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html), you will gain a better understanding how to use Adobe Marketo to support your business.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch}
 
 * activity-log.md 
 * admin-console.md 
 * api.md 
-* applying-ai.md 
+* applying-ai.md
+* building-smarter-flows.md
 * campaign-operations.md 
 * certification.md 
 * email-designer.md 
 * email-nurture.md 
 * executable-campaigns.md 
+* fundamentals-for-ai.md
 * global-marketing.md 
 * ims-migration.md 
 * inheriting-an-instance.md 
@@ -40,7 +43,7 @@ Welcome to the Deep Dives on-demand events recordings. Using these resources com
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="activity-log.md" title="Notating Complex Processes in the Activity Log" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427149/?format=jpeg&nocache=1752782691688" alt="Notating Complex Processes in the Activity Log"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427149/?format=jpeg&nocache=1780010007034" alt="Notating Complex Processes in the Activity Log"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -63,7 +66,7 @@ Welcome to the Deep Dives on-demand events recordings. Using these resources com
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="admin-console.md" title="Preparing for Marketo Engage on Adobe Identity" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430920/?format=jpeg&nocache=1752782691676" alt="Preparing for Marketo Engage on Adobe Identity"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430920/?format=jpeg&nocache=1780010007038" alt="Preparing for Marketo Engage on Adobe Identity"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -86,7 +89,7 @@ Welcome to the Deep Dives on-demand events recordings. Using these resources com
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="api.md" title="APIs" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422479/?format=jpeg&nocache=1752782691708" alt="APIs"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422479/?format=jpeg&nocache=1780010007041" alt="APIs"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -109,7 +112,7 @@ Welcome to the Deep Dives on-demand events recordings. Using these resources com
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="applying-ai.md" title="Applying AI in Marketo" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458514/?format=jpeg&nocache=1752782691751" alt="Applying AI in Marketo"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458514/?format=jpeg&nocache=1780010007030" alt="Applying AI in Marketo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -127,12 +130,35 @@ Welcome to the Deep Dives on-demand events recordings. Using these resources com
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Automate & Innovate Building Smarter Flows with Webhooks & Self-Service Flow Steps (SSFS)">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="building-smarter-flows.md" title="Automate & Innovate Building Smarter Flows with Webhooks & Self-Service Flow Steps (SSFS)" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3480207/?format=jpeg&nocache=1780010007053" alt="Automate & Innovate Building Smarter Flows with Webhooks & Self-Service Flow Steps (SSFS)"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="building-smarter-flows.md" target="_blank" rel="referrer" title="Automate & Innovate Building Smarter Flows with Webhooks & Self-Service Flow Steps (SSFS)">Automate & Innovate Building Smarter Flows with Webhooks & Self-Service Flow Steps (SSFS)</a>
+                    </p>
+                    <p class="is-size-6">This Marketo deep dive covers Webhooks and Self-Service Flow Steps (SSFS) to help you build smarter, AI-ready marketing automation. Learn setup best practices, real-time integration techniques, and practical use cases including CRM updates, data enrichment, custom flow logic, and AI-powered workflows. Perfect for Marketo users, MOPs teams, and admins focused on stronger data quality and campaign results.</p>
+                </div>
+                <a href="building-smarter-flows.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Automating & Streamlining Campaign Operations Using the Marketo API">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="campaign-operations.md" title="Automating & Streamlining Campaign Operations Using the Marketo API" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440396/?format=jpeg&nocache=1752782691699" alt="Automating & Streamlining Campaign Operations Using the Marketo API"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440396/?format=jpeg&nocache=1780010007049" alt="Automating & Streamlining Campaign Operations Using the Marketo API"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -155,7 +181,7 @@ Welcome to the Deep Dives on-demand events recordings. Using these resources com
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="certification.md" title="Investing in Yourself - Adobe [!DNL Marketo Engage] Certification" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416760/?format=jpeg&nocache=1752782691760" alt="Investing in Yourself - Adobe [!DNL Marketo Engage] Certification"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416760/?format=jpeg&nocache=1780010007067" alt="Investing in Yourself - Adobe [!DNL Marketo Engage] Certification"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -178,7 +204,7 @@ Welcome to the Deep Dives on-demand events recordings. Using these resources com
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="email-designer.md" title="Discover the New Email Designer in Marketo Engage" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456026/?format=jpeg&nocache=1752782691717" alt="Discover the New Email Designer in Marketo Engage"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456026/?format=jpeg&nocache=1780010007076" alt="Discover the New Email Designer in Marketo Engage"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -188,7 +214,7 @@ Welcome to the Deep Dives on-demand events recordings. Using these resources com
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="email-designer.md" target="_blank" rel="referrer" title="Discover the New Email Designer in Marketo Engage">Discover the New Email Designer in Marketo Engage</a>
                     </p>
-                    <p class="is-size-6">Explore Marketo Engage’s new email designer with Adobe experts. Learn features, best practices, tips, migration strategies, and more to enhance your email marketing.</p>
+                    <p class="is-size-6">Explore Marketo Engage's new email designer with Adobe experts. Learn features, best practices, tips, migration strategies, and more to enhance your email marketing.</p>
                 </div>
                 <a href="email-designer.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
@@ -201,7 +227,7 @@ Welcome to the Deep Dives on-demand events recordings. Using these resources com
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="email-nurture.md" title="Adobe [!DNL Marketo Engage] Champion Deep Dive Email Nurture" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418903/?format=jpeg&nocache=1752782691728" alt="Adobe [!DNL Marketo Engage] Champion Deep Dive Email Nurture"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418903/?format=jpeg&nocache=1780010007062" alt="Adobe [!DNL Marketo Engage] Champion Deep Dive Email Nurture"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -224,7 +250,7 @@ Welcome to the Deep Dives on-demand events recordings. Using these resources com
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="executable-campaigns.md" title="Executable Campaigns - Learn how executables can drive efficiency & impact" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427704/?format=jpeg&nocache=1752782691736" alt="Executable Campaigns - Learn how executables can drive efficiency & impact"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427704/?format=jpeg&nocache=1780010007081" alt="Executable Campaigns - Learn how executables can drive efficiency & impact"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -242,12 +268,35 @@ Welcome to the Deep Dives on-demand events recordings. Using these resources com
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Marketo Engage Fundamentals for AI">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="fundamentals-for-ai.md" title="Adobe Marketo Engage Fundamentals for AI" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491592/?format=jpeg&nocache=1780010007057" alt="Adobe Marketo Engage Fundamentals for AI"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="fundamentals-for-ai.md" target="_blank" rel="referrer" title="Adobe Marketo Engage Fundamentals for AI">Adobe Marketo Engage Fundamentals for AI</a>
+                    </p>
+                    <p class="is-size-6">Learn how to optimize your Marketo instance for AI capabilities. Discover foundational setup practices to ensure effective AI integration and scalability.</p>
+                </div>
+                <a href="fundamentals-for-ai.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Unlocking Global Marketing with Marketo Engage - Adobe Champion Deep Dive - August 2024">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="global-marketing.md" title="Unlocking Global Marketing with Marketo Engage - Adobe Champion Deep Dive - August 2024" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433245/?format=jpeg&nocache=1752782691787" alt="Unlocking Global Marketing with Marketo Engage - Adobe Champion Deep Dive - August 2024"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433245/?format=jpeg&nocache=1780010007070" alt="Unlocking Global Marketing with Marketo Engage - Adobe Champion Deep Dive - August 2024"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -270,7 +319,7 @@ Welcome to the Deep Dives on-demand events recordings. Using these resources com
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="ims-migration.md" title="IMS Migration Unpacked - Simplifying the Transition for Marketo Users" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3441133/?format=jpeg&nocache=1752782691779" alt="IMS Migration Unpacked - Simplifying the Transition for Marketo Users"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3441133/?format=jpeg&nocache=1780010007073" alt="IMS Migration Unpacked - Simplifying the Transition for Marketo Users"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -293,7 +342,7 @@ Welcome to the Deep Dives on-demand events recordings. Using these resources com
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="inheriting-an-instance.md" title="Inheriting an Instance" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420422/?format=jpeg&nocache=1752782691743" alt="Inheriting an Instance"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420422/?format=jpeg&nocache=1780010007083" alt="Inheriting an Instance"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -316,7 +365,7 @@ Welcome to the Deep Dives on-demand events recordings. Using these resources com
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="lead-lifecycles.md" title="Lead Lifecycles" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3421711/?format=jpeg&nocache=1752782691768" alt="Lead Lifecycles"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3421711/?format=jpeg&nocache=1780010007079" alt="Lead Lifecycles"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -339,7 +388,7 @@ Welcome to the Deep Dives on-demand events recordings. Using these resources com
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo-forms-aem-forms.md" title="Whose form is it anyway? Deep dive on Marketo forms compared to AEM Forms" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448534/?format=jpeg&nocache=1752782691830" alt="Whose form is it anyway? Deep dive on Marketo forms compared to AEM Forms"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448534/?format=jpeg&nocache=1780010007087" alt="Whose form is it anyway? Deep dive on Marketo forms compared to AEM Forms"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -362,7 +411,7 @@ Welcome to the Deep Dives on-demand events recordings. Using these resources com
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="maximize-email-deliverability.md" title="Maximize Email Deliverability with Marketo - Best Practices for Reaching Your Audience" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435343/?format=jpeg&nocache=1752782691795" alt="Maximize Email Deliverability with Marketo - Best Practices for Reaching Your Audience"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435343/?format=jpeg&nocache=1780010007182" alt="Maximize Email Deliverability with Marketo - Best Practices for Reaching Your Audience"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -385,7 +434,7 @@ Welcome to the Deep Dives on-demand events recordings. Using these resources com
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="pmcf-fields.md" title="Leveraging PMCF Fields for Scalability" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430531/?format=jpeg&nocache=1752782691804" alt="Leveraging PMCF Fields for Scalability"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430531/?format=jpeg&nocache=1780010007090" alt="Leveraging PMCF Fields for Scalability"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -408,7 +457,7 @@ Welcome to the Deep Dives on-demand events recordings. Using these resources com
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="salesforce-background-sync.md" title="Enhanced Visibility & Control - Salesforce background synch upgrade & Usage Monitoring" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457883/?format=jpeg&nocache=1752782691838" alt="Enhanced Visibility & Control - Salesforce background synch upgrade & Usage Monitoring"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457883/?format=jpeg&nocache=1780010007203" alt="Enhanced Visibility & Control - Salesforce background synch upgrade & Usage Monitoring"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -431,7 +480,7 @@ Welcome to the Deep Dives on-demand events recordings. Using these resources com
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="small-team-instance.md" title="Learn how a small team maximizes their Adobe [!DNL Marketo Engage] instance" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3417670/?format=jpeg&nocache=1752782691822" alt="Learn how a small team maximizes their Adobe [!DNL Marketo Engage] instance"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3417670/?format=jpeg&nocache=1780010007189" alt="Learn how a small team maximizes their Adobe [!DNL Marketo Engage] instance"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -454,7 +503,7 @@ Welcome to the Deep Dives on-demand events recordings. Using these resources com
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="webhooks.md" title="Adobe Marketo Engage Champion Deep Dive - Using Webhooks to Transfer Data" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428687/?format=jpeg&nocache=1752782691814" alt="Adobe Marketo Engage Champion Deep Dive - Using Webhooks to Transfer Data"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428687/?format=jpeg&nocache=1780010007197" alt="Adobe Marketo Engage Champion Deep Dive - Using Webhooks to Transfer Data"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

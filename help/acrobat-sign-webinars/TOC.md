@@ -1,22 +1,35 @@
 ---
 user-guide-title: Acrobat Sign webinars
 user-guide-description: Learn from Adobe experts how to master new e-signature workflows in Acrobat Sign.
+cloud: Document Cloud
+solution: Document Cloud
 ---
 
 # Acrobat Sign webinars {#acrobat-sign-webinars}
 
 + [Overview](overview.md)
-+ [Acrobat Sign 101](./skill-builders/getting-started.md)
-+ [Adobe Acrobat Sign July Release 2025](skill-builders/acrobat-july-release.md)
-+ [Prepare Your Agreements for e-signature](./skill-builders/e-signature-setup.md)
-+ [Work with e-signatures in your Microsoft apps](./skill-builders/e-signature-microsoft.md)
-+ [Advanced Tips for Sending Documents for Signature](./skill-builders/advanced-sending-documents-signature.md)
-+ [Post a Fillable, Signable Web Form](./skill-builders/fillable-signable-web-form.md)
-+ [Collect Many Signatures with One Click](./skill-builders/collect-signatures.md)
-+ [Authoring Environment](./skill-builders/authoring-environment.md)
-+ [Visibility into Agreement Status](./skill-builders/agreement-status.md)
-+ [Advanced Reporting](./skill-builders/advanced-reporting.md)
-+ [Creating and Using Workflows](./skill-builders/create-use-workflows.md)
-+ [Document Builder](./skill-builders/document-builder.md)
-+ [Workflow Automations](./skill-builders/workflow-automations.md)
-+ [Notarize Integration](./skill-builders/notarize.md)
++ Release webinars {#releases}
+  + [February 2026](skill-builders/acrobat-sign-february-2026-release.md)
+  + [October 2025](skill-builders/acrobat-sign-october-2025-release.md)
+  + [July 2025](skill-builders/acrobat-july-release.md)
++ Innovation - New Feature Highlights {#newfeatures}
+  + [Getting started with Custom Workflows](./skill-builders/custom-workflows.md)
+  + [Identity Verification and Security](./skill-builders/identity-verification-security.md)
+  + [Optimize Mobile E-Signing](./skill-builders/mobile-e-signing.md)
++ 101 - Get Started for Users {#getstartedusers}
+  + [Acrobat Sign 101](./skill-builders/getting-started.md)
+  + [Authoring Environment](./skill-builders/authoring-environment.md)
+  + [Prepare Your Agreements for e-signature](./skill-builders/e-signature-setup.md)
+  + [Visibility into Agreement Status](./skill-builders/agreement-status.md)
+  + [Work with e-signatures in your Microsoft apps](./skill-builders/e-signature-microsoft.md)
+  + [Creating and Using Workflows](./skill-builders/create-use-workflows.md)
++ 101 - Get Started for Admins {#getstartedadmins}
+  + [Power Up Your Acrobat Sign Admin Experience](./skill-builders/acrobat-sign-admin-experience.md)
+  + [Administrators on ETLA](./skill-builders/acrobat-sign-admin-etla.md)
+  + [Advanced Reporting](./skill-builders/advanced-reporting.md)
++ 102 - Advanced Tasks {#advancedtasks}
+  + [Advanced Tips for Sending Documents for Signature](./skill-builders/advanced-sending-documents-signature.md)
+  + [Collect Many Signatures with One Click](./skill-builders/collect-signatures.md)
+  + [Document Builder](./skill-builders/document-builder.md)
+  + [Post a Fillable, Signable Web Form](./skill-builders/fillable-signable-web-form.md)
+  + [Workflow Automations](./skill-builders/workflow-automations.md)

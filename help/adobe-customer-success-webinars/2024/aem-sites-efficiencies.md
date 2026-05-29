@@ -2,6 +2,8 @@
 title: AEM Sites Efficiencies - Performance optimization, Configuration, and Troubleshooting
 description: The webinar on AMP site efficiencies covered performance optimization, dispatcher configuration, rights management best practices, and strategies to address performance issues.
 solution: Experience Manager
+feature: Authoring
+topic: Performance
 version: Experience Manager as a Cloud Service
 role: Admin, Developer, Leader, User
 level: Intermediate

@@ -2,6 +2,7 @@
 title: Adobe Developers Live - NOV 22- Build Your First React App
 description: Build Your First React App with Experience Manager Headless CMSIntroduction to Adobe Experience Manager headless CMS Content Fragments GraphQL capabilities.In this session, you'll learn how to quickly setup a React App fueled with data coming from Adobe Experience Manager headless CMS.
 solution: Experience Manager,Experience Manager Sites
+feature: Edge Delivery Services, Release Information, Content Fragments
 product: experience manager
 sub-product: sites
 topic: Development, Headless

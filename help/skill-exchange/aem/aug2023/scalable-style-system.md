@@ -5,6 +5,7 @@ solution: Experience Manager
 version: Experience Manager as a Cloud Service
 feature-set: Experience Manager Sites
 feature: Style System
+topic: Development, Headless
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -14,7 +15,6 @@ thumbnail: 3424019.jpeg
 exl-id: 4b420f9e-bf6d-469c-9b43-0a25151f46c5
 duration: 1696
 ---
-
 # Skill Exchange Event Aug 2023 - AEM Developer Track - Unlocking the Power of Style: Building an Effective & Scalable Style System
 
 Creation of a new style system to repurpose components for multiple tenants/business units based on their branding guidelines.

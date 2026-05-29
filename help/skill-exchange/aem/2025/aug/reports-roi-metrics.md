@@ -2,6 +2,8 @@
 title: Developing Reports and ROI Metrics for AEM Assets
 description: Learn to build custom reports and ROI metrics in AEM Assets. Discover best practices for tracking asset performance and business impact.
 solution: Experience Manager, Experience Manager Assets
+feature: Edge Delivery Services, Release Information, Dynamic Media, Metadata
+topic: Personalization, Integrations, Performance
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

@@ -5,6 +5,7 @@ role: Admin, User
 level: Beginner
 feature-set: Experience Manager
 feature: Cloud Manager
+topic: Migration
 doc-type: Event
 last-substantial-update: 2023-08-25
 jira: KT-13810

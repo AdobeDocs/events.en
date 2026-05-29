@@ -2,6 +2,8 @@
 title: Fundamentals of Workfront System and Group Admin Guardianship
 description: Discover best practices for determining the right balance of Workfront System and Group Administrators, distributing workloads, and maintaining data integrity to scale your enterprise efficiently and securely.
 solution: Workfront
+feature: Resource Management, Reports and Dashboards, System Setup and Administration
+topic: Performance, Administration, Certification
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
