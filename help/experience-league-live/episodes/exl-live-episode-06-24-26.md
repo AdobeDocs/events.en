@@ -6,6 +6,7 @@ solution: Target
 event-cta-url-live: https://www.youtube.com/watch?v=P71hcKEazY0
 event-start-time: 2026-06-24 08:30-8
 event-guests: Daniel Wright, Drew Burns, James Torio
+exl-id: 1e99a025-d052-4cd6-96c8-0fd4b9a7ae7b
 ---
 # How to leverage Target MCP and other major new releases in Adobe Target
 
