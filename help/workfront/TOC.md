@@ -41,6 +41,7 @@ solution: Workfront
     + [Adobe Workfront Planning Demo](workshop-rewind/planning/planning-demo.md)
     + [Building Your Base Implementation](workshop-rewind/planning/base-implementation.md)
     + [Connecting Planning, Workflow and Canvas Dashboards](workshop-rewind/planning/planning-workflow-canvas.md)
+    + [Workfront Planning Global Record Types](workshop-rewind/planning/global-record-types.md)
     + [How Syracuse leverages Planning](workshop-rewind/planning/syracuse-planning.md)
     + [SNHU's Creative Use Cases](workshop-rewind/planning/planning-reimagined.md)
     + [Team-Level Success with Workfront Planning](workshop-rewind/planning/team-success-workfront-planning.md)
