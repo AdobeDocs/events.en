@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3598
 last-substantial-update: 2026-06-01
 jira: KT-21454
+exl-id: 26f5bda2-b8f1-4143-bb46-307d24fc03f2
 ---
-
 # Configuring Acrobat Sign for Healthcare, Life Science & FDA-Regulated Best Practices
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491651/?learn=on&enablevpops)
@@ -20,4 +20,3 @@ Navigating e-signature compliance in regulated environments — from FDA 21 CFR 
 * What resources are available to support your compliance journey — A tour of Sign's rich compliance resources, including handbooks and white papers, the validation template package, and additional tools to help your team get started.
 
 Whether you're an IT admin configuring Sign for a regulated department or a compliance lead evaluating e-signature readiness, you'll leave with a clear path to setting up Acrobat Sign for your healthcare, life science, or FDA-regulated workflows.
-

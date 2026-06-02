@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3471
 last-substantial-update: 2026-06-01
 jira: KT-21443
+exl-id: 8ade7c70-ffbd-4b86-9591-d8385857b011
 ---
-
 # Getting Started with Web Forms in Acrobat Sign
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491645/?learn=on&enablevpops)
@@ -20,5 +20,3 @@ Still emailing forms back and forth or chasing down signatures one agreement at 
 * How to manage and track your Web Form results — Monitor submissions in real time, download form field data, edit or disable a live form, and keep your Web Forms organized as usage grows.
 
 Whether you're collecting signatures from ten people or ten thousand, you'll leave this session ready to create, publish, and manage your first Web Form with confidence.
-
-
