@@ -13,6 +13,6 @@ exl-id: 25df1808-5343-42e3-8c21-1520140defae
 
 Test and validate your journeys before launch and learn how to take it further with the brand-new Journey Simulation.
 
-[![ExL LIVE June 17 2026](assets/exl-live-june-17-2026-webbanner.jpg)](https://www.youtube.com/live/32NMm_z7lRw){target="_blank"}
+[![ExL LIVE June 17 2026](assets/exl-live-june-17-2026-webbanner.jpg)](https://engage.adobe.com/ExpLeagueLive-260617.html){target="_blank"}
 
-[Set a YouTube reminder!](https://www.youtube.com/live/32NMm_z7lRw){target="_blank"}
+[REGISTER NOW!](https://engage.adobe.com/ExpLeagueLive-260617.html){target="_blank"}
