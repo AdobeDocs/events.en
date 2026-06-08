@@ -7,8 +7,8 @@ doc-type: Value Video
 duration: 4033
 last-substantial-update: 2026-06-08
 jira: KT-21503
+exl-id: 837809eb-12ca-4dab-87ce-18306c23f39a
 ---
-
 # Transform AEM with AI agents and assistants
 
 Transforming AEM with AI Agents & Intelligent Assistants - Building the Future of Experience Delivery

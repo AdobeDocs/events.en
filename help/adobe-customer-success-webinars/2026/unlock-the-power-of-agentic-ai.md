@@ -7,8 +7,8 @@ doc-type: Value Video
 duration: 3656
 last-substantial-update: 2026-06-08
 jira: KT-21502
+exl-id: 80698cc3-172c-4e2a-ae60-012aa7dcbcec
 ---
-
 # Unlock the power of agentic AI across Adobe CX Enterprise
 
 Agentic AI is reshaping how organizations create, manage, and optimize customer experiences. In this session, you'll get a high-level introduction to how Adobe Experience Platform, Agent Orchestrator, and Adobe's growing portfolio of purpose-built AI agents work together to unify data, streamline workflows, improve decision-making, and enable more personalized experiences at scale. We'll explore core use cases across data, content, and customer journeys, along with the strategic value of adopting agentic workflows to modernize operations and prepare for the next era of AI-driven customer experience.
