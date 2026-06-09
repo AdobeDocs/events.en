@@ -22,6 +22,6 @@ In this session, you'll learn how to:
 
 Don't miss this chance to see the latest in agentic optimization, and get your questions answered live by our experts.
 
-[Set a YouTube reminder!](https://engage.adobe.com/ExpLeagueLive-260624.html){target="_blank"}
+**[Register now!](https://engage.adobe.com/ExpLeagueLive-260624.html){target="_blank"}**
 
 [![ExL LIVE June 24 2026](/help/experience-league-live/episodes/assets/webbanner-june-24-2026.png)](https://engage.adobe.com/ExpLeagueLive-260624.html){target="_blank"}
