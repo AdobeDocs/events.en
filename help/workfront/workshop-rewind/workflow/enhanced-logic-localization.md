@@ -7,8 +7,8 @@ doc-type: Event
 duration: 2705
 last-substantial-update: 2026-06-10
 jira: KT-21577
+exl-id: b569d371-2041-4545-9767-c9930f260d2c
 ---
-
 # Capture Smarter, Scale Globally - Custom Forms & Localization in Workfront
 
 In the second session of our Advanced Enterprise Operations (AEO) Capabilities Event Series, our Adobe Product Managers, Khachatur Sedrakyan and Kristine Tumanyan, explored four new advanced logic types, display, editability, conditional formatting, and default values, that enable more dynamic, automated, and data-accurate intake experiences, as well as introduced new localization enhancements that allow teams to add custom translations for user-entered labels.
