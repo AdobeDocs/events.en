@@ -54,6 +54,7 @@ solution: Workfront
     + [Data Collection](workshop-rewind/workflow/data-collection.md)
     + [Defining & Communicating Workfront Value](workshop-rewind/workflow/workfront-value.md)
     + [Effective Communication Tips in Workfront](workshop-rewind/workflow/communication-tips.md)
+    + [Enhanced Custom Forms and Localization](workshop-rewind/workflow/enhanced-logic-localization.md)
     + [Governance, Execution, and Adoption Tips](workshop-rewind/workflow/governance-execution-adoption.md)
     + [Group Admin Essentials](workshop-rewind/workflow/group-admins.md)
     + [Introducing Advanced Enterprise Operations](workshop-rewind/workflow/intro-aeo.md)
