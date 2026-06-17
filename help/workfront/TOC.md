@@ -28,6 +28,7 @@ solution: Workfront
     + [Fusion Decoded](workshop-rewind/fusion/fusion-decoded.md)
     + [Fusion Decoded Part 2 – Start Building](workshop-rewind/fusion/fusion-decoded-part-2.md)
     + [How Workfront Fusion helps the Humans](workshop-rewind/fusion/inside-mayo-clinic.md)
+    + [McKesson Fusion Resourcing Automation](workshop-rewind/fusion/mckesson-fusion-automation.md)
     + [Navigating Changes for Multi-Select Fields with Ease](workshop-rewind/fusion/mulit-select-fields.md)
     + [Proactive Exception Handling](workshop-rewind/fusion/proactive-exception-handling.md)
     + [Schneider Electric Drives Workfront Efficiency](workshop-rewind/fusion/schneider-electric-efficiency.md)
