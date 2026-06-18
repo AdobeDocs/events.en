@@ -44,6 +44,20 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
     </div>
   </td>
 </tr>
+<tr>
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-07-16-26.md">
+      <img alt="Experience League LIVE July 16" src="assets/WebBannerExlLive-July16-2026.png">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-07-16-26.md">
+        <strong>"AEM Content Fragments in Adobe Journey Optimizer: What's New and How to Use It"</strong>
+      </a>
+      <br/><em>with Sandra Hausmann, Jyothitha Chandran, Tyson Wai, and Chris Ivory</em>
+      <br/><em>July 16, 2026</em>
+    </div>
+  </td>
+</tr>
+
 </table>
 
 <div id="recs-overview-body-1"></div>
