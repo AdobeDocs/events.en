@@ -33,4 +33,5 @@ We'll be answering your questions during this live chat.
 
 ## Additional resources
 
-* [Inside Adobe’s AI experimentation accelerator - Podcast](https://conversion.com/podcast/the-conversion-podcast-adobe-ai/)
+* [Inside Adobe's AI experimentation accelerator - Podcast](https://conversion.com/podcast/the-conversion-podcast-adobe-ai/)
+
