@@ -19,19 +19,6 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 
 <table>
 <tr>
-    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-17-26.md">
-      <img alt="Experience League LIVE June 17" src="episodes/assets/exl-live-june-17-2026-webbanner.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-06-17-26.md">
-        <strong>How to efficiently test, simulate and validate journeys before going live</strong>
-      </a>
-      <br/><em>with Sandra Hausmann, Ariel Sultan, and Nicolas Dufau</em>
-      <br/><em>June 17, 2026</em>
-    </div>
-  </td>
-</tr>
-<tr>
     <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-24-26.md">
       <img alt="Experience League LIVE June 24" src="episodes/assets/webbanner-june-24-2026.png">
     </a>

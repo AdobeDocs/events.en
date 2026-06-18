@@ -11,8 +11,11 @@ exl-id: 25df1808-5343-42e3-8c21-1520140defae
 ---
 # How to efficiently test, simulate and validate journeys before going live
 
-Test and validate your journeys before launch and learn how to take it further with the brand-new Journey Simulation.
+In this Experience League Live session, we dive into journey testing and validation tools in Adobe Journey Optimizer, so you can go live with confidence.
 
-[![ExL LIVE June 17 2026](assets/exl-live-june-17-2026-webbanner.jpg)](https://engage.adobe.com/ExpLeagueLive-260617.html){target="_blank"}
+Whether you're working with event-based or audience-based journeys, AJO gives you multiple ways to validate your logic before your customers ever see a message. 
+We walk you through the ideal way to test your journeys before launch and show you how to take it further with the brand-new Journey Simulation.
 
-[REGISTER NOW!](https://engage.adobe.com/ExpLeagueLive-260617.html){target="_blank"}
+>[!VIDEO](https://video.tv.adobe.com/v/3492438/?learn=on&enablevpops)
+
+Join the conversation in the [Experience League Community](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/experience-league-live-june-17-2026-8-30-am-pt-journey-testing-validation-in-adobe-journey-optimizer-251138) — our experts are standing by to answer your questions.
