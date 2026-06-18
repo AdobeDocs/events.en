@@ -15,6 +15,7 @@ doc-type: live event
 
 + [Overview](overview.md)
 + Episodes {#episodes}
+  + [AEM Content Fragments in Adobe Journey Optimizer: What's New and How to Use It](episodes/exl-live-episode-07-16-26.md)
   + [How to leverage Target MCP and other major new releases in Adobe Target](episodes/exl-live-episode-06-24-26.md)
   + [Efficiently test, simulate and validate journeys before going live](episodes/exl-live-episode-06-17-26.md)
   + [New Use Cases for Customer Engagement: iOS Live Activities, Web Push, and Persistent Messaging](episodes/exl-live-episode-04-08-26.md)

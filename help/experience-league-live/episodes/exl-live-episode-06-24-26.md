@@ -6,10 +6,11 @@ solution: Target
 event-cta-url-live: https://www.youtube.com/watch?v=P71hcKEazY0
 event-start-time: 2026-06-24 08:30-8
 event-guests: Daniel Wright, Drew Burns, James Torio
+exl-id: 1e99a025-d052-4cd6-96c8-0fd4b9a7ae7b
 ---
 # How to leverage Target MCP and other major new releases in Adobe Target
 
-Join us for this Experience League LIVE episode where our experts will showcase how Adobe Target is providing a Target MCP for analyzing program insights and building and editing activities with the help of an agent and additional new features for scaling optimization. 
+Join us for the next Experience League LIVE, where our experts walk you through the latest Adobe Target innovations as we step into a new agentic era. We introduce the new Target MCP, including what it is, how to access it, and how it works to analyze program insights and build and edit activities with an agent. We also share demos of additional new features and enhancements designed to help you scale optimization.
 
 In this session, you'll learn how to: 
 
@@ -21,7 +22,6 @@ In this session, you'll learn how to:
 
 Don't miss this chance to see the latest in agentic optimization, and get your questions answered live by our experts.
 
+**[Register now!](https://engage.adobe.com/ExpLeagueLive-260624.html){target="_blank"}**
 
-[![ExL LIVE June 24 2026](/help/experience-league-live/episodes/assets/webbanner-june-24-2026.png)](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
-
-[Set a YouTube reminder!](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
+[![ExL LIVE June 24 2026](/help/experience-league-live/episodes/assets/webbanner-june-24-2026.png)](https://engage.adobe.com/ExpLeagueLive-260624.html){target="_blank"}

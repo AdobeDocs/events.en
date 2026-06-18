@@ -47,7 +47,7 @@ CARDS
 
 ## Workshop Rewind
 
-The month of May marks the beginning of graduation season, a time for fresh perspectives and learning from those who've been there before. To celebrate, we're highlighting a selection of sessions featuring seasoned Adobe Workfront customers sharing practical advice, real-world experiences, and insights you can apply right away. This month's featured videos include a mix of brand-new content and standout sessions from the past that remain just as relevant today.
+June has arrived and so has the latest edition of [The Workfront Wire](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/the-workfront-wire-june-2026-your-go-to-source-for-news-updates-events-250880?tid=250880)! This newsletter is your one-stop-shop for the latest news, updates, events, and everything happening across the Workfront world.
 
  Looking for more? Explore the latest from your Adobe Workfront community through our curated selection of on-demand events. Use the left navigation menu to browse topics under Workshop Rewind, where sessions are grouped by Fusion, Planning, and Workflow to help you quickly find content tailored to your needs.
  
