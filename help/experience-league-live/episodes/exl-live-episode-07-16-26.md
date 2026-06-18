@@ -1,5 +1,5 @@
 ---
-title: AEM Content Fragments in Adobe Journey Optimizer: What's New and How to Use It
+title: "AEM Content Fragments in Adobe Journey Optimizer: What's New and How to Use It"
 description: In this Experience League Live session, we walk through the latest enhancements to Adobe Experience Manager (AEM) Content Fragments in Adobe Journey Optimizer (AJO), so your content teams and journey practitioners can work together more efficiently, with less friction and more control. 
 kt: 21652
 solution: Journey Optimizer
