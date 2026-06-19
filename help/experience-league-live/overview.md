@@ -14,7 +14,6 @@ duration: 67
 Experience League LIVE is a live streaming show produced by the Experience League team.  It's a chance to connect with Adobe product experts and learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.
 
 
-
 ## Upcoming Experience League LIVE events
 
 <table>
@@ -44,7 +43,6 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
     </div>
   </td>
 </tr>
-
 </table>
 
 <div id="recs-overview-body-1"></div>
@@ -53,7 +51,6 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 <div id="recs-overview-body-4"></div>
 <div id="recs-overview-body-5"></div>
 <div id="recs-overview-body-6"></div>
-
 <div id="past-events">
 
 
@@ -62,7 +59,6 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 ## Staff Picks
 
 <table style="max-width: 1214px;">
-
 <tr>
   <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-26-24.md">
       <img alt="Experience League LIVE Apr 21" src="episodes/assets/WebBanner-June26-2024.jpg">
@@ -75,8 +71,6 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
       <br/><em>June 26, 2024</em>
     </div>
   </td>
-  
-
   <td style="vertical-align: top;">
     <a href="episodes/exl-live-episode-05-26-22.md">
       <img alt="Experience League LIVE May 26" src="episodes/assets/WebBanner-Apr24-2024.jpg">
@@ -90,7 +84,6 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
     </div>
   </td>
   </tr>
-  
 </table>
 
 
