@@ -79,6 +79,7 @@ solution: Workfront
     + [10 Communication Tips](workshop-rewind/workflow/10-communication-tips.md)
     + [10 Text Mode Tips](workshop-rewind/workflow/text-mode-tips.md)
     + [10 More Text Mode Tips](workshop-rewind/workflow/10-more-text-mode-tips.md)
+    + [Track Your Sys Admin Value](workshop-rewind/workflow/system-admin-value.md)
     + [Transform User Confusion into Confidence](workshop-rewind/workflow/avalara-user-transformation.md)
     + [Troubleshooting Workfront Calculated Fields](workshop-rewind/workflow/troubleshoot-calculated-expressions.md)
     + [Turning Blueprints into Training Programs](workshop-rewind/workflow/blueprints-to-planning.md)
