@@ -1,7 +1,6 @@
 ---
 title: How to leverage Target MCP and other major new releases in Adobe Target
-description: Test and validate your journeys before launch and learn how to take it further with the brand-new Journey Simulation.
-kt: 21226
+description: Learn how to leverage the new Adobe Target MCP server to build and analyze activities with an agent, plus explore Bayesian testing, feature flags, and CDN Experimentation.
 solution: Target
 event-cta-url-live: https://www.youtube.com/watch?v=P71hcKEazY0
 event-start-time: 2026-06-24 08:30-8
@@ -23,3 +22,4 @@ You'll learn how to:
 >[!VIDEO](https://video.tv.adobe.com/v/3492605/?learn=on&enablevpops)
 
 Visit the product documentation for more informaton on [Adobe Target MCP server](https://experienceleague.adobe.com/en/docs/target/using/mcp/target-mcp).
+Have questions? Ask them in the [community forum](https://experienceleaguecommunities.adobe.com/adobe-target-14/experience-league-live-june-24-2026-how-to-leverage-target-mcp-and-other-major-new-releases-in-adobe-target-watch-the-recording-251358) — our experts are actively monitoring this episode's discussion thread.
