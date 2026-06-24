@@ -5,14 +5,14 @@ kt: 21226
 solution: Target
 event-cta-url-live: https://www.youtube.com/watch?v=P71hcKEazY0
 event-start-time: 2026-06-24 08:30-8
-event-guests: Daniel Wright, Drew Burns, James Torio
+event-guests: Daniel Wright, Drew Burns
 exl-id: 1e99a025-d052-4cd6-96c8-0fd4b9a7ae7b
 ---
 # How to leverage Target MCP and other major new releases in Adobe Target
 
-Join us for the next Experience League LIVE, where our experts walk you through the latest Adobe Target innovations as we step into a new agentic era. We introduce the new Target MCP, including what it is, how to access it, and how it works to analyze program insights and build and edit activities with an agent. We also share demos of additional new features and enhancements designed to help you scale optimization.
+In this Experience League LIVE episode, our experts walk you through the latest Adobe Target innovations as we step into a new agentic era. We introduce the new Target MCP, including what it is, how to access it, and how it works to analyze program insights and build and edit activities with an agent. We also share demos of additional new features and enhancements designed to help you scale optimization.
 
-In this session, you'll learn how to: 
+You'll learn how to: 
 
 - Set-up the Target MCP with your agent of choice
 - Use the Target MCP with CX Enterprise Coworker to rapidly analyze your activities, offers, audiences and performance
@@ -20,8 +20,4 @@ In this session, you'll learn how to:
 - Learn to use new additional releases for broadening your use cases in Adobe Target including Bayesian testing, feature flag testing and CDN Experimentation
 - See new designs and features that surface the ROI you are driving within your program based on your key business goals
 
-Don't miss this chance to see the latest in agentic optimization, and get your questions answered live by our experts.
-
-**[Register now!](https://engage.adobe.com/ExpLeagueLive-260624.html){target="_blank"}**
-
-[![ExL LIVE June 24 2026](/help/experience-league-live/episodes/assets/webbanner-june-24-2026.png)](https://engage.adobe.com/ExpLeagueLive-260624.html){target="_blank"}
+>[!VIDEO](https://video.tv.adobe.com/v/3492605/?learn=on&enablevpops)
