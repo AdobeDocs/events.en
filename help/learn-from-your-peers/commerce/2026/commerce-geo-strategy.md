@@ -17,7 +17,7 @@ Drawing on real implementations with one of the world's most recognized consumer
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491452/?learn=on&enablevpops)
 
-[*Session slides*](../../assets/commerce/adobe-commerce-geo-strategy-llm-optimization-slides.pdf){target="_blank"}
+[Session slides](https://expleague.blob.core.windows.net/thumb/adobe-commerce-geo-strategy-llm-optimization-slides.pdf){target="_blank"}
 
 ## What you'll learn
 
