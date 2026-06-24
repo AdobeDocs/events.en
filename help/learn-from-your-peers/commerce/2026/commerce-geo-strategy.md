@@ -7,8 +7,6 @@ doc-type: Event
 duration: 5
 last-substantial-update: 2026-05-26
 jira: KT-21383
-hidefromtoc: true
-hide: yes
 exl-id: 28a56924-b608-48b9-bbcd-ebf48616c2cc
 ---
 # Adobe Commerce GEO strategy – LLM optimization across D2C experiences
@@ -18,6 +16,8 @@ Join Adobe Commerce Champion Guillermo (Memo) Raya for an educational session on
 Drawing on real implementations with one of the world's most recognized consumer brands, spanning D2C operations across multiple markets, Memo demonstrates how structured, intent-driven content within Adobe Commerce can influence discoverability in AI-driven environments, and how content strategy directly impacts GEO performance.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491452/?learn=on&enablevpops)
+
+[*Session slides*](help/learn-from-your-peers/commerce/2026/commerce-geo-strategy.md)
 
 ## What you'll learn
 
