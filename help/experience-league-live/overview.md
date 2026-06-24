@@ -18,19 +18,6 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 
 <table>
 <tr>
-    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-24-26.md">
-      <img alt="Experience League LIVE June 24" src="episodes/assets/webbanner-june-24-2026.png">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-06-24-26.md">
-        <strong>How to leverage Target MCP and other major new releases in Adobe Target</strong>
-      </a>
-      <br/><em>with Daniel Wright, James Torio, and Drew Burns</em>
-      <br/><em>June 24, 2026</em>
-    </div>
-  </td>
-</tr>
-<tr>
     <td style="vertical-align: top;"><a href="episodes/exl-live-episode-07-16-26.md">
       <img alt="Experience League LIVE July 16" src="assets/WebBannerExlLive-July16-2026.png">
     </a>

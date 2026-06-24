@@ -21,3 +21,5 @@ You'll learn how to:
 - See new designs and features that surface the ROI you are driving within your program based on your key business goals
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492605/?learn=on&enablevpops)
+
+Visit the product documentation for more informaton on [Adobe Target MCP server](https://experienceleague.adobe.com/en/docs/target/using/mcp/target-mcp).
