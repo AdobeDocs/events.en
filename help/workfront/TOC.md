@@ -22,6 +22,7 @@ solution: Workfront
     + [Automating Branded PDFs with Workfront Fusion](workshop-rewind/fusion/automating-branded-pdfs.md)
     + [Automating Naming Conventions](workshop-rewind/fusion/automating-naming-conventions.md)
     + [Automate Work Processes](workshop-rewind/fusion/automate-work-processes.md)
+    + [Basic Workfront APIs](workshop-rewind/fusion/basic-workfront-apis.md)
     + [Fusion Benefits & Best Practices](workshop-rewind/fusion/benefits-best-practices.md)
     + [Data Imports](workshop-rewind/fusion/data-imports.md)
     + [Fusion Benefits and Use Cases](workshop-rewind/fusion/case-for-fusion.md)
