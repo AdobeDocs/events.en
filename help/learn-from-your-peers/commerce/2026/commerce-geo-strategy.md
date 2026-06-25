@@ -1,6 +1,6 @@
 ---
 title: Adobe Commerce GEO strategy – LLM optimization across D2C experiences
-description: Discover how to enhance Adobe Commerce GEO strategy with LLM optimization for improved AI-driven discoverability and global e-commerce success.
+description: Discover how to enhance Adobe Commerce GEO strategy with LLM optimization for improved AI driven discoverability and global e-commerce success.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
