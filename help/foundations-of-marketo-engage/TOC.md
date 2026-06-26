@@ -9,6 +9,7 @@ solution: Marketo Engage
 
 + [Foundations of Marketo Engage Webinars](overview.md)
 + 2026 {#2026}
+  + [Announce a new product or feature](2026/new-product.md)
   + [Deploy a Monthly Newsletter](2026/monthly-newsletter.md)
   + [Fundamentals of Marketo Engage](2026/fundamentals.md)
 + 2025 {#2025}
