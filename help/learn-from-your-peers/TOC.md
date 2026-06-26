@@ -29,6 +29,7 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
     + [Communication, Requirements, and Testing in Agile SDLC](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
   + 2026 {#2026}
+    + [Getting AI Right in AEM & EDS](experience-manager/2026/ai-aem-eds.md)
     + [Scaling Omnichannel Experiences with Dynamic Media](experience-manager/2026/omnichannel-dynamic-media.md)
   + 2025 {#2025}
     + [Metadata Mayhem to Mastery](experience-manager/2025/metadata-mayhem.md)
