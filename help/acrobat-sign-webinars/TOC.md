@@ -9,14 +9,16 @@ solution: Document Cloud
 
 + [Overview](overview.md)
 + Release webinars {#releases}
-  + [February 2026](skill-builders/acrobat-sign-february-2026-release.md)
-  + [October 2025](skill-builders/acrobat-sign-october-2025-release.md)
-  + [July 2025](skill-builders/acrobat-july-release.md)
+  + [June 2026](./skill-builders/acrobat-sign-may-june-2026-release.md) 
+  + [February 2026](./skill-builders/acrobat-sign-february-2026-release.md)
+  + [October 2025](./skill-builders/acrobat-sign-october-2025-release.md)
+  + [July 2025](./skill-builders/acrobat-july-release.md)
 + Innovation - New Feature Highlights {#newfeatures}
   + [Configure for Healthcare, Life Science & FDA Regulations](./skill-builders/regulated-best-practices.md)
   + [Getting started with Custom Workflows](./skill-builders/custom-workflows.md)
   + [Identity Verification and Security](./skill-builders/identity-verification-security.md)
   + [Optimize Mobile E-Signing](./skill-builders/mobile-e-signing.md)
+  + [Trusted Digital Transactions with Acrobat Sign and OneID](./skill-builders/trusted-digital-transactions.md)
   + [Web Forms](./skill-builders/web-forms.md)
 + 101 - Get Started for Users {#getstartedusers}
   + [Acrobat Sign 101](./skill-builders/getting-started.md)
