@@ -14,9 +14,9 @@ jira: KT-21775
 
 Explore the latest innovations in Adobe Acrobat Sign designed to improve workflow efficiency and enhance agreement security. This release includes key features such as:
 
-- **Bulk Digital Signatures**: Save time by signing multiple agreements simultaneously using digital signatures, reducing repetitive authentication steps.
-- **In-Person Signing**: Enable seamless document signing for individuals without email access or internet connectivity.
-- **Enhanced Agreement Management**: Quick actions from the updated homepage, improved reporting options, and advanced security settings.
+- **Bulk Digital Signatures** Save time by signing multiple agreements simultaneously using digital signatures, reducing repetitive authentication steps.
+- **In-Person Signing** Enable seamless document signing for individuals without email access or internet connectivity.
+- **Enhanced Agreement Management** Quick actions from the updated homepage, improved reporting options, and advanced security settings.
 
 These updates aim to streamline document processes, improve user experience, and ensure compliance across various industries. For a detailed walkthrough of these features, watch the video.
 
