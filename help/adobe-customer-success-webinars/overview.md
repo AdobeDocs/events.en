@@ -6,8 +6,6 @@ duration: 42
 ---
 # Adobe Customer Success Webinars {#adobe-customer-success-webinars}
 
-Events test Bob
-
 Adobe Customer Success-led webinars designed to empower you in optimizing your investment in Adobe's Experience Cloud. Gain valuable insights to maximize the value and increase the adoption of Adobe solutions.
 
 ## 2026 sessions
