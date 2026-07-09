@@ -10,6 +10,7 @@ solution: Workfront
 + [Workfront On-demand Workshops](overview.md)
 
 + Release Webinars {#releases}
+  + [Third Quarter 2026 Release Webinar](releases/26-q3-release-webinar.md)
   + [Second Quarter 2026 Release Webinar](releases/26-q2-release-webinar.md)
   + [First Quarter 2026 Release Webinar](releases/26-q1-release-webinar.md)
   + [Fourth Quarter 2025 Release Webinar](releases/25-q4-release-webinar.md)
